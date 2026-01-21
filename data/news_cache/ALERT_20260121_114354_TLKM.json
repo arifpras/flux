@@ -1,0 +1,205 @@
+{
+  "stock": "TLKM",
+  "score": -0.6,
+  "category": "CRITICAL",
+  "articles_found": 108,
+  "critical_count": 5,
+  "negative_count": 0,
+  "recommendation": "🔴 IMMEDIATE EXIT - 5 critical alerts",
+  "critical_articles": [
+    {
+      "source": "google_news",
+      "title": "Grup Slank Sumbangkan Hasil Konser di Bali untuk Korban Bencana Sumatera - Sinar Harapan - Sinar Harapan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0hOOEhIbnVROTZKNEp6OF94SzJqM1FWbjlKcjRqbXJxc1VmeWUzamRWbzFzaVNmNW4wX1hYemloRkNYZ2pUeEVqcGdyR3BqRXZDR25rLVVENWl2UWdCaU5ISEpfQTJzSGZTbUlteF8yd1pzZk5RVW1abzJ1WXUzdkJpdVdad1prMWdRLThsVmtaSHlCRW56Vy00ang3dHoxUEp6aDUtb01IbURQWFpURnNxTHplU2dHcFFxZzRiONIBxAFBVV95cUxNcjJoeFBVbmk0V1hTTWhodTFVTS14Tk81NjhOSklNdHJfa1p2SzFjNEpSVS1qTFBCT2xSdnFvY19yME16dlFhUDhIbmhKcVQ3eXRjbkcxZVFnc09vOWVKUFM2US1mLXo2YkczbmIzcDFrNWdiLVpmZ211d3V2WlBTalVCRmlSYkxlZzI0VHg5ajFRaVBuR1VKemlaVklFaDFmNmMyYURBQmVoQVdwWmJzUExVakxtbnllOE16SU9pMG5xeV83?oc=5\" target=\"_blank\">Grup Slank Sumbangkan Hasil Konser di Bali untuk Korban Bencana Sumatera - Sinar Harapan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinar Harapan</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0hOOEhIbnVROTZKNEp6OF94SzJqM1FWbjlKcjRqbXJxc1VmeWUzamRWbzFzaVNmNW4wX1hYemloRkNYZ2pUeEVqcGdyR3BqRXZDR25rLVVENWl2UWdCaU5ISEpfQTJzSGZTbUlteF8yd1pzZk5RVW1abzJ1WXUzdkJpdVdad1prMWdRLThsVmtaSHlCRW56Vy00ang3dHoxUEp6aDUtb01IbURQWFpURnNxTHplU2dHcFFxZzRiONIBxAFBVV95cUxNcjJoeFBVbmk0V1hTTWhodTFVTS14Tk81NjhOSklNdHJfa1p2SzFjNEpSVS1qTFBCT2xSdnFvY19yME16dlFhUDhIbmhKcVQ3eXRjbkcxZVFnc09vOWVKUFM2US1mLXo2YkczbmIzcDFrNWdiLVpmZ211d3V2WlBTalVCRmlSYkxlZzI0VHg5ajFRaVBuR1VKemlaVklFaDFmNmMyYURBQmVoQVdwWmJzUExVakxtbnllOE16SU9pMG5xeV83?oc=5",
+      "published": "Mon, 19 Jan 2026 05:39:08 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'bencana'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Indeks Bisnis-27 Ditutup di Zona Hijau, Saham ASII dan DSNG Jadi Penggerak - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnNDRE1vdGd5RHk5NnVLNndPSENmZnEyeG03S1NaR1RSTGVOOUdaU18zNERkVE9pYVJLMVEzRE5hQXJpLVBtQl9RV2RqNDh2SW5MTnNWQVZYN1BCQ0dTQ0Q2Sl9qWmNzS0dOS3JobHJnV0ZsNGh1OGtwOHc0MUw3MWdOVjRqWlBMYW5HRTRndDdtaTk4bFNsZ0VqOVFtTzBVY0Y5LVhCTi1zRGQ5Vm1BQ21qWFJOZXdMRF8zNzgwMnk?oc=5\" target=\"_blank\">Indeks Bisnis-27 Ditutup di Zona Hijau, Saham ASII dan DSNG Jadi Penggerak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnNDRE1vdGd5RHk5NnVLNndPSENmZnEyeG03S1NaR1RSTGVOOUdaU18zNERkVE9pYVJLMVEzRE5hQXJpLVBtQl9RV2RqNDh2SW5MTnNWQVZYN1BCQ0dTQ0Q2Sl9qWmNzS0dOS3JobHJnV0ZsNGh1OGtwOHc0MUw3MWdOVjRqWlBMYW5HRTRndDdtaTk4bFNsZ0VqOVFtTzBVY0Y5LVhCTi1zRGQ5Vm1BQ21qWFJOZXdMRF8zNzgwMnk?oc=5",
+      "published": "Mon, 19 Jan 2026 10:01:41 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Indeks Bisnis-27 Ditutup di Zona Hijau, Saham ASII dan DSNG Jadi Penggerak - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnNDRE1vdGd5RHk5NnVLNndPSENmZnEyeG03S1NaR1RSTGVOOUdaU18zNERkVE9pYVJLMVEzRE5hQXJpLVBtQl9RV2RqNDh2SW5MTnNWQVZYN1BCQ0dTQ0Q2Sl9qWmNzS0dOS3JobHJnV0ZsNGh1OGtwOHc0MUw3MWdOVjRqWlBMYW5HRTRndDdtaTk4bFNsZ0VqOVFtTzBVY0Y5LVhCTi1zRGQ5Vm1BQ21qWFJOZXdMRF8zNzgwMnk?oc=5\" target=\"_blank\">Indeks Bisnis-27 Ditutup di Zona Hijau, Saham ASII dan DSNG Jadi Penggerak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnNDRE1vdGd5RHk5NnVLNndPSENmZnEyeG03S1NaR1RSTGVOOUdaU18zNERkVE9pYVJLMVEzRE5hQXJpLVBtQl9RV2RqNDh2SW5MTnNWQVZYN1BCQ0dTQ0Q2Sl9qWmNzS0dOS3JobHJnV0ZsNGh1OGtwOHc0MUw3MWdOVjRqWlBMYW5HRTRndDdtaTk4bFNsZ0VqOVFtTzBVY0Y5LVhCTi1zRGQ5Vm1BQ21qWFJOZXdMRF8zNzgwMnk?oc=5",
+      "published": "Mon, 19 Jan 2026 10:01:41 GMT",
+      "query": "PT TLKM",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Telkomsel Lanjutkan Kebijakan Penyesuaian Biaya Berlangganan dan Pastikan Stabilitas Jaringan di Wilayah Terdampak Bencana Sumatera - Ntvnews.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNXy1yWU5uUHdaSWo2QmNheFRYYzlXYUZSLVRfdWYyX0plNVl1RUJzNWtvQ1MyTUVCbnBrU0p6UUM3WUJxcjR5Uk9KaU01SW5BQXVFdmZwSURXOVRCYjBQRnBFNzFhODNJNXNqOEl2eDN6N09aYVpVRWRvV1RqaWUtcVRWS1g2eUdad2RvWFllVzNVcEpGM3VkQjRGSVhZb0lYLVhFVWJvWFdqS0VQRkptLW02bWMzT2VvdlV6aUhINVFuQzNFN3lzMVZaUVp6eGFUYnFMeXp1S1lJdG9PUDFOcXFTOVpzMHpJdF9JQVFCM1NibXF0UXNDLTRZS1pjLU0?oc=5\" target=\"_blank\">Telkomsel Lanjutkan Kebijakan Penyesuaian Biaya Berlangganan dan Pastikan Stabilitas Jaringan di Wilayah Terdampak Bencana Sumatera</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ntvnews.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNXy1yWU5uUHdaSWo2QmNheFRYYzlXYUZSLVRfdWYyX0plNVl1RUJzNWtvQ1MyTUVCbnBrU0p6UUM3WUJxcjR5Uk9KaU01SW5BQXVFdmZwSURXOVRCYjBQRnBFNzFhODNJNXNqOEl2eDN6N09aYVpVRWRvV1RqaWUtcVRWS1g2eUdad2RvWFllVzNVcEpGM3VkQjRGSVhZb0lYLVhFVWJvWFdqS0VQRkptLW02bWMzT2VvdlV6aUhINVFuQzNFN3lzMVZaUVp6eGFUYnFMeXp1S1lJdG9PUDFOcXFTOVpzMHpJdF9JQVFCM1NibXF0UXNDLTRZS1pjLU0?oc=5",
+      "published": "Tue, 20 Jan 2026 03:14:00 GMT",
+      "query": "PT TLKM",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'bencana'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Di Tengah Bencana Sumatera, Telkomsel Sesuaikan Biaya Berlangganan-Fokus Jaga Stabilitas Jaringan - bengkulu.tribunnews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbjAyWTFIb1c3QWhyal9HcjQ2Y1haQm84bFVYdjFldFloUTE4SEMydklmZ3RxVzUwNGdfT3R3dlpicGtkdVFraVJvN1o0aG12MV9pbjFON09aT1BlR1B6dExJZGFNUnM2T1k5aExmM1VKY1VJcjlDVTRMalp6VDZsVVFKamNZZzJPdDc0TzQyNnRyRF9acFJNRURuNkZZS1ktM2tzY1liNmNVbHl4WThrUDNUcEU0TjVZUFo1ZDRWbnRTNVpNa21LbVhZeVFSUXBZQkFQLWE1Uy0?oc=5\" target=\"_blank\">Di Tengah Bencana Sumatera, Telkomsel Sesuaikan Biaya Berlangganan-Fokus Jaga Stabilitas Jaringan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bengkulu.tribunnews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbjAyWTFIb1c3QWhyal9HcjQ2Y1haQm84bFVYdjFldFloUTE4SEMydklmZ3RxVzUwNGdfT3R3dlpicGtkdVFraVJvN1o0aG12MV9pbjFON09aT1BlR1B6dExJZGFNUnM2T1k5aExmM1VKY1VJcjlDVTRMalp6VDZsVVFKamNZZzJPdDc0TzQyNnRyRF9acFJNRURuNkZZS1ktM2tzY1liNmNVbHl4WThrUDNUcEU0TjVZUFo1ZDRWbnRTNVpNa21LbVhZeVFSUXBZQkFQLWE1Uy0?oc=5",
+      "published": "Mon, 19 Jan 2026 08:43:36 GMT",
+      "query": "PT TLKM",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'bencana'"
+      ]
+    }
+  ],
+  "all_articles": [
+    {
+      "source": "google_news",
+      "title": "Saham UNTR, ASII, hingga ADMR Tekan Indeks Bisnis-27 ke Zona Merah - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVJCNGl5UFM5WGJTV0tVSFlCMEdJN05uVU1YSzJtUG9FOWxvdnFHVmYydGRILVlGWE1qc01jVVhGaHVueWNqZmJsVDZkUTV4U1NRTXZpQ2prbnA5Z2RTdUgwYTVISHFGZEVKTkQxWV9tMkpHS1hDRTVadW9yWHJGWTNSMjZ6NWVkUEh5aWxzc0xQUVVSckNESnRqbDJNSWpFczFlcDlLMGpyTy1oaUk2dUVXWjI?oc=5\" target=\"_blank\">Saham UNTR, ASII, hingga ADMR Tekan Indeks Bisnis-27 ke Zona Merah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVJCNGl5UFM5WGJTV0tVSFlCMEdJN05uVU1YSzJtUG9FOWxvdnFHVmYydGRILVlGWE1qc01jVVhGaHVueWNqZmJsVDZkUTV4U1NRTXZpQ2prbnA5Z2RTdUgwYTVISHFGZEVKTkQxWV9tMkpHS1hDRTVadW9yWHJGWTNSMjZ6NWVkUEh5aWxzc0xQUVVSckNESnRqbDJNSWpFczFlcDlLMGpyTy1oaUk2dUVXWjI?oc=5",
+      "published": "Wed, 21 Jan 2026 02:37:17 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG dibuka menguat sentuh 9.155, saham DCII, BRPT, hingga BUMI melaju - MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZE11QWFDUWc1LVpWME03dk95OEVJa0RtZUxMem01ZWJsZm5heUN1TjVZWDd1SUxaM3dZaUFRTmtNZHk0dEZFank2SzhiZGpCX3FXZWZJQWp4LTJZUmQwUEc2LU9iaXZ6a0QyZ1ZTUXM3cGMzamk0aW15SzRYalV0WG5hcmYxd0lCZFcyMlFqU19nVGo1QXk4MlBLTElZbjB5dGRwMGxsS2p2T0MyRHI1THlPeUJ4R2Zi?oc=5\" target=\"_blank\">IHSG dibuka menguat sentuh 9.155, saham DCII, BRPT, hingga BUMI melaju</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZE11QWFDUWc1LVpWME03dk95OEVJa0RtZUxMem01ZWJsZm5heUN1TjVZWDd1SUxaM3dZaUFRTmtNZHk0dEZFank2SzhiZGpCX3FXZWZJQWp4LTJZUmQwUEc2LU9iaXZ6a0QyZ1ZTUXM3cGMzamk0aW15SzRYalV0WG5hcmYxd0lCZFcyMlFqU19nVGo1QXk4MlBLTElZbjB5dGRwMGxsS2p2T0MyRHI1THlPeUJ4R2Zi?oc=5",
+      "published": "Tue, 20 Jan 2026 20:57:44 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'menguat'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Intip 6 Rekomendasi Saham Buat Trading Hari Ini - MetroTVNews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGFrTUh5a2drdnRxV0lUdlNZV3lIRWZnRkk4NmhnV3lBSENzeGlvMXNaaFNnTUZ1MldIQ1RybEEyZUx6eXZvMWUwdE4wZERuTWU4c3JpRlE5Q2w1el9QTGgtZEh3THJBal96R2k0eVZpX2hMS1VkbzBTaUFwOHJfZ1lLeE5ZdVozMWxzV1NsTkdMVEk?oc=5\" target=\"_blank\">Intip 6 Rekomendasi Saham Buat Trading Hari Ini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MetroTVNews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGFrTUh5a2drdnRxV0lUdlNZV3lIRWZnRkk4NmhnV3lBSENzeGlvMXNaaFNnTUZ1MldIQ1RybEEyZUx6eXZvMWUwdE4wZERuTWU4c3JpRlE5Q2w1el9QTGgtZEh3THJBal96R2k0eVZpX2hMS1VkbzBTaUFwOHJfZ1lLeE5ZdVozMWxzV1NsTkdMVEk?oc=5",
+      "published": "Tue, 20 Jan 2026 03:13:15 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Asing Lancarkan Aksi Jual saat IHSG Rekor, 5 Saham Kena - investor.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXNZQ21rYnBZcFpIdi1yeHZMbVdMR2puR3R2SGg0eXYzQ3V1YXBhTF9CYWVSMmVvdTBVYjlNMVg3MmxqV0RhZDZQQ29ZWUpNMTZ2NVhJNTU3bVhTbGh3WERNNkRlc3V2bEczMVBLTnFiUk8tXy1vbUNLaklZVjVTTGpXS1ZjMlU5V0ktQ3IxZjE4QQ?oc=5\" target=\"_blank\">Asing Lancarkan Aksi Jual saat IHSG Rekor, 5 Saham Kena</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investor.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXNZQ21rYnBZcFpIdi1yeHZMbVdMR2puR3R2SGg0eXYzQ3V1YXBhTF9CYWVSMmVvdTBVYjlNMVg3MmxqV0RhZDZQQ29ZWUpNMTZ2NVhJNTU3bVhTbGh3WERNNkRlc3V2bEczMVBLTnFiUk8tXy1vbUNLaklZVjVTTGpXS1ZjMlU5V0ktQ3IxZjE4QQ?oc=5",
+      "published": "Mon, 19 Jan 2026 13:12:31 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Cetak Rekor, Asing Malah Ramai-ramai Lego 10 Saham Ini - CNBC Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUE5TUjQ3Y2s2QXNaczI4cThqVlhaaExhOVJVNUR1UDIzaVZKTTBVSVA1TjlsdmgwalJ0dzNTWGZ6WmE2Z1Q3VGhhbGRPMUtCTHlLaTE3TVRDVmU5SHJMOHNKR3Z0ZnUza1c5cXY1MjZyOEttaXlDU0pKVGVoYzFZVjgwN19oekdNUWNKa2hzalJwOWV2MVZETjZhWEU5U3ByVHFuYVprZ3RiTHpyR0E1bTFRUF9uSzU0YVFRbNIBwgFBVV95cUxQbGMzOEtsNnp1d3ptd21IcEpxXzk4Z1ZENTRia3FJOTdZSWxldTVaS1hlUjd4N1hncFJNdXVKc3lhcGFvN2xZWW1IQlBmUFA5TEpGdzEtcldZdFU0SU1ieFlHYWUxVmVfcDRlTDJadW5YRHhBY09Sa1hQcTN2azlSajNmWnA1Wk5KTFlkQnlzQzhQZ3hZSUJxRFBNaElHR21ZWVdKa1ZhNFlwQ0E1TjdsV3BKalh0d3Azd1o1QUZfdGFDQQ?oc=5\" target=\"_blank\">IHSG Cetak Rekor, Asing Malah Ramai-ramai Lego 10 Saham Ini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUE5TUjQ3Y2s2QXNaczI4cThqVlhaaExhOVJVNUR1UDIzaVZKTTBVSVA1TjlsdmgwalJ0dzNTWGZ6WmE2Z1Q3VGhhbGRPMUtCTHlLaTE3TVRDVmU5SHJMOHNKR3Z0ZnUza1c5cXY1MjZyOEttaXlDU0pKVGVoYzFZVjgwN19oekdNUWNKa2hzalJwOWV2MVZETjZhWEU5U3ByVHFuYVprZ3RiTHpyR0E1bTFRUF9uSzU0YVFRbNIBwgFBVV95cUxQbGMzOEtsNnp1d3ptd21IcEpxXzk4Z1ZENTRia3FJOTdZSWxldTVaS1hlUjd4N1hncFJNdXVKc3lhcGFvN2xZWW1IQlBmUFA5TEpGdzEtcldZdFU0SU1ieFlHYWUxVmVfcDRlTDJadW5YRHhBY09Sa1hQcTN2azlSajNmWnA1Wk5KTFlkQnlzQzhQZ3hZSUJxRFBNaElHR21ZWVdKa1ZhNFlwQ0E1TjdsV3BKalh0d3Azd1o1QUZfdGFDQQ?oc=5",
+      "published": "Tue, 20 Jan 2026 01:15:19 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Dibuka Menguat, Begini Rekomendasi Saham ENRG, MEDC, BULL, CBDK, DOOH - kontan.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQklyQ0FPSUhwTFJhcWlpalpOOUt0YXJMMG5fTGFsUllCY21xOGtIOGZnS0JIbm1DaFhkLTB1UzRMNEFHMXIxNURYYWdacFkzdWtYcC04cndNbTR1MmUtSHl2S3dUaXN5V1FUal9oSVNNNHBzMWtvN1o1M1VoSUNWYlB2SnVlRjA2WTR0SVIzT2ZhUWNwWWJ1RklBdVY0VVNVakpHQWVyYlnSAaABQVVfeXFMTjFqNlAwQzRPMVdZdzNObWR5ektZTHJ2WFBWbFpEdGZSa0F2MkFUakNfZWF3U3BMYnVxMFNxYURVNVp4UkoxanhsU0tHNXJZdVdNV2htazhpOERhVjc3NWNnckUwZVdzQWZCSW11ZGtmM3didWYtM0pMSlVucy1pQ1l1Vml4US1GcFRQekRuU3dlRG16ZGJlRzVFU2NBam1jYQ?oc=5\" target=\"_blank\">IHSG Dibuka Menguat, Begini Rekomendasi Saham ENRG, MEDC, BULL, CBDK, DOOH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kontan.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQklyQ0FPSUhwTFJhcWlpalpOOUt0YXJMMG5fTGFsUllCY21xOGtIOGZnS0JIbm1DaFhkLTB1UzRMNEFHMXIxNURYYWdacFkzdWtYcC04cndNbTR1MmUtSHl2S3dUaXN5V1FUal9oSVNNNHBzMWtvN1o1M1VoSUNWYlB2SnVlRjA2WTR0SVIzT2ZhUWNwWWJ1RklBdVY0VVNVakpHQWVyYlnSAaABQVVfeXFMTjFqNlAwQzRPMVdZdzNObWR5ektZTHJ2WFBWbFpEdGZSa0F2MkFUakNfZWF3U3BMYnVxMFNxYURVNVp4UkoxanhsU0tHNXJZdVdNV2htazhpOERhVjc3NWNnckUwZVdzQWZCSW11ZGtmM3didWYtM0pMSlVucy1pQ1l1Vml4US1GcFRQekRuU3dlRG16ZGJlRzVFU2NBam1jYQ?oc=5",
+      "published": "Tue, 20 Jan 2026 02:17:50 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'menguat'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "5 Saham Berpotensi Alami Pergerakan Harga Signifikan pada 20 Januari 2026 - mitrapost.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE53eTRuSlpZRjlWOGNfcVNGVjh1MlBYbm1McUNUbmVXdHA0dFpvbWdNV1RMQW1lVHZXb2g5RlB3ckU5Q0pNV0hWbzFta05BZjI5ZGdPdzMtUWEtdTdQejhaR3lkMEMyU09Yc1FIdk02eE1kRTZnNTFB?oc=5\" target=\"_blank\">5 Saham Berpotensi Alami Pergerakan Harga Signifikan pada 20 Januari 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mitrapost.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53eTRuSlpZRjlWOGNfcVNGVjh1MlBYbm1McUNUbmVXdHA0dFpvbWdNV1RMQW1lVHZXb2g5RlB3ckU5Q0pNV0hWbzFta05BZjI5ZGdPdzMtUWEtdTdQejhaR3lkMEMyU09Yc1FIdk02eE1kRTZnNTFB?oc=5",
+      "published": "Mon, 19 Jan 2026 09:58:54 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Grup Slank Sumbangkan Hasil Konser di Bali untuk Korban Bencana Sumatera - Sinar Harapan - Sinar Harapan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0hOOEhIbnVROTZKNEp6OF94SzJqM1FWbjlKcjRqbXJxc1VmeWUzamRWbzFzaVNmNW4wX1hYemloRkNYZ2pUeEVqcGdyR3BqRXZDR25rLVVENWl2UWdCaU5ISEpfQTJzSGZTbUlteF8yd1pzZk5RVW1abzJ1WXUzdkJpdVdad1prMWdRLThsVmtaSHlCRW56Vy00ang3dHoxUEp6aDUtb01IbURQWFpURnNxTHplU2dHcFFxZzRiONIBxAFBVV95cUxNcjJoeFBVbmk0V1hTTWhodTFVTS14Tk81NjhOSklNdHJfa1p2SzFjNEpSVS1qTFBCT2xSdnFvY19yME16dlFhUDhIbmhKcVQ3eXRjbkcxZVFnc09vOWVKUFM2US1mLXo2YkczbmIzcDFrNWdiLVpmZ211d3V2WlBTalVCRmlSYkxlZzI0VHg5ajFRaVBuR1VKemlaVklFaDFmNmMyYURBQmVoQVdwWmJzUExVakxtbnllOE16SU9pMG5xeV83?oc=5\" target=\"_blank\">Grup Slank Sumbangkan Hasil Konser di Bali untuk Korban Bencana Sumatera - Sinar Harapan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinar Harapan</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0hOOEhIbnVROTZKNEp6OF94SzJqM1FWbjlKcjRqbXJxc1VmeWUzamRWbzFzaVNmNW4wX1hYemloRkNYZ2pUeEVqcGdyR3BqRXZDR25rLVVENWl2UWdCaU5ISEpfQTJzSGZTbUlteF8yd1pzZk5RVW1abzJ1WXUzdkJpdVdad1prMWdRLThsVmtaSHlCRW56Vy00ang3dHoxUEp6aDUtb01IbURQWFpURnNxTHplU2dHcFFxZzRiONIBxAFBVV95cUxNcjJoeFBVbmk0V1hTTWhodTFVTS14Tk81NjhOSklNdHJfa1p2SzFjNEpSVS1qTFBCT2xSdnFvY19yME16dlFhUDhIbmhKcVQ3eXRjbkcxZVFnc09vOWVKUFM2US1mLXo2YkczbmIzcDFrNWdiLVpmZ211d3V2WlBTalVCRmlSYkxlZzI0VHg5ajFRaVBuR1VKemlaVklFaDFmNmMyYURBQmVoQVdwWmJzUExVakxtbnllOE16SU9pMG5xeV83?oc=5",
+      "published": "Mon, 19 Jan 2026 05:39:08 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'bencana'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Dana Asing Kabur, Saham-Saham Ini Banyak Dibuang - investor.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmJOODhwM3d6TlZsWlF4MXpXbjRLdUlXYUZ0NVhSMGVFUFpUUFByR3hFUzRqbFIwcHUyOEV2ZVl0eW92YU1NeGRBTEd2S1lkTV83MTdlZUlkWGtMQXRMTTY5OFl4UDJtVkFYaTBCbVpXSEN0NjNISkpuVUdBT1dLM3drWnpGdEk?oc=5\" target=\"_blank\">Dana Asing Kabur, Saham-Saham Ini Banyak Dibuang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investor.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmJOODhwM3d6TlZsWlF4MXpXbjRLdUlXYUZ0NVhSMGVFUFpUUFByR3hFUzRqbFIwcHUyOEV2ZVl0eW92YU1NeGRBTEd2S1lkTV83MTdlZUlkWGtMQXRMTTY5OFl4UDJtVkFYaTBCbVpXSEN0NjNISkpuVUdBT1dLM3drWnpGdEk?oc=5",
+      "published": "Mon, 19 Jan 2026 23:40:00 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Melaju ke 9.155 pada Pembukaan Perdagangan 20 Januari 2026, Saham DCII dan BUMI Pimpin Penguatan Pasar - mureks.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0J0Vld3WW5ZMkxzYVRNdHFsdndiLUVWWVl6akp6bW5CYlhTRWQ1RzBaajIxZmloRnNvcWtreHJ3SXJtbXU0MXo3MTRnWEhoa0hDVEJjdzVUZ2tBQkk3dlpCaHphYXZQQlEyWG15aFlaTEF5Wkc4OVpxYURLM2hFR3dCcFlUalk4MXhWM3pwUjltcjhWR1Q1bWdLbEJlNXBQRFVMdF9aeVQ3MXdtaE8zTUlHLW51SzJiOWRVMVEwdnNJbGNzYVE?oc=5\" target=\"_blank\">IHSG Melaju ke 9.155 pada Pembukaan Perdagangan 20 Januari 2026, Saham DCII dan BUMI Pimpin Penguatan Pasar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mureks.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0J0Vld3WW5ZMkxzYVRNdHFsdndiLUVWWVl6akp6bW5CYlhTRWQ1RzBaajIxZmloRnNvcWtreHJ3SXJtbXU0MXo3MTRnWEhoa0hDVEJjdzVUZ2tBQkk3dlpCaHphYXZQQlEyWG15aFlaTEF5Wkc4OVpxYURLM2hFR3dCcFlUalk4MXhWM3pwUjltcjhWR1Q1bWdLbEJlNXBQRFVMdF9aeVQ3MXdtaE8zTUlHLW51SzJiOWRVMVEwdnNJbGNzYVE?oc=5",
+      "published": "Tue, 20 Jan 2026 02:26:31 GMT",
+      "query": "TLKM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    }
+  ],
+  "all_keywords": [
+    "🔴 OPERATIONAL_INDONESIAN: 'ditutup'",
+    "🟢 POSITIVE: 'rebound'",
+    "🟢 POSITIVE: 'menguat'",
+    "🟡 NEGATIVE: 'tertekan'",
+    "🟢 POSITIVE: 'naik'",
+    "🟡 NEGATIVE: 'lemah'",
+    "🔴 OPERATIONAL_INDONESIAN: 'bencana'",
+    "🟡 NEGATIVE: 'anjlok'"
+  ],
+  "timestamp": "2026-01-21T11:43:54.112547"
+}

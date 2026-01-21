@@ -1,0 +1,21 @@
+
+═══════════════════════════════════════════════════════════
+  DAILY NEWS SENTIMENT REPORT - 21 January 2026
+═══════════════════════════════════════════════════════════
+
+Stock  Score Category  Articles  Critical  Negative Status
+ ASII      0  NO_NEWS         0         0         0   🟢 OK
+ UNTR      0  NO_NEWS         0         0         0   🟢 OK
+
+LEGEND:
+🔴 EXIT    - Critical regulatory/operational risk detected
+🟡 WATCH   - Negative sentiment, monitor closely
+🟢 OK      - Neutral or positive sentiment
+
+ALERT THRESHOLD:
+- Critical Score: < -30 (immediate exit recommended)
+- Negative Score: -30 to -10 (reduce position)
+- Neutral Score: -10 to +10 (hold)
+- Positive Score: > +10 (monitor for entry)
+
+═══════════════════════════════════════════════════════════

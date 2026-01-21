@@ -1,0 +1,149 @@
+{
+  "stock": "ROCK",
+  "score": 3.0,
+  "category": "CRITICAL",
+  "articles_found": 54,
+  "critical_count": 1,
+  "negative_count": 0,
+  "recommendation": "🔴 IMMEDIATE EXIT - 1 critical alerts",
+  "critical_articles": [
+    {
+      "source": "google_news",
+      "title": "IHSG Ditutup di Zona Hijau Berkat Saham EMAS, ARA Bertebaran Dipimpin AWAN hingga RLCO - Investortrust.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRlRDeVFucTczbDFZcEFZWTFyQ05MVUhqSXFPMk1LVFRaa2w2NHUyT2JhX0x3bDhtaks4ZUxQZVFYV1lQUXMzcFRBbFNVZjBXNGxHU3F0M09lUWF6bTBDRE1QX3lxc1NWSmwxekV3NFh1MUNSTFlPRjY2aDRDdmRyUTBkMWNzeVhielVGX2NKbHVzLVVqM2FUV01TLW9Hcmt0SG1BUnBaVlNtd205bzVCbUpqcGg2cERSUC1zUVMtT2I?oc=5\" target=\"_blank\">IHSG Ditutup di Zona Hijau Berkat Saham EMAS, ARA Bertebaran Dipimpin AWAN hingga RLCO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investortrust.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRlRDeVFucTczbDFZcEFZWTFyQ05MVUhqSXFPMk1LVFRaa2w2NHUyT2JhX0x3bDhtaks4ZUxQZVFYV1lQUXMzcFRBbFNVZjBXNGxHU3F0M09lUWF6bTBDRE1QX3lxc1NWSmwxekV3NFh1MUNSTFlPRjY2aDRDdmRyUTBkMWNzeVhielVGX2NKbHVzLVVqM2FUV01TLW9Hcmt0SG1BUnBaVlNtd205bzVCbUpqcGg2cERSUC1zUVMtT2I?oc=5",
+      "published": "Tue, 20 Jan 2026 09:16:25 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'"
+      ]
+    }
+  ],
+  "all_articles": [
+    {
+      "source": "google_news",
+      "title": "Harga Saham Melonjak Tinggi, Bursa Pelototi ELIT dan BULL - CNBC Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWE0aDNXV1J2NWlRRU43SGpnOGdvOHVOU0pxajg0LWFGR3NRbmlIWVpJMWRsOHJEMFRrQXk1eGFVenZBUTVCbnFtYmxJTlhoWURRSWlSLWZpOUR0Vld4X3NpYkFhUWdtczRMQWRjaDVnREZra2gtRnVZSHVzLU1nQU55WVNZNWZnZ1J0azBsT192Q0pRak9UT0o1Y0pSMEJxMVBta1h4aVNwTkU1N3IzTzJZSW9qdTRRUFHSAb8BQVVfeXFMT3pGVklFQUVEQlI0R1NWRUJHdkItV2NJVE9Ca3pXV1NIdzlncmRpcWJTc1RBbHpidnZRa3VIMUQtRlk3TUJmQWk5ZVhGWDhxZjFiRFlnRkkxWTNMWENsRjF0ekE0SXllWV84VW5GQ3k2S0haYzVQNDY1ZUoyX2pyamZKQTBVdm9aeUVEYXJtLWI2elA4WV81dHhWUWFoTEF3RWRUTXJoYldmWl9CZVFVb1g2Qm5ETXRlSG04OG15eWs?oc=5\" target=\"_blank\">Harga Saham Melonjak Tinggi, Bursa Pelototi ELIT dan BULL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWE0aDNXV1J2NWlRRU43SGpnOGdvOHVOU0pxajg0LWFGR3NRbmlIWVpJMWRsOHJEMFRrQXk1eGFVenZBUTVCbnFtYmxJTlhoWURRSWlSLWZpOUR0Vld4X3NpYkFhUWdtczRMQWRjaDVnREZra2gtRnVZSHVzLU1nQU55WVNZNWZnZ1J0azBsT192Q0pRak9UT0o1Y0pSMEJxMVBta1h4aVNwTkU1N3IzTzJZSW9qdTRRUFHSAb8BQVVfeXFMT3pGVklFQUVEQlI0R1NWRUJHdkItV2NJVE9Ca3pXV1NIdzlncmRpcWJTc1RBbHpidnZRa3VIMUQtRlk3TUJmQWk5ZVhGWDhxZjFiRFlnRkkxWTNMWENsRjF0ekE0SXllWV84VW5GQ3k2S0haYzVQNDY1ZUoyX2pyamZKQTBVdm9aeUVEYXJtLWI2elA4WV81dHhWUWFoTEF3RWRUTXJoYldmWl9CZVFVb1g2Qm5ETXRlSG04OG15eWs?oc=5",
+      "published": "Wed, 21 Jan 2026 02:40:18 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'melonjak'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Ditutup di Zona Hijau Berkat Saham EMAS, ARA Bertebaran Dipimpin AWAN hingga RLCO - Investortrust.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRlRDeVFucTczbDFZcEFZWTFyQ05MVUhqSXFPMk1LVFRaa2w2NHUyT2JhX0x3bDhtaks4ZUxQZVFYV1lQUXMzcFRBbFNVZjBXNGxHU3F0M09lUWF6bTBDRE1QX3lxc1NWSmwxekV3NFh1MUNSTFlPRjY2aDRDdmRyUTBkMWNzeVhielVGX2NKbHVzLVVqM2FUV01TLW9Hcmt0SG1BUnBaVlNtd205bzVCbUpqcGg2cERSUC1zUVMtT2I?oc=5\" target=\"_blank\">IHSG Ditutup di Zona Hijau Berkat Saham EMAS, ARA Bertebaran Dipimpin AWAN hingga RLCO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investortrust.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRlRDeVFucTczbDFZcEFZWTFyQ05MVUhqSXFPMk1LVFRaa2w2NHUyT2JhX0x3bDhtaks4ZUxQZVFYV1lQUXMzcFRBbFNVZjBXNGxHU3F0M09lUWF6bTBDRE1QX3lxc1NWSmwxekV3NFh1MUNSTFlPRjY2aDRDdmRyUTBkMWNzeVhielVGX2NKbHVzLVVqM2FUV01TLW9Hcmt0SG1BUnBaVlNtd205bzVCbUpqcGg2cERSUC1zUVMtT2I?oc=5",
+      "published": "Tue, 20 Jan 2026 09:16:25 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "BEI suspensi 7 saham sekaligus hari ini (20/1), ada BELL, SINI hingga SPRE - MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUV92bUdVbG9JLVVWMUh5bThyRWNJbzBFd2p1RjZLeXZZWnBPdWRfTVEwZ2ctS0U0bUU1OHZxYWxiTS1DU0w0ZXdLRXItU29RVTBZanhycUMxME9TVDlQYkE0TExmdEVSRjFBVlU4cmZSV2xhbHVnem03bWdTajdiOFEzS3RtQXdibXJtOXcxbUJsZU9rclhhMkEtM00xaDlIX1V5dm91QzlSbGl0WDV3WXk0YlY2VHREczlheg?oc=5\" target=\"_blank\">BEI suspensi 7 saham sekaligus hari ini (20/1), ada BELL, SINI hingga SPRE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUV92bUdVbG9JLVVWMUh5bThyRWNJbzBFd2p1RjZLeXZZWnBPdWRfTVEwZ2ctS0U0bUU1OHZxYWxiTS1DU0w0ZXdLRXItU29RVTBZanhycUMxME9TVDlQYkE0TExmdEVSRjFBVlU4cmZSV2xhbHVnem03bWdTajdiOFEzS3RtQXdibXJtOXcxbUJsZU9rclhhMkEtM00xaDlIX1V5dm91QzlSbGl0WDV3WXk0YlY2VHREczlheg?oc=5",
+      "published": "Tue, 20 Jan 2026 20:50:08 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "BEI Hentikan Perdagangan SINI, ROCK, SPRE, BNBA, OASA, BELL, dan EURO - KabarBursa.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk9JZVdLUWdkUE1kWDJnblF0ZVJJUFE3YW93bi1KdUdNWjJZU1ktbEoxRXItS1NCTnJMU2xwcEFBaEpHZjZYa1hPRENRMFlMdHVuUXpKbU5Mem5tNWFDVEMyMnBHRzFITlladFlWQkNtQ1FmTURMOTFCeXk2YkJob3BTOGwzRER2YTdlaFBKR1ZhRTR6cWdzRFVCbHBteTl1UEh2ZkVuSlgxZw?oc=5\" target=\"_blank\">BEI Hentikan Perdagangan SINI, ROCK, SPRE, BNBA, OASA, BELL, dan EURO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KabarBursa.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk9JZVdLUWdkUE1kWDJnblF0ZVJJUFE3YW93bi1KdUdNWjJZU1ktbEoxRXItS1NCTnJMU2xwcEFBaEpHZjZYa1hPRENRMFlMdHVuUXpKbU5Mem5tNWFDVEMyMnBHRzFITlladFlWQkNtQ1FmTURMOTFCeXk2YkJob3BTOGwzRER2YTdlaFBKR1ZhRTR6cWdzRFVCbHBteTl1UEh2ZkVuSlgxZw?oc=5",
+      "published": "Tue, 20 Jan 2026 04:08:00 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "ARA Serempak, Bursa Pasung 7 Saham Ini! - Emitennews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1EcS1lUUJFTVJWWDRYLXA5dUVuRnRuZjdQdXI3T2VTY3RGOEZrWWx6dzVubnBpVHJVNjVZLVdsSUtSOXBOUk1CZGVoRjZ0OU5KbExnZmNGTmdSQXZuOUJsdldUMVdIZk5JTzVjNnE5TzJ5OGM?oc=5\" target=\"_blank\">ARA Serempak, Bursa Pasung 7 Saham Ini!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Emitennews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EcS1lUUJFTVJWWDRYLXA5dUVuRnRuZjdQdXI3T2VTY3RGOEZrWWx6dzVubnBpVHJVNjVZLVdsSUtSOXBOUk1CZGVoRjZ0OU5KbExnZmNGTmdSQXZuOUJsdldUMVdIZk5JTzVjNnE5TzJ5OGM?oc=5",
+      "published": "Tue, 20 Jan 2026 02:15:00 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Harga Naik Tajam, OASA dan 6 Saham Lain Kompak Disuspensi BEI - investor.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGFDTTc1LXNRT2JkRnA0MjFGQTcwaWxyTGg0OE1PamVqVGd6MlRyaXFpc01jTTRmZnUxMWVQaUFxeVdQQUR3ODUycWIxX0szWTJySURlZ1R6UnZXdEpWRjdnSm9HLUd1TVd1ek0tX3loM2dfV2tkbmtrc3NFT3pWZ1FXTlR3UGkwYVdZTFBnSk15UjRBX2FWN0xR?oc=5\" target=\"_blank\">Harga Naik Tajam, OASA dan 6 Saham Lain Kompak Disuspensi BEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investor.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGFDTTc1LXNRT2JkRnA0MjFGQTcwaWxyTGg0OE1PamVqVGd6MlRyaXFpc01jTTRmZnUxMWVQaUFxeVdQQUR3ODUycWIxX0szWTJySURlZ1R6UnZXdEpWRjdnSm9HLUd1TVd1ek0tX3loM2dfV2tkbmtrc3NFT3pWZ1FXTlR3UGkwYVdZTFBnSk15UjRBX2FWN0xR?oc=5",
+      "published": "Tue, 20 Jan 2026 00:50:00 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'naik'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "BEI Suspensi 7 Saham Sekaligus Hari Ini (20/1), Ada BELL, SINI hingga SPRE - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM3d4YW1fVmNsUERvNkoxXy1PWWZ2b2Q1aF9LT0VpMzFwT2tmdl9EZDlTSkFUdHRhQ1Y5Z3hFeVBJOTZGWktxZjV6LU5nTlpfYjZzcy1sMVhjanN2Zm4zWjNEeDB1allKX3R2Q1hnWVpyRVZQblZKa3JCM2QyWm1hMmY0UTZTMkkzbmgzNGE4dUU5ZXA4MjRDOExqZnkxQ2E2S0tqeDJzZ0duUWRMTVJBUF9aalFwdzg1ZHpV?oc=5\" target=\"_blank\">BEI Suspensi 7 Saham Sekaligus Hari Ini (20/1), Ada BELL, SINI hingga SPRE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM3d4YW1fVmNsUERvNkoxXy1PWWZ2b2Q1aF9LT0VpMzFwT2tmdl9EZDlTSkFUdHRhQ1Y5Z3hFeVBJOTZGWktxZjV6LU5nTlpfYjZzcy1sMVhjanN2Zm4zWjNEeDB1allKX3R2Q1hnWVpyRVZQblZKa3JCM2QyWm1hMmY0UTZTMkkzbmgzNGE4dUU5ZXA4MjRDOExqZnkxQ2E2S0tqeDJzZ0duUWRMTVJBUF9aalFwdzg1ZHpV?oc=5",
+      "published": "Tue, 20 Jan 2026 01:52:38 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "BELL hingga SINI, 7 Saham Ini Masuk Suspensi Bursa Oleh Warta Ekonomi - Investing.com Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeVRSMjF5YkR0Sl9Xc0FyaUFRSmNyd0ZUck1kMGw3UkRVSnYzSW1nX2FSXzcxbkxZaUZZSDFrTjRScktGM1RqUVltcXFYazJacm5YY1FpemRoSkZ4ZTE5ME9NbTF1TG95TnVwNjBQUWxfR0czNVJJMmVSSWlxemVYYVowNzRPcFRIOU5rNTFOREJzTkhtNmdXVWo5QnhoYy1heWl1eFM5bkhhMU5LTGx5aDltb2g4Qno1?oc=5\" target=\"_blank\">BELL hingga SINI, 7 Saham Ini Masuk Suspensi Bursa Oleh Warta Ekonomi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeVRSMjF5YkR0Sl9Xc0FyaUFRSmNyd0ZUck1kMGw3UkRVSnYzSW1nX2FSXzcxbkxZaUZZSDFrTjRScktGM1RqUVltcXFYazJacm5YY1FpemRoSkZ4ZTE5ME9NbTF1TG95TnVwNjBQUWxfR0czNVJJMmVSSWlxemVYYVowNzRPcFRIOU5rNTFOREJzTkhtNmdXVWo5QnhoYy1heWl1eFM5bkhhMU5LTGx5aDltb2g4Qno1?oc=5",
+      "published": "Tue, 20 Jan 2026 04:45:00 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Cetak Rekor Baru 9.133, ASII hingga ANTM Jadi Incaran - Herald ID",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTTQydHhiZUVJTGFwQ05UblJSWllrZmxwYXh1bTBvWFRuazFwXzRaMXZmendua3ZIQjFqUE9VZ3JGNWlpd2lzanJsYkh6UEluTWhPeGl3QnlSX1pfYUZtTW81SVJBbDZJTUVTYVVsYlNlSXZzcEV6bXkzNlBZZkszeGZUck93WC1VcHUtczc0NjLSAZYBQVVfeXFMTzQtSGQ1cER0QzFvNXdJWmxOOHdaMEtXWGgydHE1cHgwUXExMlVHWW8tZzFPa1VYQUF1TzdZYXphSDJXWEpZVUdSMDJrX0RPNWNmMGY0WlpweUhROHVwb0FmSm1WX2x3SFdGcmdZa3I5TWstTV9DMGJta2hZUllTOFdHbXU1Z1c4UW85WVY3TXZjTTNMMExB?oc=5\" target=\"_blank\">IHSG Cetak Rekor Baru 9.133, ASII hingga ANTM Jadi Incaran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herald ID</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTTQydHhiZUVJTGFwQ05UblJSWllrZmxwYXh1bTBvWFRuazFwXzRaMXZmendua3ZIQjFqUE9VZ3JGNWlpd2lzanJsYkh6UEluTWhPeGl3QnlSX1pfYUZtTW81SVJBbDZJTUVTYVVsYlNlSXZzcEV6bXkzNlBZZkszeGZUck93WC1VcHUtczc0NjLSAZYBQVVfeXFMTzQtSGQ1cER0QzFvNXdJWmxOOHdaMEtXWGgydHE1cHgwUXExMlVHWW8tZzFPa1VYQUF1TzdZYXphSDJXWEpZVUdSMDJrX0RPNWNmMGY0WlpweUhROHVwb0FmSm1WX2x3SFdGcmdZa3I5TWstTV9DMGJta2hZUllTOFdHbXU1Z1c4UW85WVY3TXZjTTNMMExB?oc=5",
+      "published": "Mon, 19 Jan 2026 09:31:00 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "6 Saham Kena Suspensi BEI Mulai 20 Januari, Termasuk Saham OASA - kaltarabisnis.co",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSm9xaWVfMjVIVDVEalNzd0JHZjM3TzRnNUI4X2k1U0ZaSHQyUnlCbkp2cVk4X0RuNjgzVjB1OGdrdF9YM1pvTkdmclJQTHJ4Ry1UQjhGYlMzcW90bmR3RldjWjVNd1dzbEE5czhZdU0wRmVzNjBpTlIyb1dBRVE1bEhNLVRyb25EX29uaDRYVXhnZlBWOVE?oc=5\" target=\"_blank\">6 Saham Kena Suspensi BEI Mulai 20 Januari, Termasuk Saham OASA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kaltarabisnis.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSm9xaWVfMjVIVDVEalNzd0JHZjM3TzRnNUI4X2k1U0ZaSHQyUnlCbkp2cVk4X0RuNjgzVjB1OGdrdF9YM1pvTkdmclJQTHJ4Ry1UQjhGYlMzcW90bmR3RldjWjVNd1dzbEE5czhZdU0wRmVzNjBpTlIyb1dBRVE1bEhNLVRyb25EX29uaDRYVXhnZlBWOVE?oc=5",
+      "published": "Tue, 20 Jan 2026 03:04:21 GMT",
+      "query": "ROCK saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    }
+  ],
+  "all_keywords": [
+    "🔴 OPERATIONAL_INDONESIAN: 'ditutup'",
+    "🟢 POSITIVE: 'naik'",
+    "🟢 POSITIVE: 'menguat'",
+    "🟢 POSITIVE: 'melonjak'"
+  ],
+  "timestamp": "2026-01-21T11:43:43.925052"
+}

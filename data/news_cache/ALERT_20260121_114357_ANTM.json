@@ -1,0 +1,178 @@
+{
+  "stock": "ANTM",
+  "score": 2.4,
+  "category": "CRITICAL",
+  "articles_found": 156,
+  "critical_count": 3,
+  "negative_count": 0,
+  "recommendation": "🔴 IMMEDIATE EXIT - 3 critical alerts",
+  "critical_articles": [
+    {
+      "source": "google_news",
+      "title": "IHSG Rajin Rekor saat Rupiah di Level Terendah, Analis Soroti Sentimen Ini - IDX Channel",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWpsUEdJd2xDRE9oN1plYVV4VWNESnZ1cVZzUFBubzhzZWl2bENEdzJyaU5IRnN3VFJZWlN3ak5Td2YtYVRNNjAxOXMzbXkzeEFsTlYzV2d2bTQzUnZqR19naUlRRjcxc2c5TUFmRXN4aEtMTy1ySk0wZWZpZ0pJZHZHZVBRaUhOOThCUDF3VEstR2l5a0RTWDBldlZWNkxGblhJcXJDb1dVdFZ3N3hGeDl6eEYwZzDSAbcBQVVfeXFMTW1qbFBHSXdsQ0RPaDdaZWFVeFVjREp2dXFWc1BQbm84c2VpdmxDRHcycmlOSEZzd1RSWVpTd2pOU3dmLWFUTTYwMTlzM215M3hBbE5WM1dndm00M1J2akdfZ2lJUUY3MXNnOU1BZkVzeGhLTE8tckpNMGVmaWdKSWR2R2VQUWlITjk4QlAxd1RLLUdpeWtEU1gwZXZWVjZMRm5YSXFyQ29XVXRWdzd4Rng5enhGMGcw?oc=5\" target=\"_blank\">IHSG Rajin Rekor saat Rupiah di Level Terendah, Analis Soroti Sentimen Ini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IDX Channel</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWpsUEdJd2xDRE9oN1plYVV4VWNESnZ1cVZzUFBubzhzZWl2bENEdzJyaU5IRnN3VFJZWlN3ak5Td2YtYVRNNjAxOXMzbXkzeEFsTlYzV2d2bTQzUnZqR19naUlRRjcxc2c5TUFmRXN4aEtMTy1ySk0wZWZpZ0pJZHZHZVBRaUhOOThCUDF3VEstR2l5a0RTWDBldlZWNkxGblhJcXJDb1dVdFZ3N3hGeDl6eEYwZzDSAbcBQVVfeXFMTW1qbFBHSXdsQ0RPaDdaZWFVeFVjREp2dXFWc1BQbm84c2VpdmxDRHcycmlOSEZzd1RSWVpTd2pOU3dmLWFUTTYwMTlzM215M3hBbE5WM1dndm00M1J2akdfZ2lJUUY3MXNnOU1BZkVzeGhLTE8tckpNMGVmaWdKSWR2R2VQUWlITjk4QlAxd1RLLUdpeWtEU1gwZXZWVjZMRm5YSXFyQ29XVXRWdzd4Rng5enhGMGcw?oc=5",
+      "published": "Tue, 20 Jan 2026 03:47:00 GMT",
+      "query": "ANTM bursa",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 CORPORATE_CRISIS: 'sued'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Kementerian ESDM Dalami Kecelakaan Tambang Emas Pongkor Antam, Jeffri Huawei: Awalnya Asap Lalu Kebakaran - mureks.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTJ5ZFduVFdIRXF4RmZSNFl5VGVYeEIzbjM2R0hsN2swUU9PUmx1b2lpODZTRUZyckVxZ3JXNWdMakhtbXQzanlLWVJiX2VHa0R0Q1ZzUEdqalQtbWxCX2xVZVJ2eTNyODdReS1jUjdmMlkxYTVlUEtUbEhWNTFYV1Vtc2JfNUc4aEtnWWRRaEU1d1QzUGViOFl4OWQ2Q3FwQzlfNk91Q3BPWGVXZmw1NzBxOG5Yc2ViSlkxdFp2Tll0UQ?oc=5\" target=\"_blank\">Kementerian ESDM Dalami Kecelakaan Tambang Emas Pongkor Antam, Jeffri Huawei: Awalnya Asap Lalu Kebakaran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mureks.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTJ5ZFduVFdIRXF4RmZSNFl5VGVYeEIzbjM2R0hsN2swUU9PUmx1b2lpODZTRUZyckVxZ3JXNWdMakhtbXQzanlLWVJiX2VHa0R0Q1ZzUEdqalQtbWxCX2xVZVJ2eTNyODdReS1jUjdmMlkxYTVlUEtUbEhWNTFYV1Vtc2JfNUc4aEtnWWRRaEU1d1QzUGViOFl4OWQ2Q3FwQzlfNk91Q3BPWGVXZmw1NzBxOG5Yc2ViSlkxdFp2Tll0UQ?oc=5",
+      "published": "Wed, 21 Jan 2026 02:37:18 GMT",
+      "query": "PT ANTM",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'kebakaran'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "ESDM Selidiki Unsur Pelanggaran Hukum dalam Insiden Tambang Emas Antam - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFN2Q1TFlRMHlPMGQtWi1pYWdpbVdBN1NQSElCTUhzOE54Y294YzRxWkZFdUJqM0JXSWl1d183TmZRTjB5SXoyNHpWdzY4X3FpblBMUGJFUHZta3FtdDJzSTNjSE1NQzV0dWVJVm1FbGJqNTVza3h1aWF4d2hIaGE5d2hMaThpQm5wUkRmeHBmTmlGTndIU2lmcHpEdHRTSzRiNTNjYXU3VnlBOUJ0b3NpYmlSUU96bDF0TzN2NA?oc=5\" target=\"_blank\">ESDM Selidiki Unsur Pelanggaran Hukum dalam Insiden Tambang Emas Antam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFN2Q1TFlRMHlPMGQtWi1pYWdpbVdBN1NQSElCTUhzOE54Y294YzRxWkZFdUJqM0JXSWl1d183TmZRTjB5SXoyNHpWdzY4X3FpblBMUGJFUHZta3FtdDJzSTNjSE1NQzV0dWVJVm1FbGJqNTVza3h1aWF4d2hIaGE5d2hMaThpQm5wUkRmeHBmTmlGTndIU2lmcHpEdHRTSzRiNTNjYXU3VnlBOUJ0b3NpYmlSUU96bDF0TzN2NA?oc=5",
+      "published": "Tue, 20 Jan 2026 10:31:26 GMT",
+      "query": "PT ANTM",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'pelanggaran'"
+      ]
+    }
+  ],
+  "all_articles": [
+    {
+      "source": "google_news",
+      "title": "Rekomendasi Saham Hari Ini: ANTM, BRMS, CLEO & SRTG, IHSG Berpotensi Konsolidasi - Bareksa.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOcDRTLUtqeGFvdUZVcm5YX0otODMweFFXT1JScm9lZ3VIb3Q1SmVObTlIZFlNS1dwdHh6ZV9hSzdQMW5DanRjV1ZmU25ZVExueHhwS2VRU2pTY05ETGxyMUtHUC1wTVBqdVVNMTZUeWk3U2lETnpIMzJ5Xzg5XzhSWk9BMkJLRkdtREJ6M2N1UjVOekZudVh5VnhzeUt1RkVpbnZmQ1lJQ2NrNWdyd3FOQlZtak9YVncwZ2s1aTcybzJBSFZJ?oc=5\" target=\"_blank\">Rekomendasi Saham Hari Ini: ANTM, BRMS, CLEO & SRTG, IHSG Berpotensi Konsolidasi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bareksa.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcDRTLUtqeGFvdUZVcm5YX0otODMweFFXT1JScm9lZ3VIb3Q1SmVObTlIZFlNS1dwdHh6ZV9hSzdQMW5DanRjV1ZmU25ZVExueHhwS2VRU2pTY05ETGxyMUtHUC1wTVBqdVVNMTZUeWk3U2lETnpIMzJ5Xzg5XzhSWk9BMkJLRkdtREJ6M2N1UjVOekZudVh5VnhzeUt1RkVpbnZmQ1lJQ2NrNWdyd3FOQlZtak9YVncwZ2s1aTcybzJBSFZJ?oc=5",
+      "published": "Wed, 21 Jan 2026 02:29:38 GMT",
+      "query": "ANTM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Prospek Emas Dongkrak Laba & Saham ANTM 2026 - KONTAN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQTm90WEZleVVLdEN5dDRDQ2gxZmRsVE9QM1hTbE5RMlFscXhlV3ZNenpxemtGZjZoY04wU0c2VTBRQmtKMmk2cW93TlJHSGU1OTQ5V19HdEhyXzNhWVk1UHZNR3p0Z2wxeDJKcGtDWkw2ZWVCcFI1MHlQZThmVkpiTjJ3?oc=5\" target=\"_blank\">Prospek Emas Dongkrak Laba & Saham ANTM 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KONTAN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTm90WEZleVVLdEN5dDRDQ2gxZmRsVE9QM1hTbE5RMlFscXhlV3ZNenpxemtGZjZoY04wU0c2VTBRQmtKMmk2cW93TlJHSGU1OTQ5V19HdEhyXzNhWVk1UHZNR3p0Z2wxeDJKcGtDWkw2ZWVCcFI1MHlQZThmVkpiTjJ3?oc=5",
+      "published": "Wed, 21 Jan 2026 03:00:33 GMT",
+      "query": "ANTM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Titik Puncak Saham Antam (ANTM) - investor.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZdW1xejZIRjFRTUdJMkUyd1NOa00ydVp1OHNqMlBLUmdkdlVpZTZZU2djQTh0WklRMHNPSkthOGFlbzk4cUsyaFVPY0I1MktoSzhaUkJIdjgydUZVYlhRZ2ZrWjlROHk5b1JLSjZvc18?oc=5\" target=\"_blank\">Titik Puncak Saham Antam (ANTM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investor.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZdW1xejZIRjFRTUdJMkUyd1NOa00ydVp1OHNqMlBLUmdkdlVpZTZZU2djQTh0WklRMHNPSkthOGFlbzk4cUsyaFVPY0I1MktoSzhaUkJIdjgydUZVYlhRZ2ZrWjlROHk5b1JLSjZvc18?oc=5",
+      "published": "Wed, 21 Jan 2026 01:15:06 GMT",
+      "query": "ANTM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Berbalik Turun pada Awal Perdagangan, Saham ANTM dan BRMS Hijau (21 Januari 2026) - DataIndonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQV3pHRTdacG9ocG1nV2ZEWmxqR0ZtWVhBWDFBMUNzcXJrZWg2WWhVVTJDT2NheFRsQXg5SmRDVmFUSnZSMERBTjBMenNUMVI3N3l2LVJXQjdzUFpkZEJ6LU45d2NkN3Awc2M1aG80eG5KYzd4R3l1bTZ6eTY5WUQzV2h5ZVRGblNMckpwTDdLZTlBc1JKZTVlQzUzcFUycU9EYlU2dE5LRjJQc3BfSTBSZHVOd0FfT3BZcnNRd21NZVR5ZVJpcGc?oc=5\" target=\"_blank\">IHSG Berbalik Turun pada Awal Perdagangan, Saham ANTM dan BRMS Hijau (21 Januari 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DataIndonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV3pHRTdacG9ocG1nV2ZEWmxqR0ZtWVhBWDFBMUNzcXJrZWg2WWhVVTJDT2NheFRsQXg5SmRDVmFUSnZSMERBTjBMenNUMVI3N3l2LVJXQjdzUFpkZEJ6LU45d2NkN3Awc2M1aG80eG5KYzd4R3l1bTZ6eTY5WUQzV2h5ZVRGblNMckpwTDdLZTlBc1JKZTVlQzUzcFUycU9EYlU2dE5LRjJQc3BfSTBSZHVOd0FfT3BZcnNRd21NZVR5ZVJpcGc?oc=5",
+      "published": "Wed, 21 Jan 2026 02:09:05 GMT",
+      "query": "ANTM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Harga Emas Antam (ANTM) Logam Mulia Rabu Naik Tajam, Emas DUnia (XAUUSD) Meroket! - Sinar Harapan - Sinar Harapan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnZDVXYzeWNZMUY4OVZSSEIzZzk0NC1Hbl9fcVlYSmtCYjFfYWlKMThJUk4xemN5cGdJdGM0NlMzV2w3LXBLUG1RZ213M0xKdUpqdDQ1akppUnFDY2hBWi1handKcTFtazdaYjcxX2ZzZDRYRGlQZEM2MnQwQjlaSVhONUl1RDRFZm5RSlI4MmJ6ME10VVZLUTRqTWJNckdrQmlrSXJEVFlQYWNpLTFJWkpvZGxmSDRoYTF6aHo3Q0FMUXptYl9rdHBR0gHPAUFVX3lxTFBsM3o1Qk96aEY4NGRGVnE3YUcwSWdLdG1nVHlodkZId2Q0VThISndpa3dpODJoUE9zaEV0V1dYX3lQN3VNbHJNWDBHM0IyVW5hNmxIOUxkYnlOdjNRbVltRkFicDA5V3dGS3EybGNHOWxreVJ6eTNkaUJfNEVYWENDckFtRHRFNXAwV3UwaUE5R1pZcmdFb3JGX3p2amxLZV96X1lZUldpRzZINUtKRGM5ZmwxTXI0QTduUm83eHF5bDY3RUI1LTdEczktZC1Qbw?oc=5\" target=\"_blank\">Harga Emas Antam (ANTM) Logam Mulia Rabu Naik Tajam, Emas DUnia (XAUUSD) Meroket! - Sinar Harapan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinar Harapan</font>",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnZDVXYzeWNZMUY4OVZSSEIzZzk0NC1Hbl9fcVlYSmtCYjFfYWlKMThJUk4xemN5cGdJdGM0NlMzV2w3LXBLUG1RZ213M0xKdUpqdDQ1akppUnFDY2hBWi1handKcTFtazdaYjcxX2ZzZDRYRGlQZEM2MnQwQjlaSVhONUl1RDRFZm5RSlI4MmJ6ME10VVZLUTRqTWJNckdrQmlrSXJEVFlQYWNpLTFJWkpvZGxmSDRoYTF6aHo3Q0FMUXptYl9rdHBR0gHPAUFVX3lxTFBsM3o1Qk96aEY4NGRGVnE3YUcwSWdLdG1nVHlodkZId2Q0VThISndpa3dpODJoUE9zaEV0V1dYX3lQN3VNbHJNWDBHM0IyVW5hNmxIOUxkYnlOdjNRbVltRkFicDA5V3dGS3EybGNHOWxreVJ6eTNkaUJfNEVYWENDckFtRHRFNXAwV3UwaUE5R1pZcmdFb3JGX3p2amxLZV96X1lZUldpRzZINUtKRGM5ZmwxTXI0QTduUm83eHF5bDY3RUI1LTdEczktZC1Qbw?oc=5",
+      "published": "Wed, 21 Jan 2026 01:59:52 GMT",
+      "query": "ANTM saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'naik'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Harga Saham PT Aneka Tambang Tbk (ANTM) Hari Ini, 21 January 2026 - FORTUNE Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXFXeGlSdDJWVDdUUTB3SnpTUWhSRTJoZG00clBFU3ltcjgzZ1M1LU0xYTFPbTRQYzFPT1UyUFk4MEMyMlhocUhkOEdxVS1MNDhTaTByQlJsWHZsWXY4cUhudUF4Y0Y1QVp3cHRia3dxdXRBRmJCQk9MZ0kwZjJfeGtubFl1bW9Db2VuaTZrSXVGR3otNE1fckxLdk1lbDdHdW92ZWdaVkhfX1FzZjkyWTJn0gG3AUFVX3lxTE05NkJvRnBDQVBBWU53SEFCV1dpV2w5c0dEZXllano1empYTGZXdHp1bEM0OXVOUDF5VUZCSGVVOEdLYnctSDRWc25GWFdRUmFGekhZZ29kZjU4aFRZd1NMM255WDZ1TjgyNFJTQk83cFh0WVFEYmdZM1JFVEVlSi1WQzh6dkFjcEZQWkQza2d5dmQ4YU9Cc0dIeG1vX0tLMG9yTGsxbE13bHJJbUFSUGdLVWtxSkJJYw?oc=5\" target=\"_blank\">Harga Saham PT Aneka Tambang Tbk (ANTM) Hari Ini, 21 January 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FORTUNE Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXFXeGlSdDJWVDdUUTB3SnpTUWhSRTJoZG00clBFU3ltcjgzZ1M1LU0xYTFPbTRQYzFPT1UyUFk4MEMyMlhocUhkOEdxVS1MNDhTaTByQlJsWHZsWXY4cUhudUF4Y0Y1QVp3cHRia3dxdXRBRmJCQk9MZ0kwZjJfeGtubFl1bW9Db2VuaTZrSXVGR3otNE1fckxLdk1lbDdHdW92ZWdaVkhfX1FzZjkyWTJn0gG3AUFVX3lxTE05NkJvRnBDQVBBWU53SEFCV1dpV2w5c0dEZXllano1empYTGZXdHp1bEM0OXVOUDF5VUZCSGVVOEdLYnctSDRWc25GWFdRUmFGekhZZ29kZjU4aFRZd1NMM255WDZ1TjgyNFJTQk83cFh0WVFEYmdZM1JFVEVlSi1WQzh6dkFjcEZQWkQza2d5dmQ4YU9Cc0dIeG1vX0tLMG9yTGsxbE13bHJJbUFSUGdLVWtxSkJJYw?oc=5",
+      "published": "Wed, 21 Jan 2026 02:50:00 GMT",
+      "query": "ANTM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Target Kinerja Keuangan dan Harga Saham ANTM Direvisi Naik, Ini Sejumlah Faktor Pendorong - Investortrust.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDF5QlA0bTV3OEs3N1VsVDU2cGZQcjdNdU5NekFKZE52OFJSTXdXLXhIdXozOFk1NWlLNlRON2tzYVhnX3BzV0x4dTJOMU9zYS1nQ0gya1ZicjJQWkVDby1ZbVNTYWtMQ3RVOXRIX29tVnZFN1MxbEFUOW9uVDk0cS1STzhpQUltWXg4c1pIZnZWQloyQ001Q3EwaG9oZzlQdWt0X3BLN0FhMWZORnhrT1R5ZERsR2FkclFYdG03VERiX3c5?oc=5\" target=\"_blank\">Target Kinerja Keuangan dan Harga Saham ANTM Direvisi Naik, Ini Sejumlah Faktor Pendorong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investortrust.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDF5QlA0bTV3OEs3N1VsVDU2cGZQcjdNdU5NekFKZE52OFJSTXdXLXhIdXozOFk1NWlLNlRON2tzYVhnX3BzV0x4dTJOMU9zYS1nQ0gya1ZicjJQWkVDby1ZbVNTYWtMQ3RVOXRIX29tVnZFN1MxbEFUOW9uVDk0cS1STzhpQUltWXg4c1pIZnZWQloyQ001Q3EwaG9oZzlQdWt0X3BLN0FhMWZORnhrT1R5ZERsR2FkclFYdG03VERiX3c5?oc=5",
+      "published": "Tue, 20 Jan 2026 00:05:58 GMT",
+      "query": "ANTM saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'naik'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Rekomendasi Saham Ajaib Sekuritas Hari Ini (ANTM, HRUM, KEEN) - Ajaib",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1zWkltU1FtT0NIbW1yOWozWV9ZTE1tMmUwQ3NLa3hMc2ZzMzNpTnhRTm11QmxRa21HZ0JNRzRsT0xJbkY2QzRkbEp0MTAwZ0JfYWVCY1Qza2NyVk9fOFNKdDg4NzRsVTRvT25pMmRqbjBsajZOb2c?oc=5\" target=\"_blank\">Rekomendasi Saham Ajaib Sekuritas Hari Ini (ANTM, HRUM, KEEN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ajaib</font>",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zWkltU1FtT0NIbW1yOWozWV9ZTE1tMmUwQ3NLa3hMc2ZzMzNpTnhRTm11QmxRa21HZ0JNRzRsT0xJbkY2QzRkbEp0MTAwZ0JfYWVCY1Qza2NyVk9fOFNKdDg4NzRsVTRvT25pMmRqbjBsajZOb2c?oc=5",
+      "published": "Tue, 20 Jan 2026 02:02:54 GMT",
+      "query": "ANTM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham ANTM-BRMS Cs Melesat usai Harga Emas Tembus Rekor USD4.700 - IDX Channel",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2hQazRNR0NBMVdPdVoxalJWQU9DSEhleHJ5UGxVeXI2VjJ5N2hsUGpsbmM5dmtNX0dQaUpaOU8wSUlNcER3RDN3LWNzdVlTMUFmZjhrVF93alVoZXBuQ19ZZnZOU1I3d1VtekM2UHBSX1QwMk5XVU90VWp2LWx1MmRRWm1CM1N1RURSSnNrMDJUUHZ1ckxHN1p3eEpENlFLWXk0S9IBqgFBVV95cUxOcGFJS0hiQXBxcGVWRnpHUUx5SHVxcEVCUl9BblJuMkJRQzVueGQzVkFMdktNYS1OVVNJWTVfS2dmUHgxR0dUTFdMclMweGdiNjB2U2ZGRFlndk1SQnNDR3gwWnNfbUtDS3FwY0plNlBDclRwOEd4ZXFJclVfeVJrTDlUWjFScDdLQmpQV1VmdXl6bzNHblRMRG13ckJsVVdFMmRiYlJQM0FGZw?oc=5\" target=\"_blank\">Saham ANTM-BRMS Cs Melesat usai Harga Emas Tembus Rekor USD4.700</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IDX Channel</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2hQazRNR0NBMVdPdVoxalJWQU9DSEhleHJ5UGxVeXI2VjJ5N2hsUGpsbmM5dmtNX0dQaUpaOU8wSUlNcER3RDN3LWNzdVlTMUFmZjhrVF93alVoZXBuQ19ZZnZOU1I3d1VtekM2UHBSX1QwMk5XVU90VWp2LWx1MmRRWm1CM1N1RURSSnNrMDJUUHZ1ckxHN1p3eEpENlFLWXk0S9IBqgFBVV95cUxOcGFJS0hiQXBxcGVWRnpHUUx5SHVxcEVCUl9BblJuMkJRQzVueGQzVkFMdktNYS1OVVNJWTVfS2dmUHgxR0dUTFdMclMweGdiNjB2U2ZGRFlndk1SQnNDR3gwWnNfbUtDS3FwY0plNlBDclRwOEd4ZXFJclVfeVJrTDlUWjFScDdLQmpQV1VmdXl6bzNHblRMRG13ckJsVVdFMmRiYlJQM0FGZw?oc=5",
+      "published": "Tue, 20 Jan 2026 09:31:00 GMT",
+      "query": "ANTM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Harga Emas Antam (ANTM) Lanjutkan ATH di Tengah Geopolitik Global - Investortrust.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1NyTUVBcklkM1E3Y0lGbUJMV2loU3JiNnhPU2d1SEhSeHppOEUzMzgzT0ZmRi1IVXRMekY0MWR6Q2dybTc2S2lPQXlDR0tlMG9IWE45VE1zbER4XzhqT05pblAyMEpKMEJHWFBpcVRHT1QzMzV0bjdWYnlwWkl4eV9QRTh3Y0JNbmZvcWZQcTJKdlNsMHNqX2x3UUxTRVNwM2lUNEJn?oc=5\" target=\"_blank\">Harga Emas Antam (ANTM) Lanjutkan ATH di Tengah Geopolitik Global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investortrust.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1NyTUVBcklkM1E3Y0lGbUJMV2loU3JiNnhPU2d1SEhSeHppOEUzMzgzT0ZmRi1IVXRMekY0MWR6Q2dybTc2S2lPQXlDR0tlMG9IWE45VE1zbER4XzhqT05pblAyMEpKMEJHWFBpcVRHT1QzMzV0bjdWYnlwWkl4eV9QRTh3Y0JNbmZvcWZQcTJKdlNsMHNqX2x3UUxTRVNwM2lUNEJn?oc=5",
+      "published": "Tue, 20 Jan 2026 03:21:12 GMT",
+      "query": "ANTM saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    }
+  ],
+  "all_keywords": [
+    "🔴 OPERATIONAL_INDONESIAN: 'kebakaran'",
+    "🟢 POSITIVE: 'melonjak'",
+    "🔴 CORPORATE_CRISIS: 'sued'",
+    "🟢 POSITIVE: 'buyback'",
+    "🔴 REGULATORY_INDONESIAN: 'pelanggaran'",
+    "🟢 POSITIVE: 'menguat'",
+    "🟡 NEGATIVE: 'ambruk'",
+    "🟢 POSITIVE: 'naik'",
+    "🟡 NEGATIVE: 'lemah'"
+  ],
+  "timestamp": "2026-01-21T11:43:57.280459"
+}

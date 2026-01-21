@@ -1,0 +1,160 @@
+{
+  "stock": "BBNI",
+  "score": 1.2,
+  "category": "CRITICAL",
+  "articles_found": 114,
+  "critical_count": 1,
+  "negative_count": 0,
+  "recommendation": "🔴 IMMEDIATE EXIT - 1 critical alerts",
+  "critical_articles": [
+    {
+      "source": "google_news",
+      "title": "Indeks Bisnis-27 Ditutup di Zona Hijau, Saham ASII dan DSNG Jadi Penggerak - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnNDRE1vdGd5RHk5NnVLNndPSENmZnEyeG03S1NaR1RSTGVOOUdaU18zNERkVE9pYVJLMVEzRE5hQXJpLVBtQl9RV2RqNDh2SW5MTnNWQVZYN1BCQ0dTQ0Q2Sl9qWmNzS0dOS3JobHJnV0ZsNGh1OGtwOHc0MUw3MWdOVjRqWlBMYW5HRTRndDdtaTk4bFNsZ0VqOVFtTzBVY0Y5LVhCTi1zRGQ5Vm1BQ21qWFJOZXdMRF8zNzgwMnk?oc=5\" target=\"_blank\">Indeks Bisnis-27 Ditutup di Zona Hijau, Saham ASII dan DSNG Jadi Penggerak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnNDRE1vdGd5RHk5NnVLNndPSENmZnEyeG03S1NaR1RSTGVOOUdaU18zNERkVE9pYVJLMVEzRE5hQXJpLVBtQl9RV2RqNDh2SW5MTnNWQVZYN1BCQ0dTQ0Q2Sl9qWmNzS0dOS3JobHJnV0ZsNGh1OGtwOHc0MUw3MWdOVjRqWlBMYW5HRTRndDdtaTk4bFNsZ0VqOVFtTzBVY0Y5LVhCTi1zRGQ5Vm1BQ21qWFJOZXdMRF8zNzgwMnk?oc=5",
+      "published": "Mon, 19 Jan 2026 10:01:41 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'"
+      ]
+    }
+  ],
+  "all_articles": [
+    {
+      "source": "google_news",
+      "title": "Minat Investor Asing Terbelah, Saham BBCA Rajin Dilepas, BBRI Justru Terus Diborong - KONTAN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNblBzeEpzSkw3TGxKLWhJYlQzMDN6YWNfc01RTjFoX2ZMUDQxcTVwODBYcmREcVJ5dlhyaVJpeWgwQU9tajUtZWU4LVVfY1Q3YkFRTVdOQlBGOF9FcFQ3UFBEdUxxNWlDVVBWZ2JqR1d4RmFEeWtrV1pSVjlTemZWY3NFVTJvaFBHZ1BxM3VrSVZOR21QSXFMaFRmRzlJQmlZWDNwY2lwNFNXbHkydEoyaFAxdzJiUQ?oc=5\" target=\"_blank\">Minat Investor Asing Terbelah, Saham BBCA Rajin Dilepas, BBRI Justru Terus Diborong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KONTAN</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblBzeEpzSkw3TGxKLWhJYlQzMDN6YWNfc01RTjFoX2ZMUDQxcTVwODBYcmREcVJ5dlhyaVJpeWgwQU9tajUtZWU4LVVfY1Q3YkFRTVdOQlBGOF9FcFQ3UFBEdUxxNWlDVVBWZ2JqR1d4RmFEeWtrV1pSVjlTemZWY3NFVTJvaFBHZ1BxM3VrSVZOR21QSXFMaFRmRzlJQmlZWDNwY2lwNFNXbHkydEoyaFAxdzJiUQ?oc=5",
+      "published": "Tue, 20 Jan 2026 23:41:54 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Harga Saham PT Bank Negara Indonesia (Persero) Tbk (BBNI) Hari Ini, 21 January 2026 - FORTUNE Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNelAwWlcxWEVoaXFQLUotdC16UUluaDZ1Q2UtTkRvVE1Zb1JwVHN0bXNzYTJYR0w4TDdyaWhSVWFTbVoxWURYeGhsNloteHI2YS1xOXFjYmpzOUdZVVlLcWh3Q08yUlloVkEzaU93RGhZZEhhZkxOMDNnNGdNbVFCMnh2eEJWTlp2bFNxSVhYeG15Q013OW56NmlZLUJCVUh5OUtZdXFJSkhPNkNIR2drTTc2bHF1ZGxYRVdMcXo3a2FSTU43ZVBV0gHMAUFVX3lxTFBDVTNNdVZIRW9JcVFrcnVjUi1iT3NiaXFxT0FOQkF1aHE1R1o3MVc2Y3VTcmljTVZmTkI5ZWc0akdBZ3F4ODE4aHRVdldrcVpXNFJLcE5VZmZwQ1habHJwMUNLUnkyU3Y1LTg1S29mdGFuZlFuZ3VBTGJJSjRBNnhkTzNVTllzcEMyMmQyMFptYW1pb1k4T0syTE9kY2hROHdlbThaYTBQZWVlcVhKRndfdHhVd1NDOXJKWTVTaVhpSHpKU2Vxay02T1U3LQ?oc=5\" target=\"_blank\">Harga Saham PT Bank Negara Indonesia (Persero) Tbk (BBNI) Hari Ini, 21 January 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FORTUNE Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelAwWlcxWEVoaXFQLUotdC16UUluaDZ1Q2UtTkRvVE1Zb1JwVHN0bXNzYTJYR0w4TDdyaWhSVWFTbVoxWURYeGhsNloteHI2YS1xOXFjYmpzOUdZVVlLcWh3Q08yUlloVkEzaU93RGhZZEhhZkxOMDNnNGdNbVFCMnh2eEJWTlp2bFNxSVhYeG15Q013OW56NmlZLUJCVUh5OUtZdXFJSkhPNkNIR2drTTc2bHF1ZGxYRVdMcXo3a2FSTU43ZVBV0gHMAUFVX3lxTFBDVTNNdVZIRW9JcVFrcnVjUi1iT3NiaXFxT0FOQkF1aHE1R1o3MVc2Y3VTcmljTVZmTkI5ZWc0akdBZ3F4ODE4aHRVdldrcVpXNFJLcE5VZmZwQ1habHJwMUNLUnkyU3Y1LTg1S29mdGFuZlFuZ3VBTGJJSjRBNnhkTzNVTllzcEMyMmQyMFptYW1pb1k4T0syTE9kY2hROHdlbThaYTBQZWVlcVhKRndfdHhVd1NDOXJKWTVTaVhpSHpKU2Vxay02T1U3LQ?oc=5",
+      "published": "Wed, 21 Jan 2026 02:55:00 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Simak Rekomendasi 6 Saham Pilihan dari BNI Sekuritas di Hari Ini (2/7), IHSG Melemah - MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxQN3hFelU4ZVdJbmgtdEZPVWY5ZUdOTllGU1llbWlJQU5KM2pEWjdVUlZoemVhSUVKVWl5S3hScGQ5LXN6ZnRlRVppTlpEOVMzUWxKbXZtS3hLemEzby00NWhadTU5cHRNQ24wSjdsYkR5SlgwLWRSYTB3S0hkZnAxWVBQS1d1VHJiQVpZbEoyUW9UYmxXVTZMVGl6dHNTTy1wVlFnY2JtcGROSGlvYy1uajA3SUlLTUtYbVVja09rWklzMC1zSHhzR214RGpaRGVFaGZUN1JGRktlNHVoMmxLUTdscEZRTkpLQ1djaEdEOHNvUHd3LXZHMTYyNTV3QndnMm1ZOE54WHZzRzlwWlBlNWZOd3FicGhuQXlVRERyd1BVXzlwdHl4enhiNHJRM1pKdHg5Q0lza2dEUm9sdWg3U2daVlpZcmU1RzZoTVFHTXNpQ3JITk5ZSDFyZ01LT3JVTzF5VV93QlhqQQ?oc=5\" target=\"_blank\">Simak Rekomendasi 6 Saham Pilihan dari BNI Sekuritas di Hari Ini (2/7), IHSG Melemah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQN3hFelU4ZVdJbmgtdEZPVWY5ZUdOTllGU1llbWlJQU5KM2pEWjdVUlZoemVhSUVKVWl5S3hScGQ5LXN6ZnRlRVppTlpEOVMzUWxKbXZtS3hLemEzby00NWhadTU5cHRNQ24wSjdsYkR5SlgwLWRSYTB3S0hkZnAxWVBQS1d1VHJiQVpZbEoyUW9UYmxXVTZMVGl6dHNTTy1wVlFnY2JtcGROSGlvYy1uajA3SUlLTUtYbVVja09rWklzMC1zSHhzR214RGpaRGVFaGZUN1JGRktlNHVoMmxLUTdscEZRTkpLQ1djaEdEOHNvUHd3LXZHMTYyNTV3QndnMm1ZOE54WHZzRzlwWlBlNWZOd3FicGhuQXlVRERyd1BVXzlwdHl4enhiNHJRM1pKdHg5Q0lza2dEUm9sdWg3U2daVlpZcmU1RzZoTVFHTXNpQ3JITk5ZSDFyZ01LT3JVTzF5VV93QlhqQQ?oc=5",
+      "published": "Tue, 20 Jan 2026 18:11:42 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": -10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟡 NEGATIVE: 'lemah'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham BNI Paling Tangguh Saat Bank Besar Tertekan - IDN Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaTJrb19XME83c3lVbE9mUnp0eHJ4LUF3NzlJcjN2RGRxZTY4ckllWVhYQXZ4SHNoZW5zWklzU09MRVlMMXh6cUkyMi0zeFFucjB4Ml9nYndQWFBhaDNkMmxWRjE1R1psR3RkOURIQ3B0cm1STWhDcjJuaGtfRXFLUktEc2VWY2Nua2ZWd3FEcXR3dW9jRW56Uno5RktiTDdKNEtTdWZMQ0lmZUnSAbABQVVfeXFMTUR6cmgtR3BoT29DLWt2OUtUS1FnbEllMkJGdDZ5b1paMEVrUVhLbkJ0VmYxOS1ua0ZlRVk2WkdqbHJEZDBxaEtFQkZ4RzNrUUlHbHZjZldEZjNmNm1NMkRlSGpiTXlub3lKNVJKd01pRUxJcDRvXzZ6MllaMGwtTlJCQzA3VHdzcVl5aDFqZ1k4NjdNRnZoWVpfZkVuRjFSQk5fTUotZElfcDcyNmlScjg?oc=5\" target=\"_blank\">Saham BNI Paling Tangguh Saat Bank Besar Tertekan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IDN Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaTJrb19XME83c3lVbE9mUnp0eHJ4LUF3NzlJcjN2RGRxZTY4ckllWVhYQXZ4SHNoZW5zWklzU09MRVlMMXh6cUkyMi0zeFFucjB4Ml9nYndQWFBhaDNkMmxWRjE1R1psR3RkOURIQ3B0cm1STWhDcjJuaGtfRXFLUktEc2VWY2Nua2ZWd3FEcXR3dW9jRW56Uno5RktiTDdKNEtTdWZMQ0lmZUnSAbABQVVfeXFMTUR6cmgtR3BoT29DLWt2OUtUS1FnbEllMkJGdDZ5b1paMEVrUVhLbkJ0VmYxOS1ua0ZlRVk2WkdqbHJEZDBxaEtFQkZ4RzNrUUlHbHZjZldEZjNmNm1NMkRlSGpiTXlub3lKNVJKd01pRUxJcDRvXzZ6MllaMGwtTlJCQzA3VHdzcVl5aDFqZ1k4NjdNRnZoWVpfZkVuRjFSQk5fTUotZElfcDcyNmlScjg?oc=5",
+      "published": "Wed, 21 Jan 2026 01:20:00 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": -10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟡 NEGATIVE: 'tertekan'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Titik Terendah BBRI, BMRI, BBCA, BBNI Terlewati: Pilih 2 - investor.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlNOV1NBMkxXSkRucG5fYWtuaFBWcGo1MTJzME9qaGVDSTRZWHlmRHhxMnd0TzdiY1otOXBrbzAtVFFPMlZ1T3NLa25QSk5fUEdDNVhWNzJNVDdKSVJPN2x3cHM5SmZZZWZrc1IzTlJ6Y2tPMWZDaHRyQUNQVXFjZVhUVERwWTdiTjFFWC1Ydw?oc=5\" target=\"_blank\">Titik Terendah BBRI, BMRI, BBCA, BBNI Terlewati: Pilih 2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investor.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlNOV1NBMkxXSkRucG5fYWtuaFBWcGo1MTJzME9qaGVDSTRZWHlmRHhxMnd0TzdiY1otOXBrbzAtVFFPMlZ1T3NLa25QSk5fUEdDNVhWNzJNVDdKSVJPN2x3cHM5SmZZZWZrc1IzTlJ6Y2tPMWZDaHRyQUNQVXFjZVhUVERwWTdiTjFFWC1Ydw?oc=5",
+      "published": "Mon, 19 Jan 2026 11:29:00 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham big banks kompak menghijau Senin (19/1), BBNI catat kenaikan tertinggi - MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDVRNFFkS3Q2SjdtaGRPMmNJb2RLVzA3blZUbVIzWmlUeWpQMVFNMHFfX0lqRTk3TTFJUnVsY3NWcXlyTGQySmQzUDBMVjFFOGVzTlVYV3VDV05NdUd0QXAxQXhtOTN2RzlfS2ZxZlBhV3pucFpJVHBoY2tzRTVmN3V4S3JQc0ZaTG0tZ180VldiMFFubWtScUg1TFBzMnRsUW1MYWxMc3pmRjFsb1JTT2NmQUd1N0E1MzRyT1dIdFhpT3UycHVUSw?oc=5\" target=\"_blank\">Saham big banks kompak menghijau Senin (19/1), BBNI catat kenaikan tertinggi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDVRNFFkS3Q2SjdtaGRPMmNJb2RLVzA3blZUbVIzWmlUeWpQMVFNMHFfX0lqRTk3TTFJUnVsY3NWcXlyTGQySmQzUDBMVjFFOGVzTlVYV3VDV05NdUd0QXAxQXhtOTN2RzlfS2ZxZlBhV3pucFpJVHBoY2tzRTVmN3V4S3JQc0ZaTG0tZ180VldiMFFubWtScUg1TFBzMnRsUW1MYWxMc3pmRjFsb1JTT2NmQUd1N0E1MzRyT1dIdFhpT3UycHVUSw?oc=5",
+      "published": "Tue, 20 Jan 2026 07:51:53 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'naik'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham Perbankan Kompak Naik Saat Rupiah Tertekan Nyaris Rp17.000 per Dolar - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOSEhvR2lwRFdENWJYQ0ZYOFk0SURVN3hvUW5qYUhLb3hpeWZXdGRBckZLdDJybS1fSGZ0RjlRdXFGYVZJVzNmdWhzSWpvak5JemJjQUo4UGRrUlpkTHh2cW9Qd1BvcnEycndMSm1sT2hEMkpfMXQ0TDZqdE9ZTmtucVhBMmJMZG5VOWdKNFhWZGpESDkwd19wWE0xNGtkOHY1UkU0YmlIempCODNfSUZUbU5CbWo0cE96cnVCMDlScldRLUZDNUE?oc=5\" target=\"_blank\">Saham Perbankan Kompak Naik Saat Rupiah Tertekan Nyaris Rp17.000 per Dolar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSEhvR2lwRFdENWJYQ0ZYOFk0SURVN3hvUW5qYUhLb3hpeWZXdGRBckZLdDJybS1fSGZ0RjlRdXFGYVZJVzNmdWhzSWpvak5JemJjQUo4UGRrUlpkTHh2cW9Qd1BvcnEycndMSm1sT2hEMkpfMXQ0TDZqdE9ZTmtucVhBMmJMZG5VOWdKNFhWZGpESDkwd19wWE0xNGtkOHY1UkU0YmlIempCODNfSUZUbU5CbWo0cE96cnVCMDlScldRLUZDNUE?oc=5",
+      "published": "Mon, 19 Jan 2026 08:03:30 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟡 NEGATIVE: 'tertekan'",
+        "🟢 POSITIVE: 'naik'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham Big Banks Kompak Menghijau Senin (19/1), BBNI Catat Kenaikan Tertinggi - kontan.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNOUN0OFp2WEFVNUNnNkJjN1JKZ2lwaG95ZzdPU09Qd2NRUFZvX3ZxUzJpT1N6TGdnN3dTWE1BT0VId2ZBT1ZsUmdWYXE5YndZZHJnT1oxUHV3WTRPczN2U1psT1QwMHg1ZDlTSXQwampmMmxBdDY2WTNJTjNhNG9hSi1wcF84TDdHQTFoN0QwbkVzdTRSc3NlMlJ1Q25kenJTdDlVNUJxeEhjeGhM0gGkAUFVX3lxTE4tdHkxSTcyUU5uYVdVZ19DNk5rZmhlVnVjVGh6d05pSmJZUGxPc21nalh0a0N2cm40TjBiWWt1UDZmTVNJRjV5MnZwZHBoa0ZVODF2djFUUnpLdDFfMmJmOUpoR2gxMTRSbkRaRnd3VlJMNEgwdURvdWkwUW4yMmNqWkk0dDhUYjVpWXhHT3dldU9Fb3Vhb3dkQXV2a1VPOHkteF9R?oc=5\" target=\"_blank\">Saham Big Banks Kompak Menghijau Senin (19/1), BBNI Catat Kenaikan Tertinggi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kontan.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOUN0OFp2WEFVNUNnNkJjN1JKZ2lwaG95ZzdPU09Qd2NRUFZvX3ZxUzJpT1N6TGdnN3dTWE1BT0VId2ZBT1ZsUmdWYXE5YndZZHJnT1oxUHV3WTRPczN2U1psT1QwMHg1ZDlTSXQwampmMmxBdDY2WTNJTjNhNG9hSi1wcF84TDdHQTFoN0QwbkVzdTRSc3NlMlJ1Q25kenJTdDlVNUJxeEhjeGhM0gGkAUFVX3lxTE4tdHkxSTcyUU5uYVdVZ19DNk5rZmhlVnVjVGh6d05pSmJZUGxPc21nalh0a0N2cm40TjBiWWt1UDZmTVNJRjV5MnZwZHBoa0ZVODF2djFUUnpLdDFfMmJmOUpoR2gxMTRSbkRaRnd3VlJMNEgwdURvdWkwUW4yMmNqWkk0dDhUYjVpWXhHT3dldU9Fb3Vhb3dkQXV2a1VPOHkteF9R?oc=5",
+      "published": "Mon, 19 Jan 2026 09:19:14 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'naik'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Harga Saham PT Bank Negara Indonesia (Persero) Tbk (BBNI) Hari Ini, 20 January 2026 - FORTUNE Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOazlJNnFsQjgzalFKT1JSN0FRNjd2NjU3N3dLenlnYnp6R2JTUFJaZjZIUVU4MTdXanI0T2hwMlU4MVdzZlZtZG5zNzdfVlhvdngzV3d2ZjdIU0RER1IyenR0eHlzc3hWUGFGR2NaSnp2SUZMWjV3VXRBcVRDajh1aDFFc3BVSkp1elQ5cnp6Tlg5TlFhSzJoVHZJcnU5MF9VU2FqQmg3SzE2NDdkSl9OT0t5ekRZM2dfSnFCZncxcHJKZUtzN0NB0gHMAUFVX3lxTE9xWVdqcHJpRWI3Z29JSWM0UkN2emNaUFllYnVBNHkzaWVPOVRmclJaZmt4ZE40R3g5aUh0eS1QWGp0Q09YYXBWT1J4QkFveFp1VzdMQm5sV0Zidkg0bUVReXpqaXRDU3BQNTdHeUVISEVlYkdmbW9qSHdLSjJDNzNMbDFoZF8tQlpKZXczenpZX2wwNWZTWTRhZ0hmV1d1clJuVHFpSG9vSjFRV1h4enlzdlhHWjVwNktjR19YZkVueEtwWXVidGRPRHp6Sg?oc=5\" target=\"_blank\">Harga Saham PT Bank Negara Indonesia (Persero) Tbk (BBNI) Hari Ini, 20 January 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FORTUNE Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazlJNnFsQjgzalFKT1JSN0FRNjd2NjU3N3dLenlnYnp6R2JTUFJaZjZIUVU4MTdXanI0T2hwMlU4MVdzZlZtZG5zNzdfVlhvdngzV3d2ZjdIU0RER1IyenR0eHlzc3hWUGFGR2NaSnp2SUZMWjV3VXRBcVRDajh1aDFFc3BVSkp1elQ5cnp6Tlg5TlFhSzJoVHZJcnU5MF9VU2FqQmg3SzE2NDdkSl9OT0t5ekRZM2dfSnFCZncxcHJKZUtzN0NB0gHMAUFVX3lxTE9xWVdqcHJpRWI3Z29JSWM0UkN2emNaUFllYnVBNHkzaWVPOVRmclJaZmt4ZE40R3g5aUh0eS1QWGp0Q09YYXBWT1J4QkFveFp1VzdMQm5sV0Zidkg0bUVReXpqaXRDU3BQNTdHeUVISEVlYkdmbW9qSHdLSjJDNzNMbDFoZF8tQlpKZXczenpZX2wwNWZTWTRhZ0hmV1d1clJuVHFpSG9vSjFRV1h4enlzdlhHWjVwNktjR19YZkVueEtwWXVidGRPRHp6Sg?oc=5",
+      "published": "Tue, 20 Jan 2026 02:55:00 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Kinerja Saham Big Banks Selasa (20/1): BMRI dan BBRI Menguat - KONTAN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHVTd0RwMzBXMTRlYjNkTURjTXFvNjh5NkY1dF95VTNJSWZNMHdFTm5KTGxlcHY1SW1XZnFkN1B0LUZobEFCaW8wdlc5bXo1dTdjUk83akVBUGhlYjlLSkdpRGp4ejFmLXR4cDQyWUdCVlBjazZkT0p3SkpzNDJMQ01xcWxZeXNsd1dIU2pmNNIBjwFBVV95cUxQMHVTd0RwMzBXMTRlYjNkTURjTXFvNjh5NkY1dF95VTNJSWZNMHdFTm5KTGxlcHY1SW1XZnFkN1B0LUZobEFCaW8wdlc5bXo1dTdjUk83akVBUGhlYjlLSkdpRGp4ejFmLXR4cDQyWUdCVlBjazZkT0p3SkpzNDJMQ01xcWxZeXNsd1dIU2pmNA?oc=5\" target=\"_blank\">Kinerja Saham Big Banks Selasa (20/1): BMRI dan BBRI Menguat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KONTAN</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHVTd0RwMzBXMTRlYjNkTURjTXFvNjh5NkY1dF95VTNJSWZNMHdFTm5KTGxlcHY1SW1XZnFkN1B0LUZobEFCaW8wdlc5bXo1dTdjUk83akVBUGhlYjlLSkdpRGp4ejFmLXR4cDQyWUdCVlBjazZkT0p3SkpzNDJMQ01xcWxZeXNsd1dIU2pmNNIBjwFBVV95cUxQMHVTd0RwMzBXMTRlYjNkTURjTXFvNjh5NkY1dF95VTNJSWZNMHdFTm5KTGxlcHY1SW1XZnFkN1B0LUZobEFCaW8wdlc5bXo1dTdjUk83akVBUGhlYjlLSkdpRGp4ejFmLXR4cDQyWUdCVlBjazZkT0p3SkpzNDJMQ01xcWxZeXNsd1dIU2pmNA?oc=5",
+      "published": "Tue, 20 Jan 2026 09:36:04 GMT",
+      "query": "BBNI saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'menguat'"
+      ]
+    }
+  ],
+  "all_keywords": [
+    "🔴 OPERATIONAL_INDONESIAN: 'ditutup'",
+    "🟢 POSITIVE: 'melonjak'",
+    "🟢 POSITIVE: 'menguat'",
+    "🟡 NEGATIVE: 'tertekan'",
+    "🟡 NEGATIVE: 'merosot'",
+    "🟢 POSITIVE: 'naik'",
+    "🟡 NEGATIVE: 'lemah'",
+    "🟡 NEGATIVE: 'anjlok'"
+  ],
+  "timestamp": "2026-01-21T11:43:55.718504"
+}

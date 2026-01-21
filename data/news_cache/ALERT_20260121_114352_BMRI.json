@@ -1,0 +1,153 @@
+{
+  "stock": "BMRI",
+  "score": 1.8,
+  "category": "CRITICAL",
+  "articles_found": 125,
+  "critical_count": 1,
+  "negative_count": 0,
+  "recommendation": "🔴 IMMEDIATE EXIT - 1 critical alerts",
+  "critical_articles": [
+    {
+      "source": "google_news",
+      "title": "Suspensi Dicabut! Saham RMKE Ngamuk di Papan FCA - Sinar Harapan - Sinar Harapan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHRneU9oSGtfMWhEYjBGUUsyUldOM2xvZXlvMm5aT0hmTUt3aEg3TkRnWUpLNkVFZllnVERvQ196QlE3NXJXTVJ3ZnBMT1hQRnYwZ2l1MkpjV0w1YnA4ZkQzOU45aFNJak0xY2JWWlZtN1FVZXB4dDBhemVJdndpVUdkNTIzU2syY01KZDJISE4ycXk4dHVHZnpsa9IBoAFBVV95cUxPYjdYSWtCa3pHV0duY1o0LUx3b0c1M21uNHVSdWZ6ZzlUU3JHako3eHNTTC1Pd2R2N2s4WEhPVmJfNFFqWTV0MWRteUtZYXFpMVBqZ1N3SjJfWGNBRG9rWUp6RUFWenpGNDcwR3FESVJzYlZtZEFIZFl5RUowNFFDWjJTcjJkNTFEM2lEeUJQOEpWZkpaZWdUQk5vQjJlSFk3?oc=5\" target=\"_blank\">Suspensi Dicabut! Saham RMKE Ngamuk di Papan FCA - Sinar Harapan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinar Harapan</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHRneU9oSGtfMWhEYjBGUUsyUldOM2xvZXlvMm5aT0hmTUt3aEg3TkRnWUpLNkVFZllnVERvQ196QlE3NXJXTVJ3ZnBMT1hQRnYwZ2l1MkpjV0w1YnA4ZkQzOU45aFNJak0xY2JWWlZtN1FVZXB4dDBhemVJdndpVUdkNTIzU2syY01KZDJISE4ycXk4dHVHZnpsa9IBoAFBVV95cUxPYjdYSWtCa3pHV0duY1o0LUx3b0c1M21uNHVSdWZ6ZzlUU3JHako3eHNTTC1Pd2R2N2s4WEhPVmJfNFFqWTV0MWRteUtZYXFpMVBqZ1N3SjJfWGNBRG9rWUp6RUFWenpGNDcwR3FESVJzYlZtZEFIZFl5RUowNFFDWjJTcjJkNTFEM2lEeUJQOEpWZkpaZWdUQk5vQjJlSFk3?oc=5",
+      "published": "Wed, 21 Jan 2026 03:10:20 GMT",
+      "query": "BMRI bursa",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'"
+      ]
+    }
+  ],
+  "all_articles": [
+    {
+      "source": "google_news",
+      "title": "Minat Investor Asing Terbelah, Saham BBCA Rajin Dilepas, BBRI Justru Terus Diborong - KONTAN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNblBzeEpzSkw3TGxKLWhJYlQzMDN6YWNfc01RTjFoX2ZMUDQxcTVwODBYcmREcVJ5dlhyaVJpeWgwQU9tajUtZWU4LVVfY1Q3YkFRTVdOQlBGOF9FcFQ3UFBEdUxxNWlDVVBWZ2JqR1d4RmFEeWtrV1pSVjlTemZWY3NFVTJvaFBHZ1BxM3VrSVZOR21QSXFMaFRmRzlJQmlZWDNwY2lwNFNXbHkydEoyaFAxdzJiUQ?oc=5\" target=\"_blank\">Minat Investor Asing Terbelah, Saham BBCA Rajin Dilepas, BBRI Justru Terus Diborong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KONTAN</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblBzeEpzSkw3TGxKLWhJYlQzMDN6YWNfc01RTjFoX2ZMUDQxcTVwODBYcmREcVJ5dlhyaVJpeWgwQU9tajUtZWU4LVVfY1Q3YkFRTVdOQlBGOF9FcFQ3UFBEdUxxNWlDVVBWZ2JqR1d4RmFEeWtrV1pSVjlTemZWY3NFVTJvaFBHZ1BxM3VrSVZOR21QSXFMaFRmRzlJQmlZWDNwY2lwNFNXbHkydEoyaFAxdzJiUQ?oc=5",
+      "published": "Tue, 20 Jan 2026 23:41:54 GMT",
+      "query": "BMRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "BMRI Bagikan Dividen Interim Rp9,3 Triliun, Sinyal Fundamental Masih Kuat - Ajaib",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdmZiMTJzVnVOeER4eTRYMlhVb3NPTG9JcmNUTUNnMkFxUTdYeVJsdGFVSXNWS2pLNFF3eEkwemhmcGRkSzg5V0FFU29YMFJNRmpZaG02eUhSRURNNFlqYnlOSkpTY01kc2Z3LThFd0lBY3pIZFB4dl94V1V4cFJRZVh4Qll3a2RjLWdod0FOYw?oc=5\" target=\"_blank\">BMRI Bagikan Dividen Interim Rp9,3 Triliun, Sinyal Fundamental Masih Kuat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ajaib</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdmZiMTJzVnVOeER4eTRYMlhVb3NPTG9JcmNUTUNnMkFxUTdYeVJsdGFVSXNWS2pLNFF3eEkwemhmcGRkSzg5V0FFU29YMFJNRmpZaG02eUhSRURNNFlqYnlOSkpTY01kc2Z3LThFd0lBY3pIZFB4dl94V1V4cFJRZVh4Qll3a2RjLWdod0FOYw?oc=5",
+      "published": "Mon, 19 Jan 2026 07:35:30 GMT",
+      "query": "BMRI saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'dividen'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Direktur Bank Mandiri (BMRI) Borong 155.000 Saham Perusahaan - CNBC Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOanQtWWRUZFdYTjBRU1N5NTRBWUtFUHg5NXBJa2FLeXlZdFNJWVUzNDdVdmc3MWp5MXpkVEVlRkx2TG4wNi02cTJsSUlJa3I5aVFlZjFWUUlHa2piMEZYX29TYlFEazExR2pLR2FsbHQ1dmZ2UlJYbEVuMTAxcld2aUt3anpwMWd4TGtLa1VJUEFmcFNlSVZXRU82U3Bpak14YVpxVHB0SDE3emJWUVFmVm5sZV84MUphdXJLcUZB0gHDAUFVX3lxTE5UZWVlTmFQTFlwUi1hNEpVcHhkLWNzeEdyYldfNXZGQU90Y1RscVcycGo4Ti10bXBNYUhPbkFyeFZFd09XY3ZpNi1VS3R5d3N4VHJmU0lwVDFkNXpMT2xBTzdTajB6TnRXbHhQOEFvMUNNODdKcmFVaHUyZDNRbkNkZHdiVjA3WWVoTVU0czhYYVAwT0JvR05zMjlvNUVJYnRYckU2SWxGLWFSOFYxeGo2M2pxUkdhMDA2b081RVl0eFIzVQ?oc=5\" target=\"_blank\">Direktur Bank Mandiri (BMRI) Borong 155.000 Saham Perusahaan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOanQtWWRUZFdYTjBRU1N5NTRBWUtFUHg5NXBJa2FLeXlZdFNJWVUzNDdVdmc3MWp5MXpkVEVlRkx2TG4wNi02cTJsSUlJa3I5aVFlZjFWUUlHa2piMEZYX29TYlFEazExR2pLR2FsbHQ1dmZ2UlJYbEVuMTAxcld2aUt3anpwMWd4TGtLa1VJUEFmcFNlSVZXRU82U3Bpak14YVpxVHB0SDE3emJWUVFmVm5sZV84MUphdXJLcUZB0gHDAUFVX3lxTE5UZWVlTmFQTFlwUi1hNEpVcHhkLWNzeEdyYldfNXZGQU90Y1RscVcycGo4Ti10bXBNYUhPbkFyeFZFd09XY3ZpNi1VS3R5d3N4VHJmU0lwVDFkNXpMT2xBTzdTajB6TnRXbHhQOEFvMUNNODdKcmFVaHUyZDNRbkNkZHdiVjA3WWVoTVU0czhYYVAwT0JvR05zMjlvNUVJYnRYckU2SWxGLWFSOFYxeGo2M2pxUkdhMDA2b081RVl0eFIzVQ?oc=5",
+      "published": "Mon, 19 Jan 2026 04:45:03 GMT",
+      "query": "BMRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Cetak ATH Baru ke 9.134, Saham EMAS, BRMS hingga BMRI Moncer - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGVtYU4tdWFLUnJySGwzTmlQbnotTUZfT1lScDQ3SmdMc2Z1TFYxZkQ5aTlOaENxRXp6Ql9VMWppWUM3dE1vREtOSUxiVnlLQTduMDhZZTZ4amt5TnltdUV5Y00welhfczNmdkdKV3dFNkxtbW9QSXJNblM0LXNUQzQzQjZkMU5pajFpR0ZOWlhHUzVqUEVlX3RNWTJqckVudVRGQ3RvLWNwZm1yZXdNRzBB?oc=5\" target=\"_blank\">IHSG Cetak ATH Baru ke 9.134, Saham EMAS, BRMS hingga BMRI Moncer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGVtYU4tdWFLUnJySGwzTmlQbnotTUZfT1lScDQ3SmdMc2Z1TFYxZkQ5aTlOaENxRXp6Ql9VMWppWUM3dE1vREtOSUxiVnlLQTduMDhZZTZ4amt5TnltdUV5Y00welhfczNmdkdKV3dFNkxtbW9QSXJNblM0LXNUQzQzQjZkMU5pajFpR0ZOWlhHUzVqUEVlX3RNWTJqckVudVRGQ3RvLWNwZm1yZXdNRzBB?oc=5",
+      "published": "Tue, 20 Jan 2026 09:20:02 GMT",
+      "query": "BMRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Titik Terendah BBRI, BMRI, BBCA, BBNI Terlewati: Pilih 2 - investor.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlNOV1NBMkxXSkRucG5fYWtuaFBWcGo1MTJzME9qaGVDSTRZWHlmRHhxMnd0TzdiY1otOXBrbzAtVFFPMlZ1T3NLa25QSk5fUEdDNVhWNzJNVDdKSVJPN2x3cHM5SmZZZWZrc1IzTlJ6Y2tPMWZDaHRyQUNQVXFjZVhUVERwWTdiTjFFWC1Ydw?oc=5\" target=\"_blank\">Titik Terendah BBRI, BMRI, BBCA, BBNI Terlewati: Pilih 2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investor.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlNOV1NBMkxXSkRucG5fYWtuaFBWcGo1MTJzME9qaGVDSTRZWHlmRHhxMnd0TzdiY1otOXBrbzAtVFFPMlZ1T3NLa25QSk5fUEdDNVhWNzJNVDdKSVJPN2x3cHM5SmZZZWZrc1IzTlJ6Y2tPMWZDaHRyQUNQVXFjZVhUVERwWTdiTjFFWC1Ydw?oc=5",
+      "published": "Mon, 19 Jan 2026 11:29:00 GMT",
+      "query": "BMRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham big banks kompak menghijau Senin (19/1), BBNI catat kenaikan tertinggi - MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDVRNFFkS3Q2SjdtaGRPMmNJb2RLVzA3blZUbVIzWmlUeWpQMVFNMHFfX0lqRTk3TTFJUnVsY3NWcXlyTGQySmQzUDBMVjFFOGVzTlVYV3VDV05NdUd0QXAxQXhtOTN2RzlfS2ZxZlBhV3pucFpJVHBoY2tzRTVmN3V4S3JQc0ZaTG0tZ180VldiMFFubWtScUg1TFBzMnRsUW1MYWxMc3pmRjFsb1JTT2NmQUd1N0E1MzRyT1dIdFhpT3UycHVUSw?oc=5\" target=\"_blank\">Saham big banks kompak menghijau Senin (19/1), BBNI catat kenaikan tertinggi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDVRNFFkS3Q2SjdtaGRPMmNJb2RLVzA3blZUbVIzWmlUeWpQMVFNMHFfX0lqRTk3TTFJUnVsY3NWcXlyTGQySmQzUDBMVjFFOGVzTlVYV3VDV05NdUd0QXAxQXhtOTN2RzlfS2ZxZlBhV3pucFpJVHBoY2tzRTVmN3V4S3JQc0ZaTG0tZ180VldiMFFubWtScUg1TFBzMnRsUW1MYWxMc3pmRjFsb1JTT2NmQUd1N0E1MzRyT1dIdFhpT3UycHVUSw?oc=5",
+      "published": "Tue, 20 Jan 2026 07:51:53 GMT",
+      "query": "BMRI saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'naik'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Sentuh Rekor Baru, Capai 9.099 pada Sesi I - Market - Bloomberg Technoz",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMGFOUUxybVVpVE9JMUN6OHBtdTRBN0N6Z0lkU3Y0ZmJXTDNMMFB3VHV4MjJwck9oYllUZVlHaU9wOUY0cWJxRVYtYVlNTzdwekpWMjBqeURYUjUxWEtEdi1OM0ZWSWJxdVdMcXRQc0hBM09mSWlEU0l4RkN1czJjZU5vVUxRMVJZdHV3Zkt1SkRVQ1k2RlJ4MXRQYkIwUQ?oc=5\" target=\"_blank\">IHSG Sentuh Rekor Baru, Capai 9.099 pada Sesi I - Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Technoz</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGFOUUxybVVpVE9JMUN6OHBtdTRBN0N6Z0lkU3Y0ZmJXTDNMMFB3VHV4MjJwck9oYllUZVlHaU9wOUY0cWJxRVYtYVlNTzdwekpWMjBqeURYUjUxWEtEdi1OM0ZWSWJxdVdMcXRQc0hBM09mSWlEU0l4RkN1czJjZU5vVUxRMVJZdHV3Zkt1SkRVQ1k2RlJ4MXRQYkIwUQ?oc=5",
+      "published": "Mon, 19 Jan 2026 06:06:37 GMT",
+      "query": "BMRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Analisis Saham Pilihan BBRI, BMRI, UNVR, TKIM - IDX Channel",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFkxQUlaTFh6Q09iSzBIYkVPY1FScmFKbDEydDBHOEtLcUJ6YTBuMktxalhlaTZXT3dPbHB1ZVhvZjc3UGsxX0xjZXJxTVVkemxUUHBYdkZna25UZkVLWndzS3h1SVU3NWhCa2dORjgxS1pnY0xMYlNWWEdQMVlVVDBCQjJBZVlGUXc4UEp0clnSAZYBQVVfeXFMUHYyLTNRMHYyc3JFNC04U0hXUWUzZ0xtSTlBaVJ1RWRJcjB3a3lqSGZvSTJ1WlhGZHR0aTJEa0d2ZUR4R1k5NFdITjVjaGJncTI1Y0xCZFo5ZFdaVFZvcjk3RXNiUFBLbFRRWTItckZuTE5fRVVtSklqdEVSR04wQXBCZkxCckVNc1N3eU5vS3FPbW0zb2Jn?oc=5\" target=\"_blank\">Analisis Saham Pilihan BBRI, BMRI, UNVR, TKIM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IDX Channel</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFkxQUlaTFh6Q09iSzBIYkVPY1FScmFKbDEydDBHOEtLcUJ6YTBuMktxalhlaTZXT3dPbHB1ZVhvZjc3UGsxX0xjZXJxTVVkemxUUHBYdkZna25UZkVLWndzS3h1SVU3NWhCa2dORjgxS1pnY0xMYlNWWEdQMVlVVDBCQjJBZVlGUXc4UEp0clnSAZYBQVVfeXFMUHYyLTNRMHYyc3JFNC04U0hXUWUzZ0xtSTlBaVJ1RWRJcjB3a3lqSGZvSTJ1WlhGZHR0aTJEa0d2ZUR4R1k5NFdITjVjaGJncTI1Y0xCZFo5ZFdaVFZvcjk3RXNiUFBLbFRRWTItckZuTE5fRVVtSklqdEVSR04wQXBCZkxCckVNc1N3eU5vS3FPbW0zb2Jn?oc=5",
+      "published": "Mon, 19 Jan 2026 14:38:00 GMT",
+      "query": "BMRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Direktur Bank Mandiri Timothy Utama Borong 155.000 Saham BMRI, Rogoh Kocek Rp744 Juta - mureks.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcUEtdThnRjBHMDRkZmVBejdlMTgweGo0QXlkMzFYbnRoMVFWTjVEYjRrMG1Rdzh2dUNPUjRtcEVFb0l1cHpWOXdTaXZ0a0tMTmkyRW93c2xodFdkLWtHRVNYWER3WUlYZDF3bGNIQlBEMFpHZGxqUDFMU3NQYTlYb3Biak1iY05pN09VeWk3VDN1MWhKaVBXdTNKVzFjVEhzQzZSZ2dGZ2U?oc=5\" target=\"_blank\">Direktur Bank Mandiri Timothy Utama Borong 155.000 Saham BMRI, Rogoh Kocek Rp744 Juta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mureks.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcUEtdThnRjBHMDRkZmVBejdlMTgweGo0QXlkMzFYbnRoMVFWTjVEYjRrMG1Rdzh2dUNPUjRtcEVFb0l1cHpWOXdTaXZ0a0tMTmkyRW93c2xodFdkLWtHRVNYWER3WUlYZDF3bGNIQlBEMFpHZGxqUDFMU3NQYTlYb3Biak1iY05pN09VeWk3VDN1MWhKaVBXdTNKVzFjVEhzQzZSZ2dGZ2U?oc=5",
+      "published": "Mon, 19 Jan 2026 05:08:15 GMT",
+      "query": "BMRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Kinerja Saham Big Banks Selasa (20/1): BMRI dan BBRI Menguat - KONTAN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHVTd0RwMzBXMTRlYjNkTURjTXFvNjh5NkY1dF95VTNJSWZNMHdFTm5KTGxlcHY1SW1XZnFkN1B0LUZobEFCaW8wdlc5bXo1dTdjUk83akVBUGhlYjlLSkdpRGp4ejFmLXR4cDQyWUdCVlBjazZkT0p3SkpzNDJMQ01xcWxZeXNsd1dIU2pmNNIBjwFBVV95cUxQMHVTd0RwMzBXMTRlYjNkTURjTXFvNjh5NkY1dF95VTNJSWZNMHdFTm5KTGxlcHY1SW1XZnFkN1B0LUZobEFCaW8wdlc5bXo1dTdjUk83akVBUGhlYjlLSkdpRGp4ejFmLXR4cDQyWUdCVlBjazZkT0p3SkpzNDJMQ01xcWxZeXNsd1dIU2pmNA?oc=5\" target=\"_blank\">Kinerja Saham Big Banks Selasa (20/1): BMRI dan BBRI Menguat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KONTAN</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHVTd0RwMzBXMTRlYjNkTURjTXFvNjh5NkY1dF95VTNJSWZNMHdFTm5KTGxlcHY1SW1XZnFkN1B0LUZobEFCaW8wdlc5bXo1dTdjUk83akVBUGhlYjlLSkdpRGp4ejFmLXR4cDQyWUdCVlBjazZkT0p3SkpzNDJMQ01xcWxZeXNsd1dIU2pmNNIBjwFBVV95cUxQMHVTd0RwMzBXMTRlYjNkTURjTXFvNjh5NkY1dF95VTNJSWZNMHdFTm5KTGxlcHY1SW1XZnFkN1B0LUZobEFCaW8wdlc5bXo1dTdjUk83akVBUGhlYjlLSkdpRGp4ejFmLXR4cDQyWUdCVlBjazZkT0p3SkpzNDJMQ01xcWxZeXNsd1dIU2pmNA?oc=5",
+      "published": "Tue, 20 Jan 2026 09:36:04 GMT",
+      "query": "BMRI saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'menguat'"
+      ]
+    }
+  ],
+  "all_keywords": [
+    "🟢 POSITIVE: 'melonjak'",
+    "🟢 POSITIVE: 'dividen'",
+    "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+    "🟡 NEGATIVE: 'tertekan'",
+    "🟢 POSITIVE: 'menguat'",
+    "🟢 POSITIVE: 'naik'",
+    "🟡 NEGATIVE: 'lemah'",
+    "🟡 NEGATIVE: 'anjlok'"
+  ],
+  "timestamp": "2026-01-21T11:43:52.503436"
+}

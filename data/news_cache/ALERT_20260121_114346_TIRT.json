@@ -1,0 +1,167 @@
+{
+  "stock": "TIRT",
+  "score": -4.5,
+  "category": "CRITICAL",
+  "articles_found": 20,
+  "critical_count": 3,
+  "negative_count": 0,
+  "recommendation": "🔴 IMMEDIATE EXIT - 3 critical alerts",
+  "critical_articles": [
+    {
+      "source": "google_news",
+      "title": "Perumda Tirta Al Bantani Salurkan Bantuan pada Korban Bencana - Kabar Banten - kabarbanten.pikiran-rakyat.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVFZiamNiV2dQQ2FDMFJ1Qm0zMExWcUVXdEt4SFdxVF9vM1JWTXpLckc3SWlaeWIzaHdvNFRENWJ1T0FfeEF0b3lpWGN6S05KWU8zNVM1dmkwXzV4ZWJ6ZDh0anMwbDhEVFZaMGFIUHBQZlI1V3VRalVWQUFkMXhfZ282ZEFsUlBDVkV0cFBiU1ZwTkN4cDM2RGJIRU1fOGQ1eDJNMVFjblRuUEpTMTVVRXFoRm9hYjROMWdBNEpvSEQteWV3WDUzOWRLTmjSAcwBQVVfeXFMTVRWYmpjYldnUENhQzBSdUJtMzBMVnFFV3RLeEhXcVRfbzNSVk16S3JHN0lpWnliM2h3bzRURDVidU9BX3hBdG95aVhjektOSllPMzVTNXZpMF81eGViemQ4dGpzMGw4RFRWWjBhSFBwUGZSNVd1UWpVVkFBZDF4X2dvNmRBbFJQQ1ZFdHBQYlNWcE5DeHAzNkRiSEVNXzhkNXgyTTFRY25UblBKUzE1VUVxaEZvYWI0TjFnQTRKb0hELXlld1g1MzlkS05o?oc=5\" target=\"_blank\">Perumda Tirta Al Bantani Salurkan Bantuan pada Korban Bencana - Kabar Banten</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kabarbanten.pikiran-rakyat.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVFZiamNiV2dQQ2FDMFJ1Qm0zMExWcUVXdEt4SFdxVF9vM1JWTXpLckc3SWlaeWIzaHdvNFRENWJ1T0FfeEF0b3lpWGN6S05KWU8zNVM1dmkwXzV4ZWJ6ZDh0anMwbDhEVFZaMGFIUHBQZlI1V3VRalVWQUFkMXhfZ282ZEFsUlBDVkV0cFBiU1ZwTkN4cDM2RGJIRU1fOGQ1eDJNMVFjblRuUEpTMTVVRXFoRm9hYjROMWdBNEpvSEQteWV3WDUzOWRLTmjSAcwBQVVfeXFMTVRWYmpjYldnUENhQzBSdUJtMzBMVnFFV3RLeEhXcVRfbzNSVk16S3JHN0lpWnliM2h3bzRURDVidU9BX3hBdG95aVhjektOSllPMzVTNXZpMF81eGViemQ4dGpzMGw4RFRWWjBhSFBwUGZSNVd1UWpVVkFBZDF4X2dvNmRBbFJQQ1ZFdHBQYlNWcE5DeHAzNkRiSEVNXzhkNXgyTTFRY25UblBKUzE1VUVxaEZvYWI0TjFnQTRKb0hELXlld1g1MzlkS05o?oc=5",
+      "published": "Mon, 19 Jan 2026 06:30:00 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'bencana'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Tidak Berhenti Di Tiga Tersangka, Ditreskrimsus Polda Bengkulu Bidik Pihak Lain dalam Kasus Dugaan Korupsi Perumda Tirta Hidayah - nusantaramails.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbndQNlZjOS1KOEFEZGVWYzNmZTB3ckxBcnNhc3BmUlVPWG5UV1lHWmFWdi1ZSmNIbFUtYUZUcFdWR0QzMjRXTEVmV0kyM1liU2l3dUlvekNseUItVmNKRlZKYk5oRkE4WWhhSWx5V25wR0RGZHVPLVBkTUUzYmtJc1NsUUJ5X0IzRHYwazJfNHFYeGNWcHMtQnBaMGdidkhKa3RXQWNybUxLaTJxQ056dGhZa0tDMWt1aUVIdUxQZ2o5MThYdkwtdEdYVzlweWRPaGxCUEZ0eEw2MGdTcGtJOHZlUWpaSk1vbHdn0gHzAUFVX3lxTE5NU1cwSk5jektEcHVic1pyRkhDbU4tTy1yLVFQM2JRWkdNS09ycXc3c1hDSnNDTVpuU2Y1MF9UWnQ2ZmJVSVFnTk5scFBKZXg2dncwMW15QmtJMVhqNzRhQ0QyZ3l1eEFZc0pDb3A4NmFtVVhWWDk4LXpSQnFkSXJNYWxlZ05EaS1PT0lPZmhVbk9Xd3Nrc1Q5TEszTWc0Q0hGamZNemVJSzZMcFZwQkprdGRQdlhnX3hmdjZseEk4NTNZV1FONk9CZ2FDNTVEUmoxNTZRc2ZsRjVuQU44QmNqTWd2ajAzREtOaWpaUGlJMzRQTQ?oc=5\" target=\"_blank\">Tidak Berhenti Di Tiga Tersangka, Ditreskrimsus Polda Bengkulu Bidik Pihak Lain dalam Kasus Dugaan Korupsi Perumda Tirta Hidayah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nusantaramails.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbndQNlZjOS1KOEFEZGVWYzNmZTB3ckxBcnNhc3BmUlVPWG5UV1lHWmFWdi1ZSmNIbFUtYUZUcFdWR0QzMjRXTEVmV0kyM1liU2l3dUlvekNseUItVmNKRlZKYk5oRkE4WWhhSWx5V25wR0RGZHVPLVBkTUUzYmtJc1NsUUJ5X0IzRHYwazJfNHFYeGNWcHMtQnBaMGdidkhKa3RXQWNybUxLaTJxQ056dGhZa0tDMWt1aUVIdUxQZ2o5MThYdkwtdEdYVzlweWRPaGxCUEZ0eEw2MGdTcGtJOHZlUWpaSk1vbHdn0gHzAUFVX3lxTE5NU1cwSk5jektEcHVic1pyRkhDbU4tTy1yLVFQM2JRWkdNS09ycXc3c1hDSnNDTVpuU2Y1MF9UWnQ2ZmJVSVFnTk5scFBKZXg2dncwMW15QmtJMVhqNzRhQ0QyZ3l1eEFZc0pDb3A4NmFtVVhWWDk4LXpSQnFkSXJNYWxlZ05EaS1PT0lPZmhVbk9Xd3Nrc1Q5TEszTWc0Q0hGamZNemVJSzZMcFZwQkprdGRQdlhnX3hmdjZseEk4NTNZV1FONk9CZ2FDNTVEUmoxNTZRc2ZsRjVuQU44QmNqTWd2ajAzREtOaWpaUGlJMzRQTQ?oc=5",
+      "published": "Mon, 19 Jan 2026 09:29:40 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 CORPORATE_CRISIS: 'korupsi'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Polda Bengkulu Dalami Aktor Lain di Balik Korupsi PHL Perumda Tirta Hidayah Bengkulu - bengkuluekspress.disway.id - bengkuluekspress.disway.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRDJNQ3hhUWVyWndweVo4QS1Fb3lROWN5MlRudW5VNnZaLUdYdEZNMjZzYk42amg2TVpHN2tlSGlCUjNMYXdDZHFLeDd1OGdGWlJ4SEM4SHlCdmNPVzBFRGtIZ0FHMmdUcVVMZHpBeUNVWm44NjYzZURLV1NvSEhHelBJMGtSZTNnaU9vSVhvdWFSdDZPRUwxY2s3TTM1allndzJwY2dBWmZFUGRDaEgwQWlNR0w1cVJmWnNjZER1SFpiU2FGTlhuVW1LZlRfWXB1N0hMbGNqQk9yM191cUwtajhoTWxKUdIBygFBVV95cUxOOWY0MVlQbjZTRVU2bFEzcGdnc2pLalZubFVELS1xUzlvWXc1Q2thT3h2SkhnNWp1N2I0Ul9ZdUNyMFJyV1hNT2JXVUdTbjhza0ZxQkIxcmZlTEJISTlJaG1IZnJBMnVoYUc5UndFckJ3ajcxTi1vbkh2WjJZVmdjZlVKRTJpNEg0QmVnLXUwd0lmVWhBNzJpZElJTlFHdGJtYTluTE51ZTVDbUg5YVdNam9Ed3VwREdwZmFXTEstYzRrMDhHcmFySGxB?oc=5\" target=\"_blank\">Polda Bengkulu Dalami Aktor Lain di Balik Korupsi PHL Perumda Tirta Hidayah Bengkulu - bengkuluekspress.disway.id</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bengkuluekspress.disway.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRDJNQ3hhUWVyWndweVo4QS1Fb3lROWN5MlRudW5VNnZaLUdYdEZNMjZzYk42amg2TVpHN2tlSGlCUjNMYXdDZHFLeDd1OGdGWlJ4SEM4SHlCdmNPVzBFRGtIZ0FHMmdUcVVMZHpBeUNVWm44NjYzZURLV1NvSEhHelBJMGtSZTNnaU9vSVhvdWFSdDZPRUwxY2s3TTM1allndzJwY2dBWmZFUGRDaEgwQWlNR0w1cVJmWnNjZER1SFpiU2FGTlhuVW1LZlRfWXB1N0hMbGNqQk9yM191cUwtajhoTWxKUdIBygFBVV95cUxOOWY0MVlQbjZTRVU2bFEzcGdnc2pLalZubFVELS1xUzlvWXc1Q2thT3h2SkhnNWp1N2I0Ul9ZdUNyMFJyV1hNT2JXVUdTbjhza0ZxQkIxcmZlTEJISTlJaG1IZnJBMnVoYUc5UndFckJ3ajcxTi1vbkh2WjJZVmdjZlVKRTJpNEg0QmVnLXUwd0lmVWhBNzJpZElJTlFHdGJtYTluTE51ZTVDbUg5YVdNam9Ed3VwREdwZmFXTEstYzRrMDhHcmFySGxB?oc=5",
+      "published": "Mon, 19 Jan 2026 07:50:00 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 CORPORATE_CRISIS: 'korupsi'"
+      ]
+    }
+  ],
+  "all_articles": [
+    {
+      "source": "google_news",
+      "title": "BNBR Bakal Tambah Modal Lewat Rights Issue Usai Akuisisi Tol Cimanggis Cibitung - Warta Ekonomi",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3owQ3VfbEFRX1NialVVdy05SVRqRGRONkpaMUxMVFpuTGppV3l4ek44T0ZoTS1BeHpXazNYVW9FYjdsaGRXbTRKbHEya0lodGwtaDhGY09BVjE1WVZtWkxKODlWbHhRWFFmTHlJSHVWLXpwNkJFOHFvQVBqdDQxcGlIOVB0M05XdEhiVEZoZTRUUlZJdTl2cWZQTElTLTduNDVIUklhallWOWZLSDZOam13NEdxZzh10gG-AUFVX3lxTE5EUWtOY0NqQ2M2a05WN0NhdkJFVzZrdlMtQ1Z6WjlfRnFwMmFpcEFlU2UzRm85Y19BZ2NDdmJyRENzWXJKMGJPZTJxQTlYZjdJXy1uMU1uZ01mWkpmX1dvcnFIRUQtT0hROXJiakx0al9oVWd4a1Z6aU1PNVpFLXZFcV9lNmdIVklzMkJ6THpsWUVoX0h5MEJ2QTFTUlowWVZCOTdsOVNoMFZqOExBbUlqSWlOYkp4Y3NyTGdPR2c?oc=5\" target=\"_blank\">BNBR Bakal Tambah Modal Lewat Rights Issue Usai Akuisisi Tol Cimanggis Cibitung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Warta Ekonomi</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3owQ3VfbEFRX1NialVVdy05SVRqRGRONkpaMUxMVFpuTGppV3l4ek44T0ZoTS1BeHpXazNYVW9FYjdsaGRXbTRKbHEya0lodGwtaDhGY09BVjE1WVZtWkxKODlWbHhRWFFmTHlJSHVWLXpwNkJFOHFvQVBqdDQxcGlIOVB0M05XdEhiVEZoZTRUUlZJdTl2cWZQTElTLTduNDVIUklhallWOWZLSDZOam13NEdxZzh10gG-AUFVX3lxTE5EUWtOY0NqQ2M2a05WN0NhdkJFVzZrdlMtQ1Z6WjlfRnFwMmFpcEFlU2UzRm85Y19BZ2NDdmJyRENzWXJKMGJPZTJxQTlYZjdJXy1uMU1uZ01mWkpmX1dvcnFIRUQtT0hROXJiakx0al9oVWd4a1Z6aU1PNVpFLXZFcV9lNmdIVklzMkJ6THpsWUVoX0h5MEJ2QTFTUlowWVZCOTdsOVNoMFZqOExBbUlqSWlOYkp4Y3NyTGdPR2c?oc=5",
+      "published": "Tue, 20 Jan 2026 02:45:00 GMT",
+      "query": "TIRT saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Pererat Hubungan Kemitraan, Dandim 1310/Bitung Kunjungan Kerja ke PT Tirta Investama Airmadidi - PORTAL KOMANDO",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQkpPRkU0NzNiWUFkUkdsRk92S2QyS3dJLUVUdFh2cHVGZEhtWE1DdWZHdVZ3Y1lkODk0d3VyODlrMk5kVWJ1VTY2RjczQWNKVE1QYjNTWjFXUUZRMmg1eTB3XzIxaHV5NzFPV25tbHBXNEhHRTlVREd3dFdSd3duVHRQMnVISGR6SnpTUzIwUTdDRHREVGFDODFOeDYzX1V6QXp6N3I3Y1VCTEJEU0U5dWt0VEg1N19vUFRybGxpdDBOY2lraFhiMkltaWZIQQ?oc=5\" target=\"_blank\">Pererat Hubungan Kemitraan, Dandim 1310/Bitung Kunjungan Kerja ke PT Tirta Investama Airmadidi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PORTAL KOMANDO</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQkpPRkU0NzNiWUFkUkdsRk92S2QyS3dJLUVUdFh2cHVGZEhtWE1DdWZHdVZ3Y1lkODk0d3VyODlrMk5kVWJ1VTY2RjczQWNKVE1QYjNTWjFXUUZRMmg1eTB3XzIxaHV5NzFPV25tbHBXNEhHRTlVREd3dFdSd3duVHRQMnVISGR6SnpTUzIwUTdDRHREVGFDODFOeDYzX1V6QXp6N3I3Y1VCTEJEU0U5dWt0VEg1N19vUFRybGxpdDBOY2lraFhiMkltaWZIQQ?oc=5",
+      "published": "Tue, 20 Jan 2026 16:15:16 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Tirta Utama Jateng Perkuat Layanan Air Bersih Wonogiri - RRI.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlk4NXJSWl9BUDNTSUVDSi04TlJMdFFpdlBnT1BBRmhnbkdqOUh3UXByTGFtT1lXbUFmMS04bmZ5SDdWUFh0TGZ2RW1DTmRKcS1hT3dxTjl5bmZiZ1dpbzJ6X2xFZEwtcllXYVJpazVsdFdQRjZLN085ckg3aFhWOGJhX190dTN3TmVJMEcxeUw?oc=5\" target=\"_blank\">Tirta Utama Jateng Perkuat Layanan Air Bersih Wonogiri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RRI.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlk4NXJSWl9BUDNTSUVDSi04TlJMdFFpdlBnT1BBRmhnbkdqOUh3UXByTGFtT1lXbUFmMS04bmZ5SDdWUFh0TGZ2RW1DTmRKcS1hT3dxTjl5bmZiZ1dpbzJ6X2xFZEwtcllXYVJpazVsdFdQRjZLN085ckg3aFhWOGJhX190dTN3TmVJMEcxeUw?oc=5",
+      "published": "Tue, 20 Jan 2026 10:19:00 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Harga Sewa Booth Kontainer di Kawasan Tirta Kalimalang Dinilai ‘Mencekik’ Pelaku UMKM - radarbekasi.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORzJoSWVZWGJQTmN1MEtRMUF1LTRnM0g2V0VkRndfVU12RlRHdHIyTW9pZlA0aFRrc0txR0JTcUIzTVpxd1hyVVhGc19Vc21KVmFJcVMtTkVsWnB4ZzdJaHBkTjBJcDdrdzFoMzN6VFZ4S01LSFZGbFVpRmFxcVZEVERMVms1dnA4NjEzb1RjaHRjb01GMF92dE1reU1tLWJxbkxORFdVejA4ZnVObkVSWUh1elBzUUUxZFE?oc=5\" target=\"_blank\">Harga Sewa Booth Kontainer di Kawasan Tirta Kalimalang Dinilai ‘Mencekik’ Pelaku UMKM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">radarbekasi.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORzJoSWVZWGJQTmN1MEtRMUF1LTRnM0g2V0VkRndfVU12RlRHdHIyTW9pZlA0aFRrc0txR0JTcUIzTVpxd1hyVVhGc19Vc21KVmFJcVMtTkVsWnB4ZzdJaHBkTjBJcDdrdzFoMzN6VFZ4S01LSFZGbFVpRmFxcVZEVERMVms1dnA4NjEzb1RjaHRjb01GMF92dE1reU1tLWJxbkxORFdVejA4ZnVObkVSWUh1elBzUUUxZFE?oc=5",
+      "published": "Tue, 20 Jan 2026 11:58:21 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Polisi ringkus tiga pelaku pencurian besi ulir di Kapuas - kalteng.antaranews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHRjZUdzbWQ2eWxvR1B5MFlJVFcya0YyaDlVTmpqVjJVNjVFM3N4QzU3dWFGVHBjZ2k3M3BMRWkxdXRLc3gxZlJrSlBXRlQ0MGJrNU84dEp5QzFLYm5VeG5qZlNyUVh3S21Qb0FUQlBUX2lqZWJyR3NkMDNUNnhTWlVVN1c3enFGaU1UaGxpcTdFWC04U0ZpU2dQaDFTYnYyRlB6VTE3aXLSAagBQVVfeXFMT2x0Y2VHc21kNnlsb0dQeTBZSVRXMmtGMmg5VU5qalYyVTY1RTNzeEM1N3VhRlRwY2dpNzNwTEVpMXV0S3N4MWZSa0pQV0ZUNDBiazVPOHRKeUMxS2JuVXhuamZTclFYd0ttUG9BVEJQVF9pamVickdzZDAzVDZ4U1pVVTdXN3pxRmlNVGhsaXE3RVgtOFNGaVNnUGgxU2J2MkZQelUxN2ly?oc=5\" target=\"_blank\">Polisi ringkus tiga pelaku pencurian besi ulir di Kapuas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kalteng.antaranews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHRjZUdzbWQ2eWxvR1B5MFlJVFcya0YyaDlVTmpqVjJVNjVFM3N4QzU3dWFGVHBjZ2k3M3BMRWkxdXRLc3gxZlJrSlBXRlQ0MGJrNU84dEp5QzFLYm5VeG5qZlNyUVh3S21Qb0FUQlBUX2lqZWJyR3NkMDNUNnhTWlVVN1c3enFGaU1UaGxpcTdFWC04U0ZpU2dQaDFTYnYyRlB6VTE3aXLSAagBQVVfeXFMT2x0Y2VHc21kNnlsb0dQeTBZSVRXMmtGMmg5VU5qalYyVTY1RTNzeEM1N3VhRlRwY2dpNzNwTEVpMXV0S3N4MWZSa0pQV0ZUNDBiazVPOHRKeUMxS2JuVXhuamZTclFYd0ttUG9BVEJQVF9pamVickdzZDAzVDZ4U1pVVTdXN3pxRmlNVGhsaXE3RVgtOFNGaVNnUGgxU2J2MkZQelUxN2ly?oc=5",
+      "published": "Tue, 20 Jan 2026 13:02:50 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Pererat Kemitraan, Dandim Dewa Made DJ Sembangi PT Tirta Investama Airmadidi - elnusanews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDNIQng3YjA5Q2lJMWJtaUhHMVJlOVpOcGliT2ZyS0hiMEtZWEwwLWtPWHpPTEtyUC1ORzZabVljdkJTZXVQQjktU3N4bnRIRFNTaU4zMzBIbVlhOUdEZUtoaDRQYzhoQUtNbmxrXy1MWDg0OEl6eFlRbGVJUzMyUDVB?oc=5\" target=\"_blank\">Pererat Kemitraan, Dandim Dewa Made DJ Sembangi PT Tirta Investama Airmadidi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elnusanews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDNIQng3YjA5Q2lJMWJtaUhHMVJlOVpOcGliT2ZyS0hiMEtZWEwwLWtPWHpPTEtyUC1ORzZabVljdkJTZXVQQjktU3N4bnRIRFNTaU4zMzBIbVlhOUdEZUtoaDRQYzhoQUtNbmxrXy1MWDg0OEl6eFlRbGVJUzMyUDVB?oc=5",
+      "published": "Tue, 20 Jan 2026 09:19:00 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Proyek JDU Perumda Delta Tirta Disorot, LSM Laporkan Dugaan Kerugian Negara Rp. 16,9 Miliar ke Mabes Polri - targetberita.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNaDQtQWg1R0pFMXhzRktfeHl4UFhESUVrYld0dkJBNmN2aFJ4RGlWQU9JWVliNkdPOFlLV2REa2cwejFyMVFVSTRYMmxLOFVwT3hQX3JhZ05QTGhLOHRlcVpUXzBnRi1PZ3FjWHEzaUtkUmtWUTlHeTNaVEtTbmV2MjlxbHg3Q01LUTBUbG5DLXNYWHBpUkJ5a1Q3NGFEbC0zelk5NmM4U3BIdG5KWDhRVTFkcExGMHdvOG1Bb0JzZ0dPT3duV1U2RFFBbw?oc=5\" target=\"_blank\">Proyek JDU Perumda Delta Tirta Disorot, LSM Laporkan Dugaan Kerugian Negara Rp. 16,9 Miliar ke Mabes Polri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">targetberita.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaDQtQWg1R0pFMXhzRktfeHl4UFhESUVrYld0dkJBNmN2aFJ4RGlWQU9JWVliNkdPOFlLV2REa2cwejFyMVFVSTRYMmxLOFVwT3hQX3JhZ05QTGhLOHRlcVpUXzBnRi1PZ3FjWHEzaUtkUmtWUTlHeTNaVEtTbmV2MjlxbHg3Q01LUTBUbG5DLXNYWHBpUkJ5a1Q3NGFEbC0zelk5NmM4U3BIdG5KWDhRVTFkcExGMHdvOG1Bb0JzZ0dPT3duV1U2RFFBbw?oc=5",
+      "published": "Tue, 20 Jan 2026 01:55:01 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Pura Manik Tirta di Timuhun Tertimbun Longsor - fajarbali.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA1YWc3UGNVdzF3TXM4WWNlZ00tOWFYWkNGRXNfUWpwWHgxOHd6ZGYxNGVTMXhJWm9Rams3ckwyRFBicEkzS0RvSlhCbDZvb0tvb3J0ejNwV1FGUjJSRGk5bnRIUWNHNHRRWTgxNGVxMlA1X3FKaTkw?oc=5\" target=\"_blank\">Pura Manik Tirta di Timuhun Tertimbun Longsor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fajarbali.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1YWc3UGNVdzF3TXM4WWNlZ00tOWFYWkNGRXNfUWpwWHgxOHd6ZGYxNGVTMXhJWm9Rams3ckwyRFBicEkzS0RvSlhCbDZvb0tvb3J0ejNwV1FGUjJSRGk5bnRIUWNHNHRRWTgxNGVxMlA1X3FKaTkw?oc=5",
+      "published": "Mon, 19 Jan 2026 21:56:54 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Nelayan Soroti Pertemuan PT Kilau Anugerah Bahari, Ketua Nelayan Diusir Oknum TNI - Patra Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0xHT3VlMUhsRGkzb0pHMlk0TW9QVVJEeXBvTF9sd3FPYXk5eXNoOEpJamRRTnNQcjRGbjk3cFVTbnEweWsxNlMzb19pcGZ2VEJQU0NYUmlsd2xQdFhKdkJKa3NlclVZNDQtZHRhZldyOWJWNldyT25wc3FDSGN4VV9yTFhwQVFTazFJTDlqaGxvalpwTmViZ2locS1fd1IxelN5ZndUNm1PWE1F?oc=5\" target=\"_blank\">Nelayan Soroti Pertemuan PT Kilau Anugerah Bahari, Ketua Nelayan Diusir Oknum TNI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patra Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0xHT3VlMUhsRGkzb0pHMlk0TW9QVVJEeXBvTF9sd3FPYXk5eXNoOEpJamRRTnNQcjRGbjk3cFVTbnEweWsxNlMzb19pcGZ2VEJQU0NYUmlsd2xQdFhKdkJKa3NlclVZNDQtZHRhZldyOWJWNldyT25wc3FDSGN4VV9yTFhwQVFTazFJTDlqaGxvalpwTmViZ2locS1fd1IxelN5ZndUNm1PWE1F?oc=5",
+      "published": "Mon, 19 Jan 2026 16:00:28 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Audiensi dengan Bupati Wonogiri, Komisaris dan Direksi TUJT Bahas Kolaborasi Pemanfaatan SPAM Regional Wosusokas - Suara Merdeka - Suara Merdeka",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQczhHSVM5SE44TTBGTklKejEzOERPd18yaHVOazZGc1BZUVc3VlZFSzFYdzNSNkpNcFBzNWEzQ3lZcDJfM2dJazFvYVBja3kySFo5Z2VmbXpFaEFERExaaDZCT3k1WDNETGQtQXhTZ2NQbkZOTWFJd0pXVE01OEZiSjlnTnJERXNKeVJONjd6czRXTUVhYlBMaVVIT0M3bHI0cWY1WHhOTFBDQXV2M1JTVWpMcGNrZnZUR3NfTXR3WnFycWNRSjM2dWNsbUMtYnpJTGVNV0Y1TXFtMm9qeEhlcDV2TkFnazlIMTBQQnhBWmZMTWlmQ1HSAfsBQVVfeXFMTXpfbkFQT2NqdWoyaTdUcmpZUmdOV1VjUE41WVplLVRfN0M5eWJGRFdzWERnTWlQYzllVVJMTjFxTGY4MTlWVG1aTi1INXI3UXpFSzU0N1pPa05oUWRuOGRlZ2hEQVFsZmR0TnQ2dE1OUTNpQ1B4NHNRVXg2SFZIeEJUVXM4aFJKakJyU21zUHVzeW9xdUNEOVVEZVhDVC1aZm01ZVVIdTgtSHhNYV9sQWYyWUUxb0VOc2ZWdXROMldPSkZ5QUpxTXB3ektvUDlKX2d6b1BxbWtwd3dscU5yWjUtN1Jha2xxQi1QN3U4YUp3aDc5MlVDSVNkWlE?oc=5\" target=\"_blank\">Audiensi dengan Bupati Wonogiri, Komisaris dan Direksi TUJT Bahas Kolaborasi Pemanfaatan SPAM Regional Wosusokas - Suara Merdeka</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Suara Merdeka</font>",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQczhHSVM5SE44TTBGTklKejEzOERPd18yaHVOazZGc1BZUVc3VlZFSzFYdzNSNkpNcFBzNWEzQ3lZcDJfM2dJazFvYVBja3kySFo5Z2VmbXpFaEFERExaaDZCT3k1WDNETGQtQXhTZ2NQbkZOTWFJd0pXVE01OEZiSjlnTnJERXNKeVJONjd6czRXTUVhYlBMaVVIT0M3bHI0cWY1WHhOTFBDQXV2M1JTVWpMcGNrZnZUR3NfTXR3WnFycWNRSjM2dWNsbUMtYnpJTGVNV0Y1TXFtMm9qeEhlcDV2TkFnazlIMTBQQnhBWmZMTWlmQ1HSAfsBQVVfeXFMTXpfbkFQT2NqdWoyaTdUcmpZUmdOV1VjUE41WVplLVRfN0M5eWJGRFdzWERnTWlQYzllVVJMTjFxTGY4MTlWVG1aTi1INXI3UXpFSzU0N1pPa05oUWRuOGRlZ2hEQVFsZmR0TnQ2dE1OUTNpQ1B4NHNRVXg2SFZIeEJUVXM4aFJKakJyU21zUHVzeW9xdUNEOVVEZVhDVC1aZm01ZVVIdTgtSHhNYV9sQWYyWUUxb0VOc2ZWdXROMldPSkZ5QUpxTXB3ektvUDlKX2d6b1BxbWtwd3dscU5yWjUtN1Jha2xxQi1QN3U4YUp3aDc5MlVDSVNkWlE?oc=5",
+      "published": "Mon, 19 Jan 2026 12:22:00 GMT",
+      "query": "PT TIRT",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    }
+  ],
+  "all_keywords": [
+    "🔴 CORPORATE_CRISIS: 'korupsi'",
+    "🔴 OPERATIONAL_INDONESIAN: 'bencana'"
+  ],
+  "timestamp": "2026-01-21T11:43:46.962727"
+}

@@ -1,0 +1,469 @@
+{
+  "stock": "ASII",
+  "score": -6.1,
+  "category": "CRITICAL",
+  "articles_found": 125,
+  "critical_count": 23,
+  "negative_count": 0,
+  "recommendation": "🔴 IMMEDIATE EXIT - 23 critical alerts",
+  "critical_articles": [
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Anjlok Usai Izin Tambang Emas Martabe Dicabut Prabowo - Katadata.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGs0Z3Y5Y2Vrd0FGOXVQaUJ0ckJ0d3lkUHNqUXdRWm1melZ3cGRfSXB5c1k4TjZDc0llSzkxellmd1ljWVVPM1h1NzZfTEVzbF9yblhTZDl4ekc5SUx1QlJRcmxyT2szVUNpYmY1dm9UVnJaNjdvSUh4a0tnWGhEU041TFBtaXN6aEYzSl8zcUx1WkRFNDFiMFJXd29ab0p0QmExUFh2OTJJZklfX0pjcC03WXpJaUtIVE10enNjd0E1VEJv0gHKAUFVX3lxTE83dXJRTk9BQ2dqQkNkci1LNGtIUW02WEFiV3ZHMmpOR0xxVjlzMWpRY1J0eEhudHJaa0V2czFFMngycnhIdF9DVWhUeUl5azJzWE5vaWpVV1ZoYnBYYVFHWWNQWjBPc1RVb3FLUTVnLUJzZ3RIRzkyVkxHMHBnVFlmTnM2cEFkLW83dEpxdl9SaWU5VjlkREdlS29aRVljamh2eXNaV2VHeUl1bUpTbVEwam1hVHNDZEc3Y3c0ekpRbGtIenZDT1VPVnc?oc=5\" target=\"_blank\">Saham UNTR dan ASII Anjlok Usai Izin Tambang Emas Martabe Dicabut Prabowo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Katadata.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGs0Z3Y5Y2Vrd0FGOXVQaUJ0ckJ0d3lkUHNqUXdRWm1melZ3cGRfSXB5c1k4TjZDc0llSzkxellmd1ljWVVPM1h1NzZfTEVzbF9yblhTZDl4ekc5SUx1QlJRcmxyT2szVUNpYmY1dm9UVnJaNjdvSUh4a0tnWGhEU041TFBtaXN6aEYzSl8zcUx1WkRFNDFiMFJXd29ab0p0QmExUFh2OTJJZklfX0pjcC03WXpJaUtIVE10enNjd0E1VEJv0gHKAUFVX3lxTE83dXJRTk9BQ2dqQkNkci1LNGtIUW02WEFiV3ZHMmpOR0xxVjlzMWpRY1J0eEhudHJaa0V2czFFMngycnhIdF9DVWhUeUl5azJzWE5vaWpVV1ZoYnBYYVFHWWNQWjBPc1RVb3FLUTVnLUJzZ3RIRzkyVkxHMHBnVFlmTnM2cEFkLW83dEpxdl9SaWU5VjlkREdlS29aRVljamh2eXNaV2VHeUl1bUpTbVEwam1hVHNDZEc3Y3c0ekpRbGtIenZDT1VPVnc?oc=5",
+      "published": "Wed, 21 Jan 2026 02:43:00 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'anjlok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Anjlok, Pasar Merespons Pencabutan Izin Tambang Agincourt - kontan.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVJ6YzdWcVBSamxkdXBaaF9MWm9IZHBFX1QzS2FNbW1wX3ctTE85dW9nQlc1MEZRMkV0dGM1NENuYzJJYkpMcFpWTVU1Sml4OFZHbi1vVEpBem03SW02MWJJM1lOb1VHVDVacVdpNUlucnJGYUJvQ0NmWFhEQUdmams5V0JDeXVkRENIUGx0UkZmNW1TM1JTd0dyMTl5UUZNWHNrZnZUN2JCa1AtWWYtZEZn0gGqAUFVX3lxTE41dlBfWjROLVZpd3ppSlRWZU1iVnEydnBoQXF4VGZyc0pkcGVPR0NUZnV3S2JZMmxacDRIOFk4SEVzSE9HMWgzZVNUWEpaR1ZtbF8waTUyNU15My14UXNhcVlhNExlc3BBUktwbGJ3RkRhcHQxOTNzTDR2X0N4Ykd1bmhrYV9PVlRpTElQNHVoVFZZZkpsS05yUVRRZkwxLV83WEVOU0plejdn?oc=5\" target=\"_blank\">Saham UNTR dan ASII Anjlok, Pasar Merespons Pencabutan Izin Tambang Agincourt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kontan.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVJ6YzdWcVBSamxkdXBaaF9MWm9IZHBFX1QzS2FNbW1wX3ctTE85dW9nQlc1MEZRMkV0dGM1NENuYzJJYkpMcFpWTVU1Sml4OFZHbi1vVEpBem03SW02MWJJM1lOb1VHVDVacVdpNUlucnJGYUJvQ0NmWFhEQUdmams5V0JDeXVkRENIUGx0UkZmNW1TM1JTd0dyMTl5UUZNWHNrZnZUN2JCa1AtWWYtZEZn0gGqAUFVX3lxTE41dlBfWjROLVZpd3ppSlRWZU1iVnEydnBoQXF4VGZyc0pkcGVPR0NUZnV3S2JZMmxacDRIOFk4SEVzSE9HMWgzZVNUWEpaR1ZtbF8waTUyNU15My14UXNhcVlhNExlc3BBUktwbGJ3RkRhcHQxOTNzTDR2X0N4Ykd1bmhrYV9PVlRpTElQNHVoVFZZZkpsS05yUVRRZkwxLV83WEVOU0plejdn?oc=5",
+      "published": "Wed, 21 Jan 2026 03:54:44 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'pencabutan izin'",
+        "🟡 NEGATIVE: 'anjlok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR-ASII Rontok Usai Izin Agincourt Resources Dicabut - detikFinance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORTBKa2RDOGxPVjFOY3ZBUy14Ym1aZTRpdTJ3VHZHTmoyVndOSENVRzA3OEowNTJNcTdPbGJkaWdjNk1jUVBMTWMwMzlPSFY4dlUxb29vMDU2bC1rdjJ1T0ozSWt6Y0d6REc1NXl6a2lncUJLNVZiMV95d0RrdWdoM1VpQ0pMRDNvLWMtcGJYUUdJOXBCMlUtM2tuNENSS2h6YlpBaHFfd2lqcEE4M3ZpRjZn0gG3AUFVX3lxTFBjN1prekNZNkI5WEtlVGZXV3hqNldGbzROYzJsMEVfSXZVZ25IZ0p1MDVocGxBRHFnUDNIQm04VElRM0hGTzM0NHJIVVlYaXhzRzRuX213U09DdkRXT0lNUDZUdHBxbnNGVjY3ZjJJSk9QVlg5TVNrQkFUOTRTQ1dob3hDaUJXMlpDd2ZrNGZybmpENHpJUkJuSHVLS1ZweF95NDBQa2dhZlktRXZTcjhlNmdYUW5iOA?oc=5\" target=\"_blank\">Saham UNTR-ASII Rontok Usai Izin Agincourt Resources Dicabut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">detikFinance</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTBKa2RDOGxPVjFOY3ZBUy14Ym1aZTRpdTJ3VHZHTmoyVndOSENVRzA3OEowNTJNcTdPbGJkaWdjNk1jUVBMTWMwMzlPSFY4dlUxb29vMDU2bC1rdjJ1T0ozSWt6Y0d6REc1NXl6a2lncUJLNVZiMV95d0RrdWdoM1VpQ0pMRDNvLWMtcGJYUUdJOXBCMlUtM2tuNENSS2h6YlpBaHFfd2lqcEE4M3ZpRjZn0gG3AUFVX3lxTFBjN1prekNZNkI5WEtlVGZXV3hqNldGbzROYzJsMEVfSXZVZ25IZ0p1MDVocGxBRHFnUDNIQm04VElRM0hGTzM0NHJIVVlYaXhzRzRuX213U09DdkRXT0lNUDZUdHBxbnNGVjY3ZjJJSk9QVlg5TVNrQkFUOTRTQ1dob3hDaUJXMlpDd2ZrNGZybmpENHpJUkJuSHVLS1ZweF95NDBQa2dhZlktRXZTcjhlNmdYUW5iOA?oc=5",
+      "published": "Wed, 21 Jan 2026 04:26:09 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'rontok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Daftar 28 Perusahaan yang Izinnya Dicabut Prabowo: Ada UNTR,ASII, dan Toba Pulp Lestari - Ihram.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPT19vN0VpSC0zUVYza1lWVnltUjBBNjl6SDN4bXpPZkg4Wmw0Z0Fub0VOdHJQM2QwSTZoLWVkaEhwekJFc3FkSm1wQ1I5Sm16TEE4WHgzREhnUnhqMlNZWDcyOGk3ZFpaelRSTnd2YzFEeS15ZXB3SXFyRHp2QnkySzN6eUVia0loZFVfY3poVTBXcTZmcXZfaXNJQmlXaElXRVBUZ0syaw?oc=5\" target=\"_blank\">Daftar 28 Perusahaan yang Izinnya Dicabut Prabowo: Ada UNTR,ASII, dan Toba Pulp Lestari</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ihram.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT19vN0VpSC0zUVYza1lWVnltUjBBNjl6SDN4bXpPZkg4Wmw0Z0Fub0VOdHJQM2QwSTZoLWVkaEhwekJFc3FkSm1wQ1I5Sm16TEE4WHgzREhnUnhqMlNZWDcyOGk3ZFpaelRSTnd2YzFEeS15ZXB3SXFyRHp2QnkySzN6eUVia0loZFVfY3poVTBXcTZmcXZfaXNJQmlXaElXRVBUZ0syaw?oc=5",
+      "published": "Wed, 21 Jan 2026 03:47:50 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Kompak Ambruk Usai Izin Tambang Martabe Dicabut Prabowo - Warta Ekonomi",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2FIeGM3OUtmTWQ3eUo3TmlySE9WTndKMkEzbWFhQ3JacWF5VUlCdFNJU2lIZVRFSnZiczRyVEZnRWFRcVdxeU1DcXNDWGpnZGVtamNFbTlRRTR6WWlJVFllTUZmcm9Tak9kLS1sMXRlV0NvM0pXMzEyd0lyLTJpVm9EM0lmN3FkdWhncFlELXhRNmV1OGtyOTExai1RSWNvRGRtN2FpR20wODFzclVKSUJEWdIBuAFBVV95cUxPYjRraGJ0UzZPb0UzRVNmYzFnQWs4ZmdXQks2NUczaWhpUlFJdXZPNVNVNDBlZGRLeHlUV2ZCRW9qcmpxaEkxNVdTZDFXMGhSZ25lZUhwU0xIUlI0OWhpZzRoUGl3TWhUMWhacS1oN2dBZGY0QWJMbk1mMW9Yd05IbDZnYWx4c2FUbXJJLVFVY0RYTDM0Q3VsNUhZTkdaQXQtbjJha2NJbE8ydmFJZGEwZW9JcE1OcmYt?oc=5\" target=\"_blank\">Saham UNTR dan ASII Kompak Ambruk Usai Izin Tambang Martabe Dicabut Prabowo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Warta Ekonomi</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2FIeGM3OUtmTWQ3eUo3TmlySE9WTndKMkEzbWFhQ3JacWF5VUlCdFNJU2lIZVRFSnZiczRyVEZnRWFRcVdxeU1DcXNDWGpnZGVtamNFbTlRRTR6WWlJVFllTUZmcm9Tak9kLS1sMXRlV0NvM0pXMzEyd0lyLTJpVm9EM0lmN3FkdWhncFlELXhRNmV1OGtyOTExai1RSWNvRGRtN2FpR20wODFzclVKSUJEWdIBuAFBVV95cUxPYjRraGJ0UzZPb0UzRVNmYzFnQWs4ZmdXQks2NUczaWhpUlFJdXZPNVNVNDBlZGRLeHlUV2ZCRW9qcmpxaEkxNVdTZDFXMGhSZ25lZUhwU0xIUlI0OWhpZzRoUGl3TWhUMWhacS1oN2dBZGY0QWJMbk1mMW9Yd05IbDZnYWx4c2FUbXJJLVFVY0RYTDM0Q3VsNUhZTkdaQXQtbjJha2NJbE8ydmFJZGEwZW9JcE1OcmYt?oc=5",
+      "published": "Wed, 21 Jan 2026 03:55:00 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'ambruk'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Indeks Bisnis-27 Ditutup di Zona Hijau, Saham ASII dan DSNG Jadi Penggerak - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnNDRE1vdGd5RHk5NnVLNndPSENmZnEyeG03S1NaR1RSTGVOOUdaU18zNERkVE9pYVJLMVEzRE5hQXJpLVBtQl9RV2RqNDh2SW5MTnNWQVZYN1BCQ0dTQ0Q2Sl9qWmNzS0dOS3JobHJnV0ZsNGh1OGtwOHc0MUw3MWdOVjRqWlBMYW5HRTRndDdtaTk4bFNsZ0VqOVFtTzBVY0Y5LVhCTi1zRGQ5Vm1BQ21qWFJOZXdMRF8zNzgwMnk?oc=5\" target=\"_blank\">Indeks Bisnis-27 Ditutup di Zona Hijau, Saham ASII dan DSNG Jadi Penggerak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnNDRE1vdGd5RHk5NnVLNndPSENmZnEyeG03S1NaR1RSTGVOOUdaU18zNERkVE9pYVJLMVEzRE5hQXJpLVBtQl9RV2RqNDh2SW5MTnNWQVZYN1BCQ0dTQ0Q2Sl9qWmNzS0dOS3JobHJnV0ZsNGh1OGtwOHc0MUw3MWdOVjRqWlBMYW5HRTRndDdtaTk4bFNsZ0VqOVFtTzBVY0Y5LVhCTi1zRGQ5Vm1BQ21qWFJOZXdMRF8zNzgwMnk?oc=5",
+      "published": "Mon, 19 Jan 2026 10:01:41 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "UNTR, ASII Terjun Bebas: Izin Tambang Agincourt Dicabut, Investor Panik? - Shoesmart.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1ZPODIzcWNiNXFrOFpMWnFtMnNYUzRIRWd5VFJoX1VhNnJTWkxLREV5RU42Rk1qSXpoVVB4ZTlOSXJzUXBOcmU4bHhBbW1iVTRoSmRacDFNWG50QVhDVWRoUnFPRVBzVE1LY1F1WFdXbzJaM0tjcXZhc1JfS2o4bXZxWHJNMkJsNDZhM0pEZlQwVnJjU1VF?oc=5\" target=\"_blank\">UNTR, ASII Terjun Bebas: Izin Tambang Agincourt Dicabut, Investor Panik?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shoesmart.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1ZPODIzcWNiNXFrOFpMWnFtMnNYUzRIRWd5VFJoX1VhNnJTWkxLREV5RU42Rk1qSXpoVVB4ZTlOSXJzUXBOcmU4bHhBbW1iVTRoSmRacDFNWG50QVhDVWRoUnFPRVBzVE1LY1F1WFdXbzJaM0tjcXZhc1JfS2o4bXZxWHJNMkJsNDZhM0pEZlQwVnJjU1VF?oc=5",
+      "published": "Wed, 21 Jan 2026 04:38:02 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'terjun bebas'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Ditutup Menguat ke 9.133, Saham ASII Melesat, INCO Tertekan Harga Nikel, BNBR Siapkan Right Issue - kalimantanlive.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0NKRUItN3JVYkdXcmNfcXpBdWhEbnEyc2NteTdqbHZGRDRlOURzdzNuSllNUFh3ekxMSFZuYXlOZGkybWRwODA4NWlBYTNXUnQyWFdjWjJ4TzRIZEpFb2NTUWlJa0RzVzJkdmZYTE5SZzJXbnNubHdoMnc5enlMSnpTMk16MVc4WUhuYjlGVG9UZGIzbDRMX3hWdG5jVHZKby03cnNuZzF3ck90VUNXeFhwUHZTbV9xWjJsYUhCYzlPTXdheGx6MlFOZHRmZGFodmFXZTBaZDZzZzYt0gHcAUFVX3lxTE1TQ0pFQi03clViR1dyY19xekF1aERucTJzY215N2psdkZENGU5RHN3M25KWU1QWHd6TExIVm5heU5kaTJtZHA4MDg1aUFhM1dSdDJYV2NaMnhPNEhkSkVvY1NRaUlrRHNXMmR2ZlhMTlJnMlduc25sd2gydzl6eUxKelMyTXoxVzhZSG5iOUZUb1RkYjNsNExfeFZ0bmNUdkpvLTdyc25nMXdyT3RVQ1d4WHBQdlNtX3FaMmxhSEJjOU9Nd2F4bHoyUU5kdGZkYWh2YVdlMFpkNnNnNi0?oc=5\" target=\"_blank\">IHSG Ditutup Menguat ke 9.133, Saham ASII Melesat, INCO Tertekan Harga Nikel, BNBR Siapkan Right Issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kalimantanlive.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0NKRUItN3JVYkdXcmNfcXpBdWhEbnEyc2NteTdqbHZGRDRlOURzdzNuSllNUFh3ekxMSFZuYXlOZGkybWRwODA4NWlBYTNXUnQyWFdjWjJ4TzRIZEpFb2NTUWlJa0RzVzJkdmZYTE5SZzJXbnNubHdoMnc5enlMSnpTMk16MVc4WUhuYjlGVG9UZGIzbDRMX3hWdG5jVHZKby03cnNuZzF3ck90VUNXeFhwUHZTbV9xWjJsYUhCYzlPTXdheGx6MlFOZHRmZGFodmFXZTBaZDZzZzYt0gHcAUFVX3lxTE1TQ0pFQi03clViR1dyY19xekF1aERucTJzY215N2psdkZENGU5RHN3M25KWU1QWHd6TExIVm5heU5kaTJtZHA4MDg1aUFhM1dSdDJYV2NaMnhPNEhkSkVvY1NRaUlrRHNXMmR2ZlhMTlJnMlduc25sd2gydzl6eUxKelMyTXoxVzhZSG5iOUZUb1RkYjNsNExfeFZ0bmNUdkpvLTdyc25nMXdyT3RVQ1d4WHBQdlNtX3FaMmxhSEJjOU9Nd2F4bHoyUU5kdGZkYWh2YVdlMFpkNnNnNi0?oc=5",
+      "published": "Tue, 20 Jan 2026 03:15:49 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'",
+        "🟡 NEGATIVE: 'tertekan'",
+        "🟢 POSITIVE: 'menguat'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR-ASII Rontok Usai Izin Agincourt Resources Dicabut - detikFinance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORTBKa2RDOGxPVjFOY3ZBUy14Ym1aZTRpdTJ3VHZHTmoyVndOSENVRzA3OEowNTJNcTdPbGJkaWdjNk1jUVBMTWMwMzlPSFY4dlUxb29vMDU2bC1rdjJ1T0ozSWt6Y0d6REc1NXl6a2lncUJLNVZiMV95d0RrdWdoM1VpQ0pMRDNvLWMtcGJYUUdJOXBCMlUtM2tuNENSS2h6YlpBaHFfd2lqcEE4M3ZpRjZn0gG3AUFVX3lxTFBjN1prekNZNkI5WEtlVGZXV3hqNldGbzROYzJsMEVfSXZVZ25IZ0p1MDVocGxBRHFnUDNIQm04VElRM0hGTzM0NHJIVVlYaXhzRzRuX213U09DdkRXT0lNUDZUdHBxbnNGVjY3ZjJJSk9QVlg5TVNrQkFUOTRTQ1dob3hDaUJXMlpDd2ZrNGZybmpENHpJUkJuSHVLS1ZweF95NDBQa2dhZlktRXZTcjhlNmdYUW5iOA?oc=5\" target=\"_blank\">Saham UNTR-ASII Rontok Usai Izin Agincourt Resources Dicabut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">detikFinance</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTBKa2RDOGxPVjFOY3ZBUy14Ym1aZTRpdTJ3VHZHTmoyVndOSENVRzA3OEowNTJNcTdPbGJkaWdjNk1jUVBMTWMwMzlPSFY4dlUxb29vMDU2bC1rdjJ1T0ozSWt6Y0d6REc1NXl6a2lncUJLNVZiMV95d0RrdWdoM1VpQ0pMRDNvLWMtcGJYUUdJOXBCMlUtM2tuNENSS2h6YlpBaHFfd2lqcEE4M3ZpRjZn0gG3AUFVX3lxTFBjN1prekNZNkI5WEtlVGZXV3hqNldGbzROYzJsMEVfSXZVZ25IZ0p1MDVocGxBRHFnUDNIQm04VElRM0hGTzM0NHJIVVlYaXhzRzRuX213U09DdkRXT0lNUDZUdHBxbnNGVjY3ZjJJSk9QVlg5TVNrQkFUOTRTQ1dob3hDaUJXMlpDd2ZrNGZybmpENHpJUkJuSHVLS1ZweF95NDBQa2dhZlktRXZTcjhlNmdYUW5iOA?oc=5",
+      "published": "Wed, 21 Jan 2026 04:26:09 GMT",
+      "query": "ASII bursa",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'rontok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Anjlok Usai Izin Tambang Emas Martabe Dicabut Prabowo - Katadata.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGs0Z3Y5Y2Vrd0FGOXVQaUJ0ckJ0d3lkUHNqUXdRWm1melZ3cGRfSXB5c1k4TjZDc0llSzkxellmd1ljWVVPM1h1NzZfTEVzbF9yblhTZDl4ekc5SUx1QlJRcmxyT2szVUNpYmY1dm9UVnJaNjdvSUh4a0tnWGhEU041TFBtaXN6aEYzSl8zcUx1WkRFNDFiMFJXd29ab0p0QmExUFh2OTJJZklfX0pjcC03WXpJaUtIVE10enNjd0E1VEJv0gHKAUFVX3lxTE83dXJRTk9BQ2dqQkNkci1LNGtIUW02WEFiV3ZHMmpOR0xxVjlzMWpRY1J0eEhudHJaa0V2czFFMngycnhIdF9DVWhUeUl5azJzWE5vaWpVV1ZoYnBYYVFHWWNQWjBPc1RVb3FLUTVnLUJzZ3RIRzkyVkxHMHBnVFlmTnM2cEFkLW83dEpxdl9SaWU5VjlkREdlS29aRVljamh2eXNaV2VHeUl1bUpTbVEwam1hVHNDZEc3Y3c0ekpRbGtIenZDT1VPVnc?oc=5\" target=\"_blank\">Saham UNTR dan ASII Anjlok Usai Izin Tambang Emas Martabe Dicabut Prabowo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Katadata.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGs0Z3Y5Y2Vrd0FGOXVQaUJ0ckJ0d3lkUHNqUXdRWm1melZ3cGRfSXB5c1k4TjZDc0llSzkxellmd1ljWVVPM1h1NzZfTEVzbF9yblhTZDl4ekc5SUx1QlJRcmxyT2szVUNpYmY1dm9UVnJaNjdvSUh4a0tnWGhEU041TFBtaXN6aEYzSl8zcUx1WkRFNDFiMFJXd29ab0p0QmExUFh2OTJJZklfX0pjcC03WXpJaUtIVE10enNjd0E1VEJv0gHKAUFVX3lxTE83dXJRTk9BQ2dqQkNkci1LNGtIUW02WEFiV3ZHMmpOR0xxVjlzMWpRY1J0eEhudHJaa0V2czFFMngycnhIdF9DVWhUeUl5azJzWE5vaWpVV1ZoYnBYYVFHWWNQWjBPc1RVb3FLUTVnLUJzZ3RIRzkyVkxHMHBnVFlmTnM2cEFkLW83dEpxdl9SaWU5VjlkREdlS29aRVljamh2eXNaV2VHeUl1bUpTbVEwam1hVHNDZEc3Y3c0ekpRbGtIenZDT1VPVnc?oc=5",
+      "published": "Wed, 21 Jan 2026 02:43:00 GMT",
+      "query": "ASII bursa",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'anjlok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Daftar 28 Perusahaan yang Izinnya Dicabut Prabowo: Ada UNTR,ASII, dan Toba Pulp Lestari - Ihram.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPT19vN0VpSC0zUVYza1lWVnltUjBBNjl6SDN4bXpPZkg4Wmw0Z0Fub0VOdHJQM2QwSTZoLWVkaEhwekJFc3FkSm1wQ1I5Sm16TEE4WHgzREhnUnhqMlNZWDcyOGk3ZFpaelRSTnd2YzFEeS15ZXB3SXFyRHp2QnkySzN6eUVia0loZFVfY3poVTBXcTZmcXZfaXNJQmlXaElXRVBUZ0syaw?oc=5\" target=\"_blank\">Daftar 28 Perusahaan yang Izinnya Dicabut Prabowo: Ada UNTR,ASII, dan Toba Pulp Lestari</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ihram.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT19vN0VpSC0zUVYza1lWVnltUjBBNjl6SDN4bXpPZkg4Wmw0Z0Fub0VOdHJQM2QwSTZoLWVkaEhwekJFc3FkSm1wQ1I5Sm16TEE4WHgzREhnUnhqMlNZWDcyOGk3ZFpaelRSTnd2YzFEeS15ZXB3SXFyRHp2QnkySzN6eUVia0loZFVfY3poVTBXcTZmcXZfaXNJQmlXaElXRVBUZ0syaw?oc=5",
+      "published": "Wed, 21 Jan 2026 03:47:50 GMT",
+      "query": "ASII bursa",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Konglomerasi di Balik 28 Perusahaan Dicabut Izin Prabowo, Anak UNTR hingga INRU - Katadata.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkhwQUJTV3FGbTdSVllXMU92WW9HQzlCWmpJdHVrV2JqWXZTNEt1MGxjcXUxOTFkOFI0R3FKel83VjV2MXg0Tkt5Z3E3VW5BMlNJaHdfZHdCajFhbFMtb2Qwb0NLc2lPbGtDUmxIeldUZkFnUlhtdS1CLUItNUd4bXlFMHRDa1ZIVFhmWmFEc080ZW51LTAzTFdzRDNXQ25FVVJxeVVfVFhUNE9BLXh1V1VvUHhSMkFFT1kzUjFHcWd5dFZ6U1ppM2hESdIB0AFBVV95cUxNdlppcVA0YVZ0NjlyWWpXRGMyTmlQNnp2empOYXpSRDFFeHpValhPelYzVm1sNEZ6elpSSmJ0RTVjS1psZ2stSVJwQzJiQ0VyOE9ILXVnbUJFUW5IaUpTRG1vc1A3a1lwQlFsYnV0NzdaU1A3N3RFekxjbXFybkl4NFI3MTNnbUNxaHFFT2ZWaE11SllDVkxEeDNnZG5sWHdLclZMbk9uUWsyb1ZFSEp6WFJlLTBUZWllTHJXZ0ptc0NQQ2huZmxtUGRLb2lGTXd5?oc=5\" target=\"_blank\">Konglomerasi di Balik 28 Perusahaan Dicabut Izin Prabowo, Anak UNTR hingga INRU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Katadata.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkhwQUJTV3FGbTdSVllXMU92WW9HQzlCWmpJdHVrV2JqWXZTNEt1MGxjcXUxOTFkOFI0R3FKel83VjV2MXg0Tkt5Z3E3VW5BMlNJaHdfZHdCajFhbFMtb2Qwb0NLc2lPbGtDUmxIeldUZkFnUlhtdS1CLUItNUd4bXlFMHRDa1ZIVFhmWmFEc080ZW51LTAzTFdzRDNXQ25FVVJxeVVfVFhUNE9BLXh1V1VvUHhSMkFFT1kzUjFHcWd5dFZ6U1ppM2hESdIB0AFBVV95cUxNdlppcVA0YVZ0NjlyWWpXRGMyTmlQNnp2empOYXpSRDFFeHpValhPelYzVm1sNEZ6elpSSmJ0RTVjS1psZ2stSVJwQzJiQ0VyOE9ILXVnbUJFUW5IaUpTRG1vc1A3a1lwQlFsYnV0NzdaU1A3N3RFekxjbXFybkl4NFI3MTNnbUNxaHFFT2ZWaE11SllDVkxEeDNnZG5sWHdLclZMbk9uUWsyb1ZFSEp6WFJlLTBUZWllTHJXZ0ptc0NQQ2huZmxtUGRLb2lGTXd5?oc=5",
+      "published": "Tue, 20 Jan 2026 23:30:00 GMT",
+      "query": "ASII bursa",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Sesi I Ditutup Perkasa di 9.155, Pasar Asia Lemah - KabarBursa.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTRNMzVRR2RDU1VvRHJDR21Nd091OHFxOWNhWUhINTVOOWpyWTV5cnlZOG8ya3M3cnhXSTJoOHYwbDNNaUhjRVBQVkh3SWJ0TU5TaXRXNXd3aEwwSlY2R2hVbjRkRXVQYnMySEkxN1FxVF9XdXA0cU5RRHlMNkVTSFVxYU14MTdPZFlTcndxWjZhQjd2Qk50QlY2MA?oc=5\" target=\"_blank\">IHSG Sesi I Ditutup Perkasa di 9.155, Pasar Asia Lemah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KabarBursa.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTRNMzVRR2RDU1VvRHJDR21Nd091OHFxOWNhWUhINTVOOWpyWTV5cnlZOG8ya3M3cnhXSTJoOHYwbDNNaUhjRVBQVkh3SWJ0TU5TaXRXNXd3aEwwSlY2R2hVbjRkRXVQYnMySEkxN1FxVF9XdXA0cU5RRHlMNkVTSFVxYU14MTdPZFlTcndxWjZhQjd2Qk50QlY2MA?oc=5",
+      "published": "Tue, 20 Jan 2026 05:47:00 GMT",
+      "query": "ASII bursa",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'",
+        "🟡 NEGATIVE: 'lemah'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Kompak Ambruk Usai Izin Tambang Martabe Dicabut Prabowo - Warta Ekonomi",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2FIeGM3OUtmTWQ3eUo3TmlySE9WTndKMkEzbWFhQ3JacWF5VUlCdFNJU2lIZVRFSnZiczRyVEZnRWFRcVdxeU1DcXNDWGpnZGVtamNFbTlRRTR6WWlJVFllTUZmcm9Tak9kLS1sMXRlV0NvM0pXMzEyd0lyLTJpVm9EM0lmN3FkdWhncFlELXhRNmV1OGtyOTExai1RSWNvRGRtN2FpR20wODFzclVKSUJEWdIBuAFBVV95cUxPYjRraGJ0UzZPb0UzRVNmYzFnQWs4ZmdXQks2NUczaWhpUlFJdXZPNVNVNDBlZGRLeHlUV2ZCRW9qcmpxaEkxNVdTZDFXMGhSZ25lZUhwU0xIUlI0OWhpZzRoUGl3TWhUMWhacS1oN2dBZGY0QWJMbk1mMW9Yd05IbDZnYWx4c2FUbXJJLVFVY0RYTDM0Q3VsNUhZTkdaQXQtbjJha2NJbE8ydmFJZGEwZW9JcE1OcmYt?oc=5\" target=\"_blank\">Saham UNTR dan ASII Kompak Ambruk Usai Izin Tambang Martabe Dicabut Prabowo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Warta Ekonomi</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2FIeGM3OUtmTWQ3eUo3TmlySE9WTndKMkEzbWFhQ3JacWF5VUlCdFNJU2lIZVRFSnZiczRyVEZnRWFRcVdxeU1DcXNDWGpnZGVtamNFbTlRRTR6WWlJVFllTUZmcm9Tak9kLS1sMXRlV0NvM0pXMzEyd0lyLTJpVm9EM0lmN3FkdWhncFlELXhRNmV1OGtyOTExai1RSWNvRGRtN2FpR20wODFzclVKSUJEWdIBuAFBVV95cUxPYjRraGJ0UzZPb0UzRVNmYzFnQWs4ZmdXQks2NUczaWhpUlFJdXZPNVNVNDBlZGRLeHlUV2ZCRW9qcmpxaEkxNVdTZDFXMGhSZ25lZUhwU0xIUlI0OWhpZzRoUGl3TWhUMWhacS1oN2dBZGY0QWJMbk1mMW9Yd05IbDZnYWx4c2FUbXJJLVFVY0RYTDM0Q3VsNUhZTkdaQXQtbjJha2NJbE8ydmFJZGEwZW9JcE1OcmYt?oc=5",
+      "published": "Wed, 21 Jan 2026 03:55:00 GMT",
+      "query": "ASII bursa",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'ambruk'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Suspensi Dicabut! Saham RMKE Ngamuk di Papan FCA - Sinar Harapan - Sinar Harapan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYjdYSWtCa3pHV0duY1o0LUx3b0c1M21uNHVSdWZ6ZzlUU3JHako3eHNTTC1Pd2R2N2s4WEhPVmJfNFFqWTV0MWRteUtZYXFpMVBqZ1N3SjJfWGNBRG9rWUp6RUFWenpGNDcwR3FESVJzYlZtZEFIZFl5RUowNFFDWjJTcjJkNTFEM2lEeUJQOEpWZkpaZWdUQk5vQjJlSFk30gGgAUFVX3lxTE9iN1hJa0JrekdXR25jWjQtTHdvRzUzbW40dVJ1ZnpnOVRTckdqSjd4c1NMLU93ZHY3azhYSE9WYl80UWpZNXQxZG15S1lhcWkxUGpnU3dKMl9YY0FEb2tZSnpFQVZ6ekY0NzBHcURJUnNiVm1kQUhkWXlFSjA0UUNaMlNyMmQ1MUQzaUR5QlA4SlZmSlplZ1RCTm9CMmVIWTc?oc=5\" target=\"_blank\">Suspensi Dicabut! Saham RMKE Ngamuk di Papan FCA - Sinar Harapan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinar Harapan</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYjdYSWtCa3pHV0duY1o0LUx3b0c1M21uNHVSdWZ6ZzlUU3JHako3eHNTTC1Pd2R2N2s4WEhPVmJfNFFqWTV0MWRteUtZYXFpMVBqZ1N3SjJfWGNBRG9rWUp6RUFWenpGNDcwR3FESVJzYlZtZEFIZFl5RUowNFFDWjJTcjJkNTFEM2lEeUJQOEpWZkpaZWdUQk5vQjJlSFk30gGgAUFVX3lxTE9iN1hJa0JrekdXR25jWjQtTHdvRzUzbW40dVJ1ZnpnOVRTckdqSjd4c1NMLU93ZHY3azhYSE9WYl80UWpZNXQxZG15S1lhcWkxUGpnU3dKMl9YY0FEb2tZSnpFQVZ6ekY0NzBHcURJUnNiVm1kQUhkWXlFSjA0UUNaMlNyMmQ1MUQzaUR5QlA4SlZmSlplZ1RCTm9CMmVIWTc?oc=5",
+      "published": "Wed, 21 Jan 2026 03:10:00 GMT",
+      "query": "ASII bursa",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Anjlok, Pasar Merespons Pencabutan Izin Tambang Agincourt - kontan.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVJ6YzdWcVBSamxkdXBaaF9MWm9IZHBFX1QzS2FNbW1wX3ctTE85dW9nQlc1MEZRMkV0dGM1NENuYzJJYkpMcFpWTVU1Sml4OFZHbi1vVEpBem03SW02MWJJM1lOb1VHVDVacVdpNUlucnJGYUJvQ0NmWFhEQUdmams5V0JDeXVkRENIUGx0UkZmNW1TM1JTd0dyMTl5UUZNWHNrZnZUN2JCa1AtWWYtZEZn0gGqAUFVX3lxTE41dlBfWjROLVZpd3ppSlRWZU1iVnEydnBoQXF4VGZyc0pkcGVPR0NUZnV3S2JZMmxacDRIOFk4SEVzSE9HMWgzZVNUWEpaR1ZtbF8waTUyNU15My14UXNhcVlhNExlc3BBUktwbGJ3RkRhcHQxOTNzTDR2X0N4Ykd1bmhrYV9PVlRpTElQNHVoVFZZZkpsS05yUVRRZkwxLV83WEVOU0plejdn?oc=5\" target=\"_blank\">Saham UNTR dan ASII Anjlok, Pasar Merespons Pencabutan Izin Tambang Agincourt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kontan.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVJ6YzdWcVBSamxkdXBaaF9MWm9IZHBFX1QzS2FNbW1wX3ctTE85dW9nQlc1MEZRMkV0dGM1NENuYzJJYkpMcFpWTVU1Sml4OFZHbi1vVEpBem03SW02MWJJM1lOb1VHVDVacVdpNUlucnJGYUJvQ0NmWFhEQUdmams5V0JDeXVkRENIUGx0UkZmNW1TM1JTd0dyMTl5UUZNWHNrZnZUN2JCa1AtWWYtZEZn0gGqAUFVX3lxTE41dlBfWjROLVZpd3ppSlRWZU1iVnEydnBoQXF4VGZyc0pkcGVPR0NUZnV3S2JZMmxacDRIOFk4SEVzSE9HMWgzZVNUWEpaR1ZtbF8waTUyNU15My14UXNhcVlhNExlc3BBUktwbGJ3RkRhcHQxOTNzTDR2X0N4Ykd1bmhrYV9PVlRpTElQNHVoVFZZZkpsS05yUVRRZkwxLV83WEVOU0plejdn?oc=5",
+      "published": "Wed, 21 Jan 2026 03:54:44 GMT",
+      "query": "PT ASII",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'pencabutan izin'",
+        "🟡 NEGATIVE: 'anjlok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR-ASII Rontok Usai Izin Agincourt Resources Dicabut - detikFinance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORTBKa2RDOGxPVjFOY3ZBUy14Ym1aZTRpdTJ3VHZHTmoyVndOSENVRzA3OEowNTJNcTdPbGJkaWdjNk1jUVBMTWMwMzlPSFY4dlUxb29vMDU2bC1rdjJ1T0ozSWt6Y0d6REc1NXl6a2lncUJLNVZiMV95d0RrdWdoM1VpQ0pMRDNvLWMtcGJYUUdJOXBCMlUtM2tuNENSS2h6YlpBaHFfd2lqcEE4M3ZpRjZn0gG3AUFVX3lxTFBjN1prekNZNkI5WEtlVGZXV3hqNldGbzROYzJsMEVfSXZVZ25IZ0p1MDVocGxBRHFnUDNIQm04VElRM0hGTzM0NHJIVVlYaXhzRzRuX213U09DdkRXT0lNUDZUdHBxbnNGVjY3ZjJJSk9QVlg5TVNrQkFUOTRTQ1dob3hDaUJXMlpDd2ZrNGZybmpENHpJUkJuSHVLS1ZweF95NDBQa2dhZlktRXZTcjhlNmdYUW5iOA?oc=5\" target=\"_blank\">Saham UNTR-ASII Rontok Usai Izin Agincourt Resources Dicabut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">detikFinance</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTBKa2RDOGxPVjFOY3ZBUy14Ym1aZTRpdTJ3VHZHTmoyVndOSENVRzA3OEowNTJNcTdPbGJkaWdjNk1jUVBMTWMwMzlPSFY4dlUxb29vMDU2bC1rdjJ1T0ozSWt6Y0d6REc1NXl6a2lncUJLNVZiMV95d0RrdWdoM1VpQ0pMRDNvLWMtcGJYUUdJOXBCMlUtM2tuNENSS2h6YlpBaHFfd2lqcEE4M3ZpRjZn0gG3AUFVX3lxTFBjN1prekNZNkI5WEtlVGZXV3hqNldGbzROYzJsMEVfSXZVZ25IZ0p1MDVocGxBRHFnUDNIQm04VElRM0hGTzM0NHJIVVlYaXhzRzRuX213U09DdkRXT0lNUDZUdHBxbnNGVjY3ZjJJSk9QVlg5TVNrQkFUOTRTQ1dob3hDaUJXMlpDd2ZrNGZybmpENHpJUkJuSHVLS1ZweF95NDBQa2dhZlktRXZTcjhlNmdYUW5iOA?oc=5",
+      "published": "Wed, 21 Jan 2026 04:26:09 GMT",
+      "query": "PT ASII",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'rontok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Daftar 28 Perusahaan yang Izinnya Dicabut Prabowo: Ada UNTR,ASII, dan Toba Pulp Lestari - Ihram.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPT19vN0VpSC0zUVYza1lWVnltUjBBNjl6SDN4bXpPZkg4Wmw0Z0Fub0VOdHJQM2QwSTZoLWVkaEhwekJFc3FkSm1wQ1I5Sm16TEE4WHgzREhnUnhqMlNZWDcyOGk3ZFpaelRSTnd2YzFEeS15ZXB3SXFyRHp2QnkySzN6eUVia0loZFVfY3poVTBXcTZmcXZfaXNJQmlXaElXRVBUZ0syaw?oc=5\" target=\"_blank\">Daftar 28 Perusahaan yang Izinnya Dicabut Prabowo: Ada UNTR,ASII, dan Toba Pulp Lestari</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ihram.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT19vN0VpSC0zUVYza1lWVnltUjBBNjl6SDN4bXpPZkg4Wmw0Z0Fub0VOdHJQM2QwSTZoLWVkaEhwekJFc3FkSm1wQ1I5Sm16TEE4WHgzREhnUnhqMlNZWDcyOGk3ZFpaelRSTnd2YzFEeS15ZXB3SXFyRHp2QnkySzN6eUVia0loZFVfY3poVTBXcTZmcXZfaXNJQmlXaElXRVBUZ0syaw?oc=5",
+      "published": "Wed, 21 Jan 2026 03:47:50 GMT",
+      "query": "PT ASII",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Anjlok Usai Izin Tambang Emas Martabe Dicabut Prabowo - Katadata.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGs0Z3Y5Y2Vrd0FGOXVQaUJ0ckJ0d3lkUHNqUXdRWm1melZ3cGRfSXB5c1k4TjZDc0llSzkxellmd1ljWVVPM1h1NzZfTEVzbF9yblhTZDl4ekc5SUx1QlJRcmxyT2szVUNpYmY1dm9UVnJaNjdvSUh4a0tnWGhEU041TFBtaXN6aEYzSl8zcUx1WkRFNDFiMFJXd29ab0p0QmExUFh2OTJJZklfX0pjcC03WXpJaUtIVE10enNjd0E1VEJv0gHKAUFVX3lxTE83dXJRTk9BQ2dqQkNkci1LNGtIUW02WEFiV3ZHMmpOR0xxVjlzMWpRY1J0eEhudHJaa0V2czFFMngycnhIdF9DVWhUeUl5azJzWE5vaWpVV1ZoYnBYYVFHWWNQWjBPc1RVb3FLUTVnLUJzZ3RIRzkyVkxHMHBnVFlmTnM2cEFkLW83dEpxdl9SaWU5VjlkREdlS29aRVljamh2eXNaV2VHeUl1bUpTbVEwam1hVHNDZEc3Y3c0ekpRbGtIenZDT1VPVnc?oc=5\" target=\"_blank\">Saham UNTR dan ASII Anjlok Usai Izin Tambang Emas Martabe Dicabut Prabowo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Katadata.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGs0Z3Y5Y2Vrd0FGOXVQaUJ0ckJ0d3lkUHNqUXdRWm1melZ3cGRfSXB5c1k4TjZDc0llSzkxellmd1ljWVVPM1h1NzZfTEVzbF9yblhTZDl4ekc5SUx1QlJRcmxyT2szVUNpYmY1dm9UVnJaNjdvSUh4a0tnWGhEU041TFBtaXN6aEYzSl8zcUx1WkRFNDFiMFJXd29ab0p0QmExUFh2OTJJZklfX0pjcC03WXpJaUtIVE10enNjd0E1VEJv0gHKAUFVX3lxTE83dXJRTk9BQ2dqQkNkci1LNGtIUW02WEFiV3ZHMmpOR0xxVjlzMWpRY1J0eEhudHJaa0V2czFFMngycnhIdF9DVWhUeUl5azJzWE5vaWpVV1ZoYnBYYVFHWWNQWjBPc1RVb3FLUTVnLUJzZ3RIRzkyVkxHMHBnVFlmTnM2cEFkLW83dEpxdl9SaWU5VjlkREdlS29aRVljamh2eXNaV2VHeUl1bUpTbVEwam1hVHNDZEc3Y3c0ekpRbGtIenZDT1VPVnc?oc=5",
+      "published": "Wed, 21 Jan 2026 02:43:00 GMT",
+      "query": "PT ASII",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'anjlok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Kompak Ambruk Usai Izin Tambang Martabe Dicabut Prabowo - Warta Ekonomi",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2FIeGM3OUtmTWQ3eUo3TmlySE9WTndKMkEzbWFhQ3JacWF5VUlCdFNJU2lIZVRFSnZiczRyVEZnRWFRcVdxeU1DcXNDWGpnZGVtamNFbTlRRTR6WWlJVFllTUZmcm9Tak9kLS1sMXRlV0NvM0pXMzEyd0lyLTJpVm9EM0lmN3FkdWhncFlELXhRNmV1OGtyOTExai1RSWNvRGRtN2FpR20wODFzclVKSUJEWdIBuAFBVV95cUxPYjRraGJ0UzZPb0UzRVNmYzFnQWs4ZmdXQks2NUczaWhpUlFJdXZPNVNVNDBlZGRLeHlUV2ZCRW9qcmpxaEkxNVdTZDFXMGhSZ25lZUhwU0xIUlI0OWhpZzRoUGl3TWhUMWhacS1oN2dBZGY0QWJMbk1mMW9Yd05IbDZnYWx4c2FUbXJJLVFVY0RYTDM0Q3VsNUhZTkdaQXQtbjJha2NJbE8ydmFJZGEwZW9JcE1OcmYt?oc=5\" target=\"_blank\">Saham UNTR dan ASII Kompak Ambruk Usai Izin Tambang Martabe Dicabut Prabowo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Warta Ekonomi</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2FIeGM3OUtmTWQ3eUo3TmlySE9WTndKMkEzbWFhQ3JacWF5VUlCdFNJU2lIZVRFSnZiczRyVEZnRWFRcVdxeU1DcXNDWGpnZGVtamNFbTlRRTR6WWlJVFllTUZmcm9Tak9kLS1sMXRlV0NvM0pXMzEyd0lyLTJpVm9EM0lmN3FkdWhncFlELXhRNmV1OGtyOTExai1RSWNvRGRtN2FpR20wODFzclVKSUJEWdIBuAFBVV95cUxPYjRraGJ0UzZPb0UzRVNmYzFnQWs4ZmdXQks2NUczaWhpUlFJdXZPNVNVNDBlZGRLeHlUV2ZCRW9qcmpxaEkxNVdTZDFXMGhSZ25lZUhwU0xIUlI0OWhpZzRoUGl3TWhUMWhacS1oN2dBZGY0QWJMbk1mMW9Yd05IbDZnYWx4c2FUbXJJLVFVY0RYTDM0Q3VsNUhZTkdaQXQtbjJha2NJbE8ydmFJZGEwZW9JcE1OcmYt?oc=5",
+      "published": "Wed, 21 Jan 2026 03:55:00 GMT",
+      "query": "PT ASII",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'ambruk'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Indeks Bisnis-27 Ditutup di Zona Hijau, Saham ASII dan DSNG Jadi Penggerak - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnNDRE1vdGd5RHk5NnVLNndPSENmZnEyeG03S1NaR1RSTGVOOUdaU18zNERkVE9pYVJLMVEzRE5hQXJpLVBtQl9RV2RqNDh2SW5MTnNWQVZYN1BCQ0dTQ0Q2Sl9qWmNzS0dOS3JobHJnV0ZsNGh1OGtwOHc0MUw3MWdOVjRqWlBMYW5HRTRndDdtaTk4bFNsZ0VqOVFtTzBVY0Y5LVhCTi1zRGQ5Vm1BQ21qWFJOZXdMRF8zNzgwMnk?oc=5\" target=\"_blank\">Indeks Bisnis-27 Ditutup di Zona Hijau, Saham ASII dan DSNG Jadi Penggerak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnNDRE1vdGd5RHk5NnVLNndPSENmZnEyeG03S1NaR1RSTGVOOUdaU18zNERkVE9pYVJLMVEzRE5hQXJpLVBtQl9RV2RqNDh2SW5MTnNWQVZYN1BCQ0dTQ0Q2Sl9qWmNzS0dOS3JobHJnV0ZsNGh1OGtwOHc0MUw3MWdOVjRqWlBMYW5HRTRndDdtaTk4bFNsZ0VqOVFtTzBVY0Y5LVhCTi1zRGQ5Vm1BQ21qWFJOZXdMRF8zNzgwMnk?oc=5",
+      "published": "Mon, 19 Jan 2026 10:01:41 GMT",
+      "query": "PT ASII",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Konglomerasi di Balik 28 Perusahaan Dicabut Izin Prabowo, Anak UNTR hingga INRU - Katadata.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkhwQUJTV3FGbTdSVllXMU92WW9HQzlCWmpJdHVrV2JqWXZTNEt1MGxjcXUxOTFkOFI0R3FKel83VjV2MXg0Tkt5Z3E3VW5BMlNJaHdfZHdCajFhbFMtb2Qwb0NLc2lPbGtDUmxIeldUZkFnUlhtdS1CLUItNUd4bXlFMHRDa1ZIVFhmWmFEc080ZW51LTAzTFdzRDNXQ25FVVJxeVVfVFhUNE9BLXh1V1VvUHhSMkFFT1kzUjFHcWd5dFZ6U1ppM2hESdIB0AFBVV95cUxNdlppcVA0YVZ0NjlyWWpXRGMyTmlQNnp2empOYXpSRDFFeHpValhPelYzVm1sNEZ6elpSSmJ0RTVjS1psZ2stSVJwQzJiQ0VyOE9ILXVnbUJFUW5IaUpTRG1vc1A3a1lwQlFsYnV0NzdaU1A3N3RFekxjbXFybkl4NFI3MTNnbUNxaHFFT2ZWaE11SllDVkxEeDNnZG5sWHdLclZMbk9uUWsyb1ZFSEp6WFJlLTBUZWllTHJXZ0ptc0NQQ2huZmxtUGRLb2lGTXd5?oc=5\" target=\"_blank\">Konglomerasi di Balik 28 Perusahaan Dicabut Izin Prabowo, Anak UNTR hingga INRU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Katadata.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkhwQUJTV3FGbTdSVllXMU92WW9HQzlCWmpJdHVrV2JqWXZTNEt1MGxjcXUxOTFkOFI0R3FKel83VjV2MXg0Tkt5Z3E3VW5BMlNJaHdfZHdCajFhbFMtb2Qwb0NLc2lPbGtDUmxIeldUZkFnUlhtdS1CLUItNUd4bXlFMHRDa1ZIVFhmWmFEc080ZW51LTAzTFdzRDNXQ25FVVJxeVVfVFhUNE9BLXh1V1VvUHhSMkFFT1kzUjFHcWd5dFZ6U1ppM2hESdIB0AFBVV95cUxNdlppcVA0YVZ0NjlyWWpXRGMyTmlQNnp2empOYXpSRDFFeHpValhPelYzVm1sNEZ6elpSSmJ0RTVjS1psZ2stSVJwQzJiQ0VyOE9ILXVnbUJFUW5IaUpTRG1vc1A3a1lwQlFsYnV0NzdaU1A3N3RFekxjbXFybkl4NFI3MTNnbUNxaHFFT2ZWaE11SllDVkxEeDNnZG5sWHdLclZMbk9uUWsyb1ZFSEp6WFJlLTBUZWllTHJXZ0ptc0NQQ2huZmxtUGRLb2lGTXd5?oc=5",
+      "published": "Tue, 20 Jan 2026 23:30:00 GMT",
+      "query": "PT ASII",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "UNTR, ASII Terjun Bebas: Izin Tambang Agincourt Dicabut, Investor Panik? - Shoesmart.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1ZPODIzcWNiNXFrOFpMWnFtMnNYUzRIRWd5VFJoX1VhNnJTWkxLREV5RU42Rk1qSXpoVVB4ZTlOSXJzUXBOcmU4bHhBbW1iVTRoSmRacDFNWG50QVhDVWRoUnFPRVBzVE1LY1F1WFdXbzJaM0tjcXZhc1JfS2o4bXZxWHJNMkJsNDZhM0pEZlQwVnJjU1VF?oc=5\" target=\"_blank\">UNTR, ASII Terjun Bebas: Izin Tambang Agincourt Dicabut, Investor Panik?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shoesmart.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1ZPODIzcWNiNXFrOFpMWnFtMnNYUzRIRWd5VFJoX1VhNnJTWkxLREV5RU42Rk1qSXpoVVB4ZTlOSXJzUXBOcmU4bHhBbW1iVTRoSmRacDFNWG50QVhDVWRoUnFPRVBzVE1LY1F1WFdXbzJaM0tjcXZhc1JfS2o4bXZxWHJNMkJsNDZhM0pEZlQwVnJjU1VF?oc=5",
+      "published": "Wed, 21 Jan 2026 04:38:02 GMT",
+      "query": "PT ASII",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'terjun bebas'"
+      ]
+    }
+  ],
+  "all_articles": [
+    {
+      "source": "google_news",
+      "title": "Saham ASII dan UNTR Diserok - investor.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAxMFdqVjk3czQ1TUpJX3VyWmVZNjlNbml3aEV5dXV1QlpzMTRrMUk0QWpsWW5Pb2R4WmhoRDdObjBnUTUwT1o1MWU4Qmh6b3R4eS0tNjBuYzBTQ2NlR2U3My1IVEFWV04wTTJwd2tR?oc=5\" target=\"_blank\">Saham ASII dan UNTR Diserok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investor.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxMFdqVjk3czQ1TUpJX3VyWmVZNjlNbml3aEV5dXV1QlpzMTRrMUk0QWpsWW5Pb2R4WmhoRDdObjBnUTUwT1o1MWU4Qmh6b3R4eS0tNjBuYzBTQ2NlR2U3My1IVEFWV04wTTJwd2tR?oc=5",
+      "published": "Wed, 21 Jan 2026 02:11:24 GMT",
+      "query": "ASII saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR, ASII, hingga ADMR Tekan Indeks Bisnis-27 ke Zona Merah - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVJCNGl5UFM5WGJTV0tVSFlCMEdJN05uVU1YSzJtUG9FOWxvdnFHVmYydGRILVlGWE1qc01jVVhGaHVueWNqZmJsVDZkUTV4U1NRTXZpQ2prbnA5Z2RTdUgwYTVISHFGZEVKTkQxWV9tMkpHS1hDRTVadW9yWHJGWTNSMjZ6NWVkUEh5aWxzc0xQUVVSckNESnRqbDJNSWpFczFlcDlLMGpyTy1oaUk2dUVXWjI?oc=5\" target=\"_blank\">Saham UNTR, ASII, hingga ADMR Tekan Indeks Bisnis-27 ke Zona Merah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVJCNGl5UFM5WGJTV0tVSFlCMEdJN05uVU1YSzJtUG9FOWxvdnFHVmYydGRILVlGWE1qc01jVVhGaHVueWNqZmJsVDZkUTV4U1NRTXZpQ2prbnA5Z2RTdUgwYTVISHFGZEVKTkQxWV9tMkpHS1hDRTVadW9yWHJGWTNSMjZ6NWVkUEh5aWxzc0xQUVVSckNESnRqbDJNSWpFczFlcDlLMGpyTy1oaUk2dUVXWjI?oc=5",
+      "published": "Wed, 21 Jan 2026 02:37:17 GMT",
+      "query": "ASII saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Anjlok Usai Izin Tambang Emas Martabe Dicabut Prabowo - Katadata.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGs0Z3Y5Y2Vrd0FGOXVQaUJ0ckJ0d3lkUHNqUXdRWm1melZ3cGRfSXB5c1k4TjZDc0llSzkxellmd1ljWVVPM1h1NzZfTEVzbF9yblhTZDl4ekc5SUx1QlJRcmxyT2szVUNpYmY1dm9UVnJaNjdvSUh4a0tnWGhEU041TFBtaXN6aEYzSl8zcUx1WkRFNDFiMFJXd29ab0p0QmExUFh2OTJJZklfX0pjcC03WXpJaUtIVE10enNjd0E1VEJv0gHKAUFVX3lxTE83dXJRTk9BQ2dqQkNkci1LNGtIUW02WEFiV3ZHMmpOR0xxVjlzMWpRY1J0eEhudHJaa0V2czFFMngycnhIdF9DVWhUeUl5azJzWE5vaWpVV1ZoYnBYYVFHWWNQWjBPc1RVb3FLUTVnLUJzZ3RIRzkyVkxHMHBnVFlmTnM2cEFkLW83dEpxdl9SaWU5VjlkREdlS29aRVljamh2eXNaV2VHeUl1bUpTbVEwam1hVHNDZEc3Y3c0ekpRbGtIenZDT1VPVnc?oc=5\" target=\"_blank\">Saham UNTR dan ASII Anjlok Usai Izin Tambang Emas Martabe Dicabut Prabowo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Katadata.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGs0Z3Y5Y2Vrd0FGOXVQaUJ0ckJ0d3lkUHNqUXdRWm1melZ3cGRfSXB5c1k4TjZDc0llSzkxellmd1ljWVVPM1h1NzZfTEVzbF9yblhTZDl4ekc5SUx1QlJRcmxyT2szVUNpYmY1dm9UVnJaNjdvSUh4a0tnWGhEU041TFBtaXN6aEYzSl8zcUx1WkRFNDFiMFJXd29ab0p0QmExUFh2OTJJZklfX0pjcC03WXpJaUtIVE10enNjd0E1VEJv0gHKAUFVX3lxTE83dXJRTk9BQ2dqQkNkci1LNGtIUW02WEFiV3ZHMmpOR0xxVjlzMWpRY1J0eEhudHJaa0V2czFFMngycnhIdF9DVWhUeUl5azJzWE5vaWpVV1ZoYnBYYVFHWWNQWjBPc1RVb3FLUTVnLUJzZ3RIRzkyVkxHMHBnVFlmTnM2cEFkLW83dEpxdl9SaWU5VjlkREdlS29aRVljamh2eXNaV2VHeUl1bUpTbVEwam1hVHNDZEc3Y3c0ekpRbGtIenZDT1VPVnc?oc=5",
+      "published": "Wed, 21 Jan 2026 02:43:00 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'anjlok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Anjlok, Pasar Merespons Pencabutan Izin Tambang Agincourt - kontan.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVJ6YzdWcVBSamxkdXBaaF9MWm9IZHBFX1QzS2FNbW1wX3ctTE85dW9nQlc1MEZRMkV0dGM1NENuYzJJYkpMcFpWTVU1Sml4OFZHbi1vVEpBem03SW02MWJJM1lOb1VHVDVacVdpNUlucnJGYUJvQ0NmWFhEQUdmams5V0JDeXVkRENIUGx0UkZmNW1TM1JTd0dyMTl5UUZNWHNrZnZUN2JCa1AtWWYtZEZn0gGqAUFVX3lxTE41dlBfWjROLVZpd3ppSlRWZU1iVnEydnBoQXF4VGZyc0pkcGVPR0NUZnV3S2JZMmxacDRIOFk4SEVzSE9HMWgzZVNUWEpaR1ZtbF8waTUyNU15My14UXNhcVlhNExlc3BBUktwbGJ3RkRhcHQxOTNzTDR2X0N4Ykd1bmhrYV9PVlRpTElQNHVoVFZZZkpsS05yUVRRZkwxLV83WEVOU0plejdn?oc=5\" target=\"_blank\">Saham UNTR dan ASII Anjlok, Pasar Merespons Pencabutan Izin Tambang Agincourt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kontan.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVJ6YzdWcVBSamxkdXBaaF9MWm9IZHBFX1QzS2FNbW1wX3ctTE85dW9nQlc1MEZRMkV0dGM1NENuYzJJYkpMcFpWTVU1Sml4OFZHbi1vVEpBem03SW02MWJJM1lOb1VHVDVacVdpNUlucnJGYUJvQ0NmWFhEQUdmams5V0JDeXVkRENIUGx0UkZmNW1TM1JTd0dyMTl5UUZNWHNrZnZUN2JCa1AtWWYtZEZn0gGqAUFVX3lxTE41dlBfWjROLVZpd3ppSlRWZU1iVnEydnBoQXF4VGZyc0pkcGVPR0NUZnV3S2JZMmxacDRIOFk4SEVzSE9HMWgzZVNUWEpaR1ZtbF8waTUyNU15My14UXNhcVlhNExlc3BBUktwbGJ3RkRhcHQxOTNzTDR2X0N4Ykd1bmhrYV9PVlRpTElQNHVoVFZZZkpsS05yUVRRZkwxLV83WEVOU0plejdn?oc=5",
+      "published": "Wed, 21 Jan 2026 03:54:44 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'pencabutan izin'",
+        "🟡 NEGATIVE: 'anjlok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR-ASII Rontok Usai Izin Agincourt Resources Dicabut - detikFinance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORTBKa2RDOGxPVjFOY3ZBUy14Ym1aZTRpdTJ3VHZHTmoyVndOSENVRzA3OEowNTJNcTdPbGJkaWdjNk1jUVBMTWMwMzlPSFY4dlUxb29vMDU2bC1rdjJ1T0ozSWt6Y0d6REc1NXl6a2lncUJLNVZiMV95d0RrdWdoM1VpQ0pMRDNvLWMtcGJYUUdJOXBCMlUtM2tuNENSS2h6YlpBaHFfd2lqcEE4M3ZpRjZn0gG3AUFVX3lxTFBjN1prekNZNkI5WEtlVGZXV3hqNldGbzROYzJsMEVfSXZVZ25IZ0p1MDVocGxBRHFnUDNIQm04VElRM0hGTzM0NHJIVVlYaXhzRzRuX213U09DdkRXT0lNUDZUdHBxbnNGVjY3ZjJJSk9QVlg5TVNrQkFUOTRTQ1dob3hDaUJXMlpDd2ZrNGZybmpENHpJUkJuSHVLS1ZweF95NDBQa2dhZlktRXZTcjhlNmdYUW5iOA?oc=5\" target=\"_blank\">Saham UNTR-ASII Rontok Usai Izin Agincourt Resources Dicabut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">detikFinance</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTBKa2RDOGxPVjFOY3ZBUy14Ym1aZTRpdTJ3VHZHTmoyVndOSENVRzA3OEowNTJNcTdPbGJkaWdjNk1jUVBMTWMwMzlPSFY4dlUxb29vMDU2bC1rdjJ1T0ozSWt6Y0d6REc1NXl6a2lncUJLNVZiMV95d0RrdWdoM1VpQ0pMRDNvLWMtcGJYUUdJOXBCMlUtM2tuNENSS2h6YlpBaHFfd2lqcEE4M3ZpRjZn0gG3AUFVX3lxTFBjN1prekNZNkI5WEtlVGZXV3hqNldGbzROYzJsMEVfSXZVZ25IZ0p1MDVocGxBRHFnUDNIQm04VElRM0hGTzM0NHJIVVlYaXhzRzRuX213U09DdkRXT0lNUDZUdHBxbnNGVjY3ZjJJSk9QVlg5TVNrQkFUOTRTQ1dob3hDaUJXMlpDd2ZrNGZybmpENHpJUkJuSHVLS1ZweF95NDBQa2dhZlktRXZTcjhlNmdYUW5iOA?oc=5",
+      "published": "Wed, 21 Jan 2026 04:26:09 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'rontok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham United Tractors (UNTR) dan Astra (ASII) Anjlok usai Prabowo Cabut Izin Tambang Agincourt - IDX Channel",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2lYTWphTVVSNnl5NE9zODBNM3N3Z1paWVZFd2h3emxVejdpOTNBMHAwVE56OVBCX0JjTTFUYkpIOGhGcWh0YWJHcENuNnQ5b2VVYTVoYnFlbzcyNWlNUWVBV0VBTG1najU0UGk3Sl9DYW1ERmlPSURsUmpQWVcxNG8wbHpkUUgyeGNOeXgyT0hOdTNfX0dmUkFSbGhPUWNCR0VHeWR6NjV4VzBIdFliQzJlQ2lQWnd3SEdHV05TRXNWckdCbERXRNIBzgFBVV95cUxQY0FndUhsYWZmWGtzMVZsUzIxMFFpQXl6Z3pWLV9aWlJjWGVYVjlxNkF2UE5FNVFMWkVWVE02R2lxdXlLS1FDQ2xLc084eFdwN3pkbWQzbDF0RHNTMk10cHlWekRjRzlzcFVPZXo2NHNscEZ1WFlvak1kWVowZkkySmhSV1hxcEUtX1gwdHd6WlpscXYwNzVfZWx1SWp4RDlia2g1azdMZHQ5RHd5N05GN2djMVNXLVdUUVBBanZZWUxrMko3bWRkOUtPZDNXUQ?oc=5\" target=\"_blank\">Saham United Tractors (UNTR) dan Astra (ASII) Anjlok usai Prabowo Cabut Izin Tambang Agincourt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IDX Channel</font>",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2lYTWphTVVSNnl5NE9zODBNM3N3Z1paWVZFd2h3emxVejdpOTNBMHAwVE56OVBCX0JjTTFUYkpIOGhGcWh0YWJHcENuNnQ5b2VVYTVoYnFlbzcyNWlNUWVBV0VBTG1najU0UGk3Sl9DYW1ERmlPSURsUmpQWVcxNG8wbHpkUUgyeGNOeXgyT0hOdTNfX0dmUkFSbGhPUWNCR0VHeWR6NjV4VzBIdFliQzJlQ2lQWnd3SEdHV05TRXNWckdCbERXRNIBzgFBVV95cUxQY0FndUhsYWZmWGtzMVZsUzIxMFFpQXl6Z3pWLV9aWlJjWGVYVjlxNkF2UE5FNVFMWkVWVE02R2lxdXlLS1FDQ2xLc084eFdwN3pkbWQzbDF0RHNTMk10cHlWekRjRzlzcFVPZXo2NHNscEZ1WFlvak1kWVowZkkySmhSV1hxcEUtX1gwdHd6WlpscXYwNzVfZWx1SWp4RDlia2g1azdMZHQ5RHd5N05GN2djMVNXLVdUUVBBanZZWUxrMko3bWRkOUtPZDNXUQ?oc=5",
+      "published": "Wed, 21 Jan 2026 03:14:00 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟡 NEGATIVE: 'anjlok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Daftar 28 Perusahaan yang Izinnya Dicabut Prabowo: Ada UNTR,ASII, dan Toba Pulp Lestari - Ihram.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPT19vN0VpSC0zUVYza1lWVnltUjBBNjl6SDN4bXpPZkg4Wmw0Z0Fub0VOdHJQM2QwSTZoLWVkaEhwekJFc3FkSm1wQ1I5Sm16TEE4WHgzREhnUnhqMlNZWDcyOGk3ZFpaelRSTnd2YzFEeS15ZXB3SXFyRHp2QnkySzN6eUVia0loZFVfY3poVTBXcTZmcXZfaXNJQmlXaElXRVBUZ0syaw?oc=5\" target=\"_blank\">Daftar 28 Perusahaan yang Izinnya Dicabut Prabowo: Ada UNTR,ASII, dan Toba Pulp Lestari</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ihram.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT19vN0VpSC0zUVYza1lWVnltUjBBNjl6SDN4bXpPZkg4Wmw0Z0Fub0VOdHJQM2QwSTZoLWVkaEhwekJFc3FkSm1wQ1I5Sm16TEE4WHgzREhnUnhqMlNZWDcyOGk3ZFpaelRSTnd2YzFEeS15ZXB3SXFyRHp2QnkySzN6eUVia0loZFVfY3poVTBXcTZmcXZfaXNJQmlXaElXRVBUZ0syaw?oc=5",
+      "published": "Wed, 21 Jan 2026 03:47:50 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham UNTR dan ASII Kompak Ambruk Usai Izin Tambang Martabe Dicabut Prabowo - Warta Ekonomi",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2FIeGM3OUtmTWQ3eUo3TmlySE9WTndKMkEzbWFhQ3JacWF5VUlCdFNJU2lIZVRFSnZiczRyVEZnRWFRcVdxeU1DcXNDWGpnZGVtamNFbTlRRTR6WWlJVFllTUZmcm9Tak9kLS1sMXRlV0NvM0pXMzEyd0lyLTJpVm9EM0lmN3FkdWhncFlELXhRNmV1OGtyOTExai1RSWNvRGRtN2FpR20wODFzclVKSUJEWdIBuAFBVV95cUxPYjRraGJ0UzZPb0UzRVNmYzFnQWs4ZmdXQks2NUczaWhpUlFJdXZPNVNVNDBlZGRLeHlUV2ZCRW9qcmpxaEkxNVdTZDFXMGhSZ25lZUhwU0xIUlI0OWhpZzRoUGl3TWhUMWhacS1oN2dBZGY0QWJMbk1mMW9Yd05IbDZnYWx4c2FUbXJJLVFVY0RYTDM0Q3VsNUhZTkdaQXQtbjJha2NJbE8ydmFJZGEwZW9JcE1OcmYt?oc=5\" target=\"_blank\">Saham UNTR dan ASII Kompak Ambruk Usai Izin Tambang Martabe Dicabut Prabowo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Warta Ekonomi</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2FIeGM3OUtmTWQ3eUo3TmlySE9WTndKMkEzbWFhQ3JacWF5VUlCdFNJU2lIZVRFSnZiczRyVEZnRWFRcVdxeU1DcXNDWGpnZGVtamNFbTlRRTR6WWlJVFllTUZmcm9Tak9kLS1sMXRlV0NvM0pXMzEyd0lyLTJpVm9EM0lmN3FkdWhncFlELXhRNmV1OGtyOTExai1RSWNvRGRtN2FpR20wODFzclVKSUJEWdIBuAFBVV95cUxPYjRraGJ0UzZPb0UzRVNmYzFnQWs4ZmdXQks2NUczaWhpUlFJdXZPNVNVNDBlZGRLeHlUV2ZCRW9qcmpxaEkxNVdTZDFXMGhSZ25lZUhwU0xIUlI0OWhpZzRoUGl3TWhUMWhacS1oN2dBZGY0QWJMbk1mMW9Yd05IbDZnYWx4c2FUbXJJLVFVY0RYTDM0Q3VsNUhZTkdaQXQtbjJha2NJbE8ydmFJZGEwZW9JcE1OcmYt?oc=5",
+      "published": "Wed, 21 Jan 2026 03:55:00 GMT",
+      "query": "ASII saham",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+        "🟡 NEGATIVE: 'ambruk'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Rekor IHSG, Potensi Cuan Saham ASII, AKRA, dan BUMI - makassarinsight.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQWm9CX1doMVNJQnJNakpuWFRjczNMTjdZS1pwRjViSFdPQWVwZkFBU2VrQkNrSEFLeXZXbFhPMjA0NkJhdHV4MDFPRlNLcVNQeDBlcW4wMlJEUzZNODNoTVNDMnNPaU9SbmVFdFIwVFg4ZW5LR3d5NHhpY2owakZtLTM3NDROVzTSAYcBQVVfeXFMUFpvQl9XaDFTSUJyTWpKblhUY3MzTE43WUtacEY1YkhXT0FlcGZBQVNla0JDa0hBS3l2V2xYTzIwNDZCYXR1eDAxT0ZTS3FTUHgwZXFuMDJSRFM2TTgzaE1TQzJzT2lPUm5lRXRSMFRYOGVuS0d3eTR4aWNqMGpGbS0zNzQ0Tlc0?oc=5\" target=\"_blank\">Rekor IHSG, Potensi Cuan Saham ASII, AKRA, dan BUMI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">makassarinsight.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWm9CX1doMVNJQnJNakpuWFRjczNMTjdZS1pwRjViSFdPQWVwZkFBU2VrQkNrSEFLeXZXbFhPMjA0NkJhdHV4MDFPRlNLcVNQeDBlcW4wMlJEUzZNODNoTVNDMnNPaU9SbmVFdFIwVFg4ZW5LR3d5NHhpY2owakZtLTM3NDROVzTSAYcBQVVfeXFMUFpvQl9XaDFTSUJyTWpKblhUY3MzTE43WUtacEY1YkhXT0FlcGZBQVNla0JDa0hBS3l2V2xYTzIwNDZCYXR1eDAxT0ZTS3FTUHgwZXFuMDJSRFM2TTgzaE1TQzJzT2lPUm5lRXRSMFRYOGVuS0d3eTR4aWNqMGpGbS0zNzQ0Tlc0?oc=5",
+      "published": "Wed, 21 Jan 2026 02:13:00 GMT",
+      "query": "ASII saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Koleksi Saham ASII, BRPT, TPIA, DSSA hingga PANI, Reksadana Indeks BRI & Allianz Melesat - Bareksa.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1E1cW1fYkJRLVd1VGxncnlYbTFWV2FZTG5Ha2RxUUJNLWQ3UGNhS3JaNkNLZ0E2aWJKakpVRzFFNlExd19jd0xpS1lDQV84ank5eVlRS3BUZkJPNzAxMmF2cUxKRkcxRHd2VHR3WS1BRFRSSHJZN1JiREhFdi1XZkU2cVQwc1FVczgtVEZla2dZWHhZZXdhQTJJSTlCaks2MGxFeFp2cHRCX1l0NThVVjV6b2lwSFlGS09KQWljODFlTWtfY1NpczZ2OTVxaXE2djA3dkVB?oc=5\" target=\"_blank\">Koleksi Saham ASII, BRPT, TPIA, DSSA hingga PANI, Reksadana Indeks BRI & Allianz Melesat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bareksa.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1E1cW1fYkJRLVd1VGxncnlYbTFWV2FZTG5Ha2RxUUJNLWQ3UGNhS3JaNkNLZ0E2aWJKakpVRzFFNlExd19jd0xpS1lDQV84ank5eVlRS3BUZkJPNzAxMmF2cUxKRkcxRHd2VHR3WS1BRFRSSHJZN1JiREhFdi1XZkU2cVQwc1FVczgtVEZla2dZWHhZZXdhQTJJSTlCaks2MGxFeFp2cHRCX1l0NThVVjV6b2lwSFlGS09KQWljODFlTWtfY1NpczZ2OTVxaXE2djA3dkVB?oc=5",
+      "published": "Tue, 20 Jan 2026 01:55:22 GMT",
+      "query": "ASII saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    }
+  ],
+  "all_keywords": [
+    "🟢 POSITIVE: 'naik'",
+    "🔴 OPERATIONAL_INDONESIAN: 'ditutup'",
+    "🟡 NEGATIVE: 'tertekan'",
+    "🟡 NEGATIVE: 'rontok'",
+    "🟢 POSITIVE: 'buyback'",
+    "🟡 NEGATIVE: 'lemah'",
+    "🟡 NEGATIVE: 'ambruk'",
+    "🟢 POSITIVE: 'menguat'",
+    "🟡 NEGATIVE: 'anjlok'",
+    "🟡 NEGATIVE: 'terjun bebas'",
+    "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+    "🔴 REGULATORY_INDONESIAN: 'pencabutan izin'"
+  ],
+  "timestamp": "2026-01-21T11:41:33.000416"
+}

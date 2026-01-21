@@ -1,0 +1,152 @@
+{
+  "stock": "BBCA",
+  "score": 0.3,
+  "category": "CRITICAL",
+  "articles_found": 146,
+  "critical_count": 1,
+  "negative_count": 0,
+  "recommendation": "🔴 IMMEDIATE EXIT - 1 critical alerts",
+  "critical_articles": [
+    {
+      "source": "google_news",
+      "title": "IHSG Sesi I Ditutup Perkasa di 9.155, Pasar Asia Lemah - KabarBursa.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTRNMzVRR2RDU1VvRHJDR21Nd091OHFxOWNhWUhINTVOOWpyWTV5cnlZOG8ya3M3cnhXSTJoOHYwbDNNaUhjRVBQVkh3SWJ0TU5TaXRXNXd3aEwwSlY2R2hVbjRkRXVQYnMySEkxN1FxVF9XdXA0cU5RRHlMNkVTSFVxYU14MTdPZFlTcndxWjZhQjd2Qk50QlY2MA?oc=5\" target=\"_blank\">IHSG Sesi I Ditutup Perkasa di 9.155, Pasar Asia Lemah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KabarBursa.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTRNMzVRR2RDU1VvRHJDR21Nd091OHFxOWNhWUhINTVOOWpyWTV5cnlZOG8ya3M3cnhXSTJoOHYwbDNNaUhjRVBQVkh3SWJ0TU5TaXRXNXd3aEwwSlY2R2hVbjRkRXVQYnMySEkxN1FxVF9XdXA0cU5RRHlMNkVTSFVxYU14MTdPZFlTcndxWjZhQjd2Qk50QlY2MA?oc=5",
+      "published": "Tue, 20 Jan 2026 05:47:00 GMT",
+      "query": "BBCA bursa",
+      "sentiment_score": -40,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'",
+        "🟡 NEGATIVE: 'lemah'"
+      ]
+    }
+  ],
+  "all_articles": [
+    {
+      "source": "google_news",
+      "title": "Minat Investor Asing Terbelah, Saham BBCA Rajin Dilepas, BBRI Justru Terus Diborong - KONTAN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNblBzeEpzSkw3TGxKLWhJYlQzMDN6YWNfc01RTjFoX2ZMUDQxcTVwODBYcmREcVJ5dlhyaVJpeWgwQU9tajUtZWU4LVVfY1Q3YkFRTVdOQlBGOF9FcFQ3UFBEdUxxNWlDVVBWZ2JqR1d4RmFEeWtrV1pSVjlTemZWY3NFVTJvaFBHZ1BxM3VrSVZOR21QSXFMaFRmRzlJQmlZWDNwY2lwNFNXbHkydEoyaFAxdzJiUQ?oc=5\" target=\"_blank\">Minat Investor Asing Terbelah, Saham BBCA Rajin Dilepas, BBRI Justru Terus Diborong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KONTAN</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblBzeEpzSkw3TGxKLWhJYlQzMDN6YWNfc01RTjFoX2ZMUDQxcTVwODBYcmREcVJ5dlhyaVJpeWgwQU9tajUtZWU4LVVfY1Q3YkFRTVdOQlBGOF9FcFQ3UFBEdUxxNWlDVVBWZ2JqR1d4RmFEeWtrV1pSVjlTemZWY3NFVTJvaFBHZ1BxM3VrSVZOR21QSXFMaFRmRzlJQmlZWDNwY2lwNFNXbHkydEoyaFAxdzJiUQ?oc=5",
+      "published": "Tue, 20 Jan 2026 23:41:54 GMT",
+      "query": "BBCA saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham BBCA Melemah ke 7.850, Investor Cermati Kinerja dan Prospek Bank Central Asia - asatunews.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2FwQlMyQWVLWlZSS3p6YXIzUXdWV0NOV3FPNHRSaVRfcWV2cDU5bDBXbUg1bEd4NmhnanUweUQzcnkyRFBqNnNkaGNWVFJCOGN5M3NzTlNzM2J4UmtzWUR2bUI3bUlWeThkVjhnREFSYkZxN2JYSUNlUmNMMTc5MG1JR0ZDOEpzeVJkUkZ4LXpFeEQ0dWNlRlNCdnY0cE1JOVlkczlIOVJBTVk?oc=5\" target=\"_blank\">Saham BBCA Melemah ke 7.850, Investor Cermati Kinerja dan Prospek Bank Central Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asatunews.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2FwQlMyQWVLWlZSS3p6YXIzUXdWV0NOV3FPNHRSaVRfcWV2cDU5bDBXbUg1bEd4NmhnanUweUQzcnkyRFBqNnNkaGNWVFJCOGN5M3NzTlNzM2J4UmtzWUR2bUI3bUlWeThkVjhnREFSYkZxN2JYSUNlUmNMMTc5MG1JR0ZDOEpzeVJkUkZ4LXpFeEQ0dWNlRlNCdnY0cE1JOVlkczlIOVJBTVk?oc=5",
+      "published": "Wed, 21 Jan 2026 04:05:43 GMT",
+      "query": "BBCA saham",
+      "sentiment_score": -10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟡 NEGATIVE: 'lemah'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Saham BBRI Diborong Asing, BBCA Terbanyak Dilepas Asing - CNBC Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPek45TzFialh3TjZSc2NadlJyNVBUMjFIVzRfRW81WlFWNmNvcFo2Y2RJZFJQcm93NjJ6dDNrWnNyejAxczEwb1pzV3ZNSmUtV3c2N2NBbDNLSnpUdWNyWkdZWkxFQXVlZHZkbDJZQjUyU1RMa21QQ2VPSUppY29pM282VEZqRW5lLWowRlNUQURvamNNaFo1aThaTlVFUzIyNmR6SlJoUTRkVk9IZXZKa2VzaElhYmvSAbwBQVVfeXFMTU1JbkpjQTNtMjI0RG90eDRHUndKdzh0YzRxX1lHRHdPdlZiRUxMYmw3MGZSLXNOTnB6YUJTY0tGSzRuSXpXLThOS05sU0E5emU0ODVwZGhSRGM0aTJ5WlhGb3ktQVFtbkctNndRNUZQRWIwWHp6YTJNUGV0S0lRcHhVVmljVWdmRnFYZkotdkFLSW5YZUcyQkgweVNyZHBBc1licDlZNFlBUVNvb0xlcWt0aEs0Vk8yelJYQmQ?oc=5\" target=\"_blank\">Saham BBRI Diborong Asing, BBCA Terbanyak Dilepas Asing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPek45TzFialh3TjZSc2NadlJyNVBUMjFIVzRfRW81WlFWNmNvcFo2Y2RJZFJQcm93NjJ6dDNrWnNyejAxczEwb1pzV3ZNSmUtV3c2N2NBbDNLSnpUdWNyWkdZWkxFQXVlZHZkbDJZQjUyU1RMa21QQ2VPSUppY29pM282VEZqRW5lLWowRlNUQURvamNNaFo1aThaTlVFUzIyNmR6SlJoUTRkVk9IZXZKa2VzaElhYmvSAbwBQVVfeXFMTU1JbkpjQTNtMjI0RG90eDRHUndKdzh0YzRxX1lHRHdPdlZiRUxMYmw3MGZSLXNOTnB6YUJTY0tGSzRuSXpXLThOS05sU0E5emU0ODVwZGhSRGM0aTJ5WlhGb3ktQVFtbkctNndRNUZQRWIwWHp6YTJNUGV0S0lRcHhVVmljVWdmRnFYZkotdkFLSW5YZUcyQkgweVNyZHBBc1licDlZNFlBUVNvb0xlcWt0aEs0Vk8yelJYQmQ?oc=5",
+      "published": "Wed, 21 Jan 2026 00:58:59 GMT",
+      "query": "BBCA saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham BRI (BBRI) jadi incaran investor asing, BCA (BBCA) dilego Rp269 miliar - MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2VPY2UwZnVjb2dBV1JMenFuNzNuMXFJVkV1RGlsN05oRDRHdmRCNHBNbnB0Mks2NnZmX3d2RlNWUHZQTXlJakxTS0JTYThmYTFsM3hxaWs0MkNlNVZ2MVRhWWlYX2RhTzlnbUlQZmdUR2JpdWZmeGxiU3g5ZFVjbkhtOGpkb25UTDJRY3hfVTJwV0RLTHVXSk81b2IxNEhaOU5YdUJlUHlwZy1rU1N4WXJoeGJ5cFExQ3pNbC1CYw?oc=5\" target=\"_blank\">Saham BRI (BBRI) jadi incaran investor asing, BCA (BBCA) dilego Rp269 miliar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2VPY2UwZnVjb2dBV1JMenFuNzNuMXFJVkV1RGlsN05oRDRHdmRCNHBNbnB0Mks2NnZmX3d2RlNWUHZQTXlJakxTS0JTYThmYTFsM3hxaWs0MkNlNVZ2MVRhWWlYX2RhTzlnbUlQZmdUR2JpdWZmeGxiU3g5ZFVjbkhtOGpkb25UTDJRY3hfVTJwV0RLTHVXSk81b2IxNEhaOU5YdUJlUHlwZy1rU1N4WXJoeGJ5cFExQ3pNbC1CYw?oc=5",
+      "published": "Tue, 20 Jan 2026 23:58:31 GMT",
+      "query": "BBCA saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Rekomendasi Saham Tim Analis Bareksa: BBCA & ARTO, Perang Dagang AS-Eropa Bayangi Pasar - Bareksa.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTjMtdzJjNXc0RTBfMlZBbllvcm9yQ3J0RTIzUlNma2hqZzJiQVlqVTBhMVFjc1JObjZUaTNMSV9ZUE0tMno5c1NlMlY3aWExeVl2M1dWVVlGd01Ed0FQcnpEVElHSTFjVFF6amZBTnNMUTk2Wl9VTUVrcXo2b2VOSk1HdVhTcDc0ZndjSnlHT3VLTkdNQUdIR3pKNlpfQUFvMWNxYlZ3YzdUWTBUNG8xVmpHUmJmSjNJWFhCdWpPdGc5UlZNOW9BdWZXeC1BUENDbXdjZGV1WlE?oc=5\" target=\"_blank\">Rekomendasi Saham Tim Analis Bareksa: BBCA & ARTO, Perang Dagang AS-Eropa Bayangi Pasar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bareksa.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTjMtdzJjNXc0RTBfMlZBbllvcm9yQ3J0RTIzUlNma2hqZzJiQVlqVTBhMVFjc1JObjZUaTNMSV9ZUE0tMno5c1NlMlY3aWExeVl2M1dWVVlGd01Ed0FQcnpEVElHSTFjVFF6amZBTnNMUTk2Wl9VTUVrcXo2b2VOSk1HdVhTcDc0ZndjSnlHT3VLTkdNQUdIR3pKNlpfQUFvMWNxYlZ3YzdUWTBUNG8xVmpHUmJmSjNJWFhCdWpPdGc5UlZNOW9BdWZXeC1BUENDbXdjZGV1WlE?oc=5",
+      "published": "Tue, 20 Jan 2026 06:08:54 GMT",
+      "query": "BBCA saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham BRI (BBRI) Jadi Incaran Investor Asing, BCA (BBCA) Dilego Rp269 Miliar - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOX095SUJpd3MwLTFhOElpaEYtTGlLVFBzcFVvdXB0T21hdFRqYzZRMW9tWFZ1U2MtY2Mwajl3MnFHNFhNOWFxUzNwQmF6MC1JVnJkSDBaS3QtZ1VlTDFKVzVBdkk4OEJ1d2E1M0xnd0dJeGl0VVhScXFpaVRjSlR0SVJZQ2t5Y21ZOGZDenZaOVdBbDhtNTM1dl9LdnVPYjkzXzdxdHlLNnBPcWxBcHN2dTZPY0JabHBnUzV2YzVR?oc=5\" target=\"_blank\">Saham BRI (BBRI) Jadi Incaran Investor Asing, BCA (BBCA) Dilego Rp269 Miliar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX095SUJpd3MwLTFhOElpaEYtTGlLVFBzcFVvdXB0T21hdFRqYzZRMW9tWFZ1U2MtY2Mwajl3MnFHNFhNOWFxUzNwQmF6MC1JVnJkSDBaS3QtZ1VlTDFKVzVBdkk4OEJ1d2E1M0xnd0dJeGl0VVhScXFpaVRjSlR0SVJZQ2t5Y21ZOGZDenZaOVdBbDhtNTM1dl9LdnVPYjkzXzdxdHlLNnBPcWxBcHN2dTZPY0JabHBnUzV2YzVR?oc=5",
+      "published": "Tue, 20 Jan 2026 22:50:03 GMT",
+      "query": "BBCA saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham BBCA Anjlok Gara-gara Ini - investor.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bklXb2JFMVJBT01EdDRYVXNPQ3FsU0c5T1A0Zy1YZTRvNHVrRHB4RGlhWE80cnNuUExLNFNaWTRrbHVSRFpfdmQ1Zl9WUV9rQmYzNS1TR2pCMWVRWU8yamJDNk9ZcUFOS0YzYUxuTkU?oc=5\" target=\"_blank\">Saham BBCA Anjlok Gara-gara Ini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investor.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bklXb2JFMVJBT01EdDRYVXNPQ3FsU0c5T1A0Zy1YZTRvNHVrRHB4RGlhWE80cnNuUExLNFNaWTRrbHVSRFpfdmQ1Zl9WUV9rQmYzNS1TR2pCMWVRWU8yamJDNk9ZcUFOS0YzYUxuTkU?oc=5",
+      "published": "Mon, 19 Jan 2026 08:04:00 GMT",
+      "query": "BBCA saham",
+      "sentiment_score": -10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟡 NEGATIVE: 'anjlok'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Harga Saham PT Bank Central Asia Tbk (BBCA) Hari Ini, 21 January 2026 - FORTUNE Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHBUQ0VYZWt0NXRvX0lqSHRGVEppS3N0eFIxNVh0RXVPc1k1YllNem5NTVBUMHlURDJSSjNhdGw4Uzd5UHpzWXAzUDZCb3Y5WDNlcm5pb0dscEZxSnBmRXZXMnF3dWZ6T3NSbDlDWTRpdGRnTGlxRjlzSmVUX21DSDVWdC1WUmN0VTFtRm8tMWtzS2t3Y3ByamZwUFl6YU5kVWdTMHY1U3lkSl8xek8wSmVIMEZ0QTDSAbwBQVVfeXFMT2VianBwOTNQTHZ0VjRfNzZCQmVCUUU4Y1VIcVpTNnViR1VrLXE3REhiVVpPcDhNNXRLMi12dlJScFhJczhZNm5sTGdRUzR5bEtsOWVMSzhyNGxaMzYtTXJ3ZWZ0NVZRbjkxdnZrUllhb2ZaMWIwSUQtWUliRmVGX3ZRYVFNOVpXbkhZSkxMN1hjeEpiRDBjdlppWHVGX2VZV3VLT2hUMVBUcGNFc1RRSUpJQkh5U1F6SDJEVjA?oc=5\" target=\"_blank\">Harga Saham PT Bank Central Asia Tbk (BBCA) Hari Ini, 21 January 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FORTUNE Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHBUQ0VYZWt0NXRvX0lqSHRGVEppS3N0eFIxNVh0RXVPc1k1YllNem5NTVBUMHlURDJSSjNhdGw4Uzd5UHpzWXAzUDZCb3Y5WDNlcm5pb0dscEZxSnBmRXZXMnF3dWZ6T3NSbDlDWTRpdGRnTGlxRjlzSmVUX21DSDVWdC1WUmN0VTFtRm8tMWtzS2t3Y3ByamZwUFl6YU5kVWdTMHY1U3lkSl8xek8wSmVIMEZ0QTDSAbwBQVVfeXFMT2VianBwOTNQTHZ0VjRfNzZCQmVCUUU4Y1VIcVpTNnViR1VrLXE3REhiVVpPcDhNNXRLMi12dlJScFhJczhZNm5sTGdRUzR5bEtsOWVMSzhyNGxaMzYtTXJ3ZWZ0NVZRbjkxdnZrUllhb2ZaMWIwSUQtWUliRmVGX3ZRYVFNOVpXbkhZSkxMN1hjeEpiRDBjdlppWHVGX2VZV3VLT2hUMVBUcGNFc1RRSUpJQkh5U1F6SDJEVjA?oc=5",
+      "published": "Wed, 21 Jan 2026 02:35:00 GMT",
+      "query": "BBCA saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham BBCA 21 Jan: Harga Terkoreksi 1,56% - kaltarabisnis.co",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE85VDlhOUNWNTcyeFJ3Ulp2MDBQRlJ6Z3dwVEVQLXZXWDFDTjdaVXNBN1I5WlNsRXdJRzFTaEt3WUwxNXZsQm1VaHVPamtwZmp3Tl9VQXF1aW95dW03R1FpZXlBN0x3Q0x5dm16MjFwVXhIUjNnd3c?oc=5\" target=\"_blank\">Saham BBCA 21 Jan: Harga Terkoreksi 1,56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kaltarabisnis.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85VDlhOUNWNTcyeFJ3Ulp2MDBQRlJ6Z3dwVEVQLXZXWDFDTjdaVXNBN1I5WlNsRXdJRzFTaEt3WUwxNXZsQm1VaHVPamtwZmp3Tl9VQXF1aW95dW03R1FpZXlBN0x3Q0x5dm16MjFwVXhIUjNnd3c?oc=5",
+      "published": "Wed, 21 Jan 2026 04:20:24 GMT",
+      "query": "BBCA saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Investor Asing Buru Saham BRI (BBRI) Rp224 Miliar, BCA (BBCA) Justru Dilepas Rp269 Miliar - mureks.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOEE2OTZadnpjN0pad0xXOTRya19DUW5oaGI3aWVRc0JELW1WUWVPbUhIdkNZSFlhZHhnbVJQeTl5VDFXSU0zaEQxcjJBalBwN3MzZ3FkOEtoYzRwOHdEdzZLUldobFFQSGYyZ0RPRmUxRTZLUGt5UHpuVUYyeFd4Y3ZYcFRPcjEwR1RGN2c0TzhBTUdVVS15aU5Sam1GU29oaVdGemctLUY?oc=5\" target=\"_blank\">Investor Asing Buru Saham BRI (BBRI) Rp224 Miliar, BCA (BBCA) Justru Dilepas Rp269 Miliar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mureks.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOEE2OTZadnpjN0pad0xXOTRya19DUW5oaGI3aWVRc0JELW1WUWVPbUhIdkNZSFlhZHhnbVJQeTl5VDFXSU0zaEQxcjJBalBwN3MzZ3FkOEtoYzRwOHdEdzZLUldobFFQSGYyZ0RPRmUxRTZLUGt5UHpuVUYyeFd4Y3ZYcFRPcjEwR1RGN2c0TzhBTUdVVS15aU5Sam1GU29oaVdGemctLUY?oc=5",
+      "published": "Tue, 20 Jan 2026 22:54:51 GMT",
+      "query": "BBCA saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    }
+  ],
+  "all_keywords": [
+    "🔴 OPERATIONAL_INDONESIAN: 'ditutup'",
+    "🟢 POSITIVE: 'pertumbuhan'",
+    "🟢 POSITIVE: 'dividen'",
+    "🟡 NEGATIVE: 'tertekan'",
+    "🟢 POSITIVE: 'menguat'",
+    "🟢 POSITIVE: 'naik'",
+    "🟡 NEGATIVE: 'lemah'",
+    "🟡 NEGATIVE: 'anjlok'"
+  ],
+  "timestamp": "2026-01-21T11:43:50.969954"
+}

@@ -1,0 +1,149 @@
+{
+  "stock": "BBRI",
+  "score": 1.7,
+  "category": "CRITICAL",
+  "articles_found": 138,
+  "critical_count": 1,
+  "negative_count": 0,
+  "recommendation": "🔴 IMMEDIATE EXIT - 1 critical alerts",
+  "critical_articles": [
+    {
+      "source": "google_news",
+      "title": "Suspensi Dicabut! Saham RMKE Ngamuk di Papan FCA - Sinar Harapan - Sinar Harapan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHRneU9oSGtfMWhEYjBGUUsyUldOM2xvZXlvMm5aT0hmTUt3aEg3TkRnWUpLNkVFZllnVERvQ196QlE3NXJXTVJ3ZnBMT1hQRnYwZ2l1MkpjV0w1YnA4ZkQzOU45aFNJak0xY2JWWlZtN1FVZXB4dDBhemVJdndpVUdkNTIzU2syY01KZDJISE4ycXk4dHVHZnpsa9IBoAFBVV95cUxPYjdYSWtCa3pHV0duY1o0LUx3b0c1M21uNHVSdWZ6ZzlUU3JHako3eHNTTC1Pd2R2N2s4WEhPVmJfNFFqWTV0MWRteUtZYXFpMVBqZ1N3SjJfWGNBRG9rWUp6RUFWenpGNDcwR3FESVJzYlZtZEFIZFl5RUowNFFDWjJTcjJkNTFEM2lEeUJQOEpWZkpaZWdUQk5vQjJlSFk3?oc=5\" target=\"_blank\">Suspensi Dicabut! Saham RMKE Ngamuk di Papan FCA - Sinar Harapan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinar Harapan</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHRneU9oSGtfMWhEYjBGUUsyUldOM2xvZXlvMm5aT0hmTUt3aEg3TkRnWUpLNkVFZllnVERvQ196QlE3NXJXTVJ3ZnBMT1hQRnYwZ2l1MkpjV0w1YnA4ZkQzOU45aFNJak0xY2JWWlZtN1FVZXB4dDBhemVJdndpVUdkNTIzU2syY01KZDJISE4ycXk4dHVHZnpsa9IBoAFBVV95cUxPYjdYSWtCa3pHV0duY1o0LUx3b0c1M21uNHVSdWZ6ZzlUU3JHako3eHNTTC1Pd2R2N2s4WEhPVmJfNFFqWTV0MWRteUtZYXFpMVBqZ1N3SjJfWGNBRG9rWUp6RUFWenpGNDcwR3FESVJzYlZtZEFIZFl5RUowNFFDWjJTcjJkNTFEM2lEeUJQOEpWZkpaZWdUQk5vQjJlSFk3?oc=5",
+      "published": "Wed, 21 Jan 2026 03:10:20 GMT",
+      "query": "BBRI bursa",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 REGULATORY_INDONESIAN: 'dicabut'"
+      ]
+    }
+  ],
+  "all_articles": [
+    {
+      "source": "google_news",
+      "title": "Saham BBRI Diborong Asing, BBCA Terbanyak Dilepas Asing - CNBC Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPek45TzFialh3TjZSc2NadlJyNVBUMjFIVzRfRW81WlFWNmNvcFo2Y2RJZFJQcm93NjJ6dDNrWnNyejAxczEwb1pzV3ZNSmUtV3c2N2NBbDNLSnpUdWNyWkdZWkxFQXVlZHZkbDJZQjUyU1RMa21QQ2VPSUppY29pM282VEZqRW5lLWowRlNUQURvamNNaFo1aThaTlVFUzIyNmR6SlJoUTRkVk9IZXZKa2VzaElhYmvSAbwBQVVfeXFMTU1JbkpjQTNtMjI0RG90eDRHUndKdzh0YzRxX1lHRHdPdlZiRUxMYmw3MGZSLXNOTnB6YUJTY0tGSzRuSXpXLThOS05sU0E5emU0ODVwZGhSRGM0aTJ5WlhGb3ktQVFtbkctNndRNUZQRWIwWHp6YTJNUGV0S0lRcHhVVmljVWdmRnFYZkotdkFLSW5YZUcyQkgweVNyZHBBc1licDlZNFlBUVNvb0xlcWt0aEs0Vk8yelJYQmQ?oc=5\" target=\"_blank\">Saham BBRI Diborong Asing, BBCA Terbanyak Dilepas Asing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPek45TzFialh3TjZSc2NadlJyNVBUMjFIVzRfRW81WlFWNmNvcFo2Y2RJZFJQcm93NjJ6dDNrWnNyejAxczEwb1pzV3ZNSmUtV3c2N2NBbDNLSnpUdWNyWkdZWkxFQXVlZHZkbDJZQjUyU1RMa21QQ2VPSUppY29pM282VEZqRW5lLWowRlNUQURvamNNaFo1aThaTlVFUzIyNmR6SlJoUTRkVk9IZXZKa2VzaElhYmvSAbwBQVVfeXFMTU1JbkpjQTNtMjI0RG90eDRHUndKdzh0YzRxX1lHRHdPdlZiRUxMYmw3MGZSLXNOTnB6YUJTY0tGSzRuSXpXLThOS05sU0E5emU0ODVwZGhSRGM0aTJ5WlhGb3ktQVFtbkctNndRNUZQRWIwWHp6YTJNUGV0S0lRcHhVVmljVWdmRnFYZkotdkFLSW5YZUcyQkgweVNyZHBBc1licDlZNFlBUVNvb0xlcWt0aEs0Vk8yelJYQmQ?oc=5",
+      "published": "Wed, 21 Jan 2026 00:58:59 GMT",
+      "query": "BBRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Minat Investor Asing Terbelah, Saham BBCA Rajin Dilepas, BBRI Justru Terus Diborong - KONTAN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNblBzeEpzSkw3TGxKLWhJYlQzMDN6YWNfc01RTjFoX2ZMUDQxcTVwODBYcmREcVJ5dlhyaVJpeWgwQU9tajUtZWU4LVVfY1Q3YkFRTVdOQlBGOF9FcFQ3UFBEdUxxNWlDVVBWZ2JqR1d4RmFEeWtrV1pSVjlTemZWY3NFVTJvaFBHZ1BxM3VrSVZOR21QSXFMaFRmRzlJQmlZWDNwY2lwNFNXbHkydEoyaFAxdzJiUQ?oc=5\" target=\"_blank\">Minat Investor Asing Terbelah, Saham BBCA Rajin Dilepas, BBRI Justru Terus Diborong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KONTAN</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblBzeEpzSkw3TGxKLWhJYlQzMDN6YWNfc01RTjFoX2ZMUDQxcTVwODBYcmREcVJ5dlhyaVJpeWgwQU9tajUtZWU4LVVfY1Q3YkFRTVdOQlBGOF9FcFQ3UFBEdUxxNWlDVVBWZ2JqR1d4RmFEeWtrV1pSVjlTemZWY3NFVTJvaFBHZ1BxM3VrSVZOR21QSXFMaFRmRzlJQmlZWDNwY2lwNFNXbHkydEoyaFAxdzJiUQ?oc=5",
+      "published": "Tue, 20 Jan 2026 23:41:54 GMT",
+      "query": "BBRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Investor Asing Borong Saham BBRI dan PTRO Kala IHSG Cetak Rekor - Bloomberg Technoz",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYThCaXZrcDY3R09FQ3lDMnFaSWNad1lPa2Vnc1I0YlBrbEJUUExEbXhyZDNwdG1KeTlPVm0wZThRNXNkR3UxZDhncHhTSHNZeERNY2pPeGJMUlJvNjBGNXg0d0FjOU9Fb0J4SF93eVIyX3BBWG84VDBsVDlYTExUbE1vUUxPMkR1YU53Uk5US2NtMk9qZUhKcnh5cUlVQ1c0OGpTdkZ1VC1pbDNhSUlrVlhFdjg?oc=5\" target=\"_blank\">Investor Asing Borong Saham BBRI dan PTRO Kala IHSG Cetak Rekor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg Technoz</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYThCaXZrcDY3R09FQ3lDMnFaSWNad1lPa2Vnc1I0YlBrbEJUUExEbXhyZDNwdG1KeTlPVm0wZThRNXNkR3UxZDhncHhTSHNZeERNY2pPeGJMUlJvNjBGNXg0d0FjOU9Fb0J4SF93eVIyX3BBWG84VDBsVDlYTExUbE1vUUxPMkR1YU53Uk5US2NtMk9qZUhKcnh5cUlVQ1c0OGpTdkZ1VC1pbDNhSUlrVlhFdjg?oc=5",
+      "published": "Wed, 21 Jan 2026 01:23:20 GMT",
+      "query": "BBRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham BRI (BBRI) jadi incaran investor asing, BCA (BBCA) dilego Rp269 miliar - MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2VPY2UwZnVjb2dBV1JMenFuNzNuMXFJVkV1RGlsN05oRDRHdmRCNHBNbnB0Mks2NnZmX3d2RlNWUHZQTXlJakxTS0JTYThmYTFsM3hxaWs0MkNlNVZ2MVRhWWlYX2RhTzlnbUlQZmdUR2JpdWZmeGxiU3g5ZFVjbkhtOGpkb25UTDJRY3hfVTJwV0RLTHVXSk81b2IxNEhaOU5YdUJlUHlwZy1rU1N4WXJoeGJ5cFExQ3pNbC1CYw?oc=5\" target=\"_blank\">Saham BRI (BBRI) jadi incaran investor asing, BCA (BBCA) dilego Rp269 miliar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2VPY2UwZnVjb2dBV1JMenFuNzNuMXFJVkV1RGlsN05oRDRHdmRCNHBNbnB0Mks2NnZmX3d2RlNWUHZQTXlJakxTS0JTYThmYTFsM3hxaWs0MkNlNVZ2MVRhWWlYX2RhTzlnbUlQZmdUR2JpdWZmeGxiU3g5ZFVjbkhtOGpkb25UTDJRY3hfVTJwV0RLTHVXSk81b2IxNEhaOU5YdUJlUHlwZy1rU1N4WXJoeGJ5cFExQ3pNbC1CYw?oc=5",
+      "published": "Tue, 20 Jan 2026 23:58:31 GMT",
+      "query": "BBRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham BRI (BBRI) Jadi Incaran Investor Asing, BCA (BBCA) Dilego Rp269 Miliar - Bisnis.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOX095SUJpd3MwLTFhOElpaEYtTGlLVFBzcFVvdXB0T21hdFRqYzZRMW9tWFZ1U2MtY2Mwajl3MnFHNFhNOWFxUzNwQmF6MC1JVnJkSDBaS3QtZ1VlTDFKVzVBdkk4OEJ1d2E1M0xnd0dJeGl0VVhScXFpaVRjSlR0SVJZQ2t5Y21ZOGZDenZaOVdBbDhtNTM1dl9LdnVPYjkzXzdxdHlLNnBPcWxBcHN2dTZPY0JabHBnUzV2YzVR?oc=5\" target=\"_blank\">Saham BRI (BBRI) Jadi Incaran Investor Asing, BCA (BBCA) Dilego Rp269 Miliar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX095SUJpd3MwLTFhOElpaEYtTGlLVFBzcFVvdXB0T21hdFRqYzZRMW9tWFZ1U2MtY2Mwajl3MnFHNFhNOWFxUzNwQmF6MC1JVnJkSDBaS3QtZ1VlTDFKVzVBdkk4OEJ1d2E1M0xnd0dJeGl0VVhScXFpaVRjSlR0SVJZQ2t5Y21ZOGZDenZaOVdBbDhtNTM1dl9LdnVPYjkzXzdxdHlLNnBPcWxBcHN2dTZPY0JabHBnUzV2YzVR?oc=5",
+      "published": "Tue, 20 Jan 2026 22:50:03 GMT",
+      "query": "BBRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Pekan Ini Bisa Sentuh 9.200, Saham JPFA, BBRI, dan AADI Jadi Pilihan Utama - Investortrust.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkxwU1lhVjdYcjdDSXFJR0R5TWpaOExDb3UzRHhtVTc2LUhnUTQ4NWF5anRPTjE2RVZFSVEtSmNxalhzMTBfTHphZ3lxQzhtampOOWRIUE4wU1NHNXlFTmxDZWd3VGpTXzdyZFNrb1AwZ2hvbUFsT0RNM3BHeXRuMENLOGVObjRtUFk1ZHZnQXN2dl9DTFRGS2tkeHpIRkZlYjVzY1M1YWEydGlDby13aFJhdw?oc=5\" target=\"_blank\">IHSG Pekan Ini Bisa Sentuh 9.200, Saham JPFA, BBRI, dan AADI Jadi Pilihan Utama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investortrust.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkxwU1lhVjdYcjdDSXFJR0R5TWpaOExDb3UzRHhtVTc2LUhnUTQ4NWF5anRPTjE2RVZFSVEtSmNxalhzMTBfTHphZ3lxQzhtampOOWRIUE4wU1NHNXlFTmxDZWd3VGpTXzdyZFNrb1AwZ2hvbUFsT0RNM3BHeXRuMENLOGVObjRtUFk1ZHZnQXN2dl9DTFRGS2tkeHpIRkZlYjVzY1M1YWEydGlDby13aFJhdw?oc=5",
+      "published": "Mon, 19 Jan 2026 08:02:52 GMT",
+      "query": "BBRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Harga Saham PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) Hari Ini, 21 January 2026 - FORTUNE Indonesia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQR3owbzRqMXZseDlyMlBXYXZDZV93ZHhOWjdhc1pWdWhPR1NYd0ROSmY4ZnMycnozUjlaTmc3ZXBZbHlKTm5fMExfV0pHYlliTDBkU1hoTmx5MVJtWmFSbExRUTZtVkhPNDlMQk9RaVljTEJJNEZQS0J5cjk3ZlUtaWhDVWEwX0ZWbFFKT0U3cVhMWnBwQUxQdnJwdFFoODNpcFpiRFNVSUVUTURKdE1VZnhWSXR4UzdEeFNZSFJTRlBuSlR2Vl8w0gHMAUFVX3lxTE1qcGJNUG9nQWZLZDVPTVlzOXlBOWx2RVdFM3VJendlanhycTJoblVBaV9Rd1N1NjlnMVNTcWxGQ2VwcDQ4bWl2cjNfX2p6ck1OQUYtOE9hSEJ5ZVZ4TDdWX3dFZUkxdkg4b3NnNWN4Ql9MZ1FhWXZ6X2cyZUtmTk1KcGswaHBrMzhVRmFVVXk5WXBFNFNzOXdIUDhtOTA5ZlVjMVE1TlFpMVJ5dWRlOGxZX2dkSWFjbFhaLWlLUDFFZUFpaDhNNTg3c0dqUQ?oc=5\" target=\"_blank\">Harga Saham PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) Hari Ini, 21 January 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FORTUNE Indonesia</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR3owbzRqMXZseDlyMlBXYXZDZV93ZHhOWjdhc1pWdWhPR1NYd0ROSmY4ZnMycnozUjlaTmc3ZXBZbHlKTm5fMExfV0pHYlliTDBkU1hoTmx5MVJtWmFSbExRUTZtVkhPNDlMQk9RaVljTEJJNEZQS0J5cjk3ZlUtaWhDVWEwX0ZWbFFKT0U3cVhMWnBwQUxQdnJwdFFoODNpcFpiRFNVSUVUTURKdE1VZnhWSXR4UzdEeFNZSFJTRlBuSlR2Vl8w0gHMAUFVX3lxTE1qcGJNUG9nQWZLZDVPTVlzOXlBOWx2RVdFM3VJendlanhycTJoblVBaV9Rd1N1NjlnMVNTcWxGQ2VwcDQ4bWl2cjNfX2p6ck1OQUYtOE9hSEJ5ZVZ4TDdWX3dFZUkxdkg4b3NnNWN4Ql9MZ1FhWXZ6X2cyZUtmTk1KcGswaHBrMzhVRmFVVXk5WXBFNFNzOXdIUDhtOTA5ZlVjMVE1TlFpMVJ5dWRlOGxZX2dkSWFjbFhaLWlLUDFFZUFpaDhNNTg3c0dqUQ?oc=5",
+      "published": "Wed, 21 Jan 2026 02:40:00 GMT",
+      "query": "BBRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Transformasi Usaha Camilan Resep Keluarga, NM Kitchen Naik Kelas Didukung LinkUMKM dari Bank BRI (BBRI) - Sinar Harapan - Sinar Harapan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFlReGZncHVZU2ZzcG5TX3JwV1Q2el9SMmIwWUJ1aWI0YW5VNDgxb0R2cmJ2aXFRaGhiS19iX1V6MllPVU93NTFqQ0MxbFJWN1QyZ3R4eVNwMGMwRG56QmZ0T3hpNDZTZzY4cGFmaF9qalFJQ08zVm9MUVc2b2NsNFhZY1ZJY3FpV1UwbFFOQ1VGRTRRTXFfVGdTRnd3dXIzaXJjU2hfaFBSa3lFYkpOd2pOMjkySFJGRzUyekR6MHVLck1FTkpKYU1jWHF2dGtlZmVRelZxX3FBM29DX1pIbXdn0gHnAUFVX3lxTFBKT2x6LUd1d0ZGcUJ1aXpkSGoxY1Q2bFNXTHNyQ0wyaGRiSVFwNGJOTThxTHlOQ1dOMHAxbjZkeVpsNHZIc3FnQ1V5X05rNURKTDAzazU5YWwzN3VaSk02WDMwd3lsUy1FemxwV203OFJlZk9yRndCM2I5eGZDSlNjNlU2YXFWOWhhWjViZTdBT3Z4UVBYdmw0dnhXbGRGM3d1RDc4RWhTSEJxSGVrbExOUnd3ZS1UMEZCckdzTmpsdnZEWmRRSU1xb05KUFVkS2tiZ0ZyNlNvWnhLZFNMbkNaY1ljNHFwcw?oc=5\" target=\"_blank\">Transformasi Usaha Camilan Resep Keluarga, NM Kitchen Naik Kelas Didukung LinkUMKM dari Bank BRI (BBRI) - Sinar Harapan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sinar Harapan</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFlReGZncHVZU2ZzcG5TX3JwV1Q2el9SMmIwWUJ1aWI0YW5VNDgxb0R2cmJ2aXFRaGhiS19iX1V6MllPVU93NTFqQ0MxbFJWN1QyZ3R4eVNwMGMwRG56QmZ0T3hpNDZTZzY4cGFmaF9qalFJQ08zVm9MUVc2b2NsNFhZY1ZJY3FpV1UwbFFOQ1VGRTRRTXFfVGdTRnd3dXIzaXJjU2hfaFBSa3lFYkpOd2pOMjkySFJGRzUyekR6MHVLck1FTkpKYU1jWHF2dGtlZmVRelZxX3FBM29DX1pIbXdn0gHnAUFVX3lxTFBKT2x6LUd1d0ZGcUJ1aXpkSGoxY1Q2bFNXTHNyQ0wyaGRiSVFwNGJOTThxTHlOQ1dOMHAxbjZkeVpsNHZIc3FnQ1V5X05rNURKTDAzazU5YWwzN3VaSk02WDMwd3lsUy1FemxwV203OFJlZk9yRndCM2I5eGZDSlNjNlU2YXFWOWhhWjViZTdBT3Z4UVBYdmw0dnhXbGRGM3d1RDc4RWhTSEJxSGVrbExOUnd3ZS1UMEZCckdzTmpsdnZEWmRRSU1xb05KUFVkS2tiZ0ZyNlNvWnhLZFNMbkNaY1ljNHFwcw?oc=5",
+      "published": "Tue, 20 Jan 2026 09:33:03 GMT",
+      "query": "BBRI saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'naik'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Investor Asing Buru Saham BRI (BBRI) Rp224 Miliar, BCA (BBCA) Justru Dilepas Rp269 Miliar - mureks.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOEE2OTZadnpjN0pad0xXOTRya19DUW5oaGI3aWVRc0JELW1WUWVPbUhIdkNZSFlhZHhnbVJQeTl5VDFXSU0zaEQxcjJBalBwN3MzZ3FkOEtoYzRwOHdEdzZLUldobFFQSGYyZ0RPRmUxRTZLUGt5UHpuVUYyeFd4Y3ZYcFRPcjEwR1RGN2c0TzhBTUdVVS15aU5Sam1GU29oaVdGemctLUY?oc=5\" target=\"_blank\">Investor Asing Buru Saham BRI (BBRI) Rp224 Miliar, BCA (BBCA) Justru Dilepas Rp269 Miliar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mureks.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOEE2OTZadnpjN0pad0xXOTRya19DUW5oaGI3aWVRc0JELW1WUWVPbUhIdkNZSFlhZHhnbVJQeTl5VDFXSU0zaEQxcjJBalBwN3MzZ3FkOEtoYzRwOHdEdzZLUldobFFQSGYyZ0RPRmUxRTZLUGt5UHpuVUYyeFd4Y3ZYcFRPcjEwR1RGN2c0TzhBTUdVVS15aU5Sam1GU29oaVdGemctLUY?oc=5",
+      "published": "Tue, 20 Jan 2026 22:54:51 GMT",
+      "query": "BBRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Net Buy , Asing Berebut Borong Saham-Saham Ini - investor.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWx2TVFYZUJJNVFTX1gxS05KX1BiOGxCWUxNSTN0bXNicHpVczJEeWUxZTNRS3c2Skc1T3phZ0M2Mkwwck9MT1dpZFVaMnJCMF9UX2g1TkpldUw1MlliODEyb3N2c1VLRldfQlo4ZkVDRlZjSlVicDJ1TVp3S1kzWDN3?oc=5\" target=\"_blank\">Net Buy , Asing Berebut Borong Saham-Saham Ini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investor.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWx2TVFYZUJJNVFTX1gxS05KX1BiOGxCWUxNSTN0bXNicHpVczJEeWUxZTNRS3c2Skc1T3phZ0M2Mkwwck9MT1dpZFVaMnJCMF9UX2g1TkpldUw1MlliODEyb3N2c1VLRldfQlo4ZkVDRlZjSlVicDJ1TVp3S1kzWDN3?oc=5",
+      "published": "Wed, 21 Jan 2026 00:06:10 GMT",
+      "query": "BBRI saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    }
+  ],
+  "all_keywords": [
+    "🟢 POSITIVE: 'melonjak'",
+    "🟢 POSITIVE: 'dividen'",
+    "🔴 REGULATORY_INDONESIAN: 'dicabut'",
+    "🟢 POSITIVE: 'menguat'",
+    "🟡 NEGATIVE: 'tertekan'",
+    "🟢 POSITIVE: 'naik'",
+    "🟡 NEGATIVE: 'lemah'",
+    "🟡 NEGATIVE: 'anjlok'"
+  ],
+  "timestamp": "2026-01-21T11:43:48.803689"
+}

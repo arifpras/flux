@@ -1,0 +1,161 @@
+{
+  "stock": "RLCO",
+  "score": 2.6,
+  "category": "CRITICAL",
+  "articles_found": 106,
+  "critical_count": 2,
+  "negative_count": 0,
+  "recommendation": "🔴 IMMEDIATE EXIT - 2 critical alerts",
+  "critical_articles": [
+    {
+      "source": "google_news",
+      "title": "IHSG Ditutup di Zona Hijau Berkat Saham EMAS, ARA Bertebaran Dipimpin AWAN hingga RLCO - Investortrust.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRlRDeVFucTczbDFZcEFZWTFyQ05MVUhqSXFPMk1LVFRaa2w2NHUyT2JhX0x3bDhtaks4ZUxQZVFYV1lQUXMzcFRBbFNVZjBXNGxHU3F0M09lUWF6bTBDRE1QX3lxc1NWSmwxekV3NFh1MUNSTFlPRjY2aDRDdmRyUTBkMWNzeVhielVGX2NKbHVzLVVqM2FUV01TLW9Hcmt0SG1BUnBaVlNtd205bzVCbUpqcGg2cERSUC1zUVMtT2I?oc=5\" target=\"_blank\">IHSG Ditutup di Zona Hijau Berkat Saham EMAS, ARA Bertebaran Dipimpin AWAN hingga RLCO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investortrust.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRlRDeVFucTczbDFZcEFZWTFyQ05MVUhqSXFPMk1LVFRaa2w2NHUyT2JhX0x3bDhtaks4ZUxQZVFYV1lQUXMzcFRBbFNVZjBXNGxHU3F0M09lUWF6bTBDRE1QX3lxc1NWSmwxekV3NFh1MUNSTFlPRjY2aDRDdmRyUTBkMWNzeVhielVGX2NKbHVzLVVqM2FUV01TLW9Hcmt0SG1BUnBaVlNtd205bzVCbUpqcGg2cERSUC1zUVMtT2I?oc=5",
+      "published": "Tue, 20 Jan 2026 09:16:25 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": -30,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "IHSG Hari Ini Ditutup Naik Tipis ke Level 9.134, Saham Grup Bakrie Jadi Buruan! - Warta Ekonomi",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnhPRDJMeThYTGhkM1FJV09YMTJxS2lmdkFFUm5pMXFrZkI5ejMyeEFOVDNEQjQ2RWdDT0V1b3ZRZmNLUDA4clBFQUY1U21MLV9KOWZCWTRYVkZQWF94TUdZSFRhTExMM0xGUzliOWNRWUcwaV9EaURGS1RJUld4ZmwtUVVFa2RacGp3MDNfTVdCZ3FTc3FKWm1YVjVaMGZhMmhZOC1FOFJlNDg0RUR3TmM1WXd1WjhWR1HSAboBQVVfeXFMT0Z4T0QyTHk4WExoZDNRSVdPWDEycUtpZnZBRVJuaTFxa2ZCOXozMnhBTlQzREI0NkVnQ09FdW92UWZjS1AwOHJQRUFGNVNtTC1fSjlmQlk0WFZGUFhfeE1HWUhUYUxMTDNMRlM5YjljUVlHMGlfRGlERktUSVJXeGZsLVFVRWtkWnBqdzAzX01XQmdxU3NxSlptWFY1WjBmYTJoWTgtRThSZTQ4NEVEd05jNVl3dVo4VkdR?oc=5\" target=\"_blank\">IHSG Hari Ini Ditutup Naik Tipis ke Level 9.134, Saham Grup Bakrie Jadi Buruan!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Warta Ekonomi</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnhPRDJMeThYTGhkM1FJV09YMTJxS2lmdkFFUm5pMXFrZkI5ejMyeEFOVDNEQjQ2RWdDT0V1b3ZRZmNLUDA4clBFQUY1U21MLV9KOWZCWTRYVkZQWF94TUdZSFRhTExMM0xGUzliOWNRWUcwaV9EaURGS1RJUld4ZmwtUVVFa2RacGp3MDNfTVdCZ3FTc3FKWm1YVjVaMGZhMmhZOC1FOFJlNDg0RUR3TmM1WXd1WjhWR1HSAboBQVVfeXFMT0Z4T0QyTHk4WExoZDNRSVdPWDEycUtpZnZBRVJuaTFxa2ZCOXozMnhBTlQzREI0NkVnQ09FdW92UWZjS1AwOHJQRUFGNVNtTC1fSjlmQlk0WFZGUFhfeE1HWUhUYUxMTDNMRlM5YjljUVlHMGlfRGlERktUSVJXeGZsLVFVRWtkWnBqdzAzX01XQmdxU3NxSlptWFY1WjBmYTJoWTgtRThSZTQ4NEVEd05jNVl3dVo4VkdR?oc=5",
+      "published": "Tue, 20 Jan 2026 09:18:00 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": -20,
+      "sentiment_category": "CRITICAL",
+      "keywords_matched": [
+        "🔴 OPERATIONAL_INDONESIAN: 'ditutup'",
+        "🟢 POSITIVE: 'naik'"
+      ]
+    }
+  ],
+  "all_articles": [
+    {
+      "source": "google_news",
+      "title": "BEI Suspensi Saham Abadi Lestari (RLCO) Usai Melonjak Ratusan Persen - kontan.co.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNa0pRMDVZeGFpZFNSQ0g2elQxaTV4Zk9Ea1UtbEd5S09IUDNLeEt1Y3RiRmxCUV84TVJUSUNQRjNENFhad0VVZEctZDJpRG4zWkFOUlZDNTdEbE5VNWFGV0JzeVotemdhTzk0TFVQRkFjSVNtWFVUX3Z5VC04eHBNZ1VoenlTcTRIMVoyenNEanJKSnV1czlia2pLaEJRU1luem9uTA?oc=5\" target=\"_blank\">BEI Suspensi Saham Abadi Lestari (RLCO) Usai Melonjak Ratusan Persen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kontan.co.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa0pRMDVZeGFpZFNSQ0g2elQxaTV4Zk9Ea1UtbEd5S09IUDNLeEt1Y3RiRmxCUV84TVJUSUNQRjNENFhad0VVZEctZDJpRG4zWkFOUlZDNTdEbE5VNWFGV0JzeVotemdhTzk0TFVQRkFjSVNtWFVUX3Z5VC04eHBNZ1VoenlTcTRIMVoyenNEanJKSnV1czlia2pLaEJRU1luem9uTA?oc=5",
+      "published": "Wed, 21 Jan 2026 02:03:17 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'melonjak'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "BEI Unsuspensi 8 Saham, Sebaliknya Suspensi 8 Saham ZATA hingga RLCO - Investortrust.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDNhWnlJeVEzVGZIdkFDampUdE1WNERtbG9SR21Jb0FTMzFtTU5icS1yMU54SURLYkozYXZnWTh6TklnUFJkQmFnWkJxZ3RrcFlRc0FGb1VVNlBaZVllS0k1NDlDTU56M1VsZ2VOak1vdDNGSWhLU1pqclh6b083Q1NmOUNiUTRaczJ2TE95S2pFUEdOYjFCSFNidGNwNFE0MGZ0VzRvTGM?oc=5\" target=\"_blank\">BEI Unsuspensi 8 Saham, Sebaliknya Suspensi 8 Saham ZATA hingga RLCO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investortrust.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDNhWnlJeVEzVGZIdkFDampUdE1WNERtbG9SR21Jb0FTMzFtTU5icS1yMU54SURLYkozYXZnWTh6TklnUFJkQmFnWkJxZ3RrcFlRc0FGb1VVNlBaZVllS0k1NDlDTU56M1VsZ2VOak1vdDNGSWhLU1pqclh6b083Q1NmOUNiUTRaczJ2TE95S2pFUEdOYjFCSFNidGNwNFE0MGZ0VzRvTGM?oc=5",
+      "published": "Wed, 21 Jan 2026 00:21:38 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham RLCO hingga ZATA Kena Suspensi, Tak Bisa Diperjualbelikan - IDX Channel",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNVo0Mlo3Q05Pci1VYXoyWTVtcGc4X3RvbUNZUGIyMm5VR0N2NDNlekNQd1BlS0VRZGkyZ2Exbm5LVnF6OGdNWUVVOC0tUDBZTElWa2ZsVTZYazBvS09kWjctRDBkNTZNSWh6N2ZlbGFNajB4RkpJc1h5OXIxT1lHSjRqRWdrSmduYzMzOGNzOW11c3VQWkd6UlV4NDgzbFZmU3pr0gGoAUFVX3lxTE1tbXZjeFFLeWJBTzZYbmJSWXduc1lLc3ZVQ0V4RGpwQV94Y2tJVElaMnRJYUVuWXRBZEItWUZFNEFJTnNEY0dPSFZKU3FWNzhHQkNPZVNBbW9VV0YtdnZzMHBpeFdGSjRDQjM3XzlLdk9UQmZPa0ZNM0p5M21tOGlETGVkNHo5R3NqNUNkYzlFWHNya0tRRUxtQUtvVkdGajFtM0hxZ3VXMg?oc=5\" target=\"_blank\">Saham RLCO hingga ZATA Kena Suspensi, Tak Bisa Diperjualbelikan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IDX Channel</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNVo0Mlo3Q05Pci1VYXoyWTVtcGc4X3RvbUNZUGIyMm5VR0N2NDNlekNQd1BlS0VRZGkyZ2Exbm5LVnF6OGdNWUVVOC0tUDBZTElWa2ZsVTZYazBvS09kWjctRDBkNTZNSWh6N2ZlbGFNajB4RkpJc1h5OXIxT1lHSjRqRWdrSmduYzMzOGNzOW11c3VQWkd6UlV4NDgzbFZmU3pr0gGoAUFVX3lxTE1tbXZjeFFLeWJBTzZYbmJSWXduc1lLc3ZVQ0V4RGpwQV94Y2tJVElaMnRJYUVuWXRBZEItWUZFNEFJTnNEY0dPSFZKU3FWNzhHQkNPZVNBbW9VV0YtdnZzMHBpeFdGSjRDQjM3XzlLdk9UQmZPa0ZNM0p5M21tOGlETGVkNHo5R3NqNUNkYzlFWHNya0tRRUxtQUtvVkdGajFtM0hxZ3VXMg?oc=5",
+      "published": "Wed, 21 Jan 2026 00:45:00 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "BEI Suspensi ZATA, RLCO, hingga IBOS: HUMI–RMKE Kembali Diperdagangkan - KabarBursa.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUEhucFVVTlJ2N0VWWUNvR3prbFRBU0VEY0JqUU0wY2FKM0FQRjdSTGU4WkVGSW90eVJMSmU3Y2xjbWFZR0ExMkxORXBiWk5rRXpaOHNhZmtMZkItUVJVMFlUV3ZxbTdrQjl2U0lXVFhYb2NUX09Nc01Qb3BDb2tqenRXamJ2bUVCYzlIbEpLNldUQU9kOXdJRHpPbDZDZENxTlBteEl6N2FaMHl6Nnc?oc=5\" target=\"_blank\">BEI Suspensi ZATA, RLCO, hingga IBOS: HUMI–RMKE Kembali Diperdagangkan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KabarBursa.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUEhucFVVTlJ2N0VWWUNvR3prbFRBU0VEY0JqUU0wY2FKM0FQRjdSTGU4WkVGSW90eVJMSmU3Y2xjbWFZR0ExMkxORXBiWk5rRXpaOHNhZmtMZkItUVJVMFlUV3ZxbTdrQjl2U0lXVFhYb2NUX09Nc01Qb3BDb2tqenRXamJ2bUVCYzlIbEpLNldUQU9kOXdJRHpPbDZDZENxTlBteEl6N2FaMHl6Nnc?oc=5",
+      "published": "Wed, 21 Jan 2026 03:27:00 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Sahamnya Mendadak Melejit, BEI Suspensi Emiten RLCO - Suara.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPNi1KZkJHbWEzRXF5Z3lxUUs3NHZkbXNaUUhqbmQ5NGVCSzZaRS0xUDY1bkphZE1iTldkWS16b2JDMmVKTkFRbnpTb08yWlhaQVUyZ0d2dl9OZmRHYlhST25zcHBkT2o1YUxsbkk3bGZBUnY1SzB3c0I1VGhIbVpyb3p6NlIyWHlzd0ZNMnZSY3JaZjFhdThPWDc1RVJQZ9IBngFBVV95cUxNWVFtQ3NjdndRY3lycGF3RlQ4VUpCaGRqaGZCMXloQzYxZkN5dExEOWhTbk9XZnN4WHllLUJlb190TEN6N2M4N3RfeURlVW5uTDhMOTZocjNvUVRGVXhJWkxvQVhCQ1Q5enpnQk00NFRiN2duYnlmQkJwLVVGZ0d5UkpYMG5BenFkM3ZoWTUxUHlfVUVPZnpXVUlCLWRhZw?oc=5\" target=\"_blank\">Sahamnya Mendadak Melejit, BEI Suspensi Emiten RLCO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Suara.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNi1KZkJHbWEzRXF5Z3lxUUs3NHZkbXNaUUhqbmQ5NGVCSzZaRS0xUDY1bkphZE1iTldkWS16b2JDMmVKTkFRbnpTb08yWlhaQVUyZ0d2dl9OZmRHYlhST25zcHBkT2o1YUxsbkk3bGZBUnY1SzB3c0I1VGhIbVpyb3p6NlIyWHlzd0ZNMnZSY3JaZjFhdThPWDc1RVJQZ9IBngFBVV95cUxNWVFtQ3NjdndRY3lycGF3RlQ4VUpCaGRqaGZCMXloQzYxZkN5dExEOWhTbk9XZnN4WHllLUJlb190TEN6N2M4N3RfeURlVW5uTDhMOTZocjNvUVRGVXhJWkxvQVhCQ1Q5enpnQk00NFRiN2duYnlmQkJwLVVGZ0d5UkpYMG5BenFkM3ZoWTUxUHlfVUVPZnpXVUlCLWRhZw?oc=5",
+      "published": "Wed, 21 Jan 2026 03:11:58 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Harga Naik Tajam, RLCO dan 7 Saham Lain Disuspensi BEI - investor.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTdLM3RGS2FIeFhQVXRCczlnc0lmc3Q4amlBY0ZWY0dmV0NaWFdLRjF0S0tjazZWM0E5MF8wZEpSRjFxUmdNX0dmMUd0OWJYNmFsZmRWVXJWMGJuVHBFSHNJQzlGOUFHS3hzM1ZONUJ4a2JVWEZtQzJxQlNHLVlFd2VaSWwwWk5XbWEwOHVoQlQ?oc=5\" target=\"_blank\">Harga Naik Tajam, RLCO dan 7 Saham Lain Disuspensi BEI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investor.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTdLM3RGS2FIeFhQVXRCczlnc0lmc3Q4amlBY0ZWY0dmV0NaWFdLRjF0S0tjazZWM0E5MF8wZEpSRjFxUmdNX0dmMUd0OWJYNmFsZmRWVXJWMGJuVHBFSHNJQzlGOUFHS3hzM1ZONUJ4a2JVWEZtQzJxQlNHLVlFd2VaSWwwWk5XbWEwOHVoQlQ?oc=5",
+      "published": "Wed, 21 Jan 2026 01:09:17 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": 10,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": [
+        "🟢 POSITIVE: 'naik'"
+      ]
+    },
+    {
+      "source": "google_news",
+      "title": "Menakar Realitas Fundamental RLCO: Euforia Pasar dan Jebakan Valuasi - Emitennews.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONE5kUE8xMU5CeUVXQ1FtTVRVM2prTnd1RzRmTU9VTS1MSjBobDMwSWQxVE02bVVFVDNTdXl5MjgxdVJaSm1HMWFqR2U3clJwZ0RrNVBNeUtudTZKZU5pQUlDelYzbDYzTE1JZTRKR05xb0hRM1lGSlRhakhZazdicXVZS1ZfR29hQ2djb243MGNfNDNvZ3ZvZlcydDJ2ZXU5?oc=5\" target=\"_blank\">Menakar Realitas Fundamental RLCO: Euforia Pasar dan Jebakan Valuasi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Emitennews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONE5kUE8xMU5CeUVXQ1FtTVRVM2prTnd1RzRmTU9VTS1MSjBobDMwSWQxVE02bVVFVDNTdXl5MjgxdVJaSm1HMWFqR2U3clJwZ0RrNVBNeUtudTZKZU5pQUlDelYzbDYzTE1JZTRKR05xb0hRM1lGSlRhakhZazdicXVZS1ZfR29hQ2djb243MGNfNDNvZ3ZvZlcydDJ2ZXU5?oc=5",
+      "published": "Wed, 21 Jan 2026 01:00:00 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Samuel Sekuritas Matangkan IPO Saham 5 Perusahaan Ini, Bakal Menyerupai RLCO? - Investortrust.id",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1FxTUtMQmdEZlhleWlreWNGNFMtbkJjYUZfT2xNaDJENEF6UmpUQ1RMQWhtcVBjcVIyVkJibXA4MUZJLUFldE5ISVB5MEJpUWtmTTNDTzl5QWhtTVo3UW05aDFsVk91TGpiaUticm1oRktSMkg4LUtMUUFyZnQ4VXhoRmo3N0Z0MTRwMXVwbkcwRnd3Qmo3RGlIdHFJYkUyUzRpNVQwR0VOSHE4RUpuelE1WQ?oc=5\" target=\"_blank\">Samuel Sekuritas Matangkan IPO Saham 5 Perusahaan Ini, Bakal Menyerupai RLCO?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investortrust.id</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1FxTUtMQmdEZlhleWlreWNGNFMtbkJjYUZfT2xNaDJENEF6UmpUQ1RMQWhtcVBjcVIyVkJibXA4MUZJLUFldE5ISVB5MEJpUWtmTTNDTzl5QWhtTVo3UW05aDFsVk91TGpiaUticm1oRktSMkg4LUtMUUFyZnQ4VXhoRmo3N0Z0MTRwMXVwbkcwRnd3Qmo3RGlIdHFJYkUyUzRpNVQwR0VOSHE4RUpuelE1WQ?oc=5",
+      "published": "Tue, 20 Jan 2026 08:31:35 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Geliat Investor Asing di Saham RLCO saat Harga Kian Menjulang - Bisnis Indonesia Premium",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNem5mOXFQQkpEcm9GZ2pWLTQ0YTBKSjFxNU9tYUNwODROS05PREFJYm9zZzl1bndTTlR3bm84aW8yN1R1WHpGbFVodjBsVFBSaHRtQl96M0JmTG9JUzJieWdsSHVlOUljN3dKbFNlcW9talY5aFBkRm11MDBZUC1Yb2JmRDd6R3dUTThOWXdjQ212eGNuUVN5bVVKOWgtb3RnWVJoYjB0cFk0ZjhQOXZxUGwtZHQ?oc=5\" target=\"_blank\">Geliat Investor Asing di Saham RLCO saat Harga Kian Menjulang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisnis Indonesia Premium</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNem5mOXFQQkpEcm9GZ2pWLTQ0YTBKSjFxNU9tYUNwODROS05PREFJYm9zZzl1bndTTlR3bm84aW8yN1R1WHpGbFVodjBsVFBSaHRtQl96M0JmTG9JUzJieWdsSHVlOUljN3dKbFNlcW9talY5aFBkRm11MDBZUC1Yb2JmRDd6R3dUTThOWXdjQ212eGNuUVN5bVVKOWgtb3RnWVJoYjB0cFk0ZjhQOXZxUGwtZHQ?oc=5",
+      "published": "Tue, 20 Jan 2026 05:00:00 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    },
+    {
+      "source": "google_news",
+      "title": "Saham RLCO Terbang 5.000% Sejak IPO, Investor 1 Lot Modal Rp16.800 Kini Jadi Rp870 Ribu - Warta Ekonomi",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ290RDVyZzM4S21sRTJWZHl2NXZjWW05X3VZaG9UVEotLWlMVVJvZHk5Q0xkT2JrcXpMb01XeWVBQk1xdUcyMjFzSDBVTkJzdzd1V2RWTnhNcXhiQUtkd2x2Y2tPcDIzZVlzS1hLdGFuM3h3dm8tRTJMXzhIQUh4cjlPcGxpeDh4M3BNdXB0ZHhTTWpUdEoxUHBuVVphQW9tTUYweUJZQkNoTXR6QWlOcTVKeWtqalJLeWxOSnFR0gHDAUFVX3lxTE5YVDNKb0NmaGJrQjZHMG1pR1RGMklUZVpqc0xmb1ZYekxEVWpyVWY3aHBWamtOQm1wNVV3YlJEQ21MNm9jc1E2aTA1dzNNUHVybnFER2VVZXZoNlQ0THlGZzNkQVlXaENuV3dtY2s2RXFOSE5WdGg2TG5acWE0WXVpXzZXeDhwbFFDU1pWQUdkUndLYUdMWHVMOERkcTVQUFpsWXBOMFMtT0dtY2h0SEpvTnFmVjhpMUZOX0tLZThmeTVnMA?oc=5\" target=\"_blank\">Saham RLCO Terbang 5.000% Sejak IPO, Investor 1 Lot Modal Rp16.800 Kini Jadi Rp870 Ribu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Warta Ekonomi</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ290RDVyZzM4S21sRTJWZHl2NXZjWW05X3VZaG9UVEotLWlMVVJvZHk5Q0xkT2JrcXpMb01XeWVBQk1xdUcyMjFzSDBVTkJzdzd1V2RWTnhNcXhiQUtkd2x2Y2tPcDIzZVlzS1hLdGFuM3h3dm8tRTJMXzhIQUh4cjlPcGxpeDh4M3BNdXB0ZHhTTWpUdEoxUHBuVVphQW9tTUYweUJZQkNoTXR6QWlOcTVKeWtqalJLeWxOSnFR0gHDAUFVX3lxTE5YVDNKb0NmaGJrQjZHMG1pR1RGMklUZVpqc0xmb1ZYekxEVWpyVWY3aHBWamtOQm1wNVV3YlJEQ21MNm9jc1E2aTA1dzNNUHVybnFER2VVZXZoNlQ0THlGZzNkQVlXaENuV3dtY2s2RXFOSE5WdGg2TG5acWE0WXVpXzZXeDhwbFFDU1pWQUdkUndLYUdMWHVMOERkcTVQUFpsWXBOMFMtT0dtY2h0SEpvTnFmVjhpMUZOX0tLZThmeTVnMA?oc=5",
+      "published": "Tue, 20 Jan 2026 06:55:00 GMT",
+      "query": "RLCO saham",
+      "sentiment_score": 0,
+      "sentiment_category": "NEUTRAL",
+      "keywords_matched": []
+    }
+  ],
+  "all_keywords": [
+    "🔴 OPERATIONAL_INDONESIAN: 'ditutup'",
+    "🟢 POSITIVE: 'naik'",
+    "🟢 POSITIVE: 'menguat'",
+    "🟢 POSITIVE: 'melonjak'"
+  ],
+  "timestamp": "2026-01-21T11:43:42.515836"
+}
