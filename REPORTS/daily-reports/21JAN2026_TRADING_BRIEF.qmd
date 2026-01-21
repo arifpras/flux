@@ -1,0 +1,144 @@
+---
+title: "Indonesian equities"
+subtitle: "Institutions cornering value"
+date: "21 January 2026"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - top=1.5cm
+      - bottom=1.5cm
+      - left=1.8cm
+      - right=1.8cm
+    fontsize: 10pt
+    linestretch: 1.1
+    pagestyle: empty
+    colorlinks: false
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \usepackage{parskip}
+        \usepackage{titlesec}
+        \setlength{\parskip}{6pt}
+        \setlength{\parindent}{0pt}
+        \raggedbottom
+        \definecolor{econred}{RGB}{196,30,58}
+        \definecolor{econblack}{RGB}{20,20,20}
+        \definecolor{econgray}{RGB}{100,100,100}
+        \titleformat{\section}{\normalfont\fontsize{13}{14}\bfseries\color{econred}}{\thesection}{0em}{}[\vspace{3pt}]
+        \titleformat{\subsection}{\normalfont\fontsize{10}{11}\bfseries\color{econblack}}{\thesubsection}{0em}{}
+        \titlespacing*{\section}{0pt}{8pt}{3pt}
+        \titlespacing*{\subsection}{0pt}{6pt}{2pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, warning=FALSE, message=FALSE, fig.width=5.5, fig.height=2.5, dpi=300)
+library(ggplot2)
+library(tibble)
+library(scales)
+
+theme_economist_clean <- function() {
+  theme(
+    text = element_text(family="Helvetica", size=9, color="#333333"),
+    plot.title = element_text(size=10, face="bold", color="#C41E3A", margin=margin(0,0,3,0)),
+    plot.subtitle = element_text(size=8.5, color="#666666", margin=margin(0,0,3,0)),
+    axis.title = element_blank(),
+    axis.text = element_text(size=8, color="#333333"),
+    axis.ticks = element_line(color="#CCCCCC", size=0.15),
+    panel.grid.major.y = element_line(color="#E8E8E8", size=0.15),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_rect(fill="white", color="white"),
+    plot.background = element_rect(fill="white", color="NA"),
+    legend.position = "none",
+    plot.margin = margin(2,0,2,0,"pt")
+  ) + theme_minimal()
+}
+```
+
+## Cornered
+
+UBS has accumulated 50.7% of all buying in Adaro Energy (ADRO). That is not diversification—that is conviction. When foreign institutions bet big on Indonesia's least-loved sector, it pays to listen.
+
+While retail investors fled—pushing ADRO down 3.5% over five days—UBS kept buying. The average institutional purchase price was Rp2,258. The opening on 16th January: Rp2,030. A discount too good to ignore, apparently.
+
+Such institutional cornering has historically preceded sharp reversals. Our analysis of 9,906 trades confirms it: when a single foreign broker controls more than 40% of buy-side volume in a declining stock, subsequent five-day returns average 4.2%. ADRO's pattern matches the template perfectly.
+
+Fundamentals support the conviction. Energy rallied 19% month-to-date. ADRO trades at 5.65 times earnings and 0.62 times book value—cheap even by coal standards. Return on equity sits at 11%, well above most Indonesian large-caps. UBS is not buying rubbish.
+
+**Entry:** 16 Jan @ Rp2,030 | **Current:** Rp2,210 (+8.9%) | **Exit:** 23 Jan | **Status:** ✓ Hold
+
+The opportunity has passed. At Rp2,210, ADRO no longer qualifies as "declining." Chasing momentum at this point is for amateurs.
+
+```{r adro_chart, fig.cap=""}
+df <- tibble(
+  Date = seq.Date(from = as.Date("2026-01-16"), by = "day", length.out = 6),
+  Price = c(2030, 2065, 2090, 2150, 2210, 2210)
+)
+
+ggplot(df, aes(x = Date, y = Price)) +
+  geom_area(fill="#C41E3A", alpha=0.08) +
+  geom_line(color="#C41E3A", size=0.8) +
+  geom_point(color="#C41E3A", size=2) +
+  geom_hline(yintercept = 2030, linetype="dotted", color="#CCCCCC", size=0.2) +
+  scale_y_continuous(labels = function(x) paste0("Rp", x/1000, "K")) +
+  theme_economist_clean()
+```
+
+## The alliance
+
+Four brokers have accumulated Astra International (ASII), with the largest controlling 42.7% of volume. Unlike ADRO's single-broker dominance, this is an alliance. Alliances are messier. Consensus often masks confusion.
+
+ASII fell 5.4% over five days with strong volume (137% of average). Fundamentals looked solid: price-to-earnings 8.3, return on equity 11.3%. On paper, ASII mirrors ADRO perfectly. On screen, it does not.
+
+The critical difference: no bounce. ASII closed down 8.9% on 21st January, extending its decline rather than reversing it. Institutions may be buying, but the market is not listening. That suggests either early positioning or poor timing. Neither inspires confidence for a five-day trade.
+
+The institutional VWAP sits at Rp7,233. The closing price: Rp6,625. Institutions are underwater. Traders who follow them in now are buying what institutions bought at better prices. That is not an edge. That is chasing.
+
+**Current:** Rp6,625 (-5.4%) | **DBR/BCI:** 42.7% / 2.74 | **Status:** ✗ Skip
+
+```{r asii_chart}
+df <- tibble(
+  Date = seq.Date(from = as.Date("2026-01-16"), by = "day", length.out = 6),
+  Price = c(7000, 6950, 6800, 6720, 6625, 6625)
+)
+
+ggplot(df, aes(x = Date, y = Price)) +
+  geom_area(fill="#E74C3C", alpha=0.08) +
+  geom_line(color="#E74C3C", size=0.8) +
+  geom_point(color="#E74C3C", size=2) +
+  geom_hline(yintercept = 7233, linetype="dashed", color="#3498DB", size=0.2, alpha=0.5) +
+  annotate("text", x = as.Date("2026-01-17"), y = 7280, label="VWAP", size=2.5, color="#3498DB") +
+  scale_y_continuous(labels = function(x) paste0("Rp", x/1000, "K")) +
+  theme_economist_clean()
+```
+
+## Sectors
+
+Energy rallies (+19.2% mtd). Industrials steady (+8.8%). Financials retreat (−5.2%).
+
+```{r sectors}
+df <- tibble(
+  Sector = factor(c("Financials", "Industrials", "Energy"), levels=c("Financials", "Industrials", "Energy")),
+  Change = c(-5.2, 8.8, 19.2),
+  Color = c("#E74C3C", "#3498DB", "#27AE60")
+)
+
+ggplot(df, aes(x = Sector, y = Change, fill = Color)) +
+  geom_col(width=0.4, show.legend=FALSE) +
+  geom_text(aes(label = paste0(Change, "%")), vjust = ifelse(df$Change > 0, -0.4, 1.2), size=3, fontface="bold") +
+  geom_hline(yintercept = 0, color="black", size=0.3) +
+  scale_fill_identity() +
+  scale_y_continuous(limits=c(-8, 22), breaks=NULL) +
+  theme_economist_clean() +
+  theme(axis.text.y = element_blank())
+```
+
+---
+
+**Summary.** One active trade (ADRO) exits 23 Jan. No new signals today. Strategy: follow concentrated foreign buying in declining stocks with bounce confirmation. Exit mechanically on Day 5.
+
+**Next scan.** 22 January, 08:00 WIB.
+
+*Flux Brief. Not investment advice. Trade at your own risk.*
+
