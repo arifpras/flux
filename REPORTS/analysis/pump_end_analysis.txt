@@ -1,0 +1,66 @@
+
+========================================================================================================================
+🔍 BUMI PUMP-END DETECTION ANALYSIS
+========================================================================================================================
+
+📊 BUMI Price Range: 238 → 464
+📈 Total Return: 66.7%
+💨 Latest: 410 IDR on 2026-01-15
+
+⚠️  PUMP-END WARNING SIGNALS: 8 dates show 2+ reversal indicators
+
+📅 2025-12-12 | Price: 368 | Return: +2.22%
+   Volume: 10,187,266,800 | Foreign: -0.0539
+   🚩 Signals (2):
+      ✓ Vol divergence: True
+      ✓ Momentum weakening: True
+
+📅 2025-12-16 | Price: 348 | Return: +1.16%
+   Volume: 5,809,011,900 | Foreign: -0.0080
+   🚩 Signals (2):
+      ✓ Vol divergence: True
+      ✓ Freq divergence: True
+
+📅 2025-12-17 | Price: 348 | Return: +0.00%
+   Volume: 4,247,375,400 | Foreign: -0.2557
+   🚩 Signals (2):
+      ✓ Vol divergence: True
+      ✓ Freq divergence: True
+
+📅 2025-12-18 | Price: 340 | Return: -2.30%
+   Volume: 3,544,112,800 | Foreign: +0.0418
+   🚩 Signals (2):
+      ✓ Vol divergence: True
+      ✓ Freq divergence: True
+
+📅 2025-12-19 | Price: 344 | Return: +1.18%
+   Volume: 2,748,766,200 | Foreign: +0.0896
+   🚩 Signals (2):
+      ✓ Vol divergence: True
+      ✓ Freq divergence: True
+
+📅 2025-12-30 | Price: 366 | Return: +0.00%
+   Volume: 2,812,869,800 | Foreign: -0.1060
+   🚩 Signals (2):
+      ✓ Vol divergence: True
+      ✓ Freq divergence: True
+
+📅 2026-01-08 | Price: 460 | Return: +1.77%
+   Volume: 3,629,921,000 | Foreign: +0.0607
+   🚩 Signals (2):
+      ✓ Vol divergence: True
+      ✓ Freq divergence: True
+
+📅 2026-01-15 | Price: 410 | Return: -2.84%
+   Volume: 4,173,617,100 | Foreign: -0.1599
+   🚩 Signals (2):
+      ✓ Vol divergence: True
+      ✓ Freq divergence: True
+
+🔴 High foreign selling pressure (likely pump-and-dump phase)
+🟡 Momentum declining (approaching reversal)
+
+========================================================================================================================
+PUMP-END PROBABILITY: HIGH if 3+ signals appear simultaneously
+REVERSAL TRIGGER: Look for volume collapse + negative return + continued foreign selling
+========================================================================================================================

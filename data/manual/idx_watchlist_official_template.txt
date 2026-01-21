@@ -1,0 +1,35 @@
+# IDX Official Watchlist Template
+# 
+# Supplement automated checks with regulatory/fundamental data
+# Source: IDX announcements, financial statements, OJK orders
+# Update: Weekly or as announced by IDX
+#
+# INSTRUCTIONS:
+# 1. Download latest watchlist from IDX website
+# 2. Add entries with criteria codes separated by semicolon
+# 3. Update Date_Added when stock enters watchlist
+# 4. Add notes for context (optional)
+# 5. Keep this template file for reference
+#
+# CRITERIA CODES:
+# 1 = Low price + low liquidity
+# 2 = Disclaimer audit opinion
+# 3 = No revenue / flat revenue
+# 4 = Mining company no core revenue by year 4
+# 5 = Negative equity
+# 6 = Listing requirement violations
+# 7 = Low liquidity only
+# 8 = PKPU/bankruptcy proceedings
+# 9 = Material subsidiary PKPU/bankruptcy
+# 10 = Trading suspension >1 day
+# 11 = OJK discretionary
+#
+# STATUS VALUES:
+# Active = Currently on watchlist
+# Monitoring = Under review
+# Removed = Previously on watchlist, now cleared
+#
+# EXAMPLE ENTRIES (uncomment and modify):
+# BUMI,Bumi Resources,1;7,Active,2026-01-02,Low price + low liquidity
+# EXAMPLE,Example Corp,2,Active,2026-01-10,Disclaimer audit opinion
+# SAMPLE,Sample Inc,5,Monitoring,2025-12-15,Negative equity resolved

@@ -1,0 +1,20 @@
+# Manual Broker Accumulation Signals (Stockbit Bandar Detector Method)
+# Format: STOCK_CODE|NET_VALUE_IDR_MILLIONS|OBSERVATION_DATE|SIGNAL_TYPE|NOTE
+# 
+# Methodology: Based on Stockbit Pro Bandar Detector / Broker Summary
+# Net Value = Buy Value - Sell Value (in millions IDR)
+# 
+# Signal Types:
+#   BIG_ACC = Big Accumulation (institutional buying, bullish)
+#   BIG_DIST = Big Distribution (institutional selling, bearish)
+#   NORMAL_ACC = Normal Accumulation (moderate buying)
+#   SMALL_ACC = Small Accumulation (minor buying)
+#
+# Trading Signals (per Stockbit methodology):
+#   - Accumulation + Price Stagnant/Falling = Institutions buying quietly → Potential rise ahead
+#   - Accumulation + Price Rising = Normal behavior, confirm uptrend
+#   - Distribution + Price Rising/Sideways = Institutions selling quietly → WARNING
+#
+# Data Source: XL Stockbit Sekuritas Digital - Broker Activity
+
+BUMI|27000|2026-01-15|BIG_ACC|Buy:212.4B Sell:185.4B Net:+27B (Jan 12-15). Price stagnant=institutions accumulating quietly. Last trade -5.8% suggests dip buying opportunity.

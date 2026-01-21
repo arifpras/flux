@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data
+*.csv
+*.xlsx
+*.xls
+!data/reference/*.txt
+
+# Outputs
+*.png
+*.jpg
+*.pdf
+# PDF files excluded (too large for GitHub)
+# !REPORTS/**/*.pdf
+
+# Logs
+*.log
+logs/
+
+# Temporary
+*.tmp
+*.temp

@@ -1,0 +1,106 @@
+[
+  {
+    "timestamp": "2026-01-20T13:22:15.301799",
+    "alert": "\ud83d\ude80 INCO BREAKOUT! Price Rp 6,200 > Entry Rp 5,000"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301802",
+    "alert": "\u2705 INCO TARGET! Price Rp 6,200 > Target Rp 5,250"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301803",
+    "alert": "\ud83d\uded1 MDKA STOP HIT! Price Rp 3,080 < Stop Rp 7,350"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301804",
+    "alert": "\ud83d\uded1 ADRO STOP HIT! Price Rp 2,220 < Stop Rp 4,704"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301805",
+    "alert": "\ud83d\ude80 ANTM BREAKOUT! Price Rp 4,030 > Entry Rp 2,500"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301806",
+    "alert": "\u2705 ANTM TARGET! Price Rp 4,030 > Target Rp 2,625"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301807",
+    "alert": "\ud83d\ude80 ASII BREAKOUT! Price Rp 7,275 > Entry Rp 6,500"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301808",
+    "alert": "\u2705 ASII TARGET! Price Rp 7,275 > Target Rp 6,825"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301809",
+    "alert": "\ud83d\ude80 UNTR BREAKOUT! Price Rp 31,875 > Entry Rp 8,200"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301810",
+    "alert": "\u2705 UNTR TARGET! Price Rp 31,875 > Target Rp 8,610"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301811",
+    "alert": "\ud83d\uded1 ISAT STOP HIT! Price Rp 2,310 < Stop Rp 3,724"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301811",
+    "alert": "\ud83d\ude80 BBNI BREAKOUT! Price Rp 4,630 > Entry Rp 3,900"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:15.301812",
+    "alert": "\u2705 BBNI TARGET! Price Rp 4,630 > Target Rp 4,095"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368899",
+    "alert": "\ud83d\ude80 INCO BREAKOUT! Price Rp 6,200 > Entry Rp 5,000"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368906",
+    "alert": "\u2705 INCO TARGET! Price Rp 6,200 > Target Rp 5,250"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368909",
+    "alert": "\ud83d\uded1 MDKA STOP HIT! Price Rp 3,080 < Stop Rp 7,350"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368911",
+    "alert": "\ud83d\uded1 ADRO STOP HIT! Price Rp 2,220 < Stop Rp 4,704"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368913",
+    "alert": "\ud83d\ude80 ANTM BREAKOUT! Price Rp 4,030 > Entry Rp 2,500"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368914",
+    "alert": "\u2705 ANTM TARGET! Price Rp 4,030 > Target Rp 2,625"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368916",
+    "alert": "\ud83d\ude80 ASII BREAKOUT! Price Rp 7,275 > Entry Rp 6,500"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368918",
+    "alert": "\u2705 ASII TARGET! Price Rp 7,275 > Target Rp 6,825"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368920",
+    "alert": "\ud83d\ude80 UNTR BREAKOUT! Price Rp 31,875 > Entry Rp 8,200"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368921",
+    "alert": "\u2705 UNTR TARGET! Price Rp 31,875 > Target Rp 8,610"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368923",
+    "alert": "\ud83d\uded1 ISAT STOP HIT! Price Rp 2,310 < Stop Rp 3,724"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368925",
+    "alert": "\ud83d\ude80 BBNI BREAKOUT! Price Rp 4,630 > Entry Rp 3,900"
+  },
+  {
+    "timestamp": "2026-01-20T13:22:27.368927",
+    "alert": "\u2705 BBNI TARGET! Price Rp 4,630 > Target Rp 4,095"
+  }
+]

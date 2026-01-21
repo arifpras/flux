@@ -1,0 +1,192 @@
+{
+  "ASII": {
+    "data_points": 16,
+    "date_range": "2025-12-03 to 2026-01-14",
+    "latest_price": 7125.0,
+    "wavelet": {
+      "total_energy": 828.4717,
+      "short_scale_energy": 828.4717,
+      "medium_scale_energy": 0.0,
+      "long_scale_energy": 0.0,
+      "alignment_score": 1.0,
+      "strength": "STRONG"
+    },
+    "trend": {
+      "trend": "FLAT",
+      "recent_momentum": 0.48
+    },
+    "combined_score": 1.0,
+    "rank": 5
+  },
+  "INCO": {
+    "data_points": 13,
+    "date_range": "2025-12-03 to 2026-01-14",
+    "latest_price": 6400.0,
+    "wavelet": {
+      "total_energy": 517.6856,
+      "short_scale_energy": 517.6856,
+      "medium_scale_energy": 0.0,
+      "long_scale_energy": 0.0,
+      "alignment_score": 1.0,
+      "strength": "STRONG"
+    },
+    "trend": {
+      "trend": "UP",
+      "recent_momentum": 6.66
+    },
+    "combined_score": 1.05,
+    "rank": 1
+  },
+  "MDKA": {
+    "data_points": 13,
+    "date_range": "2025-12-02 to 2026-01-13",
+    "latest_price": 3120.0,
+    "wavelet": {
+      "total_energy": 297.9192,
+      "short_scale_energy": 297.9192,
+      "medium_scale_energy": 0.0,
+      "long_scale_energy": 0.0,
+      "alignment_score": 1.0,
+      "strength": "STRONG"
+    },
+    "trend": {
+      "trend": "UP",
+      "recent_momentum": 8.79
+    },
+    "combined_score": 1.05,
+    "rank": 2
+  },
+  "UNTR": {
+    "data_points": 18,
+    "date_range": "2025-12-01 to 2026-01-12",
+    "latest_price": 31350.0,
+    "wavelet": {
+      "total_energy": 1075.7553,
+      "short_scale_energy": 1075.7553,
+      "medium_scale_energy": 0.0,
+      "long_scale_energy": 0.0,
+      "alignment_score": 1.0,
+      "strength": "STRONG"
+    },
+    "trend": {
+      "trend": "FLAT",
+      "recent_momentum": 0.45
+    },
+    "combined_score": 1.0,
+    "rank": 6
+  },
+  "ADRO": {
+    "data_points": 11,
+    "date_range": "2025-12-01 to 2026-01-12",
+    "latest_price": 2150.0,
+    "wavelet": {
+      "total_energy": 317.3258,
+      "short_scale_energy": 317.3258,
+      "medium_scale_energy": 0.0,
+      "long_scale_energy": 0.0,
+      "alignment_score": 1.0,
+      "strength": "STRONG"
+    },
+    "trend": {
+      "trend": "UP",
+      "recent_momentum": 3.65
+    },
+    "combined_score": 1.05,
+    "rank": 3
+  },
+  "TPIA": {
+    "data_points": 7,
+    "date_range": "2025-12-03 to 2026-01-14",
+    "latest_price": 6575.0,
+    "wavelet": {
+      "total_energy": 0,
+      "alignment_score": 0,
+      "strength": "WEAK",
+      "short_scale_energy": 0,
+      "medium_scale_energy": 0,
+      "long_scale_energy": 0
+    },
+    "trend": {
+      "trend": "DOWN",
+      "recent_momentum": -1.71
+    },
+    "combined_score": -0.05,
+    "rank": 10
+  },
+  "INDF": {
+    "data_points": 9,
+    "date_range": "2025-12-10 to 2026-01-07",
+    "latest_price": 6725.0,
+    "wavelet": {
+      "total_energy": 0,
+      "alignment_score": 0,
+      "strength": "WEAK",
+      "short_scale_energy": 0,
+      "medium_scale_energy": 0,
+      "long_scale_energy": 0
+    },
+    "trend": {
+      "trend": "FLAT",
+      "recent_momentum": -0.16
+    },
+    "combined_score": 0.0,
+    "rank": 9
+  },
+  "ANTM": {
+    "data_points": 10,
+    "date_range": "2025-12-05 to 2026-01-09",
+    "latest_price": 3630.0,
+    "wavelet": {
+      "total_energy": 200.5309,
+      "short_scale_energy": 200.5309,
+      "medium_scale_energy": 0.0,
+      "long_scale_energy": 0.0,
+      "alignment_score": 1.0,
+      "strength": "STRONG"
+    },
+    "trend": {
+      "trend": "UP",
+      "recent_momentum": 5.19
+    },
+    "combined_score": 1.05,
+    "rank": 4
+  },
+  "ISAT": {
+    "data_points": 25,
+    "date_range": "2025-12-01 to 2026-01-13",
+    "latest_price": 2160.0,
+    "wavelet": {
+      "total_energy": 1682.8087,
+      "short_scale_energy": 1682.8087,
+      "medium_scale_energy": 0.0,
+      "long_scale_energy": 0.0,
+      "alignment_score": 1.0,
+      "strength": "STRONG"
+    },
+    "trend": {
+      "trend": "FLAT",
+      "recent_momentum": 0.0
+    },
+    "combined_score": 1.0,
+    "rank": 7
+  },
+  "BBNI": {
+    "data_points": 16,
+    "date_range": "2025-12-02 to 2026-01-14",
+    "latest_price": 4360.0,
+    "wavelet": {
+      "total_energy": 407.1909,
+      "short_scale_energy": 407.1909,
+      "medium_scale_energy": 0.0,
+      "long_scale_energy": 0.0,
+      "alignment_score": 1.0,
+      "strength": "STRONG"
+    },
+    "trend": {
+      "trend": "FLAT",
+      "recent_momentum": 0.78
+    },
+    "combined_score": 1.0,
+    "rank": 8
+  }
+}

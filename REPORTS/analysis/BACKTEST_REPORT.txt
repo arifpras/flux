@@ -1,0 +1,13 @@
+BACKTEST REPORT - Day Trading Pump Strategy
+Period: Dec 1, 2025 - Jan 15, 2026 (29 trading days)
+Sample Size: 9,906 trades
+
+KEY METRICS:
+  Avg P&L:            +0.7003%
+  Win Rate:           42.3%
+  Profit Factor:      1.50x
+  Max Drawdown:       -123.28%
+  Sharpe Ratio:       1.90
+
+VERDICT:
+✅ PROFITABLE - Ready for live trading with proper risk management

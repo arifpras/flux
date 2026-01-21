@@ -1,0 +1,1326 @@
+{
+  "date": "2026-01-19T08:42:47.054558",
+  "total_candidates": 132,
+  "candidates": [
+    {
+      "stock": "RLCO",
+      "entry_price": 5050.0,
+      "avg_return": 15.572915880285715,
+      "momentum_confirmed": true,
+      "extended_return": 19.601980198019803,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 86.95652173913044
+    },
+    {
+      "stock": "ROCK",
+      "entry_price": 1735.0,
+      "avg_return": 9.692973479287993,
+      "momentum_confirmed": true,
+      "extended_return": 24.29567723342939,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 55.55555555555556
+    },
+    {
+      "stock": "MKAP",
+      "entry_price": 590.0,
+      "avg_return": 7.89673158257215,
+      "momentum_confirmed": true,
+      "extended_return": 15.901694915254236,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 60.0
+    },
+    {
+      "stock": "GOLF",
+      "entry_price": 240.0,
+      "avg_return": 7.716666666666667,
+      "momentum_confirmed": true,
+      "extended_return": 9.8,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 100.0
+    },
+    {
+      "stock": "CANI",
+      "entry_price": 220.0,
+      "avg_return": 6.684798020273505,
+      "momentum_confirmed": true,
+      "extended_return": 9.8,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 72.72727272727273
+    },
+    {
+      "stock": "BAUT",
+      "entry_price": 53.0,
+      "avg_return": 6.522127014553895,
+      "momentum_confirmed": true,
+      "extended_return": 9.233962264150945,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 80.0
+    },
+    {
+      "stock": "TIRT",
+      "entry_price": 292.0,
+      "avg_return": 6.1972420619113695,
+      "momentum_confirmed": true,
+      "extended_return": 9.389041095890413,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 62.96296296296296
+    },
+    {
+      "stock": "DGNS",
+      "entry_price": 256.0,
+      "avg_return": 5.976190725576182,
+      "momentum_confirmed": true,
+      "extended_return": 6.05,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "PTDU",
+      "entry_price": 146.0,
+      "avg_return": 5.837878032679625,
+      "momentum_confirmed": true,
+      "extended_return": 8.01917808219178,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 76.47058823529412
+    },
+    {
+      "stock": "SIPD",
+      "entry_price": 1210.0,
+      "avg_return": 5.781818939903118,
+      "momentum_confirmed": true,
+      "extended_return": 9.717355371900828,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 75.0
+    },
+    {
+      "stock": "INPS",
+      "entry_price": 442.0,
+      "avg_return": 5.597703645571681,
+      "momentum_confirmed": true,
+      "extended_return": 9.75475113122172,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "VISI",
+      "entry_price": 258.0,
+      "avg_return": 5.066874892369246,
+      "momentum_confirmed": true,
+      "extended_return": 24.6062015503876,
+      "score": 12.0,
+      "signal": "STRONG",
+      "win_rate": 72.72727272727273
+    },
+    {
+      "stock": "KDTN",
+      "entry_price": 1105.0,
+      "avg_return": 4.934157495840427,
+      "momentum_confirmed": true,
+      "extended_return": 9.302262443438917,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 56.52173913043478
+    },
+    {
+      "stock": "RUIS",
+      "entry_price": 278.0,
+      "avg_return": 4.718372993912562,
+      "momentum_confirmed": true,
+      "extended_return": 7.713669064748201,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 100.0
+    },
+    {
+      "stock": "JMAS",
+      "entry_price": 290.0,
+      "avg_return": 4.687924837917683,
+      "momentum_confirmed": true,
+      "extended_return": 4.627586206896551,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 54.54545454545454
+    },
+    {
+      "stock": "RICY",
+      "entry_price": 106.0,
+      "avg_return": 4.504533537866834,
+      "momentum_confirmed": true,
+      "extended_return": 7.347169811320755,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 75.0
+    },
+    {
+      "stock": "KREN",
+      "entry_price": 34.0,
+      "avg_return": 4.410168622181876,
+      "momentum_confirmed": true,
+      "extended_return": 8.623529411764707,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "EURO",
+      "entry_price": 595.0,
+      "avg_return": 4.3587676953977,
+      "momentum_confirmed": true,
+      "extended_return": 9.043697478991598,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 77.77777777777779
+    },
+    {
+      "stock": "HADE",
+      "entry_price": 40.0,
+      "avg_return": 4.270052924857465,
+      "momentum_confirmed": true,
+      "extended_return": 9.8,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "TAXI",
+      "entry_price": 30.0,
+      "avg_return": 4.244807616493695,
+      "momentum_confirmed": true,
+      "extended_return": 9.8,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 76.47058823529412
+    },
+    {
+      "stock": "NASA",
+      "entry_price": 58.0,
+      "avg_return": 4.194351333784335,
+      "momentum_confirmed": true,
+      "extended_return": 8.420689655172415,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "MTFN",
+      "entry_price": 39.0,
+      "avg_return": 3.8593537244254943,
+      "momentum_confirmed": true,
+      "extended_return": 7.492307692307692,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 63.63636363636363
+    },
+    {
+      "stock": "SPRE",
+      "entry_price": 296.0,
+      "avg_return": 3.8133212597236827,
+      "momentum_confirmed": true,
+      "extended_return": 9.25945945945946,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 60.86956521739131
+    },
+    {
+      "stock": "TAMU",
+      "entry_price": 69.0,
+      "avg_return": 3.7824221842646644,
+      "momentum_confirmed": true,
+      "extended_return": 8.495652173913044,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 64.70588235294117
+    },
+    {
+      "stock": "ASMI",
+      "entry_price": 48.0,
+      "avg_return": 3.7559927418206964,
+      "momentum_confirmed": true,
+      "extended_return": 8.133333333333333,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 69.23076923076923
+    },
+    {
+      "stock": "ENZO",
+      "entry_price": 79.0,
+      "avg_return": 3.617085554185517,
+      "momentum_confirmed": true,
+      "extended_return": 8.660759493670886,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 60.0
+    },
+    {
+      "stock": "KOKA",
+      "entry_price": 280.0,
+      "avg_return": 3.5184013916332812,
+      "momentum_confirmed": true,
+      "extended_return": 2.657142857142857,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 62.5
+    },
+    {
+      "stock": "POLA",
+      "entry_price": 92.0,
+      "avg_return": 3.447487629979679,
+      "momentum_confirmed": true,
+      "extended_return": 9.582608695652176,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 63.63636363636363
+    },
+    {
+      "stock": "VIVA",
+      "entry_price": 77.0,
+      "avg_return": 3.4326977707849937,
+      "momentum_confirmed": true,
+      "extended_return": 4.994805194805195,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 70.37037037037037
+    },
+    {
+      "stock": "PBSA",
+      "entry_price": 1940.0,
+      "avg_return": 3.3363901675237124,
+      "momentum_confirmed": true,
+      "extended_return": 10.624742268041238,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 57.89473684210527
+    },
+    {
+      "stock": "WSBP",
+      "entry_price": 27.0,
+      "avg_return": 3.3210488700793412,
+      "momentum_confirmed": true,
+      "extended_return": 7.207407407407406,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 68.42105263157895
+    },
+    {
+      "stock": "BAPI",
+      "entry_price": 49.0,
+      "avg_return": 3.279599829831541,
+      "momentum_confirmed": true,
+      "extended_return": 7.963265306122449,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 60.0
+    },
+    {
+      "stock": "SINI",
+      "entry_price": 15900.0,
+      "avg_return": 3.2614895640650263,
+      "momentum_confirmed": true,
+      "extended_return": 9.705660377358493,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 57.14285714285714
+    },
+    {
+      "stock": "SAGE",
+      "entry_price": 53.0,
+      "avg_return": 3.1583197710346993,
+      "momentum_confirmed": true,
+      "extended_return": 9.233962264150945,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 58.333333333333336
+    },
+    {
+      "stock": "POLY",
+      "entry_price": 45.0,
+      "avg_return": 3.0338705843198785,
+      "momentum_confirmed": true,
+      "extended_return": 8.68888888888889,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 60.0
+    },
+    {
+      "stock": "TARA",
+      "entry_price": 52.0,
+      "avg_return": 2.9380512408247474,
+      "momentum_confirmed": true,
+      "extended_return": 9.415384615384616,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 64.28571428571429
+    },
+    {
+      "stock": "IKAI",
+      "entry_price": 33.0,
+      "avg_return": 2.944463029878294,
+      "momentum_confirmed": true,
+      "extended_return": 8.890909090909092,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "BTEK",
+      "entry_price": 28.0,
+      "avg_return": 2.7093061669788012,
+      "momentum_confirmed": true,
+      "extended_return": 6.942857142857142,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 60.86956521739131
+    },
+    {
+      "stock": "IBST",
+      "entry_price": 5675.0,
+      "avg_return": 2.702773058763526,
+      "momentum_confirmed": true,
+      "extended_return": 4.6458149779735685,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 75.0
+    },
+    {
+      "stock": "BKDP",
+      "entry_price": 68.0,
+      "avg_return": 2.6397987096831486,
+      "momentum_confirmed": true,
+      "extended_return": 8.623529411764707,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 61.53846153846154
+    },
+    {
+      "stock": "APII",
+      "entry_price": 206.0,
+      "avg_return": 2.4046253567253157,
+      "momentum_confirmed": true,
+      "extended_return": 3.6834951456310674,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 100.0
+    },
+    {
+      "stock": "ALKA",
+      "entry_price": 402.0,
+      "avg_return": 2.3796784148862367,
+      "momentum_confirmed": true,
+      "extended_return": 24.17810945273632,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 54.54545454545454
+    },
+    {
+      "stock": "DEWI",
+      "entry_price": 153.0,
+      "avg_return": 2.2966759120392686,
+      "momentum_confirmed": true,
+      "extended_return": 2.41437908496732,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 60.0
+    },
+    {
+      "stock": "NCKL",
+      "entry_price": 1325.0,
+      "avg_return": 2.181210486536939,
+      "momentum_confirmed": true,
+      "extended_return": 6.215094339622642,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 80.0
+    },
+    {
+      "stock": "SBMA",
+      "entry_price": 130.0,
+      "avg_return": 2.107692307692308,
+      "momentum_confirmed": true,
+      "extended_return": 2.107692307692308,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 100.0
+    },
+    {
+      "stock": "BUVA",
+      "entry_price": 1500.0,
+      "avg_return": 2.0926328470588613,
+      "momentum_confirmed": true,
+      "extended_return": 5.466666666666666,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 68.75
+    },
+    {
+      "stock": "MIRA",
+      "entry_price": 45.0,
+      "avg_return": 2.0540206702851806,
+      "momentum_confirmed": true,
+      "extended_return": 8.68888888888889,
+      "score": 11.0,
+      "signal": "STRONG",
+      "win_rate": 54.54545454545454
+    },
+    {
+      "stock": "SAFE",
+      "entry_price": 396.0,
+      "avg_return": 5.287396146449023,
+      "momentum_confirmed": true,
+      "extended_return": 0.8101010101010102,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 54.54545454545454
+    },
+    {
+      "stock": "BEKS",
+      "entry_price": 33.0,
+      "avg_return": 4.345454545454547,
+      "momentum_confirmed": true,
+      "extended_return": 8.890909090909092,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "NATO",
+      "entry_price": 430.0,
+      "avg_return": 4.3046610101411416,
+      "momentum_confirmed": true,
+      "extended_return": 24.21860465116279,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 45.45454545454545
+    },
+    {
+      "stock": "SOHO",
+      "entry_price": 3210.0,
+      "avg_return": 4.184836517717682,
+      "momentum_confirmed": true,
+      "extended_return": 5.09595015576324,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "UNSP",
+      "entry_price": 565.0,
+      "avg_return": 3.7385334561276937,
+      "momentum_confirmed": true,
+      "extended_return": 5.994690265486725,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "RAFI",
+      "entry_price": 50.0,
+      "avg_return": 3.7041585528093615,
+      "momentum_confirmed": true,
+      "extended_return": 1.8,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "BIPP",
+      "entry_price": 80.0,
+      "avg_return": 3.5886670314189275,
+      "momentum_confirmed": true,
+      "extended_return": 7.3,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "AYLS",
+      "entry_price": 258.0,
+      "avg_return": 3.5466088472536357,
+      "momentum_confirmed": true,
+      "extended_return": 24.6062015503876,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 41.66666666666667
+    },
+    {
+      "stock": "MARI",
+      "entry_price": 48.0,
+      "avg_return": 3.2280164059575824,
+      "momentum_confirmed": true,
+      "extended_return": 8.133333333333333,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 46.15384615384615
+    },
+    {
+      "stock": "MGLV",
+      "entry_price": 2370.0,
+      "avg_return": 3.1144952116079203,
+      "momentum_confirmed": true,
+      "extended_return": 9.50464135021097,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 47.61904761904761
+    },
+    {
+      "stock": "RODA",
+      "entry_price": 61.0,
+      "avg_return": 3.095370733289285,
+      "momentum_confirmed": true,
+      "extended_return": 9.636065573770493,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "KKES",
+      "entry_price": 44.0,
+      "avg_return": 3.0771055402634353,
+      "momentum_confirmed": true,
+      "extended_return": 8.890909090909092,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "HRME",
+      "entry_price": 66.0,
+      "avg_return": 3.065267896068448,
+      "momentum_confirmed": true,
+      "extended_return": 8.890909090909092,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 45.45454545454545
+    },
+    {
+      "stock": "RMKO",
+      "entry_price": 675.0,
+      "avg_return": 3.026788522403949,
+      "momentum_confirmed": true,
+      "extended_return": 9.42962962962963,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "RBMS",
+      "entry_price": 62.0,
+      "avg_return": 3.017658169036491,
+      "momentum_confirmed": true,
+      "extended_return": 9.47741935483871,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 45.45454545454545
+    },
+    {
+      "stock": "IBOS",
+      "entry_price": 112.0,
+      "avg_return": 2.9011503364437727,
+      "momentum_confirmed": true,
+      "extended_return": 4.264285714285714,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "INOV",
+      "entry_price": 136.0,
+      "avg_return": 2.8655339512081337,
+      "momentum_confirmed": true,
+      "extended_return": 34.35882352941176,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 41.66666666666667
+    },
+    {
+      "stock": "STAR",
+      "entry_price": 426.0,
+      "avg_return": 2.7817538282287924,
+      "momentum_confirmed": true,
+      "extended_return": 4.964319248826291,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "GRPH",
+      "entry_price": 63.0,
+      "avg_return": 2.551322751322751,
+      "momentum_confirmed": true,
+      "extended_return": 1.3873015873015873,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 100.0
+    },
+    {
+      "stock": "SSTM",
+      "entry_price": 2960.0,
+      "avg_return": 2.482627819972673,
+      "momentum_confirmed": true,
+      "extended_return": 5.543243243243244,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 45.45454545454545
+    },
+    {
+      "stock": "ISAP",
+      "entry_price": 36.0,
+      "avg_return": 2.3273788645467963,
+      "momentum_confirmed": true,
+      "extended_return": 8.133333333333333,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "AGAR",
+      "entry_price": 266.0,
+      "avg_return": 2.1442160436822366,
+      "momentum_confirmed": true,
+      "extended_return": 6.566917293233082,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "BBRM",
+      "entry_price": 242.0,
+      "avg_return": 2.090942409160101,
+      "momentum_confirmed": true,
+      "extended_return": 3.932231404958678,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "FORU",
+      "entry_price": 1735.0,
+      "avg_return": 2.073493747111993,
+      "momentum_confirmed": true,
+      "extended_return": 2.970028818443804,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 46.15384615384615
+    },
+    {
+      "stock": "FAST",
+      "entry_price": 595.0,
+      "avg_return": 1.9494787183165947,
+      "momentum_confirmed": true,
+      "extended_return": 5.68235294117647,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 60.0
+    },
+    {
+      "stock": "WMUU",
+      "entry_price": 78.0,
+      "avg_return": 1.899600138016862,
+      "momentum_confirmed": true,
+      "extended_return": 8.774358974358975,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 56.25
+    },
+    {
+      "stock": "MBMA",
+      "entry_price": 770.0,
+      "avg_return": 1.8497473317399107,
+      "momentum_confirmed": true,
+      "extended_return": 2.397402597402597,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 55.55555555555556
+    },
+    {
+      "stock": "NICL",
+      "entry_price": 1810.0,
+      "avg_return": 1.8414836621648611,
+      "momentum_confirmed": true,
+      "extended_return": 2.2861878453038673,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 63.1578947368421
+    },
+    {
+      "stock": "WIDI",
+      "entry_price": 41.0,
+      "avg_return": 1.5828804414170266,
+      "momentum_confirmed": true,
+      "extended_return": 2.239024390243902,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 83.33333333333334
+    },
+    {
+      "stock": "ADRO",
+      "entry_price": 2150.0,
+      "avg_return": 1.4903352750618561,
+      "momentum_confirmed": true,
+      "extended_return": 6.311627906976744,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 81.81818181818183
+    },
+    {
+      "stock": "LIFE",
+      "entry_price": 8450.0,
+      "avg_return": 1.246415826511303,
+      "momentum_confirmed": true,
+      "extended_return": 2.1668639053254437,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 60.0
+    },
+    {
+      "stock": "CTBN",
+      "entry_price": 7200.0,
+      "avg_return": 1.13948802607096,
+      "momentum_confirmed": true,
+      "extended_return": 13.341666666666669,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 53.84615384615385
+    },
+    {
+      "stock": "KOIN",
+      "entry_price": 98.0,
+      "avg_return": 1.108843210612348,
+      "momentum_confirmed": true,
+      "extended_return": 2.861224489795918,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 61.904761904761905
+    },
+    {
+      "stock": "ANTM",
+      "entry_price": 3630.0,
+      "avg_return": 1.0732763073874079,
+      "momentum_confirmed": true,
+      "extended_return": 5.309641873278237,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 60.0
+    },
+    {
+      "stock": "TRST",
+      "entry_price": 486.0,
+      "avg_return": 1.0490157001229548,
+      "momentum_confirmed": true,
+      "extended_return": 2.2691358024691355,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 55.55555555555556
+    },
+    {
+      "stock": "BBYB",
+      "entry_price": 474.0,
+      "avg_return": 1.0353562330914359,
+      "momentum_confirmed": true,
+      "extended_return": 5.285232067510549,
+      "score": 10.0,
+      "signal": "STRONG",
+      "win_rate": 57.14285714285714
+    },
+    {
+      "stock": "BUMI",
+      "entry_price": 462.0,
+      "avg_return": 3.617139638466732,
+      "momentum_confirmed": false,
+      "extended_return": -5.827705627705628,
+      "score": 9.4,
+      "signal": "STRONG",
+      "win_rate": 37.5
+    },
+    {
+      "stock": "MBTO",
+      "entry_price": 175.0,
+      "avg_return": 3.8077261218397256,
+      "momentum_confirmed": true,
+      "extended_return": 0.3714285714285714,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 62.5
+    },
+    {
+      "stock": "KOBX",
+      "entry_price": 212.0,
+      "avg_return": 2.843709773183123,
+      "momentum_confirmed": true,
+      "extended_return": 0.7433962264150944,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "INDY",
+      "entry_price": 3260.0,
+      "avg_return": 2.5192879235893124,
+      "momentum_confirmed": true,
+      "extended_return": 0.4134969325153374,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "KBLV",
+      "entry_price": 185.0,
+      "avg_return": 2.3965937666000734,
+      "momentum_confirmed": true,
+      "extended_return": 0.3405405405405405,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "AKKU",
+      "entry_price": 46.0,
+      "avg_return": 2.2282384830803803,
+      "momentum_confirmed": true,
+      "extended_return": 8.495652173913044,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 36.36363636363637
+    },
+    {
+      "stock": "DCII",
+      "entry_price": 200000.0,
+      "avg_return": 1.9166707447371611,
+      "momentum_confirmed": true,
+      "extended_return": 11.7875,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 42.857142857142854
+    },
+    {
+      "stock": "BHIT",
+      "entry_price": 50.0,
+      "avg_return": 1.9078853641295823,
+      "momentum_confirmed": true,
+      "extended_return": 5.8,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 45.45454545454545
+    },
+    {
+      "stock": "SMBR",
+      "entry_price": 288.0,
+      "avg_return": 1.883333333333333,
+      "momentum_confirmed": true,
+      "extended_return": 1.883333333333333,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 100.0
+    },
+    {
+      "stock": "CMNP",
+      "entry_price": 1550.0,
+      "avg_return": 1.876873362751006,
+      "momentum_confirmed": true,
+      "extended_return": 8.18709677419355,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "DSFI",
+      "entry_price": 96.0,
+      "avg_return": 1.8135428211312947,
+      "momentum_confirmed": true,
+      "extended_return": 1.883333333333333,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "KOTA",
+      "entry_price": 77.0,
+      "avg_return": 1.774623059964542,
+      "momentum_confirmed": true,
+      "extended_return": 1.0987012987012987,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 60.0
+    },
+    {
+      "stock": "IDEA",
+      "entry_price": 140.0,
+      "avg_return": 1.4964674886179483,
+      "momentum_confirmed": true,
+      "extended_return": 9.8,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 46.15384615384615
+    },
+    {
+      "stock": "SMDR",
+      "entry_price": 412.0,
+      "avg_return": 1.4611666312096605,
+      "momentum_confirmed": true,
+      "extended_return": 5.625242718446602,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 42.857142857142854
+    },
+    {
+      "stock": "FOLK",
+      "entry_price": 875.0,
+      "avg_return": 1.437573305973608,
+      "momentum_confirmed": true,
+      "extended_return": 4.942857142857142,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "MSIE",
+      "entry_price": 59.0,
+      "avg_return": 1.3276458698616793,
+      "momentum_confirmed": true,
+      "extended_return": 8.27457627118644,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "HILL",
+      "entry_price": 168.0,
+      "avg_return": 1.2769819925065862,
+      "momentum_confirmed": true,
+      "extended_return": 2.7761904761904757,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 43.75
+    },
+    {
+      "stock": "NANO",
+      "entry_price": 51.0,
+      "avg_return": 1.2706460541981306,
+      "momentum_confirmed": true,
+      "extended_return": 9.603921568627452,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 40.909090909090914
+    },
+    {
+      "stock": "ANDI",
+      "entry_price": 36.0,
+      "avg_return": 1.1918308185682476,
+      "momentum_confirmed": true,
+      "extended_return": 8.133333333333333,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "ESTI",
+      "entry_price": 141.0,
+      "avg_return": 1.1387811170299322,
+      "momentum_confirmed": true,
+      "extended_return": 34.55177304964539,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 42.857142857142854
+    },
+    {
+      "stock": "NICE",
+      "entry_price": 432.0,
+      "avg_return": 1.130383512773443,
+      "momentum_confirmed": true,
+      "extended_return": 3.0407407407407403,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "HOKI",
+      "entry_price": 76.0,
+      "avg_return": 1.124561403508772,
+      "momentum_confirmed": true,
+      "extended_return": 1.1157894736842104,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 100.0
+    },
+    {
+      "stock": "DATA",
+      "entry_price": 5450.0,
+      "avg_return": 1.1077219760492267,
+      "momentum_confirmed": true,
+      "extended_return": 1.634862385321101,
+      "score": 9.0,
+      "signal": "STRONG",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "BSIM",
+      "entry_price": 1290.0,
+      "avg_return": 2.3386191746717646,
+      "momentum_confirmed": true,
+      "extended_return": 0.1875968992248062,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 50.0
+    },
+    {
+      "stock": "BAIK",
+      "entry_price": 167.0,
+      "avg_return": 1.992187713287127,
+      "momentum_confirmed": true,
+      "extended_return": 2.1952095808383234,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 40.0
+    },
+    {
+      "stock": "PADA",
+      "entry_price": 298.0,
+      "avg_return": 1.796296544577168,
+      "momentum_confirmed": true,
+      "extended_return": 4.497986577181208,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 40.0
+    },
+    {
+      "stock": "PLAN",
+      "entry_price": 52.0,
+      "avg_return": 1.6961486747805181,
+      "momentum_confirmed": true,
+      "extended_return": 9.415384615384616,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 40.0
+    },
+    {
+      "stock": "INTD",
+      "entry_price": 260.0,
+      "avg_return": 1.6213932856134694,
+      "momentum_confirmed": true,
+      "extended_return": 15.184615384615386,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 14.285714285714285
+    },
+    {
+      "stock": "WIIM",
+      "entry_price": 1705.0,
+      "avg_return": 1.4261484969521518,
+      "momentum_confirmed": true,
+      "extended_return": 0.0932551319648093,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 77.77777777777779
+    },
+    {
+      "stock": "CARE",
+      "entry_price": 660.0,
+      "avg_return": 1.4271266678087622,
+      "momentum_confirmed": true,
+      "extended_return": 6.618181818181817,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 38.095238095238095
+    },
+    {
+      "stock": "IRRA",
+      "entry_price": 424.0,
+      "avg_return": 1.4237718459264412,
+      "momentum_confirmed": true,
+      "extended_return": 0.7433962264150944,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 100.0
+    },
+    {
+      "stock": "TOOL",
+      "entry_price": 64.0,
+      "avg_return": 1.3624999999999998,
+      "momentum_confirmed": true,
+      "extended_return": 4.4875,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 33.33333333333333
+    },
+    {
+      "stock": "ADMG",
+      "entry_price": 179.0,
+      "avg_return": 1.2705021317726526,
+      "momentum_confirmed": true,
+      "extended_return": 0.91731843575419,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 54.54545454545454
+    },
+    {
+      "stock": "PBRX",
+      "entry_price": 56.0,
+      "avg_return": 1.2378687494666958,
+      "momentum_confirmed": true,
+      "extended_return": 8.72857142857143,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 36.84210526315789
+    },
+    {
+      "stock": "AGII",
+      "entry_price": 1585.0,
+      "avg_return": 1.1230772616480609,
+      "momentum_confirmed": true,
+      "extended_return": 2.3236593059936905,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 33.33333333333333
+    },
+    {
+      "stock": "MASB",
+      "entry_price": 3390.0,
+      "avg_return": 1.0406885525996175,
+      "momentum_confirmed": true,
+      "extended_return": 0.0949852507374631,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 100.0
+    },
+    {
+      "stock": "ABBA",
+      "entry_price": 66.0,
+      "avg_return": 1.0288308006011357,
+      "momentum_confirmed": true,
+      "extended_return": 8.890909090909092,
+      "score": 8.0,
+      "signal": "MODERATE",
+      "win_rate": 27.27272727272727
+    },
+    {
+      "stock": "SOTS",
+      "entry_price": 5025.0,
+      "avg_return": 12.688367600328673,
+      "momentum_confirmed": false,
+      "extended_return": -0.2,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 68.42105263157895
+    },
+    {
+      "stock": "ATAP",
+      "entry_price": 760.0,
+      "avg_return": 7.890108430260353,
+      "momentum_confirmed": false,
+      "extended_return": -0.2,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 70.0
+    },
+    {
+      "stock": "MDRN",
+      "entry_price": 97.0,
+      "avg_return": 7.031086586135582,
+      "momentum_confirmed": false,
+      "extended_return": -9.478350515463918,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 92.85714285714286
+    },
+    {
+      "stock": "DPUM",
+      "entry_price": 276.0,
+      "avg_return": 6.946602137527727,
+      "momentum_confirmed": false,
+      "extended_return": -0.2,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "LUCY",
+      "entry_price": 835.0,
+      "avg_return": 6.670826070932554,
+      "momentum_confirmed": false,
+      "extended_return": -0.2,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "GRPM",
+      "entry_price": 134.0,
+      "avg_return": 6.5176366089618085,
+      "momentum_confirmed": false,
+      "extended_return": -0.2,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 63.63636363636363
+    },
+    {
+      "stock": "MDIA",
+      "entry_price": 110.0,
+      "avg_return": 5.3729448795509684,
+      "momentum_confirmed": false,
+      "extended_return": -0.2,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 73.68421052631578
+    },
+    {
+      "stock": "DEFI",
+      "entry_price": 334.0,
+      "avg_return": 5.298121529458363,
+      "momentum_confirmed": false,
+      "extended_return": -0.2,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 66.66666666666666
+    },
+    {
+      "stock": "GTSI",
+      "entry_price": 438.0,
+      "avg_return": 5.040014559696193,
+      "momentum_confirmed": false,
+      "extended_return": -10.24566210045662,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 53.84615384615385
+    },
+    {
+      "stock": "CTTH",
+      "entry_price": 116.0,
+      "avg_return": 1.3419470241009803,
+      "momentum_confirmed": true,
+      "extended_return": 1.5241379310344827,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 30.76923076923077
+    },
+    {
+      "stock": "GGRP",
+      "entry_price": 342.0,
+      "avg_return": 1.1231624654645758,
+      "momentum_confirmed": true,
+      "extended_return": 0.3847953216374268,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 46.15384615384615
+    },
+    {
+      "stock": "MPOW",
+      "entry_price": 123.0,
+      "avg_return": 1.0140094725430768,
+      "momentum_confirmed": true,
+      "extended_return": 0.6130081300813008,
+      "score": 7.0,
+      "signal": "WEAK",
+      "win_rate": 42.857142857142854
+    }
+  ]
+}

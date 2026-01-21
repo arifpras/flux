@@ -1,0 +1,192 @@
+{
+  "date": "2026-01-15",
+  "stocks_scanned": 8,
+  "total_alerts": 9,
+  "alerts": [
+    {
+      "stock_code": "BUMI",
+      "pattern": "VOLUME_ANOMALY",
+      "count": 27,
+      "score": 100.0,
+      "risk_level": "HIGH",
+      "timestamps": [
+        "2026-01-15 09:31:00",
+        "2026-01-15 09:32:00",
+        "2026-01-15 09:44:00"
+      ]
+    },
+    {
+      "stock_code": "BMRI",
+      "pattern": "VOLUME_ANOMALY",
+      "count": 27,
+      "score": 100.0,
+      "risk_level": "HIGH",
+      "timestamps": [
+        "2026-01-15 09:23:00",
+        "2026-01-15 09:31:00",
+        "2026-01-15 09:49:00"
+      ]
+    },
+    {
+      "stock_code": "ASII",
+      "pattern": "VOLUME_ANOMALY",
+      "count": 20,
+      "score": 100.0,
+      "risk_level": "HIGH",
+      "timestamps": [
+        "2026-01-15 09:30:00",
+        "2026-01-15 09:35:00",
+        "2026-01-15 09:36:00"
+      ]
+    },
+    {
+      "stock_code": "AALI",
+      "pattern": "VOLUME_ANOMALY",
+      "count": 14,
+      "score": 100.0,
+      "risk_level": "HIGH",
+      "timestamps": [
+        "2026-01-15 09:32:00",
+        "2026-01-15 10:07:00",
+        "2026-01-15 11:00:00"
+      ]
+    },
+    {
+      "stock_code": "BBCA",
+      "pattern": "VOLUME_ANOMALY",
+      "count": 19,
+      "score": 100.0,
+      "risk_level": "HIGH",
+      "timestamps": [
+        "2026-01-15 09:30:00",
+        "2026-01-15 09:50:00",
+        "2026-01-15 09:53:00"
+      ]
+    },
+    {
+      "stock_code": "UNVR",
+      "pattern": "VOLUME_ANOMALY",
+      "count": 21,
+      "score": 100.0,
+      "risk_level": "HIGH",
+      "timestamps": [
+        "2026-01-15 09:27:00",
+        "2026-01-15 10:03:00",
+        "2026-01-15 10:04:00"
+      ]
+    },
+    {
+      "stock_code": "UNVR",
+      "pattern": "PAINTING_TAPE",
+      "risk_level": "MEDIUM",
+      "confidence": 56,
+      "price": 2450.0,
+      "frequency": 0.57
+    },
+    {
+      "stock_code": "INDF",
+      "pattern": "VOLUME_ANOMALY",
+      "count": 20,
+      "score": 100.0,
+      "risk_level": "HIGH",
+      "timestamps": [
+        "2026-01-15 09:25:00",
+        "2026-01-15 09:31:00",
+        "2026-01-15 09:40:00"
+      ]
+    },
+    {
+      "stock_code": "BBRI",
+      "pattern": "VOLUME_ANOMALY",
+      "count": 18,
+      "score": 100.0,
+      "risk_level": "HIGH",
+      "timestamps": [
+        "2026-01-15 09:29:00",
+        "2026-01-15 09:49:00",
+        "2026-01-15 10:18:00"
+      ]
+    }
+  ],
+  "broker_concentration": {
+    "file": "IHSGstockdata/broker/broker_summary_20260115.csv",
+    "total_brokers": 89,
+    "total_value": 56507730134006.0,
+    "top3_share": 28.41,
+    "top5_share": 42.24,
+    "top10_share": 62.19,
+    "top10": [
+      {
+        "broker_id": "XL",
+        "broker_name": "Stockbit Sekuritas Digital",
+        "value": 6820772907356,
+        "volume": 21282161528,
+        "frequency": 2101132
+      },
+      {
+        "broker_id": "CC",
+        "broker_name": "MANDIRI SEKURITAS",
+        "value": 4971910275740,
+        "volume": 7561080026,
+        "frequency": 527478
+      },
+      {
+        "broker_id": "AK",
+        "broker_name": "UBS Sekuritas Indonesia",
+        "value": 4263363203250,
+        "volume": 3506610480,
+        "frequency": 320122
+      },
+      {
+        "broker_id": "ZP",
+        "broker_name": "Maybank Sekuritas Indonesia",
+        "value": 4039283162136,
+        "volume": 3250855068,
+        "frequency": 197660
+      },
+      {
+        "broker_id": "YP",
+        "broker_name": "Mirae Asset Sekuritas Indonesia",
+        "value": 3771247630840,
+        "volume": 8213437452,
+        "frequency": 531673
+      },
+      {
+        "broker_id": "YU",
+        "broker_name": "CGS International Sekuritas Indonesia",
+        "value": 2649697013940,
+        "volume": 3865804612,
+        "frequency": 145319
+      },
+      {
+        "broker_id": "PD",
+        "broker_name": "Indo Premier Sekuritas",
+        "value": 2598717202380,
+        "volume": 4048478161,
+        "frequency": 327909
+      },
+      {
+        "broker_id": "BK",
+        "broker_name": "J.P. Morgan Sekuritas Indonesia",
+        "value": 2221799226850,
+        "volume": 1790993522,
+        "frequency": 134539
+      },
+      {
+        "broker_id": "MG",
+        "broker_name": "Semesta Indovest Sekuritas",
+        "value": 1966004197500,
+        "volume": 6693691000,
+        "frequency": 172232
+      },
+      {
+        "broker_id": "XC",
+        "broker_name": "Ajaib Sekuritas Asia",
+        "value": 1838843094600,
+        "volume": 4141581600,
+        "frequency": 478541
+      }
+    ],
+    "risk_level": "LOW"
+  }
+}

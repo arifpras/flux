@@ -1,0 +1,70 @@
+{
+  "suspensions": {
+    "POLA": {
+      "code": "POLA",
+      "status": "suspended",
+      "last_event_date": "15 Jan 2026",
+      "last_event_desc": "Penghentian Sementara Perdagangan Saham PT Pool Advista Finance Tbk.",
+      "suspension_date": "15 Jan 2026",
+      "reopening_date": null
+    },
+    "SOTS": {
+      "code": "SOTS",
+      "status": "suspended",
+      "last_event_date": "14 Jan 2026",
+      "last_event_desc": "Penghentian Sementara Perdagangan Saham PT Satria Mega Kencana Tbk.",
+      "suspension_date": "14 Jan 2026",
+      "reopening_date": null
+    },
+    "INDS": {
+      "code": "INDS",
+      "status": "reopened",
+      "last_event_date": "15 Jan 2026",
+      "last_event_desc": "Pembukaan Kembali Perdagangan Saham PT Indospring Tbk.",
+      "suspension_date": "14 Jan 2026",
+      "reopening_date": "15 Jan 2026"
+    },
+    "KOCI": {
+      "code": "KOCI",
+      "status": "reopened",
+      "last_event_date": "13 Jan 2026",
+      "last_event_desc": "Pembukaan Kembali Perdagangan Saham PT Kokoh Exa Nusantara Tbk.",
+      "suspension_date": "14 Jan 2026",
+      "reopening_date": "13 Jan 2026"
+    },
+    "PKPK": {
+      "code": "PKPK",
+      "status": "reopened",
+      "last_event_date": "14 Jan 2026",
+      "last_event_desc": "Pembukaan Kembali Perdagangan Saham PT Paragon Karya Perkasa Tbk.",
+      "suspension_date": null,
+      "reopening_date": "14 Jan 2026"
+    },
+    "IFSH": {
+      "code": "IFSH",
+      "status": "suspended",
+      "last_event_date": "13 Jan 2026",
+      "last_event_desc": "Penghentian Sementara Perdagangan Saham PT Ifishdeco Tbk.",
+      "suspension_date": "13 Jan 2026",
+      "reopening_date": null
+    },
+    "SIPD": {
+      "code": "SIPD",
+      "status": "suspended",
+      "last_event_date": "13 Jan 2026",
+      "last_event_desc": "Penghentian Sementara Perdagangan Saham PT Sreeya Sewu Indonesia Tbk.",
+      "suspension_date": "13 Jan 2026",
+      "reopening_date": null
+    },
+    "SPRE": {
+      "code": "SPRE",
+      "status": "reopened",
+      "last_event_date": "13 Jan 2026",
+      "last_event_desc": "Pembukaan Kembali Perdagangan Saham PT Soraya Berjaya Indonesia Tbk.",
+      "suspension_date": null,
+      "reopening_date": "13 Jan 2026"
+    }
+  },
+  "last_update": "2026-01-19T14:47:03.119041",
+  "timestamp": "2026-01-19T14:47:03.119273"
+}
