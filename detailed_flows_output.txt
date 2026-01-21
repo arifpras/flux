@@ -1,0 +1,253 @@
+======================================================================================================================================================
+DETAILED INSTITUTIONAL FLOWS ANALYSIS: WHICH STOCKS & WHY
+Period: Dec 1, 2025 - Jan 21, 2026
+======================================================================================================================================================
+
+======================================================================================================================================================
+🟢 TOP 15: INSTITUTIONAL ACCUMULATION (BUYING MORE)
+======================================================================================================================================================
+Stock    Company                             Buying Change      Selling Change     Net Change         Price %    Volume %  
+------------------------------------------------------------------------------------------------------------------------------------------------------
+BBRI     Bank Rakyat Indonesia (Persero) T   Rp      58,336,900 Rp      -89,660,200 Rp      147,997,100      4.1%     -8.7% 🟡 MODERATE
+MINA     Sanurhasta Mitra Tbk.               Rp    -142,744,200 Rp     -287,825,600 Rp      145,081,400     49.3%    -74.5% 🟡 MODERATE
+BBKP     Bank KB Indonesia Tbk.              Rp     135,219,700 Rp       22,455,400 Rp      112,764,300     16.2%    320.2% 🟡 MODERATE
+BKSL     Sentul City Tbk.                    Rp     -60,941,800 Rp     -155,776,800 Rp       94,835,000     -5.8%     22.8% 🟡 MODERATE
+PWON     Pakuwon Jati Tbk.                   Rp      78,198,300 Rp       -6,200,400 Rp       84,398,700     -2.6%    135.8% 🟡 MODERATE
+ADRO     Alamtri Resources Indonesia Tbk.    Rp      70,763,100 Rp        9,784,500 Rp       60,978,600     24.2%    230.2% 🟡 MODERATE
+NCKL     Trimegah Bangun Persada Tbk.        Rp      52,082,100 Rp       -1,805,700 Rp       53,887,800     43.6%    147.9% 🟡 MODERATE
+INET     Sinergi Inti Andalan Prima Tbk.     Rp      42,539,600 Rp      -10,750,400 Rp       53,290,000    -15.8%    148.3% 🟡 MODERATE
+CNMA     Nusantara Sejahtera Raya Tbk.       Rp     -28,168,600 Rp      -72,794,900 Rp       44,626,300     -3.2%    -88.6% 🟡 MODERATE
+PGAS     Perusahaan Gas Negara Tbk.          Rp      20,211,200 Rp      -12,954,700 Rp       33,165,900     11.8%    -34.6% 🟡 MODERATE
+MBMA     Merdeka Battery Materials Tbk.      Rp      73,521,700 Rp       44,343,900 Rp       29,177,800     41.8%    157.9% 🟡 MODERATE
+PSKT     Red Planet Indonesia Tbk.           Rp      93,699,000 Rp       67,230,300 Rp       26,468,700     29.7%     50.3% 🟡 MODERATE
+ASHA     Cilacap Samudera Fishing Industry   Rp      49,644,400 Rp       24,560,400 Rp       25,084,000     31.3%     -1.2% 🟡 MODERATE
+ASII     Astra International Tbk.            Rp      76,204,600 Rp       52,872,000 Rp       23,332,600      3.5%    596.8% 🟡 MODERATE
+MLPL     Multipolar Tbk.                     Rp      -3,615,500 Rp      -26,766,600 Rp       23,151,100     -6.6%    -58.7% 🟡 MODERATE
+
+======================================================================================================================================================
+🔴 TOP 15: INSTITUTIONAL DISTRIBUTION (SELLING MORE)
+======================================================================================================================================================
+Stock    Company                             Buying Change      Selling Change     Net Change         Price %    Volume %  
+------------------------------------------------------------------------------------------------------------------------------------------------------
+GOTO     GoTo Gojek Tokopedia Tbk.           Rp    -412,275,300 Rp    2,007,187,100 Rp   -2,419,462,400     -4.5%     67.7% 🟠 SELLING
+BUMI     Bumi Resources Tbk.                 Rp    -517,574,300 Rp     -142,553,300 Rp     -375,021,000     56.9%     30.1% 🟠 SELLING
+BBCA     Bank Central Asia Tbk.              Rp     -21,225,000 Rp      220,632,300 Rp     -241,857,300     -8.3%    295.3% 🟠 SELLING
+KPIG     MNC Tourism Indonesia Tbk.          Rp     -31,818,700 Rp       64,870,700 Rp      -96,689,400    107.6%    113.3% 🟠 SELLING
+REAL     Repower Asia Indonesia Tbk.         Rp      41,651,800 Rp      138,143,700 Rp      -96,491,900     27.7%    232.3% 🟠 SELLING
+ENRG     Energi Mega Persada Tbk.            Rp    -158,631,300 Rp      -65,757,800 Rp      -92,873,500     29.7%    -80.7% 🟠 SELLING
+GTSI     GTS Internasional Tbk.              Rp    -298,037,700 Rp     -207,169,500 Rp      -90,868,200    151.4%    -82.7% 🟠 SELLING
+OASA     Maharaksa Biru Energi Tbk.          Rp      44,743,000 Rp      126,287,800 Rp      -81,544,800    136.4%   1679.7% 🟠 SELLING
+BUKA     Bukalapak.com Tbk.                  Rp      41,290,500 Rp      115,163,000 Rp      -73,872,500     -5.4%    210.1% 🟠 SELLING
+COAL     Black Diamond Resources Tbk.        Rp     214,569,400 Rp      286,042,700 Rp      -71,473,300    -10.7%     47.4% 🟠 SELLING
+BULL     Buana Lintas Lautan Tbk.            Rp      -9,475,400 Rp       50,367,700 Rp      -59,843,100    105.4%     46.8% 🟠 SELLING
+GIAA     Garuda Indonesia (Persero) Tbk.     Rp         345,300 Rp       49,633,700 Rp      -49,288,400    -15.1%     -8.3% 🟠 SELLING
+VIVA     Visi Media Asia Tbk.                Rp          10,000 Rp       48,650,000 Rp      -48,640,000    100.0%    735.4% 🟠 SELLING
+DEWA     Darma Henwa Tbk                     Rp    -392,180,600 Rp     -346,985,600 Rp      -45,195,000     59.1%    -73.6% 🟠 SELLING
+ARCI     Archi Indonesia Tbk.                Rp      11,737,500 Rp       53,434,100 Rp      -41,696,600     54.4%     68.5% 🟠 SELLING
+
+======================================================================================================================================================
+📊 DETAILED BREAKDOWN: INSTITUTIONAL POSITIONING BY STOCK
+======================================================================================================================================================
+
+🟢 ACCUMULATION PLAYS (Top 10)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BBRI - Bank Rakyat Indonesia (Persero) Tbk.
+  Dec 1:  Buy Rp    106,659,800 | Sell Rp    223,009,600 | Net   -116,349,800
+  Jan 21: Buy Rp    164,996,700 | Sell Rp    133,349,400 | Net +    31,647,300
+  Change: Buy +    58,336,900 | Sell    -89,660,200 | Net +   147,997,100
+  Price:  Rp    3,670 → Rp    3,820 (+4.1%)
+  Volume:     299,669,500 →     273,678,200 (-8.7%)
+  🎯 INTERPRETATION: Institutions buying + price rising = REAL accumulation (bullish)
+
+MINA - Sanurhasta Mitra Tbk.
+  Dec 1:  Buy Rp    147,400,000 | Sell Rp    323,344,100 | Net   -175,944,100
+  Jan 21: Buy Rp      4,655,800 | Sell Rp     35,518,500 | Net    -30,862,700
+  Change: Buy   -142,744,200 | Sell   -287,825,600 | Net +   145,081,400
+  Price:  Rp      412 → Rp      615 (+49.3%)
+  Volume:   1,686,357,600 →     430,103,300 (-74.5%)
+  🎯 INTERPRETATION: Institutions buying + price rising = REAL accumulation (bullish)
+
+BBKP - Bank KB Indonesia Tbk.
+  Dec 1:  Buy Rp     33,503,100 | Sell Rp     13,808,000 | Net +    19,695,100
+  Jan 21: Buy Rp    168,722,800 | Sell Rp     36,263,400 | Net +   132,459,400
+  Change: Buy +   135,219,700 | Sell +    22,455,400 | Net +   112,764,300
+  Price:  Rp       74 → Rp       86 (+16.2%)
+  Volume:     155,711,700 →     654,248,500 (+320.2%)
+  🎯 INTERPRETATION: Institutions buying + price rising = REAL accumulation (bullish)
+
+BKSL - Sentul City Tbk.
+  Dec 1:  Buy Rp    115,087,900 | Sell Rp    274,026,900 | Net   -158,939,000
+  Jan 21: Buy Rp     54,146,100 | Sell Rp    118,250,100 | Net    -64,104,000
+  Change: Buy    -60,941,800 | Sell   -155,776,800 | Net +    94,835,000
+  Price:  Rp      154 → Rp      145 (-5.8%)
+  Volume:   1,119,871,700 →   1,375,344,300 (+22.8%)
+  ⚠️  INTERPRETATION: Institutions buying but price falling = Deep accumulation (hidden strength)
+
+PWON - Pakuwon Jati Tbk.
+  Dec 1:  Buy Rp      6,189,700 | Sell Rp     23,669,300 | Net    -17,479,600
+  Jan 21: Buy Rp     84,388,000 | Sell Rp     17,468,900 | Net +    66,919,100
+  Change: Buy +    78,198,300 | Sell     -6,200,400 | Net +    84,398,700
+  Price:  Rp      380 → Rp      370 (-2.6%)
+  Volume:      93,707,000 →     220,984,500 (+135.8%)
+  ⚠️  INTERPRETATION: Institutions buying but price falling = Deep accumulation (hidden strength)
+
+ADRO - Alamtri Resources Indonesia Tbk.
+  Dec 1:  Buy Rp      5,177,500 | Sell Rp     11,778,600 | Net     -6,601,100
+  Jan 21: Buy Rp     75,940,600 | Sell Rp     21,563,100 | Net +    54,377,500
+  Change: Buy +    70,763,100 | Sell +     9,784,500 | Net +    60,978,600
+  Price:  Rp    1,820 → Rp    2,260 (+24.2%)
+  Volume:      44,059,900 →     145,474,200 (+230.2%)
+  🎯 INTERPRETATION: Institutions buying + price rising = REAL accumulation (bullish)
+
+NCKL - Trimegah Bangun Persada Tbk.
+  Dec 1:  Buy Rp      5,401,100 | Sell Rp     13,678,300 | Net     -8,277,200
+  Jan 21: Buy Rp     57,483,200 | Sell Rp     11,872,600 | Net +    45,610,600
+  Change: Buy +    52,082,100 | Sell     -1,805,700 | Net +    53,887,800
+  Price:  Rp    1,020 → Rp    1,465 (+43.6%)
+  Volume:      40,051,000 →      99,291,300 (+147.9%)
+  🎯 INTERPRETATION: Institutions buying + price rising = REAL accumulation (bullish)
+
+INET - Sinergi Inti Andalan Prima Tbk.
+  Dec 1:  Buy Rp     34,296,300 | Sell Rp     89,226,800 | Net    -54,930,500
+  Jan 21: Buy Rp     76,835,900 | Sell Rp     78,476,400 | Net     -1,640,500
+  Change: Buy +    42,539,600 | Sell    -10,750,400 | Net +    53,290,000
+  Price:  Rp      665 → Rp      560 (-15.8%)
+  Volume:     324,308,800 →     805,196,100 (+148.3%)
+  ⚠️  INTERPRETATION: Institutions buying but price falling = Deep accumulation (hidden strength)
+
+CNMA - Nusantara Sejahtera Raya Tbk.
+  Dec 1:  Buy Rp     33,463,900 | Sell Rp     77,701,900 | Net    -44,238,000
+  Jan 21: Buy Rp      5,295,300 | Sell Rp      4,907,000 | Net +       388,300
+  Change: Buy    -28,168,600 | Sell    -72,794,900 | Net +    44,626,300
+  Price:  Rp      124 → Rp      120 (-3.2%)
+  Volume:     334,840,100 →      38,245,800 (-88.6%)
+  ⚠️  INTERPRETATION: Institutions buying but price falling = Deep accumulation (hidden strength)
+
+PGAS - Perusahaan Gas Negara Tbk.
+  Dec 1:  Buy Rp      5,459,600 | Sell Rp     28,731,800 | Net    -23,272,200
+  Jan 21: Buy Rp     25,670,800 | Sell Rp     15,777,100 | Net +     9,893,700
+  Change: Buy +    20,211,200 | Sell    -12,954,700 | Net +    33,165,900
+  Price:  Rp    1,870 → Rp    2,090 (+11.8%)
+  Volume:      84,343,200 →      55,138,400 (-34.6%)
+  🎯 INTERPRETATION: Institutions buying + price rising = REAL accumulation (bullish)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔴 DISTRIBUTION PLAYS (Top 10)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+GOTO - GoTo Gojek Tokopedia Tbk.
+  Dec 1:  Buy Rp  2,575,992,400 | Sell Rp  1,758,162,400 | Net +   817,830,000
+  Jan 21: Buy Rp  2,163,717,100 | Sell Rp  3,765,349,500 | Net -1,601,632,400
+  Change: Buy   -412,275,300 | Sell + 2,007,187,100 | Net -2,419,462,400
+  Price:  Rp       67 → Rp       64 (-4.5%)
+  Volume:   4,333,478,300 →   7,269,276,700 (+67.7%)
+  🔴 INTERPRETATION: Institutions exiting + price falling = Confirmed reversal (bearish)
+
+BUMI - Bumi Resources Tbk.
+  Dec 1:  Buy Rp  1,148,513,900 | Sell Rp  1,929,530,800 | Net   -781,016,900
+  Jan 21: Buy Rp    630,939,600 | Sell Rp  1,786,977,500 | Net -1,156,037,900
+  Change: Buy   -517,574,300 | Sell   -142,553,300 | Net   -375,021,000
+  Price:  Rp      246 → Rp      386 (+56.9%)
+  Volume:   6,434,442,600 →   8,369,517,000 (+30.1%)
+  🚨 INTERPRETATION: Institutions dumping while retail buys (top before crash)
+
+BBCA - Bank Central Asia Tbk.
+  Dec 1:  Buy Rp     60,835,600 | Sell Rp     40,478,700 | Net +    20,356,900
+  Jan 21: Buy Rp     39,610,600 | Sell Rp    261,111,000 | Net   -221,500,400
+  Change: Buy    -21,225,000 | Sell +   220,632,300 | Net   -241,857,300
+  Price:  Rp    8,400 → Rp    7,700 (-8.3%)
+  Volume:      76,359,200 →     301,825,600 (+295.3%)
+  🔴 INTERPRETATION: Institutions exiting + price falling = Confirmed reversal (bearish)
+
+KPIG - MNC Tourism Indonesia Tbk.
+  Dec 1:  Buy Rp     71,066,800 | Sell Rp      2,906,600 | Net +    68,160,200
+  Jan 21: Buy Rp     39,248,100 | Sell Rp     67,777,300 | Net    -28,529,200
+  Change: Buy    -31,818,700 | Sell +    64,870,700 | Net    -96,689,400
+  Price:  Rp      132 → Rp      274 (+107.6%)
+  Volume:      84,633,000 →     180,520,800 (+113.3%)
+  🚨 INTERPRETATION: Institutions dumping while retail buys (top before crash)
+
+REAL - Repower Asia Indonesia Tbk.
+  Dec 1:  Buy Rp     23,322,000 | Sell Rp     20,318,300 | Net +     3,003,700
+  Jan 21: Buy Rp     64,973,800 | Sell Rp    158,462,000 | Net    -93,488,200
+  Change: Buy +    41,651,800 | Sell +   138,143,700 | Net    -96,491,900
+  Price:  Rp       65 → Rp       83 (+27.7%)
+  Volume:     309,092,100 →   1,027,251,900 (+232.3%)
+  🚨 INTERPRETATION: Institutions dumping while retail buys (top before crash)
+
+ENRG - Energi Mega Persada Tbk.
+  Dec 1:  Buy Rp    202,410,900 | Sell Rp     88,919,500 | Net +   113,491,400
+  Jan 21: Buy Rp     43,779,600 | Sell Rp     23,161,700 | Net +    20,617,900
+  Change: Buy   -158,631,300 | Sell    -65,757,800 | Net    -92,873,500
+  Price:  Rp    1,195 → Rp    1,550 (+29.7%)
+  Volume:     558,162,200 →     107,809,400 (-80.7%)
+  🚨 INTERPRETATION: Institutions dumping while retail buys (top before crash)
+
+GTSI - GTS Internasional Tbk.
+  Dec 1:  Buy Rp    313,346,700 | Sell Rp    238,944,900 | Net +    74,401,800
+  Jan 21: Buy Rp     15,309,000 | Sell Rp     31,775,400 | Net    -16,466,400
+  Change: Buy   -298,037,700 | Sell   -207,169,500 | Net    -90,868,200
+  Price:  Rp      179 → Rp      450 (+151.4%)
+  Volume:   1,602,463,000 →     277,213,500 (-82.7%)
+  🚨 INTERPRETATION: Institutions dumping while retail buys (top before crash)
+
+OASA - Maharaksa Biru Energi Tbk.
+  Dec 1:  Buy Rp      7,547,600 | Sell Rp      2,840,200 | Net +     4,707,400
+  Jan 21: Buy Rp     52,290,600 | Sell Rp    129,128,000 | Net    -76,837,400
+  Change: Buy +    44,743,000 | Sell +   126,287,800 | Net    -81,544,800
+  Price:  Rp      220 → Rp      520 (+136.4%)
+  Volume:      31,816,300 →     566,234,400 (+1679.7%)
+  🚨 INTERPRETATION: Institutions dumping while retail buys (top before crash)
+
+BUKA - Bukalapak.com Tbk.
+  Dec 1:  Buy Rp     13,637,300 | Sell Rp     37,881,200 | Net    -24,243,900
+  Jan 21: Buy Rp     54,927,800 | Sell Rp    153,044,200 | Net    -98,116,400
+  Change: Buy +    41,290,500 | Sell +   115,163,000 | Net    -73,872,500
+  Price:  Rp      166 → Rp      157 (-5.4%)
+  Volume:      99,918,700 →     309,811,200 (+210.1%)
+  🔴 INTERPRETATION: Institutions exiting + price falling = Confirmed reversal (bearish)
+
+COAL - Black Diamond Resources Tbk.
+  Dec 1:  Buy Rp     19,398,700 | Sell Rp        425,900 | Net +    18,972,800
+  Jan 21: Buy Rp    233,968,100 | Sell Rp    286,468,600 | Net    -52,500,500
+  Change: Buy +   214,569,400 | Sell +   286,042,700 | Net    -71,473,300
+  Price:  Rp      112 → Rp      100 (-10.7%)
+  Volume:   1,527,472,900 →   2,251,082,400 (+47.4%)
+  🔴 INTERPRETATION: Institutions exiting + price falling = Confirmed reversal (bearish)
+
+======================================================================================================================================================
+📈 SECTOR ANALYSIS: WHERE ARE INSTITUTIONS ROTATING?
+======================================================================================================================================================
+
+Sector               Net Flow             Buy Flow             Sell Flow            Avg Price %     Stocks   Signal
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Mining               Rp        97,644,200 Rp       175,535,800 Rp        77,891,600         51.76%       3 🟡 NEUTRAL
+Property             Rp        84,398,700 Rp        78,198,300 Rp        -6,200,400          5.90%       2 🟡 NEUTRAL
+Automotive           Rp        22,311,900 Rp        76,722,000 Rp        54,410,100          4.56%       2 🟡 NEUTRAL
+Energy               Rp        15,783,600 Rp      -321,417,500 Rp      -337,201,100         47.16%       3 🟡 NEUTRAL
+Agriculture          Rp          -300,000 Rp                 0 Rp           300,000        515.38%       1 🟡 NEUTRAL
+Banking              Rp       -23,886,600 Rp       214,386,100 Rp       238,272,700          4.23%       5 🟡 NEUTRAL
+Commodities          Rp      -375,021,000 Rp      -517,574,300 Rp      -142,553,300         56.91%       1 🟡 NEUTRAL
+Other                Rp      -546,538,300 Rp       697,752,100 Rp     1,244,290,400         22.24%     939 🟡 NEUTRAL
+Technology           Rp    -2,493,334,900 Rp      -370,984,800 Rp     2,122,350,100         -4.95%       2 🟡 NEUTRAL
+
+======================================================================================================================================================
+🎯 CONTRARIAN THESIS SUMMARY
+======================================================================================================================================================
+
+✅ INSTITUTIONAL FAVORITES (Accumulation):
+   → Mining: +Rp 97,644,200 (institutions loading)
+   → Property: +Rp 84,398,700 (institutions loading)
+   → Automotive: +Rp 22,311,900 (institutions loading)
+   → Energy: +Rp 15,783,600 (institutions loading)
+
+❌ INSTITUTIONAL EXITS (Distribution):
+   → Technology: Rp -2,493,334,900 (institutions dumping)
+   → Other: Rp -546,538,300 (institutions dumping)
+   → Commodities: Rp -375,021,000 (institutions dumping)
+   → Banking: Rp -23,886,600 (institutions dumping)
+   → Agriculture: Rp -300,000 (institutions dumping)
+
+======================================================================================================================================================
