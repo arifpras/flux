@@ -3,6 +3,13 @@
 Period: January 14, 2026 - January 21, 2026
 ======================================================================================================================================================
 
+======================================================================================================================================================
+🕒 REPORT META
+======================================================================================================================================================
+Generated: 2026-01-22 10:16:51 (local)
+Accumulation Mode: positive_sum
+Domestic Source: synthetic
+
 📊 TRADING DAYS IN PERIOD
 ------------------------------------------------------------------------------------------------------------------------------------------------------
   Wednesday, January 14, 2026
@@ -129,16 +136,16 @@ ADRO     Alamtri Resources Indonesia Tbk.    Rp      118,129,800 Rp     -118,129
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Stock    Company                             Accum.             Price Chg       3-Day Trend          Volume            
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-BELL     Trisula Textile Industries Tbk.     🔴 Rp               0 +142.68%        ↗️ Rising                 515,513,960
-NATO     Surya Permata Andalan Tbk.          🔴 Rp               0 +120.93%        ↗️ Rising                  11,964,500
-ESTI     Ever Shine Tex Tbk.                 🔴 Rp               0 +102.84%        ↗️ Rising                 141,455,260
-ZATA     Bersama Zatta Jaya Tbk.             🔴 Rp               0 +91.67%         ↘️ Falling              1,220,037,880
-VISI     Satu Visi Putra Tbk.                🔴 Rp               0 +79.07%         ↘️ Falling                  5,295,840
-RLCO     Abadi Lestari Indonesia Tbk.        🔴 Rp               0 +72.28%         ↘️ Falling                 19,205,380
-ELIT     Data Sinergitama Jaya Tbk.          🔴 Rp               0 +71.68%         ↗️ Rising                 109,211,700
-RMKO     Royaltama Mulia Kontraktorindo Tb   🔴 Rp               0 +64.44%         ↗️ Rising                  19,844,720
-AIMS     Artha Mahiya Investama Tbk.         🔴 Rp               0 +59.76%         ↗️ Rising                   3,875,240
-ROCK     Rockfields Properti Indonesia Tbk   🔴 Rp               0 +55.62%         ↘️ Falling                    215,800
+BELL     Trisula Textile Industries Tbk.     🟢 Rp       5,956,300 +142.68%        ↗️ Rising                 515,513,960
+NATO     Surya Permata Andalan Tbk.          🟢 Rp       3,157,500 +120.93%        ↗️ Rising                  11,964,500
+ESTI     Ever Shine Tex Tbk.                 🟢 Rp         309,200 +102.84%        ↗️ Rising                 141,455,260
+ZATA     Bersama Zatta Jaya Tbk.             🟢 Rp      12,662,600 +91.67%         ↘️ Falling              1,220,037,880
+VISI     Satu Visi Putra Tbk.                🟢 Rp         743,300 +79.07%         ↘️ Falling                  5,295,840
+RLCO     Abadi Lestari Indonesia Tbk.        🟢 Rp       4,702,600 +72.28%         ↘️ Falling                 19,205,380
+ELIT     Data Sinergitama Jaya Tbk.          🟢 Rp      30,790,200 +71.68%         ↗️ Rising                 109,211,700
+RMKO     Royaltama Mulia Kontraktorindo Tb   🟢 Rp         287,500 +64.44%         ↗️ Rising                  19,844,720
+AIMS     Artha Mahiya Investama Tbk.         🟢 Rp         405,500 +59.76%         ↗️ Rising                   3,875,240
+ROCK     Rockfields Properti Indonesia Tbk   🟢 Rp           4,000 +55.62%         ↘️ Falling                    215,800
 
 ======================================================================================================================================================
 💡 TRADING IMPLICATIONS

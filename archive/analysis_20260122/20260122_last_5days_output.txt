@@ -1,0 +1,173 @@
+======================================================================================================================================================
+5-DAY INSTITUTIONAL ANALYSIS: FOREIGN vs DOMESTIC DIVERGENCE
+Period: January 14, 2026 - January 21, 2026
+======================================================================================================================================================
+
+======================================================================================================================================================
+🕒 REPORT META
+======================================================================================================================================================
+Generated: 2026-01-22 10:16:51 (local)
+Accumulation Mode: positive_sum
+Domestic Source: synthetic
+
+📊 TRADING DAYS IN PERIOD
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  Wednesday, January 14, 2026
+  Thursday, January 15, 2026
+  Monday, January 19, 2026
+  Tuesday, January 20, 2026
+  Wednesday, January 21, 2026
+
+======================================================================================================================================================
+🌍 FOREIGN INSTITUTIONAL FLOWS
+======================================================================================================================================================
+Stock    Company                             Buy                Sell               Net Position       Price           Perf      
+------------------------------------------------------------------------------------------------------------------------------------------------------
+MBMA     Merdeka Battery Materials Tbk.      Rp      722,290,800 Rp      476,842,700 Rp      245,448,100 Rp      780     📈  +1.30% 
+BBRI     Bank Rakyat Indonesia (Persero) T   Rp      756,926,100 Rp      528,776,600 Rp      228,149,500 Rp    3,820     📈  +2.69% 
+VKTR     VKTR Teknologi Mobilitas Tbk.       Rp      224,085,600 Rp       75,017,500 Rp      149,068,100 Rp    1,220     📈 +21.39% 
+BRMS     Bumi Resources Minerals Tbk.        Rp      689,065,100 Rp      570,498,400 Rp      118,566,700 Rp    1,265     📈  +1.20% 
+ADRO     Alamtri Resources Indonesia Tbk.    Rp      293,787,600 Rp      175,657,800 Rp      118,129,800 Rp    2,260     📈  +1.35% 
+BBKP     Bank KB Indonesia Tbk.              Rp      642,434,400 Rp      534,760,300 Rp      107,674,100 Rp       86     📉  -7.53% 
+INCO     Vale Indonesia Tbk.                 Rp      184,390,100 Rp       80,530,000 Rp      103,860,100 Rp    6,450     📈  +0.78% 
+PWON     Pakuwon Jati Tbk.                   Rp      196,525,200 Rp       98,511,300 Rp       98,013,900 Rp      370     📉  -1.07% 
+JPFA     Japfa Comfeed Indonesia Tbk.        Rp      174,097,700 Rp       82,072,500 Rp       92,025,200 Rp    2,930     📈 +12.26% 
+GMFI     Garuda Maintenance Facility Aero    Rp       88,951,000 Rp        1,025,000 Rp       87,926,000 Rp       72     📉 -13.25% 
+MDKA     Merdeka Copper Gold Tbk.            Rp      339,552,800 Rp      258,357,800 Rp       81,195,000 Rp    3,310     📈  +8.17% 
+ANTM     Aneka Tambang Tbk.                  Rp      430,497,600 Rp      353,928,300 Rp       76,569,300 Rp    4,270     📈  +4.40% 
+ELTY     Bakrieland Development Tbk.         Rp      101,901,200 Rp       25,527,300 Rp       76,373,900 Rp       72     📉 -27.27% 
+ARCI     Archi Indonesia Tbk.                Rp      433,280,600 Rp      357,696,800 Rp       75,583,800 Rp    2,030     📈  +4.10% 
+LPKR     Lippo Karawaci Tbk.                 Rp      167,533,000 Rp      108,762,600 Rp       58,770,400 Rp       98     📉  -1.01% 
+
+======================================================================================================================================================
+🏛️  DOMESTIC INSTITUTIONAL FLOWS
+======================================================================================================================================================
+Stock    Company                             Buy                Sell               Net Position       Price           Perf      
+------------------------------------------------------------------------------------------------------------------------------------------------------
+GOTO     GoTo Gojek Tokopedia Tbk.           Rp    4,089,103,800 Rp   -1,333,738,400 Rp    5,422,842,200 Rp       64     📉  -7.25% 
+BUMI     Bumi Resources Tbk.                 Rp   13,347,146,900 Rp    9,171,890,600 Rp    4,175,256,300 Rp      386     📉  -8.53% 
+GIAA     Garuda Indonesia (Persero) Tbk.     Rp      326,971,200 Rp      -86,095,400 Rp      413,066,600 Rp       90     📉  -8.16% 
+BBCA     Bank Central Asia Tbk.              Rp      114,711,850 Rp     -230,696,050 Rp      345,407,900 Rp    7,700     📉  -3.75% 
+IATA     MNC Energy Investments Tbk.         Rp      417,740,450 Rp      101,491,550 Rp      316,248,900 Rp      122     📉 -17.57% 
+VIVA     Visi Media Asia Tbk.                Rp      475,077,700 Rp      252,029,100 Rp      223,048,600 Rp       60     📉 -22.08% 
+BUKA     Bukalapak.com Tbk.                  Rp      242,595,650 Rp       30,812,450 Rp      211,783,200 Rp      157     📉  -0.63% 
+CPRO     Central Proteina Prima Tbk.         Rp    1,399,857,800 Rp    1,192,611,700 Rp      207,246,100 Rp       74     📉  -1.33% 
+BLTA     Berlian Laju Tanker Tbk             Rp      182,312,350 Rp       25,882,250 Rp      156,430,100 Rp       50     📉 -19.35% 
+CUAN     Petrindo Jaya Kreasi Tbk.           Rp      187,432,850 Rp       91,320,650 Rp       96,112,200 Rp    1,895     📉  -0.79% 
+DEWA     Darma Henwa Tbk                     Rp    1,454,742,000 Rp    1,359,913,100 Rp       94,828,900 Rp      735     📉  -2.00% 
+ACRO     Samcro Hyosung Adilestari Tbk.      Rp      630,274,000 Rp      566,109,900 Rp       64,164,100 Rp       97     📈 +11.49% 
+HRTA     Hartadinata Abadi Tbk.              Rp      102,259,350 Rp       47,663,150 Rp       54,596,200 Rp    2,550     📉  -1.92% 
+DOOH     Era Media Sejahtera Tbk.            Rp      445,918,550 Rp      391,977,250 Rp       53,941,300 Rp      270     📈  +0.75% 
+BRPT     Barito Pacific Tbk.                 Rp      135,096,900 Rp       82,506,400 Rp       52,590,500 Rp    2,860     📈  +1.06% 
+
+======================================================================================================================================================
+⚔️  FOREIGN vs DOMESTIC DIVERGENCE: MAJOR DISAGREEMENTS
+======================================================================================================================================================
+Stock    Company                             Foreign            Domestic           Divergence         Signal                   
+------------------------------------------------------------------------------------------------------------------------------------------------------
+GOTO     GoTo Gojek Tokopedia Tbk.           Rp   -5,422,842,200 Rp    5,422,842,200 Rp   10,845,684,400 FOREIGN SELL, DOM BUY    
+BUMI     Bumi Resources Tbk.                 Rp   -4,175,256,300 Rp    4,175,256,300 Rp    8,350,512,600 FOREIGN SELL, DOM BUY    
+GIAA     Garuda Indonesia (Persero) Tbk.     Rp     -413,066,600 Rp      413,066,600 Rp      826,133,200 FOREIGN SELL, DOM BUY    
+BBCA     Bank Central Asia Tbk.              Rp     -345,407,900 Rp      345,407,900 Rp      690,815,800 FOREIGN SELL, DOM BUY    
+IATA     MNC Energy Investments Tbk.         Rp     -316,248,900 Rp      316,248,900 Rp      632,497,800 FOREIGN SELL, DOM BUY    
+MBMA     Merdeka Battery Materials Tbk.      Rp      245,448,100 Rp     -245,448,100 Rp      490,896,200 FOREIGN BUY, DOM SELL    
+BBRI     Bank Rakyat Indonesia (Persero) T   Rp      228,149,500 Rp     -228,149,500 Rp      456,299,000 FOREIGN BUY, DOM SELL    
+VIVA     Visi Media Asia Tbk.                Rp     -223,048,600 Rp      223,048,600 Rp      446,097,200 FOREIGN SELL, DOM BUY    
+BUKA     Bukalapak.com Tbk.                  Rp     -211,783,200 Rp      211,783,200 Rp      423,566,400 FOREIGN SELL, DOM BUY    
+CPRO     Central Proteina Prima Tbk.         Rp     -207,246,100 Rp      207,246,100 Rp      414,492,200 FOREIGN SELL, DOM BUY    
+BLTA     Berlian Laju Tanker Tbk             Rp     -156,430,100 Rp      156,430,100 Rp      312,860,200 FOREIGN SELL, DOM BUY    
+VKTR     VKTR Teknologi Mobilitas Tbk.       Rp      149,068,100 Rp     -149,068,100 Rp      298,136,200 FOREIGN BUY, DOM SELL    
+BRMS     Bumi Resources Minerals Tbk.        Rp      118,566,700 Rp     -118,566,700 Rp      237,133,400 FOREIGN BUY, DOM SELL    
+ADRO     Alamtri Resources Indonesia Tbk.    Rp      118,129,800 Rp     -118,129,800 Rp      236,259,600 FOREIGN BUY, DOM SELL    
+BBKP     Bank KB Indonesia Tbk.              Rp      107,674,100 Rp     -107,674,100 Rp      215,348,200 FOREIGN BUY, DOM SELL    
+
+======================================================================================================================================================
+📈 MARKET-WIDE INSTITUTIONAL POSITIONING
+======================================================================================================================================================
+
+🌍 FOREIGN INSTITUTIONS:
+  Total Buy:  Rp       46,514,498,200
+  Total Sell: Rp       56,539,868,400
+  Net:        Rp      -10,025,370,200 (NET SELLING)
+  %:                         -9.73%
+
+🏛️  DOMESTIC INSTITUTIONS:
+  Total Buy:  Rp       89,927,508,300
+  Total Sell: Rp       79,902,138,100
+  Net:        Rp       10,025,370,200 (NET BUYING)
+  %:                          5.90%
+
+======================================================================================================================================================
+🎯 CONTRARIAN VERDICT
+======================================================================================================================================================
+
+🟢 HEALTHY: Foreign exiting, domestic supporting → Distribution phase
+
+Information Asymmetry Detected:
+  • Foreigners have exit signal (likely macro/capital flow driven)
+  • Domestics stepping in (likely retail FOMO or yield chasing)
+  • This is classic distribution: smart money exiting to retail
+  • Short-term: Domestic support keeps market up
+  • Long-term: Expect reversal when domestic runs out of cash
+
+======================================================================================================================================================
+🚀 HIGHEST POTENTIAL STOCKS (Consensus + Price Validation)
+======================================================================================================================================================
+
+📊 CONSENSUS ACCUMULATION: Stocks both foreign AND domestic institutions are buying
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Stock    Company                             Foreign            Domestic           Total Net          Price           Perf       Score   
+------------------------------------------------------------------------------------------------------------------------------------------------------
+⚠️  No consensus buying detected in this period
+
+
+📊 CONTRARIAN OPPORTUNITY: Stocks with informed buying despite retail indifference
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Stock    Company                             Foreign            Domestic           Signal                         Price           Perf      
+------------------------------------------------------------------------------------------------------------------------------------------------------
+MBMA     Merdeka Battery Materials Tbk.      Rp      245,448,100 Rp     -245,448,100 Smart money vs retail skepticism Rp      780     📈  +1.30% 
+BBRI     Bank Rakyat Indonesia (Persero) T   Rp      228,149,500 Rp     -228,149,500 Smart money vs retail skepticism Rp    3,820     📈  +2.69% 
+VKTR     VKTR Teknologi Mobilitas Tbk.       Rp      149,068,100 Rp     -149,068,100 Smart money vs retail skepticism Rp    1,220     📈 +21.39% 
+BRMS     Bumi Resources Minerals Tbk.        Rp      118,566,700 Rp     -118,566,700 Smart money vs retail skepticism Rp    1,265     📈  +1.20% 
+ADRO     Alamtri Resources Indonesia Tbk.    Rp      118,129,800 Rp     -118,129,800 Smart money vs retail skepticism Rp    2,260     📈  +1.35% 
+
+
+📊 PRICE VALIDATORS: Stocks with positive price movement + institutional accumulation
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Stock    Company                             Accum.             Price Chg       3-Day Trend          Volume            
+------------------------------------------------------------------------------------------------------------------------------------------------------
+BELL     Trisula Textile Industries Tbk.     🟢 Rp       5,956,300 +142.68%        ↗️ Rising                 515,513,960
+NATO     Surya Permata Andalan Tbk.          🟢 Rp       3,157,500 +120.93%        ↗️ Rising                  11,964,500
+ESTI     Ever Shine Tex Tbk.                 🟢 Rp         309,200 +102.84%        ↗️ Rising                 141,455,260
+ZATA     Bersama Zatta Jaya Tbk.             🟢 Rp      12,662,600 +91.67%         ↘️ Falling              1,220,037,880
+VISI     Satu Visi Putra Tbk.                🟢 Rp         743,300 +79.07%         ↘️ Falling                  5,295,840
+RLCO     Abadi Lestari Indonesia Tbk.        🟢 Rp       4,702,600 +72.28%         ↘️ Falling                 19,205,380
+ELIT     Data Sinergitama Jaya Tbk.          🟢 Rp      30,790,200 +71.68%         ↗️ Rising                 109,211,700
+RMKO     Royaltama Mulia Kontraktorindo Tb   🟢 Rp         287,500 +64.44%         ↗️ Rising                  19,844,720
+AIMS     Artha Mahiya Investama Tbk.         🟢 Rp         405,500 +59.76%         ↗️ Rising                   3,875,240
+ROCK     Rockfields Properti Indonesia Tbk   🟢 Rp           4,000 +55.62%         ↘️ Falling                    215,800
+
+======================================================================================================================================================
+💡 TRADING IMPLICATIONS
+======================================================================================================================================================
+
+1. SAFEST ENTRY: Consensus accumulation (both buying)
+   → Institutions aligned = lower risk
+   → Domestic strength + foreign support = stable
+   
+2. CONTRARIAN PLAYS: Foreign buying vs retail selling
+   → Institutions sees opportunity retail misses
+   → Requires conviction and patience
+   → Watch volume: must confirm (volume following price)
+   
+3. VALIDATORS: Positive price + institutional accumulation
+   → Price rise + accumulation = trend continuation likely
+   → Watch for rejection/reversal candles = exit signal
+   
+4. DANGER ZONE: Foreign selling + domestic buying
+   → Smart money knows something retail doesn't
+   → High risk of snapback when domestic runs out of buying
+   → Best for 1-2 day swing, not 5-day holds
+
+
+======================================================================================================================================================

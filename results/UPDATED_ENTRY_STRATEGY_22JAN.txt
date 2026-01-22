@@ -1,0 +1,201 @@
+================================================================================
+UPDATED ENTRY STRATEGY - Real-Time Prices (22 Jan 2026)
+================================================================================
+
+PRICE UPDATE:
+Previous Close (21 Jan): MBMA 780, VKTR 1,220
+Current (22 Jan):        MBMA 810, VKTR 1,190
+
+Movement Summary:
+├─ MBMA: +30 IDR (+3.8%) ✅ Momentum accelerating
+├─ VKTR: -30 IDR (-2.5%) ⚠️ Consolidating after +21% run
+└─ Interpretation: MBMA gaining conviction, VKTR taking breather
+
+================================================================================
+REVISED ALLOCATION WITH UPDATED PRICES
+================================================================================
+
+Assumption: BUMI proceeds = 4,800,000 IDR
+
+OPTION A: BUY TODAY AT MARKET PRICES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Allocation: 60% VKTR + 40% MBMA
+
+VKTR Purchase:
+├─ Amount: 60% × 4,800,000 = 2,880,000 IDR
+├─ Price: 1,190 IDR (current)
+├─ Shares: 2,420 shares
+├─ Entry Status: Good entry after -2.5% pullback from 1,220
+
+MBMA Purchase:
+├─ Amount: 40% × 4,800,000 = 1,920,000 IDR
+├─ Price: 810 IDR (current)
+├─ Shares: 2,370 shares
+├─ Entry Status: Excellent entry - momentum accelerating
+
+Total Cost: 4,800,000 IDR
+├─ VKTR Position: 2,420 × 1,190 = 2,880,000 ✓
+└─ MBMA Position: 2,370 × 810 = 1,920,000 ✓
+
+RECOMMENDATION: ✅ BUY TODAY
+Reason: MBMA momentum accelerating (up 3.8%), VKTR pullback healthy (down 2.5% 
+after +21% run). This is a cleaner entry point than yesterday's close.
+
+
+OPTION B: WAIT FOR VKTR DIPS (If patient)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Wait Level 1: VKTR dips to 1,150-1,160
+├─ Entry: This range gives you +3.3% better entry vs 1,190
+├─ Timeframe: Could happen within 1-2 trading days
+└─ Risk: VKTR might rally to 1,250+ before dipping (miss opportunity)
+
+Action if Dip Occurs:
+├─ Buy VKTR: 2,420 shares @ 1,155 = 2,795,000 IDR (saves 85,000)
+├─ Buy MBMA: 2,370 shares @ 810 = 1,920,000 IDR (buy today)
+└─ Extra Capital: 85,000 IDR to add more shares
+
+Wait Level 2: VKTR dips to 1,100 (unlikely but possible)
+├─ Would only happen if market corrects >3% (low probability)
+└─ Recommendation: Don't wait for this
+
+
+OPTION C: SCALE IN (Best for risk management)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Day 1 (Today, Jan 22):
+├─ Buy 50% of allocation: 2,400,000 IDR
+│  ├─ VKTR: 1,200 shares @ 1,190 = 1,428,000
+│  └─ MBMA: 1,185 shares @ 810 = 960,000
+└─ Cash remaining: 2,400,000 IDR
+
+Day 2-3 (Jan 23-24):
+├─ Monitor price action
+├─ If VKTR rallies to 1,250+: Don't chase, buy MBMA instead
+├─ If VKTR dips to 1,100-1,150: Increase VKTR allocation
+└─ Buy remaining 2,400,000 IDR based on support levels
+
+This reduces risk of buying at the worst time.
+
+
+================================================================================
+WHAT THE PRICE MOVES TELL US
+================================================================================
+
+MBMA Up 3.8% → GOOD SIGNS:
+✅ Foreign institutional accumulation is ACCELERATING
+✅ Domestic skepticism decreasing (they're buying too)
+✅ Sector momentum (battery materials) intact
+✅ This is early stage of institutional mega-trend
+Interpretation: MBMA is transitioning from "smart money accumulation" phase 
+to "broader acceptance" phase. Could accelerate faster in next 5-10 days.
+
+VKTR Down 2.5% → EXPECTED & HEALTHY:
+⚠️ Normal pullback after +21% run (profit-taking by early buyers)
+✅ Doesn't break fundamental story (EV trend still intact)
+✅ Gives better entry for new buyers like you
+✅ Volume should tell us if this is healthy consolidation or selling
+Interpretation: Classic technical pattern. After big moves, pullbacks are 
+healthy. This gives you better risk-reward entry.
+
+
+================================================================================
+MY FINAL RECOMMENDATION
+================================================================================
+
+BEST MOVE: Buy TODAY in this order:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PRIORITY 1: Buy MBMA NOW @ 810
+├─ Reason: Momentum accelerating, lowest valuation
+├─ Amount: 1,920,000 IDR (2,370 shares)
+├─ Target: 1,000 IDR (+23%)
+├─ Stop Loss: 700 IDR (-13%)
+└─ Time Frame: 4-8 weeks
+
+PRIORITY 2: Buy VKTR on dips only
+├─ If trading above 1,200: Wait for pullback to 1,150-1,180
+├─ If trading at 1,150-1,180: Buy immediately
+├─ Amount: 2,880,000 IDR (2,420 shares at average 1,190)
+├─ Target: 1,600 IDR (+35% from 1,190)
+├─ Stop Loss: 1,050 IDR (-12%)
+└─ Time Frame: 2-4 weeks
+
+Rationale:
+1. MBMA at 810 = too good to wait (only +3.8% from yesterday)
+2. VKTR at 1,190 = slightly extended after +21% run, dip is likely
+3. You'll get better VKTR average price by waiting 1-2 days
+4. MBMA momentum should continue (foreign accumulation still in early phase)
+
+
+POSITION STRUCTURE:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Day 1 Purchase (Today):
+├─ MBMA: 2,370 shares @ 810 = 1,920,000 IDR
+└─ VKTR: Wait or buy 50% if urgent
+
+Day 2-3 Purchase (After VKTR consolidation):
+├─ VKTR: 2,420 shares @ 1,150-1,190 = 2,880,000 IDR
+└─ Adjust if market moves significantly
+
+Projected Portfolio:
+├─ MBMA: 2,370 shares (40% weight)
+├─ VKTR: 2,420 shares (60% weight)
+└─ Total: 4,800,000 IDR deployed
+
+
+================================================================================
+TRAILING PROFIT TARGETS
+================================================================================
+
+Short-term (2-4 weeks):
+├─ VKTR: 1,600 IDR (Entry 1,190 → Target +35%)
+├─ MBMA: 900 IDR (Entry 810 → Target +11%)
+└─ Combined gain: ~20-22% portfolio return
+
+Medium-term (4-8 weeks):
+├─ VKTR: 1,450 IDR (Entry 1,190 → Target +22%)
+├─ MBMA: 1,000 IDR (Entry 810 → Target +23%)
+└─ Combined gain: ~22-23% portfolio return
+
+Why these targets?
+- VKTR: EV trend + foreign accumulation = 30-40% annual upside possible
+- MBMA: Battery materials secular growth + valuation = 25-35% annual upside
+- Conservative targets allow for profit-taking while maintaining core positions
+
+
+================================================================================
+RISK MANAGEMENT RULES
+================================================================================
+
+Hard Stops:
+├─ VKTR breaks 1,050: EXIT entire position (stop-loss)
+├─ MBMA breaks 700: EXIT entire position (stop-loss)
+└─ If IHSG drops >3% in one day: Reassess macro environment
+
+Profit Taking:
+├─ VKTR hits 1,450: Take 50% profit, let 50% run
+├─ MBMA hits 950: Take 30% profit, let 70% run
+├─ VKTR hits 1,600+: Take remaining profits, reassess
+└─ MBMA hits 1,000+: Take all remaining profits
+
+Position Monitoring:
+├─ Check daily for first week (volatility high)
+├─ Check 2-3x weekly after week 1 (should stabilize)
+├─ Watch foreign flow updates (confirming institutional backing)
+└─ Monitor EV sector news (government policy, company announcements)
+
+================================================================================
+SUMMARY DECISION TREE
+================================================================================
+
+Is MBMA price still 810 or lower? → BUY NOW (1,920,000 IDR)
+Is VKTR price above 1,200? → WAIT 1-2 days for dip
+Is VKTR price at 1,150-1,180? → BUY NOW (2,880,000 IDR)
+Is VKTR price below 1,100? → Investigate reason (may indicate broader selloff)
+
+Expected execution timeline: Complete both buys within 2-3 trading days
+
+================================================================================

@@ -1,0 +1,35 @@
+Strategy 3.4: Low-Volatility Anomaly Filter
+Signal Date: 2026-01-21
+================================================================================
+
+VOLATILITY DISTRIBUTION (All Stocks):
+  Total stocks with 60d volatility: 956
+  Mean volatility: 62.12%
+  Median volatility: 145.37%
+  10th percentile: 9.21%
+  90th percentile: 124.60%
+
+FILTER IMPACT ON MOMENTUM PICKS:
+  Original picks (latest date): 20
+  After low-volatility filter: 10
+  Filtered out: 10 (50.0%)
+
+TOP 10 LOW-VOLATILITY MOMENTUM PICKS:
+--------------------------------------------------------------------------------
+ 1. INDS   | Score:  223.9 | Vol: 145.4% (p95.0) | Price: Rp 745
+ 2. MKAP   | Score:  157.1 | Vol: 134.2% (p93.2) | Price: Rp 910
+ 3. TIRT   | Score:  153.9 | Vol: 83.2% (p68.3) | Price: Rp 424
+ 4. CANI   | Score:  152.0 | Vol: 73.6% (p63.7) | Price: Rp 320
+ 5. RMKO   | Score:  139.2 | Vol: 134.0% (p93.1) | Price: Rp 1,110
+ 6. VISI   | Score:  131.0 | Vol: 118.5% (p88.1) | Price: Rp 462
+ 7. IFSH   | Score:  125.8 | Vol: 127.0% (p90.8) | Price: Rp 2,100
+ 8. EURO   | Score:  106.4 | Vol: 101.4% (p79.3) | Price: Rp 710
+ 9. ENZO   | Score:  104.3 | Vol: 85.7% (p69.7) | Price: Rp 94
+10. MTFN   | Score:   87.5 | Vol: 99.9% (p78.6) | Price: Rp 45
+
+================================================================================
+INTERPRETATION:
+  • Low-volatility stocks tend to have more stable returns
+  • Combining momentum + low volatility = quality momentum
+  • Use this filter to avoid volatile/manipulated stocks
+  • Below-median volatility = safer swing trades

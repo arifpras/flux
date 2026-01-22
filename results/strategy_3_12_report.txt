@@ -1,0 +1,37 @@
+Strategy 3.12: Dual Moving Average Confirmation
+================================================================================
+
+CONCEPT:
+  • Fast MA (10d) > Slow MA (30d) = Bullish trend confirmation
+  • Only enter positions when MA alignment is bullish
+  • Stop-loss at 2% below entry to limit downside
+
+FILTER RESULTS:
+  Total positions (after mean-reversion): 10
+  Bullish MA alignment: 10
+  Filtered out (bearish MA): 0
+  Pass rate: 100.0%
+
+MA-CONFIRMED POSITIONS (Ranked by Mean-Reversion Opportunity):
+--------------------------------------------------------------------------------
+Rank  Ticker  Price     MA10      MA30      MA Dist%    Stop-Loss   Capital(M)  
+--------------------------------------------------------------------------------
+1     IFSH    2,100     1,857     1,161     59.9        2,058       15.4        
+2     MTFN    45        37        24        51.4        44          8.5         
+3     EURO    710       567       379       49.4        696         9.8         
+4     ENZO    94        72        55        30.7        92          9.6         
+5     MKAP    910       641       445       44.1        892         14.1        
+6     TIRT    424       288       172       67.7        416         9.7         
+7     CANI    320       218       142       53.3        314         9.5         
+8     INDS    745       474       309       53.5        730         12.3        
+9     RMKO    1,110     683       427       59.9        1,088       5.9         
+10    VISI    462       302       238       26.9        453         5.3         
+--------------------------------------------------------------------------------
+
+
+================================================================================
+TRADING RULES:
+  ✅ ENTER: Only when MA10 > MA30 (bullish alignment)
+  🛑 STOP-LOSS: Exit if price falls 2% below entry
+  ⏳ WAIT: If MA10 < MA30, wait for crossover before entering
+  📊 MONITOR: Check MA alignment daily; exit if MA10 crosses below MA30

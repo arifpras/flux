@@ -1,0 +1,30 @@
+Flow-augmented momentum/contrarian (long-only) summary
+Coverage stocks: 958
+Sample dates: 2025-12-01 to 2026-01-22
+
+Signal days with counts and next-5d average return (%):
+SourceDate  cs_mean_fwd5d  cs_count  cs_mean_fwd5d_cum
+2025-12-04       1.518412       250           0.015184
+2025-12-11       1.386833       558           0.029263
+2025-12-17      -2.429554       529           0.004257
+2026-01-05       5.843515       527           0.062940
+2026-01-06       4.320884       567           0.108869
+2026-01-07       5.181927       590           0.166330
+2026-01-08       5.525442       640           0.230774
+2026-01-09       4.885499       696           0.290904
+2026-01-12       5.567254       747           0.362772
+2026-01-13       4.068807       754           0.418220
+2026-01-14       2.335742       753           0.451346
+
+Overall stats:
+Total signal days: 11
+Mean daily next-5d: 3.47%
+Median daily next-5d: 4.32%
+Cumulative (compounded): 45.13%
+
+How to read this:
+- Each signal day count is how many tickers met the pullback/momentum + flow regime filters that day.
+- cs_mean_fwd5d is the average forward 5-day return of all signaled names on that day (not a PnL curve).
+- cs_mean_fwd5d_cum is a compounded curve of those daily averages; it is not a tradeable equity curve.
+- Use results/flow_augmented_momentum_picks.csv for the top-ranked tickers per day (signal_score).
+- Broker flow here is market-level and undirected; no split by institutional vs retail or foreign vs domestic is available in the input.

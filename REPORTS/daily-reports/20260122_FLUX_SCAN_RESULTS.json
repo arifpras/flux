@@ -1,0 +1,120 @@
+{
+  "scan_date": "2026-01-22",
+  "total_stocks_scanned": 8,
+  "strong_buy_count": 0,
+  "buy_count": 1,
+  "results": [
+    {
+      "stock": "ASII",
+      "score": 70,
+      "passed": true,
+      "recommendation": "\ud83d\udfe2 BUY - Good signal, proceed carefully",
+      "checks": {
+        "broker_concentration": true,
+        "fundamentals": true,
+        "technical_reversal": true,
+        "volume_confirmation": false,
+        "sector_momentum": true,
+        "vwap_entry": false
+      }
+    },
+    {
+      "stock": "ADRO",
+      "score": 60,
+      "passed": false,
+      "recommendation": "\u26a0\ufe0f SKIP - No technical reversal",
+      "checks": {
+        "broker_concentration": true,
+        "fundamentals": true,
+        "technical_reversal": false,
+        "volume_confirmation": true,
+        "sector_momentum": true,
+        "vwap_entry": false
+      }
+    },
+    {
+      "stock": "AALI",
+      "score": 25,
+      "passed": false,
+      "recommendation": "\u26a0\ufe0f SKIP - Weak fundamentals",
+      "checks": {
+        "broker_concentration": false,
+        "fundamentals": false,
+        "technical_reversal": true,
+        "volume_confirmation": false,
+        "sector_momentum": false,
+        "vwap_entry": false
+      }
+    },
+    {
+      "stock": "BMTR",
+      "score": 0,
+      "passed": false,
+      "recommendation": "\u26a0\ufe0f SKIP - No technical reversal",
+      "checks": {
+        "broker_concentration": false,
+        "fundamentals": false,
+        "technical_reversal": false,
+        "volume_confirmation": false,
+        "sector_momentum": false,
+        "vwap_entry": false
+      }
+    },
+    {
+      "stock": "BSIM",
+      "score": 0,
+      "passed": false,
+      "recommendation": "\u26a0\ufe0f SKIP - No technical reversal",
+      "checks": {
+        "broker_concentration": false,
+        "fundamentals": false,
+        "technical_reversal": false,
+        "volume_confirmation": false,
+        "sector_momentum": false,
+        "vwap_entry": false
+      }
+    },
+    {
+      "stock": "BNBR",
+      "score": 0,
+      "passed": false,
+      "recommendation": "\u26a0\ufe0f SKIP - No technical reversal",
+      "checks": {
+        "broker_concentration": false,
+        "fundamentals": false,
+        "technical_reversal": false,
+        "volume_confirmation": false,
+        "sector_momentum": false,
+        "vwap_entry": false
+      }
+    },
+    {
+      "stock": "BOAT",
+      "score": 0,
+      "passed": false,
+      "recommendation": "\u26a0\ufe0f SKIP - No technical reversal",
+      "checks": {
+        "broker_concentration": false,
+        "fundamentals": false,
+        "technical_reversal": false,
+        "volume_confirmation": false,
+        "sector_momentum": false,
+        "vwap_entry": false
+      }
+    },
+    {
+      "stock": "BCIP",
+      "score": 0,
+      "passed": false,
+      "recommendation": "\u26a0\ufe0f SKIP - No technical reversal",
+      "checks": {
+        "broker_concentration": false,
+        "fundamentals": false,
+        "technical_reversal": false,
+        "volume_confirmation": false,
+        "sector_momentum": false,
+        "vwap_entry": false
+      }
+    }
+  ]
+}

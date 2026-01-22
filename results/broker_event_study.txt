@@ -1,0 +1,18 @@
+Broker dominance event study (market-level, direction-agnostic)
+Filters: top1_share >= 0.195, total_value_z >= -0.3
+Interpretation: dominance events are days where one broker controls much of the flow; we check the next-day market response. Positive mean/median return and hit-rate >50% hint at short-term bullish follow-through; volume ratio >1.0 suggests elevated activity.
+Caveats: data lacks buy vs sell direction, so signals are unsigned; sample size may be small.
+Events: 6
+Mean next-day market return: 0.273%
+Median next-day market return: 0.476%
+Hit-rate (next-day > 0): 66.7%
+Mean next-day volume ratio (vs 20d avg): 1.070x
+
+Recent events (latest 10):
+      Date  top1_share  top3_share  hhi_vol  fwd_ret1_pct  mkt_vol_ratio_fwd1
+2025-12-17    0.283532    0.462638 0.110441     -0.079185            0.700386
+2026-01-07    0.197964    0.375293 0.075371      0.415264            1.060786
+2026-01-08    0.210633    0.390356 0.077097      1.032088            1.073882
+2026-01-12    0.209630    0.399540 0.078087      0.538071            1.131732
+2026-01-19    0.213968    0.456984 0.096591      0.536129            1.291820
+2026-01-20    0.224043    0.375587 0.080372     -0.806312            1.163351

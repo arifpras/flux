@@ -1,0 +1,64 @@
+================================================================================
+DAILY TOP 5 STOCK RECOMMENDATIONS FOR SWING TRADING
+Signal Date: 2026-01-21 | Generated: 2026-01-22 13:13
+================================================================================
+
+MARKET CONTEXT:
+  Regime (Cluster 2): High concentration (dominant broker activity, elevated risk/opportunity)
+  Top-1 Broker Share: 21.8% | HHI: 0.0790
+  Dominance Event: YES (Bullish bias for next day)
+    → Top-1 share 21.8% ≥ threshold 19.5%, value z-score 0.55
+
+TOP 5 RECOMMENDATIONS (Ranked by Final Score):
+--------------------------------------------------------------------------------
+
+1. RLCO — Rp 8,700
+   Signal Score: 271.8 | Final Score: 155.19
+   Momentum: 3d=43.8%, 10d=271.8%
+   Liquidity: Avg Vol=22.0M shares, Avg Value=80.31B IDR
+   Latest: Vol=0.0M shares, Value=0.00B IDR
+   🔥 Strong short-term momentum (3d: 43.8%) - already extended, consider pullback entry
+
+2. BELL — Rp 199
+   Signal Score: 184.3 | Final Score: 111.02
+   Momentum: 3d=80.9%, 10d=184.3%
+   Liquidity: Avg Vol=147.7M shares, Avg Value=20.08B IDR
+   Latest: Vol=1358.6M shares, Value=239.57B IDR
+   🔥 Strong short-term momentum (3d: 80.9%) - already extended, consider pullback entry
+
+3. KOCI — Rp 260
+   Signal Score: 168.0 | Final Score: 53.06
+   Momentum: 3d=0.0%, 10d=168.0%
+   Liquidity: Avg Vol=73.1M shares, Avg Value=12.74B IDR
+   Latest: Vol=0.0M shares, Value=0.00B IDR
+   ✅ Balanced momentum - early stage breakout candidate
+
+4. MTFN — Rp 45
+   Signal Score: 87.5 | Final Score: 46.59
+   Momentum: 3d=7.1%, 10d=87.5%
+   Liquidity: Avg Vol=154.6M shares, Avg Value=5.21B IDR
+   Latest: Vol=277.4M shares, Value=13.37B IDR
+   ✅ Balanced momentum - early stage breakout candidate
+
+5. ESTI — Rp 286
+   Signal Score: 150.9 | Final Score: 27.78
+   Momentum: 3d=50.5%, 10d=150.9%
+   Liquidity: Avg Vol=41.1M shares, Avg Value=8.24B IDR
+   Latest: Vol=155.4M shares, Value=42.25B IDR
+   🔥 Strong short-term momentum (3d: 50.5%) - already extended, consider pullback entry
+
+--------------------------------------------------------------------------------
+TRADING GUIDELINES:
+  • Entry: Consider limit orders near current close or wait for intraday pullback
+  • Position Size: Scale by liquidity (higher avg volume = safer for larger positions)
+  • Stop-Loss: Set 2-3% below entry or below recent swing low
+  • Target: 5-10% gain within 1-5 days (swing trade horizon)
+  • Risk: If market regime is Cluster 1 (low flow), reduce position sizes by 50%
+  • Event Bias: Dominance detected → lean bullish for next-day follow-through
+
+LIQUIDITY FILTERS APPLIED:
+  • Min Avg Volume: 1.0M shares (20-day average)
+  • Min Avg Value: 1.0B IDR (20-day average)
+  • Stocks excluded: Illiquid tickers with low trading activity
+
+================================================================================

@@ -1,4 +1,14 @@
+import os
+from datetime import datetime
+from pathlib import Path
 import pandas as pd
+
+# Configuration: accumulation calculation mode
+# - 'positive_sum': sum of positive foreign and domestic nets (default)
+# - 'foreign_only': use only positive foreign net
+# - 'true_total': foreign net + domestic net (requires real domestic data)
+ACCUMULATION_MODE = os.environ.get('ACCUMULATION_MODE', 'positive_sum')
+DOMESTIC_FLOWS_FILE = os.environ.get('DOMESTIC_FLOWS_FILE', 'data/manual/domestic_flows_5d.csv')
 
 df = pd.read_csv("data/histories/ringkasan_histories_combined.csv")
 
@@ -39,10 +49,58 @@ stocks['Price_Change_Pct'] = (stocks['Price_Change'] / stocks['Price_Start'] * 1
 stocks['Net_Foreign'] = stocks['Foreign_Buy'] - stocks['Foreign_Sell']
 
 # Calculate domestic as total - foreign
-stocks['Domestic_Buy'] = (stocks['Total_Volume'] * 0.5) - stocks['Foreign_Buy']
-stocks['Domestic_Sell'] = (stocks['Total_Volume'] * 0.5) - stocks['Foreign_Sell']
-stocks['Net_Domestic'] = stocks['Domestic_Buy'] - stocks['Domestic_Sell']
+domestic_source = 'synthetic'
+try:
+    manual_path = Path(DOMESTIC_FLOWS_FILE)
+    if manual_path.exists():
+        dom_df = pd.read_csv(manual_path)
+        # Normalize columns
+        if 'SourceDate' in dom_df.columns:
+            dom_df['SourceDate'] = pd.to_datetime(dom_df['SourceDate'])
+            dom_df = dom_df[dom_df['SourceDate'].isin(dates)]
+        # Support either 'Kode Saham' or 'Stock'
+        if 'Kode Saham' in dom_df.columns and 'Stock' not in dom_df.columns:
+            dom_df = dom_df.rename(columns={'Kode Saham': 'Stock'})
+        # Aggregate if needed
+        group_cols = ['Stock']
+        sum_cols = []
+        if 'Domestic Buy' in dom_df.columns:
+            sum_cols.append('Domestic Buy')
+        if 'Domestic Sell' in dom_df.columns:
+            sum_cols.append('Domestic Sell')
+        if len(sum_cols) >= 2:
+            dom_agg = dom_df.groupby(group_cols)[sum_cols].sum().reset_index()
+            # Merge into stocks
+            stocks = stocks.merge(dom_agg, on='Stock', how='left')
+            stocks['Domestic_Buy'] = stocks['Domestic_Buy'].fillna(0)
+            stocks['Domestic_Sell'] = stocks['Domestic_Sell'].fillna(0)
+            stocks['Net_Domestic'] = stocks['Domestic_Buy'] - stocks['Domestic_Sell']
+            domestic_source = 'manual'
+        else:
+            # Fallback to synthetic if required columns missing
+            stocks['Domestic_Buy'] = (stocks['Total_Volume'] * 0.5) - stocks['Foreign_Buy']
+            stocks['Domestic_Sell'] = (stocks['Total_Volume'] * 0.5) - stocks['Foreign_Sell']
+            stocks['Net_Domestic'] = stocks['Domestic_Buy'] - stocks['Domestic_Sell']
+    else:
+        # Synthetic inference
+        stocks['Domestic_Buy'] = (stocks['Total_Volume'] * 0.5) - stocks['Foreign_Buy']
+        stocks['Domestic_Sell'] = (stocks['Total_Volume'] * 0.5) - stocks['Foreign_Sell']
+        stocks['Net_Domestic'] = stocks['Domestic_Buy'] - stocks['Domestic_Sell']
+except Exception:
+    # Safe fallback
+    stocks['Domestic_Buy'] = (stocks['Total_Volume'] * 0.5) - stocks['Foreign_Buy']
+    stocks['Domestic_Sell'] = (stocks['Total_Volume'] * 0.5) - stocks['Foreign_Sell']
+    stocks['Net_Domestic'] = stocks['Domestic_Buy'] - stocks['Domestic_Sell']
+
 stocks['Divergence'] = abs(stocks['Net_Foreign'] - stocks['Net_Domestic'])
+
+# Report meta section (timestamp + configuration)
+print("\n" + "=" * 150)
+print("🕒 REPORT META")
+print("=" * 150)
+print(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} (local)")
+print(f"Accumulation Mode: {ACCUMULATION_MODE}")
+print(f"Domestic Source: {domestic_source}")
 
 print("\n📊 TRADING DAYS IN PERIOD")
 print("-" * 150)
@@ -213,7 +271,13 @@ price_validated = stocks[(stocks['Price_Change_Pct'] > 0) & ((stocks['Net_Foreig
 
 if len(price_validated) > 0:
     for idx, row in price_validated.head(10).iterrows():
-        total_accum = row['Net_Foreign'] + row['Net_Domestic']
+        # Choose accumulation calculation based on mode
+        if ACCUMULATION_MODE == 'foreign_only':
+            total_accum = max(row['Net_Foreign'], 0)
+        elif ACCUMULATION_MODE == 'true_total':
+            total_accum = row['Net_Foreign'] + row['Net_Domestic']
+        else:  # positive_sum (default)
+            total_accum = max(row['Net_Foreign'], 0) + max(row['Net_Domestic'], 0)
         accum_signal = "🟢" if total_accum > 0 else "🔴"
         
         # Get volume info

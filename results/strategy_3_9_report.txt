@@ -1,0 +1,48 @@
+Strategy 3.9: Cluster Mean-Reversion (Long-Only)
+================================================================================
+
+CONCEPT:
+  • Stocks in same cluster (momentum picks) should move together
+  • Divergence from cluster mean creates opportunity
+  • BUY underperformers (below mean) expecting catch-up
+  • REDUCE outperformers (above mean) expecting mean-reversion
+
+CLUSTER STATISTICS:
+  Cluster size: 10 stocks
+  Cluster mean return (5d): 46.82%
+  Best performer: 81.89%
+  Worst performer: 0.00%
+  Range (max - min): 81.89%
+
+POSITION SIZING (Total Capital: Rp 100M):
+--------------------------------------------------------------------------------
+Rank  Ticker  Price     5d Ret%   Demeaned%   MR Weight   Capital(M)  Shares    
+--------------------------------------------------------------------------------
+1     IFSH    2,100     0.0       -46.8       1.50        15.4        7,320     
+2     MTFN    45        25.0      -21.8       1.19        8.5         189,250   
+3     EURO    710       30.3      -16.5       1.13        9.8         13,798    
+4     ENZO    94        30.6      -16.3       1.13        9.6         101,907   
+5     MKAP    910       32.8      -14.0       1.10        14.1        15,451    
+6     TIRT    424       59.4      12.6        0.77        9.7         22,905    
+7     CANI    320       60.0      13.2        0.77        9.5         29,685    
+8     INDS    745       67.8      21.0        0.67        12.3        16,457    
+9     RMKO    1,110     80.5      33.7        0.52        5.9         5,283     
+10    VISI    462       81.9      35.1        0.50        5.3         11,549    
+--------------------------------------------------------------------------------
+
+TOP 3 MEAN-REVERSION OPPORTUNITIES (Most Underperforming):
+  1. IFSH   | Ret:   0.0% (Cluster mean: 46.8%) | Deviation: -46.8% → OVERWEIGHT
+  2. MTFN   | Ret:  25.0% (Cluster mean: 46.8%) | Deviation: -21.8% → OVERWEIGHT
+  3. EURO   | Ret:  30.3% (Cluster mean: 46.8%) | Deviation: -16.5% → OVERWEIGHT
+
+BOTTOM 3 (Most Overperforming → Reduce Exposure):
+  3. INDS   | Ret:  67.8% (Cluster mean: 46.8%) | Deviation: +21.0% → UNDERWEIGHT
+  2. RMKO   | Ret:  80.5% (Cluster mean: 46.8%) | Deviation: +33.7% → UNDERWEIGHT
+  1. VISI   | Ret:  81.9% (Cluster mean: 46.8%) | Deviation: +35.1% → UNDERWEIGHT
+
+================================================================================
+IMPLEMENTATION:
+  • Use 'Capital(M)' column for position sizing
+  • Rebalance daily as returns converge/diverge
+  • Mean-reversion works best in stable regimes (Cluster 0)
+  • Avoid during high volatility or regime shifts

@@ -1,0 +1,40 @@
+Foreign Accumulation Pre-Filter (Applied to Momentum Picks)
+================================================================================
+
+OBJECTIVE:
+  Filter momentum signals to only stocks with foreign institutional interest
+
+PATTERNS:
+  Buy-the-Dip: Foreign buying + Price declined today (contrarian)
+  Momentum: Foreign buying + 5-day uptrend (following strength)
+  Both: Best of both worlds (buy dips in uptrending stocks)
+
+FILTER STATS:
+  Momentum picks (latest date): 20
+  Stocks with foreign accumulation (>500K): 246
+  Overlap (foreign + momentum): 4
+  Filter pass rate: 20.0%
+
+PATTERN DISTRIBUTION:
+  Momentum Confirmation: 4 stocks
+
+TOP 10 FOREIGN-BACKED MOMENTUM PICKS:
+--------------------------------------------------------------------------------
+Rank  Ticker  Price     Pattern                     Foreign(M)  1d%       5d%       
+--------------------------------------------------------------------------------
+1     RLCO    8,700     Momentum Confirmation       4.8         0.00      103.75    
+2     BELL    199       Momentum Confirmation       6.6         34.46     161.84    
+3     HOPE    356       Momentum Confirmation       10.5        0.00      54.78     
+4     BAIK    264       Momentum Confirmation       1.2         0.00      54.39     
+--------------------------------------------------------------------------------
+
+🚀 MOMENTUM CONFIRMATION (4 stocks):
+    RLCO   | Foreign:   4.8M | 5d: +103.75% | Score: 271.8
+    BELL   | Foreign:   6.6M | 5d: +161.84% | Score: 184.3
+    HOPE   | Foreign:  10.5M | 5d: +54.78% | Score: 92.4
+
+================================================================================
+NEXT STEPS:
+  1. Run low-volatility filter on these foreign-backed picks
+  2. Apply mean-reversion and MA filters
+  3. Use KNN ML for final ranking

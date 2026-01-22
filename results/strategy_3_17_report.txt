@@ -1,0 +1,48 @@
+Strategy 3.17: KNN Machine Learning Predictions
+================================================================================
+
+MODEL OVERVIEW:
+  Algorithm: k-Nearest Neighbors Regression (k=5)
+  Features: 3d/5d/10d MA(price), 3d/5d/10d MA(volume), 5d returns, 5d volatility
+  Target: Next-day return (%)
+  Train/Test Split: 70% / 30%
+
+AVERAGE MODEL PERFORMANCE:
+  Mean Absolute Error: 7.88%
+  R² Score: -26.570
+  Direction Accuracy: 70.0%
+
+NEXT-DAY RETURN PREDICTIONS (Ranked by Predicted Return):
+--------------------------------------------------------------------------------
+Rank  Ticker  Price     Pred Ret%   Pred Price  Dir Acc%    Capital(M)  
+--------------------------------------------------------------------------------
+1     IFSH    2,100     13.02       2,373       14.3        15.4        
+2     TIRT    424       11.46       472         100.0       9.7         
+3     MKAP    910       8.69        989         42.9        14.1        
+4     CANI    320       5.92        338         100.0       9.5         
+5     MTFN    45        5.40        47          85.7        8.5         
+6     INDS    745       4.88        781         71.4        12.3        
+7     EURO    710       2.31        726         71.4        9.8         
+8     RMKO    1,110     2.22        1,134       100.0       5.9         
+9     ENZO    94        1.88        95          85.7        9.6         
+10    VISI    462       -0.96       457         28.6        5.3         
+--------------------------------------------------------------------------------
+
+RECOMMENDED ACTIONS:
+
+✅ BUY (9 stocks with positive predicted return):
+  1. IFSH   | Pred: +13.02% | Allocate: Rp 15.4M | Stop: 2,058
+  2. TIRT   | Pred: +11.46% | Allocate: Rp 9.7M | Stop: 416
+  3. MKAP   | Pred: +8.69% | Allocate: Rp 14.1M | Stop: 892
+  4. CANI   | Pred: +5.92% | Allocate: Rp 9.5M | Stop: 314
+  5. MTFN   | Pred: +5.40% | Allocate: Rp 8.5M | Stop: 44
+
+⏸️  WAIT (1 stocks with negative/zero predicted return):
+  VISI   | Pred: -0.96% → SKIP
+
+================================================================================
+INTERPRETATION:
+  • Positive predicted return → ML model expects price increase tomorrow
+  • Direction accuracy shows historical success rate of up/down calls
+  • Higher direction accuracy (>55%) = more reliable predictions
+  • Use predictions as confirmation for mean-reversion + MA signals

@@ -1,0 +1,124 @@
+================================================================================
+WORKSPACE ORGANIZATION SUMMARY - 22 January 2026
+================================================================================
+
+✅ ROOT DIRECTORY CLEANUP COMPLETED
+
+Previous State: 35+ dated analysis files cluttering root directory
+Current State:  Clean root with only essential documentation files
+
+================================================================================
+CURRENT ROOT DIRECTORY STRUCTURE
+================================================================================
+
+Documentation (Kept in Root):
+├── README.md              - Main project documentation
+├── GITHUB_SETUP.md        - Git configuration guide
+└── README_old.md          - Legacy documentation
+
+Core Directories:
+├── archive/               - Dated analysis files (NEW)
+├── artifacts/             - Build outputs and exports
+├── data/                  - All data sources
+├── docs/                  - Project documentation
+├── REPORTS/               - Analysis reports
+├── results/               - Analysis output files
+├── scripts/               - Organized analysis scripts
+└── wavelet_analysis/      - Wavelet transformation analysis
+
+================================================================================
+ARCHIVE STRUCTURE (NEW)
+================================================================================
+
+archive/analysis_20260120/ (7 files)
+├── 20260120_analyze_20jan_prices.py
+├── 20260120_combine_ringkasan_data.py
+├── 20260120_filter_declining_foreign_buy.py
+├── 20260120_find_foreign_buy.py
+├── 20260120_tmp_adro_calc.py
+├── 20260120_tmp_analyze.py
+└── 20260120_tmp_asii_calc.py
+
+archive/analysis_20260121/ (12 files)
+├── 20260121_analysis_output.txt
+├── 20260121_append_broker_data.py
+├── 20260121_check_realtime_prices.py
+├── 20260121_combine_broker_xlsx.py
+├── 20260121_compile_broker_summary.py
+├── 20260121_contrarian_broker_analysis.py
+├── 20260121_detailed_flows_output.txt
+├── 20260121_detailed_institutional_flows.py
+├── 20260121_integrated_analysis.py
+├── 20260121_integrated_analysis_output.txt
+├── 20260121_merge_excel_to_csv.py
+└── 20260121_simple_flows.py
+
+archive/analysis_20260122/ (12 files)
+├── 20260122_COMPLETE_SWING_SIGNALS_11STOCKS.txt
+├── 20260122_ENHANCED_SIGNALS_CONCISE.txt
+├── 20260122_SWING_SIGNALS_ASII_ADRO_BUMI.md
+├── 20260122_SWING_SIGNALS_REPORT.txt
+├── 20260122_enhanced_swing_analysis.py
+├── 20260122_last_5days_analysis.py
+├── 20260122_last_5days_output.txt
+├── 20260122_swing_analysis_8banks_mining.py
+├── 20260122_swing_analysis_ASII_ADRO_BUMI.py
+├── 20260122_validate_5day_signals.py
+├── 20260122_validate_realtime.sh
+└── 20260122_validate_today_opening.py
+
+Total: 31 files archived and organized by date
+
+================================================================================
+FILE NAMING CONVENTION (MAINTAINED)
+================================================================================
+
+All analysis files follow the pattern:
+YYYYMMDD_<descriptive_name>.<ext>
+
+Examples:
+├── 20260122_last_5days_analysis.py       - Python script
+├── 20260122_last_5days_output.txt        - Text output
+├── 20260122_SWING_SIGNALS_REPORT.txt     - Report document
+└── 20260122_validate_realtime.sh         - Shell script
+
+Benefits:
+✅ Chronological sorting
+✅ Easy to identify analysis date
+✅ Clear purpose from filename
+✅ No confusion between different date's analyses
+
+================================================================================
+RECOMMENDATIONS FOR FUTURE
+================================================================================
+
+Daily Workflow:
+1. Create new analysis files with current date prefix: 20260123_*.py
+2. Run analysis and generate outputs
+3. At end of day, move to archive/analysis_YYYYMMDD/
+4. Keep root clean with only active day's work
+
+Weekly Cleanup:
+- Review archive/ folders older than 7 days
+- Move important outputs to results/ directory
+- Delete temporary/test files from archive/
+
+Production Scripts:
+- Keep in scripts/analysis/ directory (permanent location)
+- Only create dated files in root for one-off analyses
+- Document in scripts/README.md
+
+================================================================================
+QUICK ACCESS PATHS
+================================================================================
+
+Latest Analysis:       archive/analysis_20260122/
+Latest Outputs:        results/
+Production Scripts:    scripts/analysis/
+Documentation:         docs/
+Historical Data:       data/histories/
+Broker Data:           data/manual/
+News Cache:            data/news_cache/
+Reports:               REPORTS/
+
+================================================================================

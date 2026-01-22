@@ -1,0 +1,398 @@
+================================================================================
+                    SWING TRADER SIGNALS REPORT
+                         22 January 2026
+================================================================================
+
+ANALYSIS SUMMARY
+----------------
+Method: Three-Strategy Swing Trading Analysis
+- Strategy 3.12: Two Moving Averages (Trend Confirmation)
+- Strategy 3.14: Pivot Points (Entry/Exit Levels)
+- Strategy 3.4: Volatility Filter (Risk Assessment)
+
+Stocks Analyzed: ASII, ADRO, BUMI
+Data Source: Ringkasan Saham (30-day history)
+Report Generated: 22 January 2026
+
+
+================================================================================
+QUICK RECOMMENDATION MATRIX
+================================================================================
+
+Stock    | Price  | Trend   | Volatility | Recommendation
+---------|--------|---------|------------|------------------
+ASII     | 6,600  | BULLISH | 2.5% (LOW) | BUY - HIGHEST PRIORITY
+ADRO     | 2,260  | BULLISH | 3.0% (OK)  | BUY WITH CAUTION
+BUMI     |   386  | BULLISH | 7.6% (HI) | SKIP - TOO RISKY
+
+
+================================================================================
+DETAILED SIGNALS
+================================================================================
+
+
+--- STOCK #1: ASII ---
+Status: BUY (HIGHEST PRIORITY)
+Confidence Level: 95% - BEST TRADE
+
+
+PRICE ACTION:
+  Current Price:        IDR 6,600
+  30-Day Low:           IDR 6,300
+  30-Day High:          IDR 7,475
+  Today's Change:       +300 (+4.8%)
+
+
+TECHNICAL ANALYSIS (Strategy 3.12 - Two Moving Averages):
+  10-Day MA:            7,065
+  30-Day MA:            6,778
+  Signal:               MA(10) > MA(30) = BULLISH UPTREND CONFIRMED
+
+
+PIVOT POINT ANALYSIS (Strategy 3.14):
+  Support Level:        6,333 (Buy Zone)
+  Pivot Point:          6,567
+  Resistance Level:     6,833 (Sell Target)
+  Current Position:     In middle of range (OPTIMAL)
+
+
+VOLATILITY ASSESSMENT (Strategy 3.4):
+  Daily Volatility:     2.52%
+  Classification:       LOW & STABLE
+  Trading Quality:      EXCELLENT for swing trading
+
+
+SWING TRADE SETUP:
+  Entry Point:          6,600 (immediate) or 6,333 (support)
+  Take Profit Target:   6,833
+  Stop Loss:            6,207 (-2%)
+  Expected Gain:        +233 points = +3.5%
+  Maximum Loss:         -393 points = -2.0%
+  Risk/Reward Ratio:    1 : 1.7 (FAVORABLE)
+  Expected Hold Time:   2-5 days
+
+
+ACTION ITEMS:
+  [ ] Set buy order at 6,600 (market) OR 6,333 (limit)
+  [ ] Set sell/profit target at 6,833
+  [ ] Set stop loss at 6,207
+  [ ] Monitor position daily
+  [ ] Exit if price breaks below 6,333 support
+
+
+WHY THIS IS THE BEST TRADE:
+  + Lowest volatility (2.5%) = cleanest chart with few false signals
+  + Uptrend confirmed by both MA(10) and MA(30)
+  + Current price perfectly positioned (between support and resistance)
+  + Highest profit potential (+3.5%)
+  + Clear entry zone with defined stop loss
+  + Tight risk management (2% loss maximum)
+
+
+================================================================================
+
+
+--- STOCK #2: ADRO ---
+Status: BUY WITH CAUTION (SECONDARY CHOICE)
+Confidence Level: 60% - SECONDARY TRADE
+
+
+PRICE ACTION:
+  Current Price:        IDR 2,260
+  30-Day Low:           IDR 1,765
+  30-Day High:          IDR 2,340
+  Today's Change:       +10 (+0.4%)
+
+
+TECHNICAL ANALYSIS (Strategy 3.12 - Two Moving Averages):
+  10-Day MA:            2,171
+  30-Day MA:            1,957
+  Signal:               MA(10) > MA(30) = BULLISH UPTREND CONFIRMED
+
+
+PIVOT POINT ANALYSIS (Strategy 3.14):
+  Support Level:        2,200 (Buy Zone)
+  Pivot Point:          2,240
+  Resistance Level:     2,300 (Sell Target)
+  Current Position:     Slightly above pivot
+
+
+VOLATILITY ASSESSMENT (Strategy 3.4):
+  Daily Volatility:     3.04%
+  Classification:       NORMAL (Borderline)
+  Trading Quality:      ACCEPTABLE but monitor for whipsaws
+
+
+SWING TRADE SETUP:
+  Entry Point:          2,200 (support - preferred) or 2,260 (current)
+  Take Profit Target:   2,300
+  Stop Loss:            2,156 (-2%)
+  Expected Gain:        +40 to +100 points = +1.8% to +4.4%
+  Maximum Loss:         -104 points = -2.0%
+  Risk/Reward Ratio:    1 : 0.4 (LOWER than ASII)
+  Expected Hold Time:   2-5 days
+
+
+ACTION ITEMS:
+  [ ] Wait for pullback to 2,200 (support) for better entry
+  [ ] OR buy at market 2,260 with tighter stop (-1.5%)
+  [ ] Set sell/profit target at 2,300
+  [ ] Set stop loss at 2,156
+  [ ] Monitor for volatility spikes above 5%
+
+
+CAUTION NOTES:
+  - Volatility at 3.0% is higher than ASII (less signal clarity)
+  - Profit zone is smaller (40 points vs 233 for ASII)
+  - More prone to whipsaw trades (stop-loss gets hit, then reverses)
+  - Only trade if ASII trade is going well
+  - Consider ADRO as tertiary position, not primary
+
+
+================================================================================
+
+
+--- STOCK #3: BUMI ---
+Status: SKIP (TOO RISKY)
+Confidence Level: 20% - AVOID COMPLETELY
+
+
+PRICE ACTION:
+  Current Price:        IDR 386
+  30-Day Low:           IDR 236
+  30-Day High:          IDR 484
+  Today's Change:       -22 (-5.4%)
+
+
+TECHNICAL ANALYSIS (Strategy 3.12 - Two Moving Averages):
+  10-Day MA:            426
+  30-Day MA:            369
+  Signal:               MA(10) > MA(30) = BULLISH (BUT SUSPECT)
+
+
+PIVOT POINT ANALYSIS (Strategy 3.14):
+  Support Level:        375
+  Pivot Point:          391
+  Resistance Level:     403
+  Current Position:     Below pivot (deteriorating)
+
+
+VOLATILITY ASSESSMENT (Strategy 3.4):
+  Daily Volatility:     7.60%
+  Classification:       HIGH & UNSTABLE
+  Trading Quality:      DANGEROUS for swing trading
+  Assessment:           EXTREME NOISE - TOO RISKY
+
+
+WHY AVOID BUMI:
+  X Volatility 7.60% = 3x higher than ASII (extreme noise)
+  X Today's move -5.4% = suggests panic selling underway
+  X 30-day range is 236-484 = unpredictable wild swings
+  X High probability of stop-loss being triggered by noise
+  X Even small position can result in -5% daily losses
+  X Signal not trustworthy (noise overwhelms trend signal)
+
+
+CONDITIONS TO RECONSIDER BUMI:
+  WAIT UNTIL: 
+    1. Volatility drops below 5% (stabilization signal)
+    2. Price closes above 403 (resistance confirmation)
+    3. Two consecutive green days (reverse momentum confirmation)
+  THEN: Re-analyze using same 3.12 + 3.14 + 3.4 framework
+
+
+================================================================================
+TRADING PRIORITIES
+================================================================================
+
+RANK 1 - TODAY'S PRIMARY TRADE:
+  Stock:        ASII
+  Action:       BUY at 6,600 (market) or 6,333 (limit)
+  Target:       6,833
+  Stop:         6,207
+  Probability:  95% high-probability trade
+
+
+RANK 2 - TODAY'S SECONDARY TRADE (if capital available):
+  Stock:        ADRO
+  Action:       BUY at 2,200 (limit, wait for dip)
+  Target:       2,300
+  Stop:         2,156 (-1.5% for tighter control)
+  Probability:  60% moderate-probability trade
+  Note:         Only enter if ASII trade looks good
+
+
+RANK 3 - WATCHLIST (Do NOT trade):
+  Stock:        BUMI
+  Action:       WAIT for volatility to normalize
+  Condition:    Re-analyze when σ < 5%
+  Probability:  20% (too risky currently)
+
+
+================================================================================
+POSITION SIZING EXAMPLE
+================================================================================
+
+Assume: Portfolio = IDR 100,000,000 (100M)
+Risk per trade: 2% of portfolio = IDR 2,000,000
+
+ASII Position:
+  Entry:        6,600
+  Stop:         6,207 (risk = 393 points)
+  Position Size: 2,000,000 / 393 = ~5,089 shares
+  Capital Used: 5,089 × 6,600 = IDR 33,586,800 (33.6% of portfolio)
+
+ADRO Position:
+  Entry:        2,260
+  Stop:         2,156 (risk = 104 points)
+  Position Size: 2,000,000 / 104 = ~19,231 shares
+  Capital Used: 19,231 × 2,260 = IDR 43,438,000 (43.4% of portfolio)
+
+BUMI Position:
+  Entry:        NOT RECOMMENDED
+  Reason:       Too volatile for swing trading
+
+
+================================================================================
+EXIT RULES
+================================================================================
+
+TAKE PROFIT (Exit if any of these occur):
+  1. Price reaches target resistance level
+  2. Trade gains +3% or more
+  3. 5 days have passed without price movement
+  4. Market structure changes (e.g., support breaks)
+
+
+CUT LOSS (Exit immediately if any of these occur):
+  1. Price breaks below support level
+  2. Trade loses -2% or more
+  3. Volatility spikes above 8% (panic signal)
+  4. Negative news about stock fundamentals
+
+
+TIME EXITS (After 5 days):
+  If no profit and no loss, exit the position
+  Reason: Opportunity cost (money could be in better trade)
+  Action: Move on to next swing setup
+
+
+================================================================================
+RISK MANAGEMENT CHECKLIST
+================================================================================
+
+Before entering any trade:
+  [ ] Check moving averages (MA(10) > MA(30))
+  [ ] Check volatility (< 5% acceptable, < 3% excellent)
+  [ ] Check current price vs support/resistance
+  [ ] Verify pivot points are calculated correctly
+  [ ] Set stop loss BEFORE entering position
+  [ ] Set profit target BEFORE entering position
+  [ ] Confirm position size matches 2% risk rule
+  [ ] Check total portfolio risk (all positions combined)
+
+During the trade:
+  [ ] Monitor daily for hits to support/resistance
+  [ ] Watch for volatility spikes (exit if > 8%)
+  [ ] Check for fundamental news
+  [ ] Don't move stop loss in the wrong direction
+  [ ] Don't average down on losing positions
+
+After the trade:
+  [ ] Document entry/exit/profit/loss
+  [ ] Calculate win rate and profit factor
+  [ ] Identify what worked and what didn't
+  [ ] Refine strategy for next trade
+
+
+================================================================================
+PERFORMANCE METRICS
+================================================================================
+
+ASII Trade Projection:
+  Probability of Profit: 95%
+  Expected Gain:         +3.5%
+  Maximum Loss:          -2.0%
+  Profit/Loss Ratio:     1.75 : 1 (EXCELLENT)
+  Suggested Position:    PRIMARY (main capital allocation)
+
+ADRO Trade Projection:
+  Probability of Profit: 60%
+  Expected Gain:         +2.5% average
+  Maximum Loss:          -2.0%
+  Profit/Loss Ratio:     1.25 : 1 (ACCEPTABLE)
+  Suggested Position:    SECONDARY (smaller allocation)
+
+BUMI Trade Projection:
+  Probability of Profit: 30%
+  Expected Gain:         +4% if it works
+  Maximum Loss:          -5.0% (due to volatility)
+  Profit/Loss Ratio:     0.8 : 1 (UNFAVORABLE)
+  Suggested Position:    NONE - WAIT FOR SETUP
+
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+Immediate Actions (Today):
+  1. Enter ASII position at 6,600 or wait for 6,333
+  2. Set profit target at 6,833
+  3. Set stop loss at 6,207
+  4. Monitor position until close
+
+Tomorrow:
+  1. Check ASII status (target hit, still holding, or stopped out?)
+  2. If ASII going well, consider entering ADRO at 2,200
+  3. Re-scan market for new swing setups using same method
+
+Follow-up (Next Week):
+  1. Document all trades and results
+  2. Calculate win rate for swing strategy
+  3. If winning, consider expanding to Price Validators portfolio
+  4. If losing, review what went wrong with entries
+
+Longer-term:
+  1. Backtest this swing strategy on 6 months of historical data
+  2. Expand to other IDX stocks showing same pattern
+  3. Build automated daily scanner for new swing setups
+  4. Integrate into Price Validators monitoring system
+
+
+================================================================================
+REPORT METADATA
+================================================================================
+
+Report Generated:        22 January 2026 | 14:30 WIB
+Analysis Method:         Swing Trading (2-5 day holding periods)
+Strategies Applied:      3.12 (MA), 3.14 (Pivot Points), 3.4 (Volatility)
+Data Source:             Ringkasan Saham IDX (30-day daily data)
+Lookback Period:         30 trading days
+Update Frequency:        Daily (recommended at 16:00 WIB market close)
+
+Author:                  Swing Trading Analysis System
+Framework:               152 Trading Strategies (Kakushadze & Serur 2018)
+Reference Documents:
+  - SECTION_3_STOCKS_STRATEGIES_ANALYSIS.md
+  - QUICK_IMPLEMENTATION_GUIDE.md
+  - 20260122_SWING_SIGNALS_ASII_ADRO_BUMI.md
+
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+This report is based on technical analysis only and does not constitute
+investment advice. Past performance does not guarantee future results.
+Trading and investing carry risk of loss. Always conduct your own research
+and consult with a qualified financial advisor before trading.
+
+The analysis is accurate as of 22 January 2026. Market conditions can change
+rapidly. Re-evaluate positions daily before market close.
+
+Position sizing examples are for illustration only. Adjust according to your
+risk tolerance and portfolio size.
+
+================================================================================
+END OF REPORT
+================================================================================

@@ -1,0 +1,26 @@
+Flow regime clusters (k=3) and signal performance
+Days clustered: 32
+
+Cluster centers (z-scored feature space):
+   total_value  total_volume  top1_share  top3_share  hhi_vol  broker_count  mkt_ret_vol20  mkt_vol_ratio
+0         0.60          0.86        0.12        0.26     0.17          0.32           0.80           1.01
+1        -0.52         -0.71       -0.50       -0.56    -0.55          0.32          -0.60          -0.59
+2         0.83          1.06        1.97        1.86     2.07         -2.25           0.70           0.12
+
+Signal performance by cluster (basic pullback/momentum, next-5d %):
+         count   mean  median
+cluster                      
+0.0       3631   5.49    0.83
+
+Recent cluster assignments (latest 10 days):
+      Date  cluster  top1_share  hhi_vol  mkt_ret_vol20  mkt_vol_ratio
+2026-01-06        0    0.184790 0.068635       0.009830       1.407190
+2026-01-07        0    0.197964 0.075371       0.009831       1.427366
+2026-01-08        0    0.210633 0.077097       0.009739       1.060786
+2026-01-09        0    0.184381 0.064717       0.009787       1.073882
+2026-01-12        0    0.209630 0.078087       0.009774       1.473071
+2026-01-13        0    0.176620 0.067255       0.009744       1.131732
+2026-01-14        0    0.161165 0.066871       0.009971       1.226109
+2026-01-19        2    0.213968 0.096591       0.009640       1.160120
+2026-01-20        2    0.224043 0.080372       0.009624       1.291820
+2026-01-21        2    0.218008 0.078960       0.010196       1.163351

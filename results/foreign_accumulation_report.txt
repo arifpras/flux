@@ -1,0 +1,19 @@
+Foreign Accumulation Pattern Filter
+================================================================================
+
+FILTERING CRITERIA:
+  Pattern 1: Foreign accumulation (>1M shares) + Price declining today
+             → Institutional buy-the-dip (contrarian)
+  Pattern 2: Foreign accumulation (>1M shares) + ML predicts up tomorrow
+             → Institutional momentum confirmation
+
+FILTER RESULTS:
+  Input candidates (ML-filtered): 10
+  Stocks with foreign accumulation: 0
+  Pass rate: 0.0%
+
+⚠️  No stocks meet foreign accumulation criteria
+Possible reasons:
+  - ML candidates may not overlap with foreign accumulation stocks
+  - Try loosening MIN_FOREIGN_BUY threshold
+  - Check if foreign data is recent/up-to-date

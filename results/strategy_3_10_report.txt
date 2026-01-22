@@ -1,0 +1,42 @@
+Strategy 3.10: Industry-Neutral Portfolio Construction
+================================================================================
+
+CONCEPT:
+  • Avoid concentration risk by limiting exposure to any single sector
+  • Maximum sector weight: 35%
+  • Sector-balanced portfolio reduces systematic risk
+
+SECTOR EXPOSURE:
+--------------------------------------------------------------------------------
+Sector                        Weight%     Stocks    Avg Pred Ret%  
+--------------------------------------------------------------------------------
+Unknown                       100.0       10        5.48           
+--------------------------------------------------------------------------------
+
+SECTOR-BALANCED POSITIONS (Ranked by Predicted Return):
+--------------------------------------------------------------------------------
+Rank  Ticker  Sector              Pred%     Weight%   Capital(M)  Shares    
+--------------------------------------------------------------------------------
+1     IFSH    Unknown             13.02     15.4      15.4        7,320     
+2     TIRT    Unknown             11.46     9.7       9.7         22,905    
+3     MKAP    Unknown             8.69      14.1      14.1        15,451    
+4     CANI    Unknown             5.92      9.5       9.5         29,685    
+5     MTFN    Unknown             5.40      8.5       8.5         189,250   
+6     INDS    Unknown             4.88      12.3      12.3        16,457    
+7     EURO    Unknown             2.31      9.8       9.8         13,798    
+8     RMKO    Unknown             2.22      5.9       5.9         5,283     
+9     ENZO    Unknown             1.88      9.6       9.6         101,907   
+10    VISI    Unknown             -0.96     5.3       5.3         11,549    
+--------------------------------------------------------------------------------
+
+RISK ANALYSIS:
+  Max sector exposure: 100.0%
+  Number of sectors: 1
+  Diversification score: 0.0% (higher = more diversified)
+  ⚠️  WARNING: Sector constraint violated (max allowed: 35%)
+
+================================================================================
+IMPLEMENTATION:
+  • Use 'Capital(M)' and 'Shares' columns for execution
+  • Monitor sector exposure as new opportunities arise
+  • Rebalance if sector weights drift beyond limits
