@@ -85,6 +85,32 @@ Rank  Stock   Annual      Current   Yield   Payment Months
 20.   KKGI    41 IDR      348       11.7%   Jan, Jul
 
 ================================================================================
+FEBRUARY/MARCH DIVIDEND PAYERS (FILLING CALENDAR GAPS)
+================================================================================
+
+Only 3 stocks consistently pay dividends in February/March (2023-2025):
+
+┌─────────┬──────────────────────────┬─────────────┬───────────┬──────────┐
+│ Stock   │ Company Name             │ Avg Div IDR │ Month     │ Est Yield│
+├─────────┼──────────────────────────┼─────────────┼───────────┼──────────┤
+│ MEGA    │ Bank Mega Tbk            │    225      │ March     │  5-6%    │
+│ AMOR    │ Ashmore Asset Mgmt       │     16      │ February  │  1-2%    │
+│ XCID    │ XL Capital (Finance)     │    0.58     │ March     │  <1%     │
+└─────────┴──────────────────────────┴─────────────┴───────────┴──────────┘
+
+KEY FUNDAMENTALS (From IDX Screener):
+- MEGA: PER 13.59, ROE 11.98% - Banking sector, regulated
+- AMOR: PER 11.71, ROE 24.65% - Asset management, higher ROE
+
+RECOMMENDATION FOR MONTHLY DIVIDEND PORTFOLIO:
+✓ Add MEGA for March coverage (~5.5% yield, banking quality)
+✓ Consider AMOR for February if calendar completion is priority
+⚠️ Skip XCID (minimal yield, not worth the allocation)
+
+With MEGA + AMOR added to the Top 20 list, you achieve TRUE 12-MONTH 
+DIVIDEND INCOME with payments every single month.
+
+================================================================================
 SECTOR ANALYSIS - CONSISTENT PAYERS
 ================================================================================
 
