@@ -1,0 +1,31 @@
+NET BUY AT T THEN PRICE UP T+1 + FUNDAMENTALS
+Run date: 2026-01-22
+
+Ticker  NetForeignT  NextRet%  Close
+NCKL           45.6M    1.38%      1,465
+ANTM           38.6M    1.18%      4,270
+BBRI           31.6M    0.26%      3,820
+EMTK           22.1M    2.87%      1,075
+ELIT           12.9M    8.99%        388
+PBRX            8.1M    9.80%         56
+JPFA            7.7M    1.74%      2,930
+SGRO            6.9M    0.32%      7,800
+DKFT            3.8M    1.12%        905
+JTPE            2.1M    1.69%        600
+UNIQ            1.6M    1.94%        316
+TPIA            1.3M    2.56%      7,000
+MBSS            0.9M    8.86%      2,580
+SOLA            0.7M    2.05%        149
+NICE            0.5M    0.93%        432
+MINE            0.4M    0.99%        510
+MDIY            0.3M    0.51%        995
+SAMF            0.2M    0.60%        334
+MDRN            0.2M   11.11%         80
+GTRA            0.2M    3.57%        348
+KMDS            0.0M    0.79%        640
+AMIN            0.0M    0.71%        284
+MTWI            0.0M    1.71%        356
+SUNI            0.0M    0.62%        815
+MKPI            0.0M    0.10%     24,025
+
+Total matches: 29

@@ -1,0 +1,64 @@
+STRATEGY METHODS PLAN (22 Jan 2026)
+====================================
+
+Primary datasets (daily refreshed)
+- data/histories/ringkasan_histories_combined.csv (prices, volumes)
+- data/reference/ringkasan_broker_combined.csv (broker-level flows)
+- data/reference/idx_dividend_history.csv (dividend events)
+- data/reference/IDX-Stock-Screener-22Jan2026.xlsx (latest screener factors)
+- data/reference/Financial Data and Ratio - Dec 2025.xlsx (fundamentals)
+- data/reference/Stock List  - 20260122.xlsx (universe + metadata)
+
+Outputs (all .txt under results/ unless stated)
+- 20260122_MONTHLY_DIVIDEND_INCOME_STRATEGY.txt (baseline reference)
+- 20260122_FOREIGN_BUY_DECLINE_5D.txt
+- 20260122_INST_BUY_THEN_UP_T1.txt
+- 20260122_FOREIGN_BUY_DECLINE_5D_FUNDAMENTAL.txt
+- 20260122_INST_BUY_THEN_UP_T1_FUNDAMENTAL.txt
+- 20260122_TECHNICAL_ENHANCED_SWING.txt
+
+Method 1 — Dividend-oriented (reference: 20260122_MONTHLY_DIVIDEND_INCOME_STRATEGY.txt)
+- Goal: steady dividend picks with acceptable yield and recency.
+- Data: idx_dividend_history.csv, Stock List  - 20260122.xlsx, Financial Data and Ratio - Dec 2025.xlsx.
+- Filters: recent payouts, frequency, forward/backward yield, stability metrics; basic liquidity check from histories.
+- Output: keep as-is or refresh periodically; retain current naming.
+
+Method 2 — Foreign net buy + 5-day price decline
+- Goal: find stocks with foreign institutional net buy while price pulled back over last 5 trading days.
+- Data: ringkasan_broker_combined.csv (need foreign vs domestic split—if not available, note limitation), ringkasan_histories_combined.csv.
+- Logic: compute net foreign value per ticker for t, require positive; check close change over past 5 days <= threshold (e.g., -2% to -10%); ensure liquidity.
+- Output: 20260122_FOREIGN_BUY_DECLINE_5D.txt summarizing ticker, net buy, 5D change, liquidity note.
+
+Method 3 — Institutional net buy at t, price up at t+1
+- Goal: capture short-term follow-through after institutional accumulation.
+- Data: ringkasan_broker_combined.csv; ringkasan_histories_combined.csv.
+- Logic: for each date, net institutional buy > 0; check next-day close change > 0 (or percentile); surface recent occurrences and next-day reaction stats; exclude illiquid names.
+- Output: 20260122_INST_BUY_THEN_UP_T1.txt with last signal date, net buy, next-day return.
+
+Method 4 — Foreign net buy + 5-day decline + fundamentals sanity
+- Goal: same as Method 2 but filter to fundamentally sound names.
+- Data: Method 2 data plus Financial Data and Ratio - Dec 2025.xlsx, IDX-Stock-Screener-22Jan2026.xlsx for quality metrics (ROE, debt/equity, margins) and dividend history for income tilt if desired.
+- Logic: apply Method 2 screens, then require minimum fundamentals (e.g., ROE > 10%, net margin > 5%, manageable leverage, positive earnings trend). Optionally require recent dividend payer.
+- Output: 20260122_FOREIGN_BUY_DECLINE_5D_FUNDAMENTAL.txt with reasons/metrics.
+
+Method 5 — Institutional net buy at t, price up at t+1 + fundamentals sanity
+- Goal: Method 3 with quality overlay.
+- Data: Method 3 data plus fundamental sheets above.
+- Logic: keep only names passing fundamentals; report signal date, net buy, t+1 return, key metrics.
+- Output: 20260122_INST_BUY_THEN_UP_T1_FUNDAMENTAL.txt.
+
+Method 6 — Technical (Base 3.12 Two MA, 3.14 Pivot Points, 3.4 Volatility) + Enhancements (3.13 Bollinger Bands, 3.10 Short-Term Reversals)
+- Goal: daily swing scan that combines the base signals with BB and pullback timing.
+- Data: ringkasan_histories_combined.csv.
+- Logic: 
+  * Trend: MA(10) > MA(30) for bullish bias (3.12).
+  * Support/resistance context via pivots (3.14) for targets/stops.
+  * Volatility filter (3.4) to avoid noisy names; set min/max daily vol bands.
+  * Enhancements: price in lower BB percentile (0-30%) plus recent pullback (3.10) to queue entries; or mid-band for holds.
+- Output: 20260122_TECHNICAL_ENHANCED_SWING.txt with ranked candidates and entry/target/stop suggestions.
+
+General notes
+- Date-stamp outputs with run date to avoid confusion; adjust prefix if re-running another day.
+- If broker file lacks explicit foreign/institution split, note assumption or skip foreign-only logic until data available.
+- Keep liquidity and corporate action checks (suspensions, stock splits) before surfacing candidates.
+- Prefer reproducible scripts under scripts/analysis/ with matching filenames, then write summaries to results/.

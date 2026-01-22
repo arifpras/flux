@@ -1,0 +1,10 @@
+TECHNICAL ENHANCED SWING (3.12, 3.14, 3.4 + 3.13, 3.10) + FUNDAMENTALS
+Run date: 2026-01-22
+
+Ticker  Close  MA10  MA30  BB%  Vol20%
+DGIK       140     161     160   -7.0%    4.79%
+UNTR    27,450   30662   30024   -3.0%    3.79%
+MERK     3,260    3322    3291   -1.6%    0.79%
+SUNI       810     822     819   28.5%    1.52%
+
+Total matches: 4

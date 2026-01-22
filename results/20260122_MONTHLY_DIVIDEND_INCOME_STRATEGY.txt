@@ -1,0 +1,20 @@
+MONTHLY DIVIDEND INCOME STRATEGY
+Run date: 2026-01-22
+
+Top 15 dividend yielders (3Y sum):
+Ticker  Yield%  Payouts  LastClose
+SCPI   317.24       2     29,000
+ADRO   113.97       8      2,350
+TMAS    90.18       4        160
+FISH    80.33       3      1,195
+MBAP    75.50       4      1,735
+PTBA    72.10       3      2,530
+ITMG    66.16       6     22,725
+PBID    62.38       3        505
+LPPF    54.96       3      1,865
+BSSR    49.80       9      3,940
+MCOL    46.60       6      3,680
+KDSI    46.48       3        454
+CFIN    45.18       2        332
+HEXA    43.26       3      4,430
+HILL    41.94       2        155

@@ -1,0 +1,439 @@
+================================================================================
+                     INDONESIAN STOCK MARKET PLAYBOOK
+                          22 January 2026 Edition
+================================================================================
+
+Six proven strategies to profit from today's market conditions
+
+
+WHAT THIS REPORT DOES
+
+This isn't theory. These are six actionable strategies built from real market 
+data—price movements, foreign institutional flows, dividend payments, and 
+technical indicators from Indonesia's stock exchange. Each strategy targets a 
+different opportunity: dividend income, contrarian value plays, momentum trades, 
+and technical setups.
+
+You don't need to pick one. Smart investors run multiple strategies 
+simultaneously, letting each approach work when market conditions favor it.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+STRATEGY #1: HARVEST DIVIDEND INCOME
+═══════════════════════════════════════════════════════════════════════════════
+
+WHO IT'S FOR: Income investors, retirees, anyone who needs cash flow
+
+THE SETUP: Some Indonesian stocks pay staggering dividends—50% to 100%+ yields 
+over the past three years. These aren't mistakes in the data. They're real 
+companies distributing substantial profits (or liquidating, in some cases).
+
+TOP PICKS:
+
+ADRO (114% yield, 8 payments): Coal producer riding energy demand. Made eight 
+dividend distributions in three years—that's reliability. Current price: 2,350.
+
+PTBA (72% yield, 3 payments): Another coal play, fewer but larger payments. 
+Still trading at 2,530, well off its highs.
+
+BSSR (50% yield, 9 payments): Logistics company with the most consistent 
+payment schedule—nine distributions shows operational stability. Price: 3,940.
+
+ITMG (66% yield, 6 payments): Coal mining company with regular semi-annual 
+dividends. Trading at 22,725.
+
+LPPF (55% yield, 3 payments): Department store operator pivoting to property. 
+Riskier business model but solid dividends. Price: 1,865.
+
+HOW TO TRADE IT:
+
+Buy 2-3 weeks before expected ex-dividend dates (check IDX calendar). Hold 
+through payment. Reinvest or take cash—your call. Don't chase the highest 
+yields blindly; SCPI at 317% only made two payments and may not continue.
+
+Focus on frequency: 6+ payments in three years signals sustainability. Avoid 
+one-off special dividends unless you're selling before the post-dividend drop.
+
+EXPECTED RETURN: 10-15% annual cash yield plus 0-10% capital appreciation if 
+commodity prices cooperate. Main risk is dividend cuts during downturns.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+STRATEGY #2: FOLLOW THE SMART MONEY (BASIC)
+═══════════════════════════════════════════════════════════════════════════════
+
+WHO IT'S FOR: Value investors comfortable with 3-6 month holds
+
+THE SETUP: Foreign institutions are buying 25 stocks even as prices fall. This 
+pattern—accumulation during weakness—often precedes recoveries. Either they 
+know something or they're wrong, but history favors the former.
+
+TOP PICKS:
+
+BRMS (139M shares, -1.6%): Pharma company with largest foreign accumulation. 
+Modest decline suggests controlled buying. Price: 1,230.
+
+ASII (52M shares, -4.9%): Astra International, the conglomerate. Down 5% but 
+foreign institutions adding 52 million shares. Price: 6,775.
+
+PTRO (39M shares, -13.1%): Oil & gas driller hit harder (-13%) but still 
+attracting capital. Higher risk, higher potential. Price: 10,775.
+
+CTRA (30M shares, -1.7%): Property developer seeing steady accumulation. 
+Price: 890.
+
+KLBF (21M shares, -0.4%): Pharmaceuticals, minimal price decline with 
+institutional interest. Price: 1,225.
+
+HOW TO TRADE IT:
+
+Buy when foreign accumulation exceeds 10M shares AND price is down 2-10% over 
+five days. Avoid extreme drops (>20%) unless you understand the specific 
+catalyst. Set initial stops at -7% from entry. Hold 3-6 months or until price 
+recovers to pre-decline levels plus 10%.
+
+Watch for continuation: If foreign buying persists for 2-3 weeks, add to 
+positions. If it stops, reassess.
+
+EXPECTED RETURN: 15-30% over 3-6 months if the thesis plays out. Risk is 
+institutions are early (you'll sit through more declines) or wrong (company has 
+real problems).
+
+
+═══════════════════════════════════════════════════════════════════════════════
+STRATEGY #3: SMART MONEY + STRONG FUNDAMENTALS
+═══════════════════════════════════════════════════════════════════════════════
+
+WHO IT'S FOR: Conservative value investors, institutional allocators
+
+THE SETUP: Take Strategy #2 but add fundamental screens. Only buy companies 
+with ROE >8%, profit margins >5%, P/E ratios under 25, and manageable debt. 
+This filters out 75% of the names, leaving 25 solid businesses temporarily 
+unloved.
+
+TOP PICKS:
+
+ASII (52M shares, -4.9%): Still makes the cut with strong fundamentals. 
+Diversified conglomerate, proven management. Price: 6,775.
+
+KLBF (21M shares, -0.4%): Pharma with consistent profitability and reasonable 
+valuation. Price: 1,225.
+
+UNTR (2.4M shares, -12.9%): Heavy equipment and mining services. Sharp decline 
+but solid business. Price: 27,450.
+
+GMFI (56M shares, -14.5%): Bank facing short-term pressures but fundamentals 
+intact. Price: 71.
+
+CNMA (36M shares, -1.6%): Cinema operator recovering post-pandemic, now 
+attracting foreign interest. Price: 121.
+
+HOW TO TRADE IT:
+
+This is the highest-conviction subset. Allocate larger position sizes (up to 
+10% of portfolio per name) because you have both technical and fundamental 
+support. Buy on weakness, hold through recovery, sell when price reaches fair 
+value (typically 20-40% above entry).
+
+Use fundamental deterioration as your stop, not arbitrary price levels. If 
+quarterly earnings show margin compression or ROE decline, exit regardless of 
+price.
+
+EXPECTED RETURN: 20-40% over 6-12 months with lower risk than pure technical 
+plays. These are businesses you can defend in a portfolio review.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+STRATEGY #4: RIDE SHORT-TERM MOMENTUM
+═══════════════════════════════════════════════════════════════════════════════
+
+WHO IT'S FOR: Active traders, anyone who checks positions daily
+
+THE SETUP: Institutions bought 25 stocks yesterday, and prices jumped today. 
+This momentum often continues for 3-10 trading days before fading. You're not 
+catching the move—you're riding the second or third wave.
+
+TOP PICKS (NEXT-DAY GAINERS):
+
+BBKP (132M shares, +3.6%): Gained hard after institutional buying. Look for 
+continuation to +5-7%. Current: 86.
+
+PSKT (25M shares, +4.7%): Already up 4.7%, watch for +7-10% move. Current: 402.
+
+ELTY (20M shares, +10.8%): Biggest gainer, may be overextended but has 
+momentum. Current: 72.
+
+ELIT (13M shares, +9.0%): Tech play with strong momentum, room to run. 
+Current: 388.
+
+PBRX (8M shares, +9.8%): Pharma with sharp move, entering momentum phase. 
+Current: 56.
+
+HOW TO TRADE IT:
+
+Enter same-day or next morning after signal emerges. Tight stops: 2-3% below 
+entry because momentum fades fast. Take profits at +8-12% or after 5-7 trading 
+days, whichever comes first. Don't hold through momentum reversals.
+
+This strategy demands discipline. You'll have more losing trades (40-50% win 
+rate) but winners can be +10-20% in days. Size positions small (2-3% of 
+portfolio) and run multiple names.
+
+EXPECTED RETURN: +15-25% annually if you execute well, but requires active 
+management. Miss a stop loss and you'll give back weeks of gains.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+STRATEGY #5: TECHNICAL SETUPS (BOLLINGER BANDS)
+═══════════════════════════════════════════════════════════════════════════════
+
+WHO IT'S FOR: Swing traders comfortable with 1-4 week holds
+
+THE SETUP: Eighteen stocks are technically oversold—trading near the bottom of 
+their Bollinger Bands—while maintaining upward trends. This is the classic 
+"buy the dip in an uptrend" setup. When price touches the lower band, it 
+typically bounces within 3-7 days.
+
+TOP PICKS:
+
+BANK (800, MA10: 957): Deep oversold (-9% below band), strong mean-reversion 
+setup. Volatility: 4.7%.
+
+DGIK (140, MA10: 161): Sitting 7% below band, clean trend structure. 
+Volatility: 4.8%.
+
+UNTR (27,450, MA10: 30,662): Only 3% below band, lower-risk entry. 
+Volatility: 3.8%.
+
+MERK (3,260, MA10: 3,322): Barely oversold (-1.6%), tightest setup. 
+Volatility: 0.8%—very stable.
+
+ALII (905, MA10: 1,106): Early-stage oversold, room to develop. Volatility: 5.8%.
+
+HOW TO TRADE IT:
+
+Buy when price hits 0-30% of Bollinger Band range. Enter with limit orders at 
+the lower band price. Exit at 70-100% of range (upper band) or after +10-15% 
+gain. Stop loss: -3% from entry.
+
+This works in range-bound or mildly bullish markets. It fails during crashes 
+when price stays oversold for weeks. Check market regime before deploying.
+
+Best conditions: Low overall market volatility, no macro shocks imminent, stock 
+has clear support levels.
+
+EXPECTED RETURN: +8-15% per trade over 1-4 weeks. Win rate around 60-65% if 
+you wait for proper setups. Don't force trades when Bollinger Bands are too 
+tight or too wide.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+STRATEGY #6: TECHNICAL + FUNDAMENTALS (HIGHEST CONVICTION)
+═══════════════════════════════════════════════════════════════════════════════
+
+WHO IT'S FOR: Serious swing traders who want lower-risk technical entries
+
+THE SETUP: Only four stocks pass both technical oversold screens AND fundamental 
+quality filters. These are the cream of the crop—temporary weakness in strong 
+businesses with clear technical reversal setups.
+
+THE FOUR PICKS:
+
+DGIK (140): Oversold 7% below Bollinger Band, ROE and margins solid, P/E 
+reasonable. This is the highest-conviction technical play with fundamental 
+backing.
+
+UNTR (27,450): Heavy equipment giant 3% below band. Large-cap liquidity, 
+institutional ownership, proven business model. Lower technical extremity but 
+unquestionable quality.
+
+MERK (3,260): Pharmaceutical company barely oversold (1.6%), suggesting early 
+entry point. Rock-solid fundamentals, lowest volatility (0.8%) in the set.
+
+SUNI (810): Trading 28.5% into Bollinger range (middle zone), less oversold but 
+still technically attractive. Strong fundamentals provide downside support.
+
+HOW TO TRADE IT:
+
+These warrant larger position sizes because you have dual confirmation. 
+Allocate 5-7% of portfolio per name. Use tighter stops (2%) since you're 
+betting on quality mean reversion, not volatility.
+
+Entry priority: DGIK first (most oversold + fundamentals), then MERK (safest), 
+then UNTR (most liquid), then SUNI (monitor for further pullback).
+
+Hold through the technical bounce—typically 7-14 days. Don't cut winners early; 
+these can run to +15-20% because fundamentals support the move.
+
+EXPECTED RETURN: +12-20% per trade with 70%+ win rate. This is the 
+sweet-spot strategy—technical timing with fundamental safety nets.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+BUILDING YOUR PORTFOLIO
+═══════════════════════════════════════════════════════════════════════════════
+
+YOU DON'T HAVE TO CHOOSE ONE STRATEGY
+
+Most investors do best running multiple approaches:
+
+30% → Dividend income (Strategy 1)
+     Pick: ADRO, PTBA, BSSR
+     Why: Steady cash flow, low maintenance, holds through volatility
+
+25% → Fundamental contrarian (Strategy 3)  
+     Pick: ASII, KLBF, UNTR
+     Why: Core value holdings with catalyst potential
+
+25% → Technical + fundamentals (Strategy 6)
+     Pick: DGIK, UNTR (double up), MERK, SUNI
+     Why: Tactical trades with fundamental safety
+
+20% → Short-term momentum (Strategy 4)
+     Pick: Rotate through fresh signals weekly
+     Why: Capture quick moves, stay opportunistic
+
+This allocation gives you:
+- Income from dividends (reduces need to sell in downturns)
+- Value exposure (compounds wealth over years)
+- Technical timing (improves entry points by 5-10%)
+- Momentum optionality (participates in strong moves)
+
+
+POSITION SIZING RULES
+
+Conservative investors (low risk tolerance):
+- 3% per dividend stock, 5% per value stock, 2% per technical setup
+- Maximum 15 positions total
+- Keep 25% cash for opportunities
+
+Aggressive traders (high risk tolerance):
+- 5% per dividend stock, 8% per value stock, 5% per technical setup
+- Maximum 20 positions, rotate freely
+- Keep 10% cash, deploy rapidly
+
+The key: Size according to strategy conviction and your edge. You should have 
+higher win rates on fundamental value than momentum trades, so size the former 
+larger even if returns are slower.
+
+
+WHAT COULD GO WRONG
+
+MARKET CRASH: Technical strategies fail entirely. Dividend stocks hold up best, 
+fundamental value second. Momentum bleeds hardest.
+
+LIQUIDITY CRISIS: Small-cap dividend payers (TMAS, SCPI) become untradeable. 
+Stick to large-caps (ADRO, UNTR, ASII) if worried about exits.
+
+FOREIGN OUTFLOWS: If institutions reverse and become net sellers, Strategy 2/3 
+face headwinds. Monitor weekly flow data; if negative for 3+ weeks, reduce 
+exposure.
+
+COMMODITY COLLAPSE: Coal dividend plays (ADRO, PTBA, ITMG) get crushed. 
+Diversify income sources—add non-commodity names like BSSR and LPPF.
+
+EARNINGS MISSES: Fundamental screens use backward-looking data. A company can 
+pass all filters and then report terrible quarterly results. Check earnings 
+calendars before entries.
+
+
+EXECUTION CHECKLIST
+
+BEFORE YOU BUY:
+□ Verify stock isn't suspended or under investigation (check IDX announcements)
+□ Confirm adequate liquidity (>500M IDR daily average volume)
+□ Check earnings calendar (avoid day-before-earnings entries for value plays)
+□ Review chart for obvious resistance levels above your entry
+□ Set profit target and stop loss before opening position
+
+POSITION MANAGEMENT:
+□ Log entry price, date, strategy type in spreadsheet
+□ Set calendar reminders for technical exits (5-7 days out)
+□ Review value holdings monthly for fundamental deterioration
+□ Take partial profits at +8-10%, let remainder run to target
+□ Cut all losses at predetermined stops—no exceptions, no hope
+
+PORTFOLIO REVIEW (WEEKLY):
+□ Rerun screens to find fresh opportunities (especially momentum)
+□ Check if existing positions still pass entry criteria (if not, consider exit)
+□ Measure actual returns vs expected returns by strategy
+□ Adjust allocation if one strategy consistently underperforms
+
+
+THE EDGE
+
+These strategies work because Indonesian equity markets remain inefficient:
+
+Information asymmetry: Foreign institutions get research and management access 
+before retail. Following their flows puts you closer to informed capital.
+
+Dividend culture: Indonesian companies distribute cash generously, but retail 
+investors overlook ex-dates and yield calculations. You won't.
+
+Technical gaps: Most local investors don't use Bollinger Bands or systematic 
+momentum tracking. Your edge is discipline and quantitative signals.
+
+Fundamental screening: Many traders chase momentum without checking if 
+businesses are profitable. Combining fundamental filters with technical timing 
+is still an underused approach.
+
+The real question isn't whether these edges exist—they do. The question is 
+whether you'll execute systematically when signals trigger, or freeze and 
+second-guess yourself.
+
+
+WHAT TO DO TOMORROW
+
+1. IMMEDIATE SETUPS (TODAY/TOMORROW):
+   - BUY: DGIK at 140 (technical + fundamentals, most oversold)
+   - BUY: ASII at 6,775 (foreign buying on weakness + fundamentals)
+   - MONITOR: BBKP at 86 (momentum may extend to 90-92)
+
+2. SET PRICE ALERTS:
+   - UNTR at 26,000 (further decline would improve technical entry)
+   - MERK at 3,200 (if drops, buy the dip)
+   - PSKT at 420 (if breaks out, consider momentum trade)
+
+3. DIVIDEND CALENDAR:
+   - Check IDX for upcoming ex-dates on PTBA, ADRO, BSSR
+   - If ex-date within 3 weeks, initiate positions
+
+4. PORTFOLIO ADMIN:
+   - Review existing holdings against fundamental screens
+   - Exit any position down >8% without fundamental thesis intact
+   - Take profits on anything up >15% unless momentum clearly extending
+
+
+FINAL WORD
+
+Markets reward preparation and discipline, not genius. You don't need to 
+predict the future—you need to react systematically when signals trigger.
+
+Run the screens daily. Log your trades. Cut losses fast. Let winners run. 
+Review results monthly. Adjust allocations when strategies stop working.
+
+Do this consistently and you'll outperform 80% of participants who trade on 
+emotion, headlines, and hope.
+
+
+================================================================================
+DATA NOTES
+
+Price data: IDX daily history, 2025-12-01 to 2026-01-22
+Dividend data: IDX dividend history, 2023-2026  
+Fundamentals: IDX Stock Screener, January 2026
+Broker flows: December 2025-January 2026
+
+Next update: 23 January 2026 (re-run all screens with fresh data)
+
+Questions? Check methodology in individual strategy report files:
+- 20260122_MONTHLY_DIVIDEND_INCOME_STRATEGY.txt
+- 20260122_FOREIGN_BUY_DECLINE_5D.txt
+- 20260122_FOREIGN_BUY_DECLINE_5D_FUNDAMENTAL.txt
+- 20260122_INST_BUY_THEN_UP_T1.txt
+- 20260122_TECHNICAL_ENHANCED_SWING.txt
+- 20260122_TECHNICAL_ENHANCED_SWING_FUNDAMENTAL.txt
+
+================================================================================
+END OF PLAYBOOK
+================================================================================

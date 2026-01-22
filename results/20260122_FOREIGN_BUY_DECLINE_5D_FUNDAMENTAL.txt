@@ -1,0 +1,31 @@
+FOREIGN NET BUY + 5D DECLINE + FUNDAMENTALS
+Run date: 2026-01-22
+
+Ticker  NetForeign5D  Chg5%  LastClose
+GMFI           56.5M -14.46%         71
+ASII           52.1M  -4.91%      6,775
+CNMA           36.0M  -1.63%        121
+CTRA           29.9M  -1.66%        890
+KLBF           20.6M  -0.41%      1,225
+SOLA           10.4M  -4.58%        146
+KLAS            8.5M  -3.77%        102
+DMAS            7.7M  -2.82%        138
+ASSA            5.1M  -0.42%      1,190
+DKHH            2.9M  -6.80%         96
+UNTR            2.4M -12.86%     27,450
+NICE            2.3M  -9.32%        428
+DGIK            2.3M -17.16%        140
+TPMA            2.0M  -1.64%        600
+MINE            1.3M  -1.94%        505
+NOBU            1.3M  -0.88%        560
+NICL            1.1M -17.25%      1,535
+AUTO            0.6M  -0.74%      2,690
+MDRN            0.5M -25.77%         72
+IPCM            0.3M  -0.58%        344
+GPRA            0.2M  -1.47%        134
+ELPI            0.2M  -6.01%        860
+MDIY            0.2M  -1.00%        990
+SICO            0.1M  -0.74%        134
+GUNA            0.0M  -4.05%        284
+
+Total matches: 35
