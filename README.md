@@ -92,41 +92,7 @@ ELTY (-34%) and BNBR (-28%) show extreme declines - may indicate structural prob
 - **Stop loss:** -7% from entry
 - **Hold:** 3-6 months or until +10% above pre-decline price
 - **Position size:** 8-10% per stock, 25% total allocation
-
-
-================================================================================
-STRATEGY 3: FOREIGN ACCUMULATION + FUNDAMENTALS
-================================================================================
-
-OBJECTIVE: Strategy 2 filtered by quality metrics to reduce value traps
-
-FUNDAMENTAL SCREENS:
-- ROE > 8%
-- Net profit margin > 5%
-- P/E ratio: 0-25
-- Debt/Equity < 200%
-
-REFINED UNIVERSE (25 stocks pass both screens):
-
-┌─────────┬──────────────┬───────────┬────────────┬──────┬──────┬──────┐
-│ Ticker  │ Foreign Buy  │ 5D Chg %  │   Price    │ ROE% │ NPM% │ P/E  │
-├─────────┼──────────────┼───────────┼────────────┼──────┼──────┼──────┤
-│ GMFI    │     56M      │  -14.5%   │      71    │ 12.3 │  8.1 │ 9.2  │
-│ ASII    │     52M      │   -4.9%   │   6,775    │ 10.8 │  6.4 │ 14.5 │
-│ CNMA    │     36M      │   -1.6%   │     121    │  9.1 │  5.8 │ 11.3 │
-│ CTRA    │     30M      │   -1.7%   │     890    │  8.9 │  7.2 │ 16.8 │
-│ KLBF    │     21M      │   -0.4%   │   1,225    │ 11.5 │  9.3 │ 18.2 │
-│ UNTR    │      2M      │  -12.9%   │  27,450    │ 13.2 │ 10.1 │ 12.7 │
-└─────────┴──────────────┴───────────┴────────────┴──────┴──────┴──────┘
-
-RATIONALE:
-Combines technical signal (foreign buying on dips) with fundamental safety.
-These aren't declining for fundamental reasons—valuations and profitability
-remain sound.
-
-HIGHEST CONVICTION: ASII, KLBF, UNTR
-All three are large-cap, liquid, with institutional ownership and proven
-business models.---
+---
 
 ## 🎯 Strategy 3: Foreign Accumulation + Fundamentals
 
@@ -269,15 +235,6 @@ Same fundamental criteria as Strategy 3. Reduces universe significantly but impr
 | Technical setups | 5-7% | 7-10% | -3% |
 | Momentum | 2-3% | 3-5% | -2% |
 
-### Position Sizing by Strategy
-
-| Strategy | Conservative | Aggressive | Max Loss/Trade |
-|----------|--------------|-----------|-----------------|
-| Dividend | 10-15% | 5-10% | -10% |
-| Foreign accumulation | 8-10% | 10-12% | -7% |
-| Technical setups | 5-7% | 7-10% | -3% |
-| Momentum | 2-3% | 3-5% | -2% |
-
 ---
 
 ## ✅ Risk Management Checklist
@@ -374,64 +331,28 @@ Daily execution workflow:
 
 ---
 
-**Repository:** https://github.com/arifpras/flux  
-**Generated:** 23 January 2026=
+## 📚 Data Sources & Methodology
 
-PRIORITY 1 (Execute Today/Tomorrow):
-☐ BUY DGIK @ 140 (most oversold + fundamentals)
-  Target: 160-165 | Stop: 136 | Size: 5-7%
+- **Price & Volume:** IDX Ringkasan Saham (2025-12-01 to 2026-01-23)
+- **Foreign Flows:** Broker transaction data (daily)
+- **Dividend History:** IDX payments (2023-2026)
+- **Fundamentals:** IDX Stock Screener (January 2026)
+- **Technical Indicators:** Bollinger Bands (20,2), MA (10,30)
 
-☐ BUY ASII @ 6,775 (foreign accumulation + quality)
-  Target: 7,450 | Stop: 6,300 | Size: 8-10%
+**Universe:** 958 IDX stocks | **Filters:** >500M IDR volume, ROE >8%, NPM >5%, P/E <25, D/E <200%
 
-☐ MONITOR BBKP @ 86 (momentum may extend to 90-95)
-  Entry if breaks above 88 | Stop: 84 | Size: 2-3%
+---
 
-PRIORITY 2 (Set Alerts):
-☐ UNTR @ 26,000 (alert if drops further for better entry)
-☐ MERK @ 3,200 (alert if dips to lower BB)
-☐ KLBF @ 1,200 (alert if drops -2% more)
+## ⚠️ Disclaimer
 
-PRIORITY 3 (Dividend Calendar):
-☐ Check IDX for PTBA, ADRO, BSSR ex-dividend dates
-☐ If ex-date within 21 days, begin accumulation
+This report presents quantitative strategies based on historical patterns. **Past performance does not guarantee future results.** All investments carry risk of loss. Requires active management and discipline. Do not deploy capital you cannot afford to lose.
 
+**High-risk strategies:** Momentum (daily monitoring required), small-cap dividends (liquidity), extreme declines (fundamental risk).
 
-================================================================================
-DATA SOURCES & METHODOLOGY
-================================================================================
+**Consult a licensed financial advisor before implementing.** For educational purposes only.
 
-Price & Volume Data: IDX Ringkasan Saham (2025-12-01 to 2026-01-22)
-Foreign/Institutional Flows: Broker transaction data (daily)
-Dividend History: IDX dividend payments (2023-2026)
-Fundamentals: IDX Stock Screener (January 2026 snapshot)
-Technical Indicators: Bollinger Bands (20,2), Moving averages (10,30)
+---
 
-Universe: 958 actively traded IDX stocks
-Liquidity filter: >500M IDR daily average volume
-Quality filter: ROE >8%, NPM >5%, P/E <25, D/E <200%
-
-Next Report: 23 January 2026 (daily refresh with new signals)
-
-
-================================================================================
-DISCLAIMER
-================================================================================
-
-This report presents quantitative strategies based on historical patterns.
-Past performance does not guarantee future results. All investments carry risk
-of loss. The strategies require active management, discipline, and systematic
-execution. Do not deploy capital you cannot afford to lose.
-
-Particularly high-risk:
-• Momentum strategies (Strategy 4, 5): Require daily monitoring and tight stops
-• Small-cap dividend stocks: Liquidity risk during exits
-• Foreign accumulation on large declines: May worsen before improving
-
-Consult a licensed financial advisor before implementing any strategy. This
-report is for educational and informational purposes only.
-
-
-================================================================================
-END OF REPORT | 22 January 2026
-================================================================================
+**Last Updated:** 23 January 2026  
+**Next Update:** 24 January 2026  
+**Repository:** https://github.com/arifpras/flux
