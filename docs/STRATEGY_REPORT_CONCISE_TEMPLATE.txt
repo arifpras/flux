@@ -278,7 +278,7 @@ Opportunistic (50%):
 POSITION SIZING GUIDELINES:
 
 Strategy Type          Conservative    Aggressive    Max Loss/Trade
-─────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────
 Dividend               10-15%          5-10%         -10%
 Foreign accumulation   8-10%           10-12%        -7%
 Technical setups       5-7%            7-10%         -3%
