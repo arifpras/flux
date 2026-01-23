@@ -296,6 +296,16 @@ Same fundamental criteria as Strategy 3. Reduces universe significantly but impr
 
 ---
 
+## 🛡 Sentiment Sanity Check (23 January 2026)
+
+- Coverage: 24 recommended stocks (all strategies) — **Result: ✅ All clean (no negative news detected)**
+- Priority 1 status: DGIK, ASII, BBKP **cleared to execute** based on sentiment check
+- Run before trading: `python scripts/analysis/20260123_daily_workflow.py`
+- Output: [results/20260123_SENTIMENT_ANALYSIS.json](results/20260123_SENTIMENT_ANALYSIS.json) and console summary
+- Docs: Quick ref in [docs/SENTIMENT_ANALYSIS_QUICKREF.md](docs/SENTIMENT_ANALYSIS_QUICKREF.md), full guide in [docs/SENTIMENT_ANALYSIS_WORKFLOW.md](docs/SENTIMENT_ANALYSIS_WORKFLOW.md)
+
+---
+
 ## 📚 Data Sources & Methodology
 
 - **Price & Volume:** IDX Ringkasan Saham (2025-12-01 to 2026-01-23)
@@ -328,28 +338,6 @@ Daily execution workflow:
 5. Commit daily results
 
 **Next report:** 24 January 2026
-
----
-
-## 📚 Data Sources & Methodology
-
-- **Price & Volume:** IDX Ringkasan Saham (2025-12-01 to 2026-01-23)
-- **Foreign Flows:** Broker transaction data (daily)
-- **Dividend History:** IDX payments (2023-2026)
-- **Fundamentals:** IDX Stock Screener (January 2026)
-- **Technical Indicators:** Bollinger Bands (20,2), MA (10,30)
-
-**Universe:** 958 IDX stocks | **Filters:** >500M IDR volume, ROE >8%, NPM >5%, P/E <25, D/E <200%
-
----
-
-## ⚠️ Disclaimer
-
-This report presents quantitative strategies based on historical patterns. **Past performance does not guarantee future results.** All investments carry risk of loss. Requires active management and discipline. Do not deploy capital you cannot afford to lose.
-
-**High-risk strategies:** Momentum (daily monitoring required), small-cap dividends (liquidity), extreme declines (fundamental risk).
-
-**Consult a licensed financial advisor before implementing.** For educational purposes only.
 
 ---
 
