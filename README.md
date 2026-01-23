@@ -126,100 +126,94 @@ remain sound.
 
 HIGHEST CONVICTION: ASII, KLBF, UNTR
 All three are large-cap, liquid, with institutional ownership and proven
-business models.
+business models.---
 
-EXECUTION:
-Entry: Same as Strategy 2, but allow larger position sizes
-Stop loss: Fundamental deterioration (margin compression, ROE decline)
-Hold: 6-12 months, target 20-40% return
+## 🎯 Strategy 3: Foreign Accumulation + Fundamentals
 
-POSITION SIZE: 10% per stock, 30% total allocation
+**OBJECTIVE:** Strategy 2 filtered by quality metrics to reduce value traps
 
+### Fundamental Screens
+- ROE > 8%
+- Net profit margin > 5%
+- P/E ratio: 0-25
+- Debt/Equity < 200%
 
-================================================================================
-STRATEGY 4: SHORT-TERM MOMENTUM
-================================================================================
+### Refined Universe (25 Stocks Pass)
 
-OBJECTIVE: Capture 3-10 day continuation after institutional buy triggers
-next-day price increase
+| Ticker | Foreign Buy | 5D Chg | Price | ROE% | NPM% | P/E |
+|--------|-------------|--------|-------|------|------|-----|
+| GMFI   | 56M         | -14.5% | 71    | 12.3 | 8.1  | 9.2 |
+| ASII   | 52M         | -4.9%  | 6,775 | 10.8 | 6.4  | 14.5|
+| CNMA   | 36M         | -1.6%  | 121   | 9.1  | 5.8  | 11.3|
+| CTRA   | 30M         | -1.7%  | 890   | 8.9  | 7.2  | 16.8|
+| KLBF   | 21M         | -0.4%  | 1,225 | 11.5 | 9.3  | 18.2|
+| UNTR   | 2M          | -12.9% | 27,450| 13.2 | 10.1 | 12.7|
 
-SCREENING CRITERIA:
+### Highest Conviction: ASII, KLBF, UNTR
+All three are large-cap, liquid, with institutional ownership and proven business models.
+
+### Execution
+- **Entry:** Same as Strategy 2, but allow larger position sizes
+- **Stop loss:** Fundamental deterioration (margin compression, ROE decline)
+- **Hold:** 6-12 months, target 20-40% return
+- **Position size:** 10% per stock, 30% total allocation
+
+---
+
+## ⚡ Strategy 4: Short-Term Momentum
+
+**OBJECTIVE:** Capture 3-10 day continuation after institutional buy triggers next-day gains
+
+### Screening Criteria
 - Net institutional buy >5M shares on day T
 - Price increase >1% on day T+1
 - Stocks showing momentum confirmation
 
-ACTIVE SIGNALS (next-day gainers):
+### Active Signals
 
-┌─────────┬──────────────┬────────────┬────────────┬──────────────┐
-│ Ticker  │  Inst. Buy   │  T+1 Gain  │   Price    │   Momentum   │
-│         │   (shares)   │     %      │    IDR     │    Status    │
-├─────────┼──────────────┼────────────┼────────────┼──────────────┤
-│ BBKP    │    132M      │   +3.6%    │     86     │ Accelerating │
-│ ELTY    │     20M      │  +10.8%    │     72     │ Strong       │
-│ PBRX    │      8M      │   +9.8%    │     56     │ Breakout     │
-│ ELIT    │     13M      │   +9.0%    │    388     │ Extended     │
-│ PSKT    │     25M      │   +4.7%    │    402     │ Continuing   │
-│ KREN    │      7M      │   +7.4%    │     29     │ Volatile     │
-└─────────┴──────────────┴────────────┴────────────┴──────────────┘
+| Ticker | Inst. Buy | T+1 Gain | Price | Momentum |
+|--------|-----------|----------|-------|----------|
+| BBKP   | 132M      | +3.6%    | 86    | Accelerating |
+| ELTY   | 20M       | +10.8%   | 72    | Strong |
+| PBRX   | 8M        | +9.8%    | 56    | Breakout |
+| ELIT   | 13M       | +9.0%    | 388   | Extended |
+| PSKT   | 25M       | +4.7%    | 402   | Continuing |
+| KREN   | 7M        | +7.4%    | 29    | Volatile |
 
-RATIONALE:
-When institutions buy and price immediately responds, it signals either strong
-conviction or leaked information. Momentum typically persists 3-10 trading days.
+### Rationale
+When institutions buy and price immediately responds, it signals either strong conviction or leaked information. Momentum typically persists 3-10 trading days.
 
-EXECUTION:
-Entry: Same day as signal or next morning
-Stop loss: -2 to -3% (tight stops required)
-Exit: +8-12% gain OR 5-7 days, whichever comes first
+### Execution
+- **Entry:** Same day as signal or next morning
+- **Stop loss:** -2 to -3% (tight stops required)
+- **Exit:** +8-12% gain OR 5-7 days, whichever comes first
+- **Win rate:** 40-50% (lower than value strategies)
+- **Reward/risk:** 3:1 to 4:1 on winners
+- **Position size:** 2-3% per trade, run 5-8 positions simultaneously
+- **Total allocation:** 15-20% (high turnover strategy)
 
-WIN RATE: 40-50% (lower than value strategies)
-REWARD/RISK: 3:1 to 4:1 on winners
-
-POSITION SIZE: 2-3% per trade, run 5-8 positions simultaneously
-Total allocation: 15-20% (high turnover strategy)
-
-
-================================================================================
-STRATEGY 5: MOMENTUM + FUNDAMENTALS
-================================================================================
-
-OBJECTIVE: Strategy 4 with fundamental filters for lower-risk momentum plays
-
-SCREENING: Same fundamental criteria as Strategy 3
-
-Result: Reduces universe significantly but improves win rate to ~55-60%
-
-Note: Most momentum stocks don't pass fundamental screens (they're speculative
-or turnaround plays). Use this filter for more conservative momentum trading.
-
-
-================================================================================
-STRATEGY 6: TECHNICAL OVERSOLD + FUNDAMENTALS
-================================================================================
-
-OBJECTIVE: Buy technically oversold stocks in uptrends with strong fundamentals
 ---
 
-## 📊 Strategy 3-6: Complete Coverage
+## 🔬 Strategy 5: Momentum + Fundamentals
 
-### Strategy 3: Foreign Accumulation + Fundamentals (Filtered)
-Same as Strategy 2 but with ROE >8%, NPM >5%, P/E <25, D/E <200%
+**OBJECTIVE:** Strategy 4 with fundamental filters for lower-risk momentum plays
 
-### Strategy 4: Short-Term Momentum
-3-10 day continuation after institutional buy triggers next-day gains
+Same fundamental criteria as Strategy 3. Reduces universe significantly but improves win rate to ~55-60%.
 
-### Strategy 5: Momentum + Fundamentals
-Strategy 4 with fundamental filters for lower-risk momentum plays
+**Note:** Most momentum stocks don't pass fundamental screens (they're speculative or turnaround plays). Use this filter for more conservative momentum trading.
 
-### Strategy 6: Technical Oversold + Fundamentals
+---
+
+## 📊 Strategy 6: Technical Oversold + Fundamentals
 
 **OBJECTIVE:** Buy technically oversold stocks in uptrends with strong fundamentals
 
-#### Technical Criteria
+### Technical Criteria
 - 10-day MA > 30-day MA (uptrend confirmation)
 - Bollinger Band position: 0-30% (oversold zone)
 - 20-day volatility: 0.5-8% (avoid extreme volatility)
 
-#### Highest Conviction Setups
+### Highest Conviction Setups
 
 | Ticker | Price | MA10 | MA30 | BB % | Vol20 |
 |--------|-------|------|------|------|-------|
@@ -228,7 +222,13 @@ Strategy 4 with fundamental filters for lower-risk momentum plays
 | MERK | 3,260 | 3,322 | 3,291 | -1.6% | 0.8% |
 | SUNI | 810 | 822 | 819 | +28.5% | 1.5% |
 
-#### Execution
+### Interpretation
+- **DGIK:** Most oversold (-7% below Bollinger Band), highest reversion potential
+- **UNTR:** Large-cap safety, moderate oversold condition
+- **MERK:** Lowest volatility (0.8%), most stable setup
+- **SUNI:** Already recovering (28.5% into BB range), momentum building
+
+### Execution
 - **Entry:** When BB position 0-30% (DGIK, UNTR, MERK priority)
 - **Exit:** Upper Bollinger Band (70-100%) or +10-15% gain
 - **Stop loss:** -3% from entry
@@ -249,35 +249,6 @@ Strategy 4 with fundamental filters for lower-risk momentum plays
 **Tactical Trading (40%):**
 - Technical oversold + fundamentals (25%): DGIK, UNTR, MERK
 - Momentum (15%): Rotate through fresh signals
-└─ Foreign accumulation + fundamentals (30%): ASII, KLBF, UNTR
-
-Tactical Trading (40%):
-├─ Technical oversold + fundamentals (25%): DGIK, UNTR, MERK
-└─ Momentum (15%): Rotate through fresh signals
-
-────────────────────────────────────────────────────────────────
-
-AGGRESSIVE ALLOCATION (higher turnover):
-
-Core Holdings (50%):
-├─ Fundamental contrarian (25%): ASII, KLBF, UNTR, GMFI
-└─ Technical quality (25%): DGIK, UNTR (double weight), MERK, SUNI
-
-Opportunistic (50%):
-├─ Momentum plays (30%): Rotate 5-8 positions weekly
-└─ Dividend income (20%): ADRO, PTBA for cash flow
-
-────────────────────────────────────────────────────────────────
-
-POSITION SIZING GUIDELINES:
-
-Strategy Type          Conservative    Aggressive    Max Loss/Trade
-─────────────────────────────────────────────────────────────────
-Dividend               10-15%          5-10%         -10%
-Foreign accumulation   8-10%           10-12%        -7%
-Technical setups       5-7%            7-10%         -3%
-Momentum               2-3%            3-5%          -2%
-
 
 ### Aggressive Allocation (Higher Turnover)
 
@@ -288,6 +259,15 @@ Momentum               2-3%            3-5%          -2%
 **Opportunistic (50%):**
 - Momentum plays (30%): Rotate 5-8 positions weekly
 - Dividend income (20%): ADRO, PTBA for cash flow
+
+### Position Sizing by Strategy
+
+| Strategy | Conservative | Aggressive | Max Loss/Trade |
+|----------|--------------|-----------|-----------------|
+| Dividend | 10-15% | 5-10% | -10% |
+| Foreign accumulation | 8-10% | 10-12% | -7% |
+| Technical setups | 5-7% | 7-10% | -3% |
+| Momentum | 2-3% | 3-5% | -2% |
 
 ### Position Sizing by Strategy
 
