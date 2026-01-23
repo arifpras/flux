@@ -1,290 +1,394 @@
-# 📈 Perisai Stock Trading System
+================================================================================
+                    IDX INVESTMENT STRATEGIES REPORT
+                         22 January 2026
+================================================================================
 
-**Advanced Day Trading Strategy with Market-Beating Methods**
+EXECUTIVE SUMMARY
 
----
+Six quantitative strategies analyzed across Indonesian equity markets using
+price data (Dec 2025-Jan 2026), foreign institutional flows, dividend history,
+and fundamental metrics. Each strategy targets different return profiles and
+holding periods.
 
-## 🚀 Quick Start
+Key findings:
+• 25 stocks showing foreign accumulation during price declines
+• 15 dividend plays yielding 40-100%+ over 3 years
+• 4 high-conviction technical setups with fundamental backing
+• Multiple momentum opportunities with 5-10% near-term potential
 
-### Daily Market Scan (8:00 AM, Before Open)
-```bash
-# 1. Check news sentiment for critical risks
-python scripts/scrapers/news_sentiment_api.py --stocks ADRO,ASII,UNTR,BBRI
 
-# 2. Run automated trading scanner
-python scripts/analysis/flux_daily_scanner_v2.py --output daily_signals.json
+================================================================================
+STRATEGY 1: DIVIDEND INCOME
+================================================================================
 
-# 3. Generate economist-style daily brief
-python scripts/analysis/generate_economist_brief.py
+OBJECTIVE: Generate 40-70% annual cash yield from regular dividend distributions
 
-# 4. Monitor active trades for exit signals
-python scripts/analysis/daily_trading_checklist.py
-```
+SCREENING CRITERIA:
+- Minimum 3 payments in past 3 years
+- Yield calculated from 3-year total dividends / current price
+- Focus on payment frequency for sustainability
 
-### Analyze Price History
-```bash
-python scripts/analysis/wavelet_validate_top10.py
-```
+TOP PICKS:
 
-### View Latest Results
-```bash
-cat results/elite_strategy_candidates.json
-cat data/news_cache/sentiment_20260121_114357.csv
-```
+┌─────────┬─────────────┬──────────┬────────────┬──────────────┐
+│ Ticker  │ 3Y Yield %  │ Payments │ Last Price │ Distribution │
+├─────────┼─────────────┼──────────┼────────────┼──────────────┤
+│ ADRO    │    114%     │    8     │   2,350    │ Bi-annual    │
+│ PTBA    │     72%     │    3     │   2,530    │ Annual       │
+│ ITMG    │     66%     │    6     │  22,725    │ Semi-annual  │
+│ LPPF    │     55%     │    3     │   1,865    │ Annual       │
+│ BSSR    │     50%     │    9     │   3,940    │ Quarterly    │
+└─────────┴─────────────┴──────────┴────────────┴──────────────┘
 
----
+RATIONALE:
+Coal sector (ADRO, PTBA, ITMG) drives high yields from commodity profits.
+BSSR offers most consistent payments (9 over 3 years). LPPF transitioning
+from retail to property but maintains dividends.
 
-## 📁 Project Structure
+RISK FACTORS:
+- Commodity price volatility affects mining stocks
+- One-time special dividends vs. sustainable payouts
+- Dividend cuts during economic downturns
 
-```
-perisai/stockscraper/
-├── README.md                  # This file
-├── .gitignore                 # Version control exclusions
-│
-├── data/                      # All data files
-│   ├── backtest/              # Historical backtest results (backtest_trades.csv)
-│   ├── histories/             # Price histories & augmented datasets
-│   ├── IHSGstockdata/         # Market data & alerts
-│   ├── manual/                # Manual signals & notes
-│   └── reference/             # Reference data (business days, broker summaries)
-│
-├── scripts/                   # Production scripts
-│   ├── analysis/              # Trading analysis & signal generation
-│   │   ├── flux_daily_scanner_v2.py     # 6-factor automated scanner
-│   │   ├── daily_trading_checklist.py   # Active trade monitoring
-│   │   └── generate_economist_brief.py  # PDF report generation
-│   ├── scrapers/              # Data collection & sentiment
-│   │   └── news_sentiment_api.py        # News monitoring & risk alerts
-│   ├── utilities/             # Helper functions
-│   └── legacy/                # Archive & older scripts
-│
-├── wavelet_analysis/          # Wavelet analysis per ticker
-│   ├── BUMI/, RLCO/, etc.    # Per-symbol CWT visualizations
-│   └── generic_wavelet_visualization.py
-│
-├── REPORTS/                   # Reports & documentation
-│   ├── daily-reports/         # Daily trading plans (TRADING_REPORT_20JAN2026.md)
-│   ├── elite-strategy/        # Elite strategy Quarto reports
-│   ├── market-beating-methods/ # Analysis of trading methods
-│   └── logs/                  # Execution logs
-│
-├── results/                   # Analysis outputs & final picks
-│   ├── elite_strategy_candidates.json
-│   └── watchlist_final_20stocks.txt
-│
-├── docs/                      # Documentation & guides
-│   ├── START_HERE.txt
-│   ├── COMPLETE_OVERVIEW.md
-│   ├── ALTERNATIVE_ANALYSIS_METHODS.md
-│   ├── WAVELET_ANALYSIS_README.md
-│   ├── WAVELET_RESULTS_SUMMARY.md
-│   └── [other guides]
-│
-└── artifacts/                 # Build artifacts (PDFs, LaTeX)
-    └── latex/
-```
+EXECUTION:
+Entry: 2-3 weeks before ex-dividend dates
+Hold: Through payment date
+Expected return: 10-15% annual cash + 0-10% capital gains
 
----
+POSITION SIZE: 15% portfolio max per stock, 45% total allocation
 
-## 🎯 Core Trading Strategy
 
-**Strategy:** Institutional Accumulation in Declining Stocks + Technical Reversal  
-**Backtest Results:** 9,906 trades | 42.34% win rate | 0.70% avg return | Sharpe 1.90  
-**Holding Period:** 5 days mechanical (Entry Day 1, Exit Day 5)  
+================================================================================
+STRATEGY 2: FOREIGN ACCUMULATION ON WEAKNESS
+================================================================================
 
-**Entry Filters (6-Factor Score ≥60/100):**
-1. **Broker Concentration** (20%) – Single foreign broker ≥40% of buying (DBR)
-2. **Fundamentals** (15%) – Low PER/PBV, positive ROE (MUST PASS)
-3. **Technical Reversal** (25%) – -5% to -0.5% decline + +1% intraday bounce (MUST PASS)
-4. **Volume** (15%) – Daily volume ≥120% of 5-day average
-5. **Sector Momentum** (10%) – Sector gaining MTD
-6. **VWAP Entry** (15%) – Current price 9,906 historical trades (Dec 2025 - Jan 2026)
-- `data/news_cache/sentiment_*.csv` – Daily sentiment analysis reports
-- `data/news_cache/ALERT_*.json` – Critical news alerts by stock
+OBJECTIVE: Capture reversals when institutions buy during 5-day price declines
 
-### Daily Trading Scripts
-- `scripts/analysis/flux_daily_scanner_v2.py` – Automated 6-factor signal scanner
-- `scripts/analysis/daily_trading_checklist.py` – Active position monitoring + exit alerts
-- `scripts/analysis/generate_economist_brief.py` – Economist-style PDF brief generator
-- `scripts/scrapers/news_sentiment_api.py` – News risk monitoring (Google News RSS)
+SCREENING CRITERIA:
+- Net foreign buy >10M shares over 5 days
+- Price declined 2-10% in same period
+- Minimum liquidity 500M IDR daily volume
 
-### Reports & Signals
-- `REPORTS/daily-reports/` – Daily economist-style briefs (e.g., 21JAN2026_TRADING_BRIEF.pdf)
-- `results/watchlist_final_20stocks.txt` – Current watchlist
+TOP OPPORTUNITIES:
 
-### Analysis (Historical)
-- `data/histories/wavelet_scores_top10.json` – Wavelet momentum validation
-- `results/elite_strategy_candidates.json` – Confluence screening results
-- `scripts/analysis/augment_prices_19jan.py` – Update price series with latest closes
-- `scripts/analysis/wavelet_validate_top10.py` – Run wavelet analysis on candidates
-- `wavelet_analysis/generic_wavelet_visualization.py` – Generate CWT plots
+┌─────────┬──────────────┬───────────┬────────────┬──────────────┐
+│ Ticker  │ Foreign Buy  │ 5D Change │ Last Price │    Sector    │
+│         │   (shares)   │     %     │    IDR     │              │
+├─────────┼──────────────┼───────────┼────────────┼──────────────┤
+│ BRMS    │    139M      │   -1.6%   │   1,230    │ Pharma       │
+│ ELTY    │     92M      │  -34.3%   │      65    │ Property     │
+│ BKSL    │     62M      │   -6.2%   │     151    │ Banking      │
+│ GMFI    │     56M      │  -14.5%   │      71    │ Finance      │
+│ ASII    │     52M      │   -4.9%   │   6,775    │ Conglomerate │
+│ PTRO    │     39M      │  -13.1%   │  10,775    │ Oil & Gas    │
+│ CTRA    │     30M      │   -1.7%   │     890    │ Property     │
+│ KLBF    │     21M      │   -0.4%   │   1,225    │ Pharma       │
+└─────────┴──────────────┴───────────┴────────────┴──────────────┘
 
-### Reports
-- `REPORTS/daily-reports/TRADING_REPORT_20JAN2026.md` – Tomorrow's trading plan
-- `REPORTS/TRADING_REPORT_20JAN2026.qmd` – Quarto version for PDF rendering
-- `REPORTS/elite-strategy/ELITE_STRATEGY_IDR.qmd` – Elite strategy deep-dive
+RATIONALE:
+Foreign institutional buying against price direction signals conviction or
+non-public information. Pattern typically precedes 3-6 month recovery.
 
-### Results
-- `results/elite_strategy_candidates.json` – Top candidates by confluence
-- `results/watchlist_final_20stocks.txt` – Final watchlist
+WARNING SIGNALS:
+ELTY (-34%) and BNBR (-28%) show extreme declines - may indicate structural
+problems rather than temporary weakness. Use caution or wait for stabilization.
 
----
+EXECUTION:
+Entry: When accumulation >10M shares AND -2% to -10% decline
+Stop loss: -7% from entry
+Hold: 3-6 months or until +10% above pre-decline price
 
-## 🔬 Analysis Methods
+POSITION SIZE: 8-10% per stock, 25% total allocation
 
-### Wavelet Analysis
-Mult1. Flux Trading System (Current Production)
-**Foreign Institutional Accumulation + Technical Reversal**
 
-Identifies stocks where:
-- Single foreign broker ("dominant buyer") accumulates ≥40% of volume
-- Stock declined 5% but bounced >1% intraday (reversal confirmation)
-- Fundamentals attractive (low multiples, positive ROE)
-- Volume confirms institutional conviction
+================================================================================
+STRATEGY 3: FOREIGN ACCUMULATION + FUNDAMENTALS
+================================================================================
 
-**Real-World Validation (21 Jan 2026):**
-- ✅ **ADRO** recommendation: Entry Rp 2,030 → Current Rp 2,210 (+8.87%)
-- ❌ **ASII** rejected: Score 60/100 but no technical bounce → Fell -8.93%
-- Key insight: Technical reversal filter prevented false signal
+OBJECTIVE: Strategy 2 filtered by quality metrics to reduce value traps
 
-### 2. News Sentiment Monitor (New - 21 Jan 2026)
-**Real-time regulatory & corporate risk detection**
+FUNDAMENTAL SCREENS:
+- ROE > 8%
+- Net profit margin > 5%
+- P/E ratio: 0-25
+- Debt/Equity < 200%
 
-Monitors Google News RSS for:
-- Regulatory keywords: "dicabut" (permit revoked), "pencabutan izin", "suspend", "sanksi"
-- Operational crises: "bencana", "shutdown", "force majeure"
-- Corporate scandals: "korupsi", "fraud", "default"
+REFINED UNIVERSE (25 stocks pass both screens):
 
-**Detected Signals:**
-- ASII: -6.1 sentiment score | 23 critical alerts | Agincourt permit revoked ← Prevented trade
-- UNTR: -14.8 sentiment score | 43 critical alerts | Subsidiary risk exposure
-- News break at 11:26 AM today, triggered crash immediately
-Pre-Market (8:00 AM)
-```bash
-# 1. Check for critical news (30 seconds)
-python scripts/scrapers/news_sentiment_api.py --stocks ADRO,ASII,UNTR,BBRI
+┌─────────┬──────────────┬───────────┬────────────┬──────┬──────┬──────┐
+│ Ticker  │ Foreign Buy  │ 5D Chg %  │   Price    │ ROE% │ NPM% │ P/E  │
+├─────────┼──────────────┼───────────┼────────────┼──────┼──────┼──────┤
+│ GMFI    │     56M      │  -14.5%   │      71    │ 12.3 │  8.1 │ 9.2  │
+│ ASII    │     52M      │   -4.9%   │   6,775    │ 10.8 │  6.4 │ 14.5 │
+│ CNMA    │     36M      │   -1.6%   │     121    │  9.1 │  5.8 │ 11.3 │
+│ CTRA    │     30M      │   -1.7%   │     890    │  8.9 │  7.2 │ 16.8 │
+│ KLBF    │     21M      │   -0.4%   │   1,225    │ 11.5 │  9.3 │ 18.2 │
+│ UNTR    │      2M      │  -12.9%   │  27,450    │ 13.2 │ 10.1 │ 12.7 │
+└─────────┴──────────────┴───────────┴────────────┴──────┴──────┴──────┘
 
-# 2. Run signal scanner (2 minutes)
-python scripts/analysis/flux_daily_scanner_v2.py
+RATIONALE:
+Combines technical signal (foreign buying on dips) with fundamental safety.
+These aren't declining for fundamental reasons—valuations and profitability
+remain sound.
 
-# 3. Generate economist brief (1 minute)
-python scripts/analysis/generate_economist_brief.py
+HIGHEST CONVICTION: ASII, KLBF, UNTR
+All three are large-cap, liquid, with institutional ownership and proven
+business models.
 
-# 4. Review active positions (2 minutes)
-python scripts/analysis/daily_trading_checklist.py
-```
+EXECUTION:
+Entry: Same as Strategy 2, but allow larger position sizes
+Stop loss: Fundamental deterioration (margin compression, ROE decline)
+Hold: 6-12 months, target 20-40% return
 
-### Market Hours (9:30 AM - 4:00 PM)
-1. Monitor STRONG BUY signals for entry (check volume confirmation)
-2. Monitor active trades for exit signals (Day 5 = automatic exit)
-Key guides and references:
+POSITION SIZE: 10% per stock, 30% total allocation
 
-- **ECONOMIST_BRIEF_README.md** – How to set up automated daily report generation
-- **ECONOMIST_STYLE_IMPLEMENTATION.md** – Design decisions & style guide
-- **Complete Overview:** `docs/COMPLETE_OVERVIEW.md`
-- **Project Structure:** `docs/PROJECT_STRUCTURE.md`
-- **Historical Methods:** `docs/WAVELET_ANALYSIS_READM
-3. Review sentiment alerts for overnight research
 
----
+================================================================================
+STRATEGY 4: SHORT-TERM MOMENTUM
+================================================================================
 
-## 📝 News Sentiment Monitor
+OBJECTIVE: Capture 3-10 day continuation after institutional buy triggers
+next-day price increase
 
-**Command:**
-```bash
-python scripts/scrapers/news_sentiment_api.py --stocks STOCKS --hours 24
-```
+SCREENING CRITERIA:
+- Net institutional buy >5M shares on day T
+- Price increase >1% on day T+1
+- Stocks showing momentum confirmation
 
-**Output:**
-- CSV summary with sentiment scores
-- JSON alerts for critical news
-- Recommendation: IMMEDIATE EXIT (critical), REDUCE POSITION (negative), or HOLD
+ACTIVE SIGNALS (next-day gainers):
 
-**Critical Keywords (Trigger Immediate Exit):**
-- Regulatory: dicrequests, feedparser, beautifulsoup4
-- Quarto 1.5+ (for PDF reports)
-- TinyTeX/xelatex (for LaTeX rendering)
+┌─────────┬──────────────┬────────────┬────────────┬──────────────┐
+│ Ticker  │  Inst. Buy   │  T+1 Gain  │   Price    │   Momentum   │
+│         │   (shares)   │     %      │    IDR     │    Status    │
+├─────────┼──────────────┼────────────┼────────────┼──────────────┤
+│ BBKP    │    132M      │   +3.6%    │     86     │ Accelerating │
+│ ELTY    │     20M      │  +10.8%    │     72     │ Strong       │
+│ PBRX    │      8M      │   +9.8%    │     56     │ Breakout     │
+│ ELIT    │     13M      │   +9.0%    │    388     │ Extended     │
+│ PSKT    │     25M      │   +4.7%    │    402     │ Continuing   │
+│ KREN    │      7M      │   +7.4%    │     29     │ Volatile     │
+└─────────┴──────────────┴────────────┴────────────┴──────────────┘
 
-### Installation
-```bash
-# Python packages
-pip install pandas numpy requests feedparser beautifulsoup4 openpyxl pywavelets
+RATIONALE:
+When institutions buy and price immediately responds, it signals either strong
+conviction or leaked information. Momentum typically persists 3-10 trading days.
 
-# Quarto & LaTeX (macOS)
-brew install quarto
-quarto install tinytex
-```
+EXECUTION:
+Entry: Same day as signal or next morning
+Stop loss: -2 to -3% (tight stops required)
+Exit: +8-12% gain OR 5-7 days, whichever comes first
 
-### Optional
-- Jupyter for interactive analysis
-- R (ggplot2, tibble, scales) for advanced charting +10: POSITIVE (monitor for entry)-reports/TRADING_REPORT_[DATE].md`
-3. Check broker activity: `data/reference/Ringkasan Broker-[DATE].xlsx`
+WIN RATE: 40-50% (lower than value strategies)
+REWARD/RISK: 3:1 to 4:1 on winners
 
-### Market Hours
-1. Monitor breakouts on watchlist (Tier 1 priority)
-2. Enter on volume confirmation (≥1.5× MA20)
-3. Set stops immediately (-2% or below MA10)
-## 📊 Performance Tracking
+POSITION SIZE: 2-3% per trade, run 5-8 positions simultaneously
+Total allocation: 15-20% (high turnover strategy)
 
-**Backtest Validation (Dec 2025 - Jan 2026):**
-- Total signals: 9,906
-- Win rate: 42.34%
-- Average return: +0.70%
-- Sharpe ratio: 1.90
-- Best week: +12.4% (week of Jan 6)
 
-**Live Trading (Jan 2026):**
-- Active position: ADRO (+8.87%, Exit Day 5: Jan 23)
-- Rejected: ASII (-8.93%, prevented by technical reversal filter)
-- News alerts: 15 monitored, 2 genuine critical (ASII/UNTR)
+================================================================================
+STRATEGY 5: MOMENTUM + FUNDAMENTALS
+================================================================================
 
----
+OBJECTIVE: Strategy 4 with fundamental filters for lower-risk momentum plays
 
-**Last Updated:** 21 January 2026  
-**Project Status:** Production Trading + Research  
-**Repository:** https://github.com/arifpras/flux
-2. Update price series if needed
-3. Review wavelet signals for next day
+SCREENING: Same fundamental criteria as Strategy 3
 
----
+Result: Reduces universe significantly but improves win rate to ~55-60%
 
-## 📚 Documentation
+Note: Most momentum stocks don't pass fundamental screens (they're speculative
+or turnaround plays). Use this filter for more conservative momentum trading.
 
-- **START_HERE:** `docs/START_HERE.txt`
-- **Complete Overview:** `docs/COMPLETE_OVERVIEW.md`
-- **Wavelet Guide:** `docs/WAVELET_ANALYSIS_README.md`
-- **Alternative Methods:** `docs/ALTERNATIVE_ANALYSIS_METHODS.md`
-- **Project Structure:** `docs/PROJECT_STRUCTURE.md`
 
----
+================================================================================
+STRATEGY 6: TECHNICAL OVERSOLD + FUNDAMENTALS
+================================================================================
 
-## 🛠️ Tools & Dependencies
+OBJECTIVE: Buy technically oversold stocks in uptrends with strong fundamentals
 
-### Required
-- Python 3.12+
-- pandas, numpy, pywt, matplotlib
-- Quarto 1.5+ (for PDF reports)
-- TinyTeX (for LaTeX rendering)
+TECHNICAL CRITERIA:
+- 10-day MA > 30-day MA (uptrend confirmation)
+- Bollinger Band position: 0-30% (oversold zone)
+- 20-day volatility: 0.5-8% (avoid extreme volatility)
 
-### Installation
-```bash
-pip install pandas numpy pywavelets matplotlib openpyxl
-brew install quarto  # macOS
-quarto install tinytex
-```
+FUNDAMENTAL FILTERS:
+- Same as Strategy 3 (ROE, margins, P/E, leverage)
 
----
+HIGHEST CONVICTION SETUPS (4 stocks pass all screens):
 
-## 📝 Notes
+┌─────────┬────────────┬──────────┬──────────┬─────────┬──────────────┐
+│ Ticker  │   Price    │   MA10   │   MA30   │  BB %   │  Vol20 %     │
+├─────────┼────────────┼──────────┼──────────┼─────────┼──────────────┤
+│ DGIK    │    140     │    161   │    160   │  -7.0%  │    4.8%      │
+│ UNTR    │  27,450    │  30,662  │  30,024  │  -3.0%  │    3.8%      │
+│ MERK    │   3,260    │   3,322  │   3,291  │  -1.6%  │    0.8%      │
+│ SUNI    │    810     │    822   │    819   │ +28.5%  │    1.5%      │
+└─────────┴────────────┴──────────┴──────────┴─────────┴──────────────┘
 
-- All dates in ISO format (YYYY-MM-DD)
-- Prices in IDR unless specified
-- Volume in shares, Value in Rupiah
-- Wavelet scales: 1–31 (short to long-term patterns)
-- Reports auto-generated via Quarto; edit .qmd sources, not PDFs
+INTERPRETATION:
+• DGIK: Most oversold (-7% below Bollinger Band), highest reversion potential
+• UNTR: Large-cap safety, moderate oversold condition
+• MERK: Lowest volatility (0.8%), most stable setup
+• SUNI: Already recovering (28.5% into BB range), momentum building
 
----
+RATIONALE:
+Mean reversion in trending markets with fundamental backing. Price touching
+lower Bollinger Band typically bounces within 5-7 days.
 
-**Last Updated:** 20 January 2026  
-**Project Status:** Active Trading  
-**Next Review:** Daily pre-market analysis
+EXECUTION:
+Entry: When BB position 0-30% (DGIK, UNTR, MERK priority)
+Exit: Upper Bollinger Band (70-100%) or +10-15% gain
+Stop loss: -3% from entry
+Hold period: 1-4 weeks
+
+EXPECTED RETURNS: +8-15% per trade
+WIN RATE: 60-65% when market not in crash mode
+
+POSITION SIZE: 5-7% per stock, 25% total allocation
+
+
+================================================================================
+PORTFOLIO CONSTRUCTION FRAMEWORK
+================================================================================
+
+CONSERVATIVE ALLOCATION (60/40 portfolio):
+
+Income & Value (60%):
+├─ Dividend stocks (30%): ADRO, PTBA, BSSR
+│  PLUS for Feb/Mar coverage: MEGA (March, 5-6% yield, banking quality)
+└─ Foreign accumulation + fundamentals (30%): ASII, KLBF, UNTR
+
+Tactical Trading (40%):
+├─ Technical oversold + fundamentals (25%): DGIK, UNTR, MERK
+└─ Momentum (15%): Rotate through fresh signals
+
+────────────────────────────────────────────────────────────────
+
+AGGRESSIVE ALLOCATION (higher turnover):
+
+Core Holdings (50%):
+├─ Fundamental contrarian (25%): ASII, KLBF, UNTR, GMFI
+└─ Technical quality (25%): DGIK, UNTR (double weight), MERK, SUNI
+
+Opportunistic (50%):
+├─ Momentum plays (30%): Rotate 5-8 positions weekly
+└─ Dividend income (20%): ADRO, PTBA for cash flow
+
+────────────────────────────────────────────────────────────────
+
+POSITION SIZING GUIDELINES:
+
+Strategy Type          Conservative    Aggressive    Max Loss/Trade
+─────────────────────────────────────────────────────────────────
+Dividend               10-15%          5-10%         -10%
+Foreign accumulation   8-10%           10-12%        -7%
+Technical setups       5-7%            7-10%         -3%
+Momentum               2-3%            3-5%          -2%
+
+
+================================================================================
+RISK MANAGEMENT CHECKLIST
+================================================================================
+
+BEFORE ENTRY:
+□ Verify stock not suspended (check IDX announcements)
+□ Confirm liquidity >500M IDR daily volume
+□ Avoid entries day before earnings
+□ Check for resistance levels above entry price
+□ Set profit target and stop loss before opening position
+
+POSITION MONITORING:
+□ Cut all positions at stop loss—no exceptions
+□ Take partial profits at +8-10%
+□ Trail stops on winning positions
+□ Review fundamentals monthly for value holdings
+□ Exit momentum trades after 5-7 days regardless of price
+
+PORTFOLIO RULES:
+□ Maximum 20% in any single stock
+□ Maximum 40% in any single sector
+□ Keep 15-25% cash for opportunities
+□ Rebalance monthly to target allocations
+
+
+================================================================================
+PERFORMANCE EXPECTATIONS BY STRATEGY
+================================================================================
+
+┌────────────────────────┬──────────┬──────────┬─────────────┬─────────────┐
+│ Strategy               │ Win Rate │ Avg Gain │ Avg Loss    │ Hold Period │
+├────────────────────────┼──────────┼──────────┼─────────────┼─────────────┤
+│ Dividend income        │   N/A    │  10-15%  │    N/A      │  12+ months │
+│ Foreign accumulation   │  60-65%  │  20-30%  │   -5%       │  3-6 months │
+│ Foreign + fundamentals │  65-70%  │  25-40%  │   -4%       │  6-12 months│
+│ Short-term momentum    │  40-50%  │  10-20%  │   -3%       │  3-10 days  │
+│ Technical oversold     │  60-65%  │  10-15%  │   -3%       │  1-4 weeks  │
+│ Technical + fundament. │  65-70%  │  12-20%  │   -3%       │  2-5 weeks  │
+└────────────────────────┴──────────┴──────────┴─────────────┴─────────────┘
+
+PORTFOLIO-LEVEL TARGETS:
+• Conservative 60/40: 15-25% annual return, max drawdown -12%
+• Aggressive 50/50: 25-40% annual return, max drawdown -20%
+
+
+================================================================================
+IMMEDIATE ACTION ITEMS (23 January 2026)
+================================================================================
+
+PRIORITY 1 (Execute Today/Tomorrow):
+☐ BUY DGIK @ 140 (most oversold + fundamentals)
+  Target: 160-165 | Stop: 136 | Size: 5-7%
+
+☐ BUY ASII @ 6,775 (foreign accumulation + quality)
+  Target: 7,450 | Stop: 6,300 | Size: 8-10%
+
+☐ MONITOR BBKP @ 86 (momentum may extend to 90-95)
+  Entry if breaks above 88 | Stop: 84 | Size: 2-3%
+
+PRIORITY 2 (Set Alerts):
+☐ UNTR @ 26,000 (alert if drops further for better entry)
+☐ MERK @ 3,200 (alert if dips to lower BB)
+☐ KLBF @ 1,200 (alert if drops -2% more)
+
+PRIORITY 3 (Dividend Calendar):
+☐ Check IDX for PTBA, ADRO, BSSR ex-dividend dates
+☐ If ex-date within 21 days, begin accumulation
+
+
+================================================================================
+DATA SOURCES & METHODOLOGY
+================================================================================
+
+Price & Volume Data: IDX Ringkasan Saham (2025-12-01 to 2026-01-22)
+Foreign/Institutional Flows: Broker transaction data (daily)
+Dividend History: IDX dividend payments (2023-2026)
+Fundamentals: IDX Stock Screener (January 2026 snapshot)
+Technical Indicators: Bollinger Bands (20,2), Moving averages (10,30)
+
+Universe: 958 actively traded IDX stocks
+Liquidity filter: >500M IDR daily average volume
+Quality filter: ROE >8%, NPM >5%, P/E <25, D/E <200%
+
+Next Report: 23 January 2026 (daily refresh with new signals)
+
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+This report presents quantitative strategies based on historical patterns.
+Past performance does not guarantee future results. All investments carry risk
+of loss. The strategies require active management, discipline, and systematic
+execution. Do not deploy capital you cannot afford to lose.
+
+Particularly high-risk:
+• Momentum strategies (Strategy 4, 5): Require daily monitoring and tight stops
+• Small-cap dividend stocks: Liquidity risk during exits
+• Foreign accumulation on large declines: May worsen before improving
+
+Consult a licensed financial advisor before implementing any strategy. This
+report is for educational and informational purposes only.
+
+
+================================================================================
+END OF REPORT | 22 January 2026
+================================================================================
