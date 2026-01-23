@@ -1,0 +1,194 @@
+{
+  "ADRO": {
+    "ticker": "ADRO",
+    "strategy": "Dividend Income",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "BSSR": {
+    "ticker": "BSSR",
+    "strategy": "Dividend Income",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "ITMG": {
+    "ticker": "ITMG",
+    "strategy": "Dividend Income",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "LPPF": {
+    "ticker": "LPPF",
+    "strategy": "Dividend Income",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "PTBA": {
+    "ticker": "PTBA",
+    "strategy": "Dividend Income",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "MEGA": {
+    "ticker": "MEGA",
+    "strategy": "Dividend Income (Feb/Mar)",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "CNMA": {
+    "ticker": "CNMA",
+    "strategy": "Foreign + Fundamentals",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "UNTR": {
+    "ticker": "UNTR",
+    "strategy": "Foreign + Fundamentals / Technical",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "ASII": {
+    "ticker": "ASII",
+    "strategy": "Foreign Accumulation",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "BKSL": {
+    "ticker": "BKSL",
+    "strategy": "Foreign Accumulation",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "BRMS": {
+    "ticker": "BRMS",
+    "strategy": "Foreign Accumulation",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "CTRA": {
+    "ticker": "CTRA",
+    "strategy": "Foreign Accumulation",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "ELTY": {
+    "ticker": "ELTY",
+    "strategy": "Foreign Accumulation",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "GMFI": {
+    "ticker": "GMFI",
+    "strategy": "Foreign Accumulation",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "KLBF": {
+    "ticker": "KLBF",
+    "strategy": "Foreign Accumulation",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "PTRO": {
+    "ticker": "PTRO",
+    "strategy": "Foreign Accumulation",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "BBKP": {
+    "ticker": "BBKP",
+    "strategy": "Momentum",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "ELIT": {
+    "ticker": "ELIT",
+    "strategy": "Momentum",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "KREN": {
+    "ticker": "KREN",
+    "strategy": "Momentum",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "PBRX": {
+    "ticker": "PBRX",
+    "strategy": "Momentum",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "PSKT": {
+    "ticker": "PSKT",
+    "strategy": "Momentum",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "DGIK": {
+    "ticker": "DGIK",
+    "strategy": "Technical Oversold",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "MERK": {
+    "ticker": "MERK",
+    "strategy": "Technical Oversold",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  },
+  "SUNI": {
+    "ticker": "SUNI",
+    "strategy": "Technical Oversold",
+    "sentiment": "CLEAN",
+    "risk_level": "LOW",
+    "news_count": 0,
+    "recommendation": "PROCEED - No negative news detected"
+  }
+}
