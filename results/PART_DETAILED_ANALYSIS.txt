@@ -1,0 +1,233 @@
+==================================================================================================================================
+DETAILED STOCK ANALYSIS: PART (Cipta Perdana Lancar Tbk.)
+Date: February 2, 2026
+==================================================================================================================================
+
+STOCK OVERVIEW
+==================================================================================================================================
+
+Company:                Cipta Perdana Lancar Tbk.
+Ticker:                 PART
+Previous Close:         121
+Feb 2 Close:            117
+Daily Change:           -4 (-3.31%) ⬇️
+High (Feb 2):           124
+Low (Feb 2):            116
+Trading Volume:         37,828,700 shares
+Trading Value:          IDR 4.54 Billion
+Trading Frequency:      1,262 trades
+
+FOREIGN ACTIVITY (KEY INDICATOR)
+─────────────────────────────────
+Foreign Buy:            4,853,200 shares  (12.8% of volume)
+Foreign Sell:           3,123,600 shares  (8.3% of volume)
+Net Foreign Buy:        +1,729,600 shares (+55% net buying by foreigners)
+
+⚠️ SIGNIFICANT: Despite 3.31% DECLINE on Feb 2, foreigners were NET BUYERS
+This suggests underlying confidence despite daily loss
+
+
+==================================================================================================================================
+BROKER ACTIVITY (Feb 2) - Top 3 Foreign Brokers
+==================================================================================================================================
+
+1. FS YUANTA SEKURITAS (BUY ONLY)
+   ─────────────────────────────────
+   Action:              BUY 80,750 shares
+   Average Entry:       121 IDR
+   Total Value:         IDR 977.1 Million
+   
+   Entry Quality Analysis:
+   • Bought at 121 (close was 117)
+   • Overpaid by 4 IDR (+3.42%)
+   • Bought at SAME PRICE as previous close
+   • Bought ABOVE the daily close
+   
+   ⚠️ ENTRY QUALITY: POOR - Bought at top of range, missed the Feb 2 decline
+
+2. BQ KOREA INVESTMENT (SELL ONLY)
+   ───────────────────────────────────
+   Action:              SELL 1 share
+   Average Exit:        119 IDR
+   Total Value:         IDR 0.01 Million
+   
+   Exit Quality Analysis:
+   • Sold at 119 (close was 117)
+   • Got +2 IDR above close (+1.71%)
+   • Minimal position (1 share - likely rounding/error)
+   
+   ⚠️ INSIGNIFICANT: Effectively not a real position
+
+3. DR RHB SEKURITAS (SELL ONLY)
+   ──────────────────────────────
+   Action:              SELL 192 shares
+   Average Exit:        117 IDR
+   Total Value:         IDR 2.2 Million
+   
+   Exit Quality Analysis:
+   • Sold at 117 (exact close price)
+   • Perfect exit at day's final price
+   • Small position (192 shares)
+   
+   ✓ EXIT QUALITY: GOOD - Exited at market close
+
+
+==================================================================================================================================
+BROKERAGE POSITIONING SUMMARY
+==================================================================================================================================
+
+Net Position by Broker:
+  • Yuanta:         +80,750 shares bought (LONG)
+  • Korea:          -1 shares sold (NEUTRAL)
+  • RHB:            -192 shares sold (NEUTRAL)
+  
+Overall Best 3 Brokers: LONG 80,557 shares net
+
+
+Timing Quality Assessment:
+  • Yuanta Buy:     POOR (overpaid at 121 vs close 117)
+  • Korea Sell:     N/A (minimal)
+  • RHB Sell:       GOOD (sold at close)
+
+
+==================================================================================================================================
+MARKET CONTEXT
+==================================================================================================================================
+
+Daily Price Action:
+  • Opened at 121 (same as previous close)
+  • Traded up to 124 (HIGH)
+  • Fell to 116 (LOW) - near bottom
+  • Closed at 117 - recovered partially from lows
+  • Net: -3.31% for the day
+
+Trading Behavior:
+  • 1,262 trades executed (active stock)
+  • High volume (37.8M shares)
+  • High volatility: 8-point range (124 to 116)
+  • This is a mid-cap stock with decent liquidity
+
+Foreign Participation:
+  • Foreigners bought 4.85M shares
+  • Foreigners sold 3.12M shares
+  • Net: Strong BUYING interest (+1.73M)
+  
+⚠️ PARADOX: Foreigners are NET BUYERS despite the 3.3% decline
+→ Suggests strategic accumulation on weakness
+
+
+==================================================================================================================================
+YUANTA'S SPECIFIC DECISION ANALYSIS
+==================================================================================================================================
+
+Yuanta Strategy on PART (Feb 2):
+─────────────────────────────────
+
+1. ENTRY TIMING:
+   • Bought at 121 (previous day close / day open)
+   • Stock then declined to 116 (-4.13% intraday loss)
+   • Closed at 117 (-3.31%)
+   
+   ✗ BAD TIMING: Entered at peak, missed entire decline
+
+2. ENTRY VOLUME:
+   • 80,750 shares = IDR 977.1M
+   • Represents SIGNIFICANT position for Yuanta
+   • This is Yuanta's 6th largest purchase on Feb 2 (out of 150 buys)
+   
+3. IMPLIED DECISION:
+   • Yuanta believed 121 was fair/undervalued
+   • Decided to accumulate despite previous close resistance
+   • Did NOT chase on weakness (closed at 117, didn't buy lower)
+   
+   ⚠️ IMPLICATION: Yuanta likely bought early in the day before the decline
+   → Suggests market had weakness that developed during the session
+
+
+==================================================================================================================================
+COMPARISON: YUANTA BUY vs MARKET PERFORMANCE
+==================================================================================================================================
+
+Yuanta Entry:         121 IDR at 80,750 shares
+Market Close:         117 IDR (same day)
+
+Unrealized Loss:      -3.31% in same day
+Mark-to-Market Loss:  IDR 32.3 Million (on 977.1M position)
+
+⚠️ CRITICAL: Yuanta is immediately underwater on this position
+─────────────────────────────────────────────────────────────────
+
+If we compare to Jan 30 analysis (when Yuanta had better research quality):
+• This PART purchase suggests slightly WEAKER entry decision on Feb 2
+• Possible: Yuanta followed market momentum, not value
+• Or: Market had unexpected weakness between Jan 30 and Feb 2
+
+
+==================================================================================================================================
+FOREIGN BROKER RESEARCH QUALITY ON PART
+==================================================================================================================================
+
+Broker      │ Action │ Qty     │ Price │ vs Close │ Quality │ Conviction
+─────────────┼────────┼─────────┼───────┼──────────┼─────────┼────────────
+Yuanta      │ Buy    │ 80,750  │ 121   │  +3.42%  │  ✗POOR  │   HIGH
+Korea       │ Sell   │ 1       │ 119   │  +1.71%  │  N/A    │   NONE
+RHB         │ Sell   │ 192     │ 117   │  0.00%   │  ✓GOOD  │   LOW
+
+Analysis:
+• Only Yuanta showed conviction (80K+ shares)
+• Yuanta's entry was timed poorly (peak vs close)
+• Korea & RHB are essentially exiting positions
+• Foreigners overall: NET BUYING (+1.73M shares) but at LOWER prices
+
+
+==================================================================================================================================
+KEY INSIGHTS
+==================================================================================================================================
+
+1. MARKET SIGNAL:
+   Despite PART declining -3.31%, foreign investors (excluding top 3) were
+   net buyers. This suggests international support at these levels.
+
+2. YUANTA'S DECISION:
+   The 977M purchase at 121 represents conviction in PART's fundamentals.
+   But the poor entry (3.42% above close) suggests Yuanta bought on momentum,
+   not value—a RARE weakness in their Jan 30-analyzed strategy.
+
+3. TIMING MISMATCH:
+   • If Yuanta bought at open (121): They caught the morning peak
+   • If Yuanta bought mid-day (121): They missed the decline to 116 (8 points)
+   • Standard execution: Likely bought early, before day's weakness developed
+
+4. RESEARCH QUALITY IMPLICATION:
+   Yuanta's typically excellent research (16,522 quality score) may not
+   extend to SAME-DAY trading decisions. The -3.31% loss vs others'
+   timing suggests macro market movements are harder to predict than
+   multi-day (Jan 30 → Feb 2) patterns.
+
+
+==================================================================================================================================
+CONCLUSIONS
+==================================================================================================================================
+
+On February 2, 2026:
+
+✓ POSITIVE: Yuanta showed conviction in PART (80K+ share purchase)
+✗ NEGATIVE: Entry timing was poor (bought at peak of 121)
+✓ POSITIVE: Overall foreign buying (+1.73M shares) suggests support
+✗ NEGATIVE: Yuanta's position immediately underwater (-3.31%)
+
+RATING FOR PART PURCHASE:
+• Research Quality:     MODERATE (picked up a stock, but timing poor)
+• Entry Quality:        POOR (3.42% above close)
+• Conviction:           HIGH (80K shares is significant)
+• Expected Outcome:     DEPENDS ON NEXT DAYS
+  - If PART rebounds above 121: Good decision
+  - If PART continues lower: Poor decision
+
+
+BROADER IMPLICATION:
+The Yuanta analysis highlights that broker quality on Jan 30 (for future
+outcomes) may differ from same-day trading decisions. Macro timing
+(day-to-day volatility) is harder than stock picking (multi-day analysis).
+
+==================================================================================================================================

@@ -1,0 +1,263 @@
+==================================================================================================================================
+PART HISTORICAL PROGRESSION: JAN 29 → FEB 3, 2026
+Impact of Yuanta's Feb 2 Purchase Decision
+==================================================================================================================================
+
+TIMELINE & PERFORMANCE METRICS
+==================================================================================================================================
+
+Period                    | 52-week | 26-week | 13-week | 4-week | MTD   | YTD
+──────────────────────────┼─────────┼─────────┼─────────┼────────┼───────┼───────
+JAN 29 (Before)           | +36.90% | -14.18% | -3.36%  | +6.48% | +5.50%| +5.50%
+FEB 3 (After, 3 days)     | +56.00% | -9.30%  | -11.36% | +1.74% | +0.00%| +7.34%
+─────────────────────────────────────────────────────────────────────────────────
+CHANGE (Jan 29 → Feb 3)   | +19.10% | +4.88%  | -8.00% | -4.74%| -5.50%| +1.83%
+Direction                 |    ↑    |    ↑    |    ↓    |   ↓   |  ↓   |   ↑
+
+
+KEY OBSERVATIONS BY TIME HORIZON
+==================================================================================================================================
+
+1. LONG-TERM (52-week): STRONG IMPROVEMENT
+   ─────────────────────────────────────────
+   Jan 29:  +36.90%
+   Feb 3:   +56.00%
+   Change:  +19.10% ↑
+   
+   INTERPRETATION:
+   → Strong multi-month rally accelerating between Jan 29 and Feb 3
+   → Stock gained 19 percentage points in 3 trading days
+   → This is VERY STRONG performance
+   → Suggests Jan 30 fundamentals caught attention of index funds/algorithms
+
+
+2. MID-TERM (26-week): IMPROVING
+   ───────────────────────────────
+   Jan 29:  -14.18%
+   Feb 3:   -9.30%
+   Change:  +4.88% ↑
+   
+   INTERPRETATION:
+   → 6-month weakness persists but stabilizing
+   → Gap closing between Jan 29 and Feb 3
+   → Reinforces "recovery" narrative
+
+
+3. MEDIUM-TERM (13-week): DETERIORATING
+   ──────────────────────────────────────
+   Jan 29:  -3.36%
+   Feb 3:   -11.36%
+   Change:  -8.00% ↓
+   
+   ⚠️ CRITICAL SIGNAL:
+   → 3-month performance WORSENED by 8% between Jan 29 and Feb 3
+   → This is the OPPOSITE of what you'd expect if stock is recovering
+   → Stock declined MORE over the recent 3-month period
+   → CONTRADICTS Yuanta's Feb 2 confidence
+
+
+4. SHORT-TERM (4-week): DETERIORATING
+   ───────────────────────────────────
+   Jan 29:  +6.48%
+   Feb 3:   +1.74%
+   Change:  -4.74% ↓
+   
+   INTERPRETATION:
+   → Jan 29: Stock was UP 6.48% in past month
+   → Feb 3: Stock is UP only 1.74% in past month
+   → Loss of 4.74% momentum in 3 trading days
+   → This is SIGNIFICANT deterioration in recent trend
+
+
+5. MONTH-TO-DATE (MTD): SHARPLY DETERIORATING
+   ──────────────────────────────────────────
+   Jan 29:  +5.50%
+   Feb 3:   +0.00%
+   Change:  -5.50% ↓
+   
+   ⚠️ CRITICAL:
+   → Stock was UP +5.50% as of Jan 29
+   → Stock was FLAT +0% as of Feb 3
+   → Lost ALL gains between Jan 29 and Feb 3
+   → Feb 1, 2, 3 trading was NET NEGATIVE
+   → Feb 2: Yuanta bought at 121, closed at 117 (-3.31%)
+
+
+6. YEAR-TO-DATE (YTD): STABLE IMPROVEMENT
+   ──────────────────────────────────────
+   Jan 29:  +5.50%
+   Feb 3:   +7.34%
+   Change:  +1.83% ↑
+   
+   INTERPRETATION:
+   → 2026 year-to-date is UP 7.34%
+   → Despite losing all Jan gains in Feb 1-3
+   → YTD improved anyway due to larger Jan gains or index adjustment
+
+
+==================================================================================================================================
+WHAT HAPPENED BETWEEN JAN 29 AND FEB 3?
+==================================================================================================================================
+
+YUANTA'S DECISION TIMELINE
+──────────────────────────
+
+JAN 29 (Wednesday, EOD):
+  ✓ Stock momentum: +6.48% (4-week), +5.50% (MTD)
+  ✓ Stock is UP for the month
+  ✓ Stock is recovering long-term (+36.90% YTD)
+  → Screener shows: Positive momentum
+
+JAN 30 (Thursday):
+  ? Trading activity (unknown from screeners, but this is when original brokers made decisions)
+  ? Possible that foreign brokers had high conviction based on positive momentum
+
+FEB 2 (Sunday) - WEEKEND BREAK - NO TRADING
+  (Market is closed Feb 1-2, opens Feb 3)
+
+FEB 2 (Sunday) Screenshots Analyzed:
+  → Yuanta BOUGHT 80,750 shares @ 121 IDR
+  → But the stock had only moved Jan 30 before close
+  → Yuanta likely buying based on Jan 30 momentum reading
+
+FEB 3 (Monday, EOD):
+  ✗ Stock momentum: +1.74% (4-week) - DOWN 4.74% from Jan 29
+  ✗ Stock is now FLAT for month (-5.50% from Jan 29)
+  ✗ Stock lost all month-to-date gains
+  → Screener shows: Momentum collapse
+
+WHAT CHANGED:
+─────────────
+The 4-week momentum collapsed -4.74% between Jan 29-30 and Feb 3.
+This suggests:
+1. Jan 30 was a top day for short-term buying
+2. Jan 31 - Feb 3 saw selling pressure
+3. By Feb 3, the positive Jan momentum had largely evaporated
+
+
+==================================================================================================================================
+CRITICAL TIMING ISSUE
+==================================================================================================================================
+
+YUANTA'S CHALLENGE:
+───────────────────
+
+Yuanta used Jan 29 screener data to make Feb 2 decision:
+  • Jan 29 showed: +6.48% (4-week), +5.50% (MTD) → POSITIVE
+  • Feb 3 result:   +1.74% (4-week), +0.00% (MTD) → NEGATIVE
+
+By the time Feb 3 screener was published, the decision was already "wrong":
+  ✗ 4-week momentum deteriorated -4.74%
+  ✗ MTD was now FLAT instead of +5.50%
+  ✗ 13-week deteriorated another -8%
+
+IMPLICATION:
+────────────
+The decision to buy on Feb 2 was made with Jan 29 information.
+But by Feb 3, that information was already outdated.
+The stock's actual trajectory from Jan 30 → Feb 3 turned NEGATIVE.
+
+
+==================================================================================================================================
+COMPARATIVE ANALYSIS
+==================================================================================================================================
+
+What if Yuanta had access to Feb 3 data on Feb 2?
+─────────────────────────────────────────────────
+
+Decision Quality Scorecard:
+  ✓ 52-week: +56% is still good (best long-term case)
+  ✓ YTD: +7.34% is still positive
+  ✓ 26-week: -9.30% is improving (better than -14%)
+  ✗ 13-week: -11.36% is worst in auto sector
+  ✗ 4-week: +1.74% has lost momentum
+  ✗ MTD: +0.00% is now flat
+
+With Feb 3 data: Grade = B- (still reasonable, but momentum concerns)
+With Jan 29 data: Grade = B+ (looked better before the decline)
+
+ACTUAL OUTCOME: Stock was -3.31% on Feb 2, so Yuanta's entry at 121 vs 117 close = C-
+
+
+==================================================================================================================================
+SECTOR PEER COMPARISON: JAN 29 vs FEB 3
+==================================================================================================================================
+
+PART vs Auto Parts Peers on Jan 29:
+───────────────────────────────────
+52-week rank (4-wk +6.48%):   #5 out of 15 auto parts stocks ✓ GOOD
+Position on Jan 29:           Positive momentum
+
+PART vs Auto Parts Peers on Feb 3:
+──────────────────────────────────
+52-week rank (4-wk +1.74%):   Unknown from this snippet
+Position on Feb 3:            Momentum collapsed
+
+Interpretation: Other auto parts stocks may have held momentum better
+
+
+==================================================================================================================================
+LESSONS FOR BROKER RESEARCH QUALITY
+==================================================================================================================================
+
+This timeline reveals a critical gap:
+
+JAN 29 INFORMATION:
+  • Screener shows positive momentum (+6.48% 4-week)
+  • Stock is UP for month (+5.50% MTD)
+  • 52-week recovery story intact (+36.90%)
+  → DECISION: BULLISH, BUY SIGNAL
+
+JAN 30-FEB 3 ACTUAL TRADING:
+  • Stock momentum deteriorated
+  • Stock lost all monthly gains
+  • 3-month performance worsened -8%
+  → ACTUAL: BEARISH, SELL SIGNAL
+
+YUANTA'S PROBLEM:
+─────────────────
+1. Made decision on Jan 29 data
+2. Executed on Feb 2 (market closed Jan 31-Feb 1)
+3. Market moved against momentum by Feb 3
+4. 4-week momentum collapsed -4.74% in just 3 trading days
+
+This is a TIMING PROBLEM, not a research problem:
+  • Stock selection was reasonable (long-term still strong)
+  • Execution was poor (bought at 121 vs 117 close)
+  • Information delay cost them (Jan 29 data became stale by Feb 3)
+
+
+==================================================================================================================================
+CONCLUSION
+==================================================================================================================================
+
+PART's Trajectory: JAN 29 → FEB 3
+
+                Jan 29              Feb 3           Verdict
+4-week Momentum    +6.48% (POSITIVE) → +1.74%  (DETERIORATED) ✗
+Monthly Gain       +5.50% (POSITIVE) → +0.00%  (FLAT)         ✗
+Long-term          +36.90% (STRONG)  → +56.00% (STRONGER)     ✓
+
+YUANTA'S BUY DECISION:
+─────────────────────
+✓ Justified by Jan 29 momentum data (+6.48%)
+✓ Part of valid auto parts recovery theme
+✗ Executed with poor timing (121 vs 117 close)
+✗ Decision became outdated by Feb 3 (momentum collapsed)
+
+RESEARCH QUALITY ASSESSMENT:
+────────────────────────────
+Information lag (Jan 29 → Feb 2) is unavoidable.
+But the -4.74% momentum collapse in 3 days suggests:
+
+1. YUANTA'S RESEARCH: Good (identified recovery theme correctly)
+2. YUANTA'S EXECUTION: Poor (bought at peak, didn't wait for close)
+3. YUANTA'S TIMING: Unlucky (Feb 1-3 reversed Jan 30 gains)
+
+Grade: C+ (Good stock idea, poor entry execution, bad timing luck)
+
+The original Jan 30 → Feb 2 analysis showed Yuanta as TOP PERFORMER (quality score 16,522).
+But Feb 2 → Feb 3 shows them missing the momentum collapse that happened immediately after.
+This suggests their FORWARD-LOOKING quality is excellent, but INTRADAY execution is weak.
+
+==================================================================================================================================

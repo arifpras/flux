@@ -1,0 +1,285 @@
+==================================================================================================================================
+DETAILED BROKER ANALYSIS: HD KGI
+Timeline: Decisions made on JAN 30 → Evaluated on FEB 2
+==================================================================================================================================
+
+BUY POSITIONS (What they bought on Jan 30)
+----------------------------------------------------------------------------------------------------------------------------------
+
+ANTM:
+  Shares:             8,055
+  Jan 30 Price:       IDR 4,219 per share
+  Jan 30 Total:       IDR 3,400,000,000
+  Feb 2 Price:        IDR 3,810 per share
+  Feb 2 Total Value:  IDR 30,689,550
+  Price Change:       -9.69%
+  Unrealized Loss:    IDR 3,369,310,450
+
+BBRI:
+  Shares:             8,841
+  Jan 30 Price:       IDR 3,819 per share
+  Jan 30 Total:       IDR 3,300,000,000
+  Feb 2 Price:        IDR 3,830 per share
+  Feb 2 Total Value:  IDR 33,861,030
+  Price Change:       +0.29%
+  Unrealized Loss:    IDR 3,266,138,970
+
+ATAP:
+  Shares:             24,378
+  Jan 30 Price:       IDR 895 per share
+  Jan 30 Total:       IDR 2,200,000,000
+  Feb 2 Price:        IDR 810 per share
+  Feb 2 Total Value:  IDR 19,746,180
+  Price Change:       -9.50%
+  Unrealized Loss:    IDR 2,180,253,820
+
+ASII:
+  Shares:             2,967
+  Jan 30 Price:       IDR 6,408 per share
+  Jan 30 Total:       IDR 1,900,000,000
+  Feb 2 Price:        IDR 6,275 per share
+  Feb 2 Total Value:  IDR 18,617,925
+  Price Change:       -2.08%
+  Unrealized Loss:    IDR 1,881,382,075
+
+ICBP:
+  Shares:             1,974
+  Jan 30 Price:       IDR 7,965 per share
+  Jan 30 Total:       IDR 1,600,000,000
+  Feb 2 Price:        IDR 8,375 per share
+  Feb 2 Total Value:  IDR 16,532,250
+  Price Change:       +5.15%
+  Unrealized Loss:    IDR 1,583,467,750
+
+BKSL:
+  Shares:             80,690
+  Jan 30 Price:       IDR 156 per share
+  Jan 30 Total:       IDR 1,200,000,000
+  Feb 2 Price:        IDR 129 per share
+  Feb 2 Total Value:  IDR 10,409,010
+  Price Change:       -17.31%
+  Unrealized Loss:    IDR 1,189,590,990
+
+RMKE:
+  Shares:             2,140
+  Jan 30 Price:       IDR 5,206 per share
+  Jan 30 Total:       IDR 1,100,000,000
+  Feb 2 Price:        IDR 4,830 per share
+  Feb 2 Total Value:  IDR 10,336,200
+  Price Change:       -7.22%
+  Unrealized Loss:    IDR 1,089,663,800
+
+PGEO:
+  Shares:             9,529
+  Jan 30 Price:       IDR 1,092 per share
+  Jan 30 Total:       IDR 1,000,000,000
+  Feb 2 Price:        IDR 1,120 per share
+  Feb 2 Total Value:  IDR 10,672,480
+  Price Change:       +2.56%
+  Unrealized Loss:    IDR 989,327,520
+
+KLBF:
+  Shares:             8,775
+  Jan 30 Price:       IDR 1,136 per share
+  Jan 30 Total:       IDR 998,500,000
+  Feb 2 Price:        IDR 1,140 per share
+  Feb 2 Total Value:  IDR 10,003,500
+  Price Change:       +0.35%
+  Unrealized Loss:    IDR 988,496,500
+
+RAJA:
+  Shares:             2,238
+  Jan 30 Price:       IDR 4,477 per share
+  Jan 30 Total:       IDR 981,800,000
+  Feb 2 Price:        IDR 3,680 per share
+  Feb 2 Total Value:  IDR 8,235,840
+  Price Change:       -17.80%
+  Unrealized Loss:    IDR 973,564,160
+
+RLCO:
+  Shares:             1,000
+  Jan 30 Price:       IDR 7,850 per share
+  Jan 30 Total:       IDR 785,000,000
+  Feb 2 Price:        IDR 7,075 per share
+  Feb 2 Total Value:  IDR 7,075,000
+  Price Change:       -9.87%
+  Unrealized Loss:    IDR 777,925,000
+
+UNTR:
+  Shares:             289
+  Jan 30 Price:       IDR 25,353 per share
+  Jan 30 Total:       IDR 732,300,000
+  Feb 2 Price:        IDR 24,450 per share
+  Feb 2 Total Value:  IDR 7,066,050
+  Price Change:       -3.56%
+  Unrealized Loss:    IDR 725,233,950
+
+INDY:
+  Shares:             2,150
+  Jan 30 Price:       IDR 3,316 per share
+  Jan 30 Total:       IDR 704,900,000
+  Feb 2 Price:        IDR 2,820 per share
+  Feb 2 Total Value:  IDR 6,063,000
+  Price Change:       -14.96%
+  Unrealized Loss:    IDR 698,837,000
+
+PSAB:
+  Shares:             12,500
+  Jan 30 Price:       IDR 555 per share
+  Jan 30 Total:       IDR 695,000,000
+  Feb 2 Price:        IDR 468 per share
+  Feb 2 Total Value:  IDR 5,850,000
+  Price Change:       -15.68%
+  Unrealized Loss:    IDR 689,150,000
+
+
+BUY SUMMARY:
+----------------------------------------------------------------------------------------------------------------------------------
+Total Stocks Bought:       14
+Total Invested (Jan 30):   IDR 20,597,500,000
+Total Value (Feb 2):       IDR 195,158,015
+Total Unrealized Loss:     IDR 20,402,341,985
+Average Loss per Stock:    -7.09%
+Worst Performing Stock:    RAJA (-17.80%)
+Best Performing Stock:     ICBP (5.15%)
+
+
+SELL POSITIONS (What they sold on Jan 30)
+----------------------------------------------------------------------------------------------------------------------------------
+
+BBCA:
+  Shares:             13,180
+  Jan 30 Price:       IDR 7,367 per share
+  Jan 30 Total:       IDR 9,700,000,000
+  Feb 2 Price:        IDR 7,600 per share
+  Avoided Loss:       IDR -3,070,940 (-3.07%)
+  Decision:           ✗ Should have held
+
+BMRI:
+  Shares:             4,632
+  Jan 30 Price:       IDR 4,781 per share
+  Jan 30 Total:       IDR 2,200,000,000
+  Feb 2 Price:        IDR 4,800 per share
+  Avoided Loss:       IDR -88,008 (-0.40%)
+  Decision:           ✗ Should have held
+
+MLPL:
+  Shares:             149,796
+  Jan 30 Price:       IDR 125 per share
+  Jan 30 Total:       IDR 1,900,000,000
+  Feb 2 Price:        IDR 107 per share
+  Avoided Loss:       IDR 2,696,328 (+16.82%)
+  Decision:           ✓ Smart Exit
+
+EMTK:
+  Shares:             18,155
+  Jan 30 Price:       IDR 917 per share
+  Jan 30 Total:       IDR 1,700,000,000
+  Feb 2 Price:        IDR 830 per share
+  Avoided Loss:       IDR 1,579,485 (+10.48%)
+  Decision:           ✓ Smart Exit
+
+TLKM:
+  Shares:             3,274
+  Jan 30 Price:       IDR 3,623 per share
+  Jan 30 Total:       IDR 1,200,000,000
+  Feb 2 Price:        IDR 3,500 per share
+  Avoided Loss:       IDR 402,702 (+3.51%)
+  Decision:           ✓ Smart Exit
+
+LPKR:
+  Shares:             100,102
+  Jan 30 Price:       IDR 101 per share
+  Jan 30 Total:       IDR 1,000,000,000
+  Feb 2 Price:        IDR 91 per share
+  Avoided Loss:       IDR 1,001,020 (+10.99%)
+  Decision:           ✓ Smart Exit
+
+BSML:
+  Shares:             37,692
+  Jan 30 Price:       IDR 265 per share
+  Jan 30 Total:       IDR 996,500,000
+  Feb 2 Price:        IDR 238 per share
+  Avoided Loss:       IDR 1,017,684 (+11.34%)
+  Decision:           ✓ Smart Exit
+
+MMIX:
+  Shares:             52,873
+  Jan 30 Price:       IDR 168 per share
+  Jan 30 Total:       IDR 885,500,000
+  Feb 2 Price:        IDR 186 per share
+  Avoided Loss:       IDR -951,714 (-9.68%)
+  Decision:           ✗ Should have held
+
+INDF:
+  Shares:             953
+  Jan 30 Price:       IDR 6,824 per share
+  Jan 30 Total:       IDR 651,200,000
+  Feb 2 Price:        IDR 7,025 per share
+  Avoided Loss:       IDR -191,553 (-2.86%)
+  Decision:           ✗ Should have held
+
+AADI:
+  Shares:             529
+  Jan 30 Price:       IDR 7,538 per share
+  Jan 30 Total:       IDR 401,100,000
+  Feb 2 Price:        IDR 8,075 per share
+  Avoided Loss:       IDR -284,073 (-6.65%)
+  Decision:           ✗ Should have held
+
+BUMI:
+  Shares:             9,755
+  Jan 30 Price:       IDR 260 per share
+  Jan 30 Total:       IDR 310,300,000
+  Feb 2 Price:        IDR 220 per share
+  Avoided Loss:       IDR 390,200 (+18.18%)
+  Decision:           ✓ Smart Exit
+
+CTRA:
+  Shares:             3,879
+  Jan 30 Price:       IDR 811 per share
+  Jan 30 Total:       IDR 308,100,000
+  Feb 2 Price:        IDR 810 per share
+  Avoided Loss:       IDR 3,879 (+0.12%)
+  Decision:           ✓ Smart Exit
+
+ISAT:
+  Shares:             1,289
+  Jan 30 Price:       IDR 2,243 per share
+  Jan 30 Total:       IDR 289,400,000
+  Feb 2 Price:        IDR 2,220 per share
+  Avoided Loss:       IDR 29,647 (+1.04%)
+  Decision:           ✓ Smart Exit
+
+BNBR:
+  Shares:             23,901
+  Jan 30 Price:       IDR 110 per share
+  Jan 30 Total:       IDR 263,200,000
+  Feb 2 Price:        IDR 92 per share
+  Avoided Loss:       IDR 430,218 (+19.57%)
+  Decision:           ✓ Smart Exit
+
+
+SELL SUMMARY:
+----------------------------------------------------------------------------------------------------------------------------------
+Total Stocks Sold:         14
+Total Sold (Jan 30):       IDR 21,805,300,000
+Total Avoided Loss:        IDR 2,964,875
+Average Avoided Loss %:    4.96%
+Best Sell Decision:        BNBR (+19.57%)
+Smart Exits:               9 out of 14 (64.3%)
+
+
+OVERALL STRATEGY ASSESSMENT
+==================================================================================================================================
+
+Total Buy Loss:            IDR 20,402,341,985
+Total Sell Gain (Avoided): IDR 2,964,875
+Net Position:              IDR -20,399,377,110
+
+Buy Decision Avg Return:   -7.09%
+Sell Decision Avg Return:  4.96%
+Overall Quality Score:     -1.07
+Research Quality Rating:   GOOD ★★
+
+✗ POOR STRATEGY: Losses exceeded gains from sells.

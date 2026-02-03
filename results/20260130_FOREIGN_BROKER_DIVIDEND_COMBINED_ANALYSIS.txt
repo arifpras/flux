@@ -3,6 +3,17 @@ FOREIGN BROKER BUYING + DIVIDEND ANALYSIS
 January 30, 2026 - Updated with February 2, 2026 Data
 ================================================================================
 
+⚠️  DATA QUALITY NOTE (February 2, 2026):
+    OCR extraction identified data quality issues in B.Avg (broker buy price) 
+    values for 6 stocks: BRIS, INDY, PSAB (OCR parsing errors) and BUMI, KLBF, 
+    MDIA (potential column swaps). These flagged records should be excluded from 
+    price return calculations. 
+    
+    Affected: Price return columns in analysis below
+    Not Affected: Broker activity rankings, dividend analysis, fundamental metrics
+    
+    See: DATA_QUALITY_REVISION_NOTICE.txt for details
+
 EXECUTIVE SUMMARY
 ================================================================================
 

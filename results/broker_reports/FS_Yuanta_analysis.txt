@@ -1,0 +1,319 @@
+==================================================================================================================================
+DETAILED BROKER ANALYSIS: FS Yuanta
+Timeline: Decisions made on JAN 30 → Evaluated on FEB 2
+==================================================================================================================================
+
+BUY POSITIONS (What they bought on Jan 30)
+----------------------------------------------------------------------------------------------------------------------------------
+
+BBRI:
+  Shares:             60,846
+  Jan 30 Price:       IDR 3,808 per share
+  Jan 30 Total:       IDR 23,200,000,000
+  Feb 2 Price:        IDR 3,830 per share
+  Feb 2 Total Value:  IDR 233,040,180
+  Price Change:       +0.58%
+  Unrealized Loss:    IDR 22,966,959,820
+
+ENRG:
+  Shares:             31,895
+  Jan 30 Price:       IDR 1,249 per share
+  Jan 30 Total:       IDR 4,000,000,000
+  Feb 2 Price:        IDR 1,105 per share
+  Feb 2 Total Value:  IDR 35,243,975
+  Price Change:       -11.53%
+  Unrealized Loss:    IDR 3,964,756,025
+
+ASII:
+  Shares:             2,553
+  Jan 30 Price:       IDR 6,405 per share
+  Jan 30 Total:       IDR 1,600,000,000
+  Feb 2 Price:        IDR 6,275 per share
+  Feb 2 Total Value:  IDR 16,020,075
+  Price Change:       -2.03%
+  Unrealized Loss:    IDR 1,583,979,925
+
+CDIA:
+  Shares:             12,495
+  Jan 30 Price:       IDR 1,223 per share
+  Jan 30 Total:       IDR 1,500,000,000
+  Feb 2 Price:        IDR 1,000 per share
+  Feb 2 Total Value:  IDR 12,495,000
+  Price Change:       -18.23%
+  Unrealized Loss:    IDR 1,487,505,000
+
+BBCA:
+  Shares:             1,704
+  Jan 30 Price:       IDR 7,239 per share
+  Jan 30 Total:       IDR 1,200,000,000
+  Feb 2 Price:        IDR 7,600 per share
+  Feb 2 Total Value:  IDR 12,950,400
+  Price Change:       +4.99%
+  Unrealized Loss:    IDR 1,187,049,600
+
+CTRA:
+  Shares:             10,790
+  Jan 30 Price:       IDR 809 per share
+  Jan 30 Total:       IDR 873,200,000
+  Feb 2 Price:        IDR 810 per share
+  Feb 2 Total Value:  IDR 8,739,900
+  Price Change:       +0.12%
+  Unrealized Loss:    IDR 864,460,100
+
+BANK:
+  Shares:             8,300
+  Jan 30 Price:       IDR 634 per share
+  Jan 30 Total:       IDR 526,200,000
+  Feb 2 Price:        IDR 585 per share
+  Feb 2 Total Value:  IDR 4,855,500
+  Price Change:       -7.73%
+  Unrealized Loss:    IDR 521,344,500
+
+NASI:
+  Shares:             32,255
+  Jan 30 Price:       IDR 143 per share
+  Jan 30 Total:       IDR 472,900,000
+  Feb 2 Price:        IDR 139 per share
+  Feb 2 Total Value:  IDR 4,483,445
+  Price Change:       -2.80%
+  Unrealized Loss:    IDR 468,416,555
+
+BREN:
+  Shares:             500
+  Jan 30 Price:       IDR 8,443 per share
+  Jan 30 Total:       IDR 420,000,000
+  Feb 2 Price:        IDR 8,325 per share
+  Feb 2 Total Value:  IDR 4,162,500
+  Price Change:       -1.40%
+  Unrealized Loss:    IDR 415,837,500
+
+PGAS:
+  Shares:             1,800
+  Jan 30 Price:       IDR 2,123 per share
+  Jan 30 Total:       IDR 381,300,000
+  Feb 2 Price:        IDR 2,180 per share
+  Feb 2 Total Value:  IDR 3,924,000
+  Price Change:       +2.68%
+  Unrealized Loss:    IDR 377,376,000
+
+CPRO:
+  Shares:             50,000
+  Jan 30 Price:       IDR 65 per share
+  Jan 30 Total:       IDR 325,000,000
+  Feb 2 Price:        IDR 62 per share
+  Feb 2 Total Value:  IDR 3,100,000
+  Price Change:       -4.62%
+  Unrealized Loss:    IDR 321,900,000
+
+LSIP:
+  Shares:             2,800
+  Jan 30 Price:       IDR 1,160 per share
+  Jan 30 Total:       IDR 324,200,000
+  Feb 2 Price:        IDR 1,145 per share
+  Feb 2 Total Value:  IDR 3,206,000
+  Price Change:       -1.29%
+  Unrealized Loss:    IDR 320,994,000
+
+MLPL:
+  Shares:             25,770
+  Jan 30 Price:       IDR 123 per share
+  Jan 30 Total:       IDR 317,700,000
+  Feb 2 Price:        IDR 107 per share
+  Feb 2 Total Value:  IDR 2,757,390
+  Price Change:       -13.01%
+  Unrealized Loss:    IDR 314,942,610
+
+ESSA:
+  Shares:             4,550
+  Jan 30 Price:       IDR 669 per share
+  Jan 30 Total:       IDR 304,900,000
+  Feb 2 Price:        IDR 585 per share
+  Feb 2 Total Value:  IDR 2,661,750
+  Price Change:       -12.56%
+  Unrealized Loss:    IDR 302,238,250
+
+ASRI:
+  Shares:             19,218
+  Jan 30 Price:       IDR 154 per share
+  Jan 30 Total:       IDR 296,000,000
+  Feb 2 Price:        IDR 153 per share
+  Feb 2 Total Value:  IDR 2,940,354
+  Price Change:       -0.65%
+  Unrealized Loss:    IDR 293,059,646
+
+CUAN:
+  Shares:             1,400
+  Jan 30 Price:       IDR 1,760 per share
+  Jan 30 Total:       IDR 246,400,000
+  Feb 2 Price:        IDR 1,530 per share
+  Feb 2 Total Value:  IDR 2,142,000
+  Price Change:       -13.07%
+  Unrealized Loss:    IDR 244,258,000
+
+
+BUY SUMMARY:
+----------------------------------------------------------------------------------------------------------------------------------
+Total Stocks Bought:       16
+Total Invested (Jan 30):   IDR 35,987,800,000
+Total Value (Feb 2):       IDR 352,722,469
+Total Unrealized Loss:     IDR 35,635,077,531
+Average Loss per Stock:    -5.03%
+Worst Performing Stock:    CDIA (-18.23%)
+Best Performing Stock:     BBCA (4.99%)
+
+
+SELL POSITIONS (What they sold on Jan 30)
+----------------------------------------------------------------------------------------------------------------------------------
+
+PBSA:
+  Shares:             31,070
+  Jan 30 Price:       IDR 1,591 per share
+  Jan 30 Total:       IDR 4,700,000,000
+  Feb 2 Price:        IDR 1,500 per share
+  Avoided Loss:       IDR 2,827,370 (+6.07%)
+  Decision:           ✓ Smart Exit
+
+BUMI:
+  Shares:             174,346
+  Jan 30 Price:       IDR 260 per share
+  Jan 30 Total:       IDR 45,000,000,000
+  Feb 2 Price:        IDR 220 per share
+  Avoided Loss:       IDR 6,973,840 (+18.18%)
+  Decision:           ✓ Smart Exit
+
+BMRI:
+  Shares:             7,210
+  Jan 30 Price:       IDR 4,742 per share
+  Jan 30 Total:       IDR 3,400,000,000
+  Feb 2 Price:        IDR 4,800 per share
+  Avoided Loss:       IDR -418,180 (-1.21%)
+  Decision:           ✗ Should have held
+
+BSML:
+  Shares:             79,000
+  Jan 30 Price:       IDR 268 per share
+  Jan 30 Total:       IDR 2,100,000,000
+  Feb 2 Price:        IDR 238 per share
+  Avoided Loss:       IDR 2,370,000 (+12.61%)
+  Decision:           ✓ Smart Exit
+
+TLKM:
+  Shares:             5,005
+  Jan 30 Price:       IDR 3,595 per share
+  Jan 30 Total:       IDR 1,800,000,000
+  Feb 2 Price:        IDR 3,500 per share
+  Avoided Loss:       IDR 475,475 (+2.71%)
+  Decision:           ✓ Smart Exit
+
+PTRO:
+  Shares:             908
+  Jan 30 Price:       IDR 7,833 per share
+  Jan 30 Total:       IDR 738,600,000
+  Feb 2 Price:        IDR 6,000 per share
+  Avoided Loss:       IDR 1,664,364 (+30.55%)
+  Decision:           ✓ Smart Exit
+
+DGNS:
+  Shares:             15,000
+  Jan 30 Price:       IDR 296 per share
+  Jan 30 Total:       IDR 444,200,000
+  Feb 2 Price:        IDR 270 per share
+  Avoided Loss:       IDR 390,000 (+9.63%)
+  Decision:           ✓ Smart Exit
+
+GOTO:
+  Shares:             68,100
+  Jan 30 Price:       IDR 64 per share
+  Jan 30 Total:       IDR 434,000,000
+  Feb 2 Price:        IDR 61 per share
+  Avoided Loss:       IDR 204,300 (+4.92%)
+  Decision:           ✓ Smart Exit
+
+LAPD:
+  Shares:             20,621
+  Jan 30 Price:       IDR 121 per share
+  Jan 30 Total:       IDR 249,100,000
+  Feb 2 Price:        IDR 113 per share
+  Avoided Loss:       IDR 164,968 (+7.08%)
+  Decision:           ✓ Smart Exit
+
+PGEO:
+  Shares:             2,010
+  Jan 30 Price:       IDR 1,085 per share
+  Jan 30 Total:       IDR 214,300,000
+  Feb 2 Price:        IDR 1,120 per share
+  Avoided Loss:       IDR -70,350 (-3.12%)
+  Decision:           ✗ Should have held
+
+CBDK:
+  Shares:             297
+  Jan 30 Price:       IDR 6,086 per share
+  Jan 30 Total:       IDR 187,300,000
+  Feb 2 Price:        IDR 4,980 per share
+  Avoided Loss:       IDR 328,482 (+22.21%)
+  Decision:           ✓ Smart Exit
+
+MORA:
+  Shares:             103
+  Jan 30 Price:       IDR 13,575 per share
+  Jan 30 Total:       IDR 141,200,000
+  Feb 2 Price:        IDR 9,925 per share
+  Avoided Loss:       IDR 375,950 (+36.78%)
+  Decision:           ✓ Smart Exit
+
+BRMS:
+  Shares:             1,193
+  Jan 30 Price:       IDR 1,080 per share
+  Jan 30 Total:       IDR 129,000,000
+  Feb 2 Price:        IDR 920 per share
+  Avoided Loss:       IDR 190,880 (+17.39%)
+  Decision:           ✓ Smart Exit
+
+BIPI:
+  Shares:             5,010
+  Jan 30 Price:       IDR 196 per share
+  Jan 30 Total:       IDR 98,200,000
+  Feb 2 Price:        IDR 167 per share
+  Avoided Loss:       IDR 145,290 (+17.37%)
+  Decision:           ✓ Smart Exit
+
+TOBA:
+  Shares:             1,200
+  Jan 30 Price:       IDR 715 per share
+  Jan 30 Total:       IDR 86,300,000
+  Feb 2 Price:        IDR 620 per share
+  Avoided Loss:       IDR 114,000 (+15.32%)
+  Decision:           ✓ Smart Exit
+
+MPPA:
+  Shares:             10,100
+  Jan 30 Price:       IDR 54 per share
+  Jan 30 Total:       IDR 54,500,000
+  Feb 2 Price:        IDR 51 per share
+  Avoided Loss:       IDR 30,300 (+5.88%)
+  Decision:           ✓ Smart Exit
+
+
+SELL SUMMARY:
+----------------------------------------------------------------------------------------------------------------------------------
+Total Stocks Sold:         16
+Total Sold (Jan 30):       IDR 59,776,700,000
+Total Avoided Loss:        IDR 15,766,689
+Average Avoided Loss %:    12.65%
+Best Sell Decision:        MORA (+36.78%)
+Smart Exits:               14 out of 16 (87.5%)
+
+
+OVERALL STRATEGY ASSESSMENT
+==================================================================================================================================
+
+Total Buy Loss:            IDR 35,635,077,531
+Total Sell Gain (Avoided): IDR 15,766,689
+Net Position:              IDR -35,619,310,842
+
+Buy Decision Avg Return:   -5.03%
+Sell Decision Avg Return:  12.65%
+Overall Quality Score:     3.81
+Research Quality Rating:   EXCELLENT ★★★
+
+✗ POOR STRATEGY: Losses exceeded gains from sells.

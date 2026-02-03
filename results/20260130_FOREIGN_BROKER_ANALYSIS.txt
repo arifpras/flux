@@ -1,0 +1,104 @@
+================================================================================
+FOREIGN BROKER BUYING ACTIVITY - JANUARY 30, 2026
+================================================================================
+
+Based on analysis of 24 broker activity screenshots from Jan 30, 2026
+
+⚠️  DATA QUALITY NOTE (Feb 2, 2026):
+    OCR extraction identified data quality issues in B.Avg price values for:
+    BRIS, INDY, PSAB, BUMI, KLBF, MDIA - See DATA_QUALITY_REVISION_NOTICE.txt
+    Broker activity rankings (who bought what) remain valid.
+
+SUMMARY OF FINDINGS
+================================================================================
+
+TOP 3 MOST BOUGHT STOCKS:
+--------------------------------------------------------------------------------
+
+1. BUMI (PT Bumi Resources Tbk) - Coal Mining
+   - Bought by: 11 foreign brokers
+   - Most active brokers: Kiwoom, UBS, Korea Investment, KB Valbury, DBS Vickers,
+     RHB, Phillip, Reliance, OCBC, Maybank, Macquarie
+
+   PRICE DATA (B.Avg from broker screenshots):
+   - Range across brokers: IDR 256–264 per share
+   - Examples:
+     * Kiwoom Sekuritas: IDR 259
+     * Korea Investment: IDR 257
+
+
+2. CUAN (PT Petrindo Jaya Kreasi Tbk)
+   - Bought by: 10 foreign brokers
+   - Brokers include: Mirae Asset, Korea Investment, KB Valbury, RHB, Phillip,
+     Reliance, NH Korindo, and others
+
+   PRICE DATA:
+   - Korea Investment: IDR 1,827 per share (B.Avg)
+
+
+3. ADRO (PT Adaro Energy Indonesia Tbk) - Coal Mining
+   - Bought by: 9 foreign brokers
+   - Brokers include: Mirae Asset, Kiwoom, RHB, Webull, KGI, Phillip,
+     Maybank, OCBC, and CLSA
+
+   PRICE DATA:
+   - Range across brokers: IDR 2,215–2,238 per share
+
+================================================================================
+
+OTHER NOTABLE STOCKS HEAVILY BOUGHT:
+--------------------------------------------------------------------------------
+
+4. MEDC - 8 brokers  (PT Medco Energi International Tbk - Energy)
+5. RMKE - 8 brokers  (PT Ristia Bintang Mahkotasejati Tbk)
+6. BBRI - 8 brokers  (PT Bank Rakyat Indonesia Tbk - Banking)
+7. PTRO - 6 brokers  (PT Petrosea Tbk - Mining Services)
+8. INDY - 5 brokers  (PT Indika Energy Tbk - Energy)
+9. ANTM - 7 brokers  (PT Aneka Tambang Tbk - Diversified Mining)
+10. BRMS - 7 brokers (PT Bumi Resources Minerals Tbk - Mining)
+
+================================================================================
+
+FOREIGN BROKERS THAT LED THE MARKET (2026-01-26 to 2026-01-30)
+--------------------------------------------------------------------------------
+
+Leading foreign brokers by total transaction value across:
+data/reference/Broker Summary-20260126.xlsx ... 20260130.xlsx
+
+1) AK  UBS Sekuritas Indonesia                 ~44.91T
+2) ZP  Maybank Sekuritas Indonesia             ~31.29T
+3) YU  CGS International Sekuritas Indonesia  ~26.88T
+4) YP  Mirae Asset Sekuritas Indonesia         ~25.08T
+5) BK  J.P. Morgan Sekuritas Indonesia         ~20.49T
+6) CP  KB Valbury Sekuritas                    ~14.44T
+7) KZ  CLSA Sekuritas Indonesia                ~9.20T
+8) RX  Macquarie Sekuritas Indonesia           ~6.03T
+9) KK  Phillip Sekuritas Indonesia             ~5.78T
+
+================================================================================
+
+KEY OBSERVATIONS:
+--------------------------------------------------------------------------------
+
+1. Coal & Mining Dominance: The top foreign buying was concentrated in
+   coal and mining stocks (BUMI, ADRO, ANTM, BRMS), suggesting foreign
+   investors were bullish on the commodities sector on Jan 30.
+
+2. BUMI Clear Winner: BUMI (Bumi Resources) was the most actively bought
+   stock across foreign brokers, with 11 different foreign firms accumulating.
+
+3. Price Levels (B.Avg):
+   - BUMI: IDR 256–264
+   - CUAN: IDR 1,759–1,827
+   - ADRO: IDR 2,215–2,238
+
+4. Big Four Banks: Major banks (BBRI, BBCA, BMRI, BBNI) were also among
+   top buys, appearing in 6–8 foreign brokers' buy lists.
+
+5. Total Foreign Brokers Analyzed: 23 unique foreign securities firms
+
+================================================================================
+Report Date: February 2, 2026
+Data Source: Stockbit broker activity screenshots + broker summary Excel files
+Analysis Method: OCR + manual verification + broker-summary aggregation
+================================================================================

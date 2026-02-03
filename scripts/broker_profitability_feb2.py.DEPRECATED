@@ -1,0 +1,130 @@
+import re
+from pathlib import Path
+import pandas as pd
+
+BROKERS_DIR = Path("brokers")
+FEB2_PATH = Path("data/reference/Stock Summary-20260202.xlsx")
+
+
+def parse_broker_file(path: Path):
+    text = path.read_text(errors="ignore")
+    lines = [l.strip() for l in text.splitlines()]
+
+    # Broker name: line containing 'Sekuritas' or 'Securities'
+    broker_name = None
+    for l in lines[:20]:
+        if "Sekuritas" in l or "Securities" in l:
+            broker_name = l
+            break
+
+    if not broker_name:
+        # fallback: first non-empty line after "Broker Activity"
+        for i, l in enumerate(lines):
+            if l.lower().strip() == "broker activity":
+                for j in range(i + 1, min(i + 10, len(lines))):
+                    if lines[j]:
+                        broker_name = lines[j]
+                        break
+                if broker_name:
+                    break
+
+    broker_name = broker_name or path.stem
+
+    # Extract buy stocks list between "Buy" and "B.Val" (or "Sell")
+    buy_stocks = []
+    buy_section = False
+    for l in lines:
+        if l.lower() == "buy":
+            buy_section = True
+            continue
+        if buy_section:
+            if "b.val" in l.lower() or l.lower().startswith("sell"):
+                break
+            for code in re.findall(r"\b[A-Z]{4}\b", l):
+                buy_stocks.append(code)
+
+    # Extract B.Avg numbers: after "B.Avg" line until "Allinvestor" or "Sell" or "S.Val"
+    bavg_vals = []
+    bavg_section = False
+    for l in lines:
+        if l.lower().startswith("b.avg"):
+            bavg_section = True
+            nums = re.findall(r"\d[\d,\.]*", l)
+            bavg_vals.extend(nums)
+            continue
+        if bavg_section:
+            if "allinvestor" in l.lower() or l.lower().startswith("sell") or l.lower().startswith("s.val"):
+                break
+            nums = re.findall(r"\d[\d,\.]*", l)
+            bavg_vals.extend(nums)
+
+    clean_bavg = []
+    for n in bavg_vals:
+        n = n.replace(",", "")
+        try:
+            clean_bavg.append(float(n))
+        except ValueError:
+            pass
+
+    # Align lengths (OCR noise)
+    if len(clean_bavg) < len(buy_stocks):
+        buy_stocks = buy_stocks[:len(clean_bavg)]
+    elif len(clean_bavg) > len(buy_stocks):
+        clean_bavg = clean_bavg[:len(buy_stocks)]
+
+    buys = list(zip(buy_stocks, clean_bavg))
+    return broker_name, buys
+
+
+def main():
+    # Load Feb 2 prices
+    feb2 = pd.read_excel(FEB2_PATH, sheet_name=0)
+    price_map = dict(zip(feb2["Stock Code"], feb2["Close"]))
+
+    results = []
+    for path in sorted(BROKERS_DIR.glob("*.txt")):
+        broker, buys = parse_broker_file(path)
+        if not buys:
+            continue
+        for stock, bavg in buys:
+            feb2_price = price_map.get(stock)
+            if pd.isna(feb2_price):
+                continue
+            change = feb2_price - bavg
+            pct = (change / bavg) * 100 if bavg else None
+            results.append({
+                "broker": broker,
+                "stock": stock,
+                "bavg": bavg,
+                "feb2_price": feb2_price,
+                "change": change,
+                "pct": pct,
+            })
+
+    if not results:
+        print("No broker data parsed.")
+        return
+
+    df = pd.DataFrame(results)
+    summary = df.groupby("broker").agg(
+        total_buys=("stock", "count"),
+        profitable=("pct", lambda s: (s > 0).sum()),
+        losing=("pct", lambda s: (s <= 0).sum()),
+        avg_return=("pct", "mean"),
+    ).reset_index()
+
+    profitable_brokers = summary[summary["avg_return"] > 0].sort_values("avg_return", ascending=False)
+
+    print("Brokers with positive average return (Jan30 B.Avg -> Feb2 Close):")
+    print(profitable_brokers.to_string(index=False))
+
+    out = Path("results/broker_profitability_feb2.csv")
+    summary_out = Path("results/broker_profitability_summary_feb2.csv")
+    df.to_csv(out, index=False)
+    summary.to_csv(summary_out, index=False)
+    print(f"\nSaved detailed results: {out}")
+    print(f"Saved summary: {summary_out}")
+
+
+if __name__ == "__main__":
+    main()

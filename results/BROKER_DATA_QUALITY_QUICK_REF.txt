@@ -1,0 +1,67 @@
+# QUICK REFERENCE - Broker Data Quality Issues
+
+## The Problem (TL;DR)
+OCR parsing of broker screenshots introduced errors in average buy prices (B.Avg) for 6 stocks, inflating/deflating returns unrealistically.
+
+## Affected Stocks (EXCLUDE from price analysis)
+```
+PSAB  - B.Avg=2          → should be ~468      (23,300% error)
+BRIS  - B.Avg=98         → should be ~2,250    (2,196% error)
+INDY  - B.Avg=133        → should be ~2,820    (2,020% error)
+BUMI  - B.Avg=2,230      → should be ~220      (values swapped)
+KLBF  - B.Avg=7,928      → should be ~1,140    (values swapped)
+MDIA  - B.Avg=1,732      → should be ~52       (values swapped)
+```
+
+## Documents to Read
+1. **Quick:** This file (you are here)
+2. **Standard:** `DATA_QUALITY_REVISION_NOTICE.txt` (results/)
+3. **Technical:** `OCR_ERROR_REPORT.md` (root)
+4. **Summary:** `REVISION_SUMMARY.md` (root)
+
+## What to Do
+
+### If using broker profitability data:
+- Use `broker_profitability_feb2_FLAGGED.csv` instead of original
+- Filter where `data_quality_flag == 'OK'`
+- This removes all problematic records
+
+### If reading these reports:
+- Still valid: Broker rankings, dividend analysis, fundamentals
+- Use caution: Price returns, profitability metrics
+- Skip: Conclusions about PSAB, BRIS, INDY, BUMI, KLBF, MDIA returns
+
+### If doing new analysis:
+- Exclude 6 flagged stocks from price movement calculations
+- Flag other "extreme" returns (>500% or <-75%) for manual review
+- Implement validation: Cross-check against market data
+
+## Files Updated
+✓ `20260130_FOREIGN_BROKER_ANALYSIS.txt` - Added warning
+✓ `20260130_FOREIGN_BROKER_DIVIDEND_COMBINED_ANALYSIS.txt` - Added warning
+
+## New Files Created
+✓ `OCR_ERROR_REPORT.md` - Technical analysis
+✓ `DATA_QUALITY_REVISION_NOTICE.txt` - Official assessment
+✓ `REVISION_SUMMARY.md` - Summary with recommendations
+✓ `broker_profitability_feb2_FLAGGED.csv` - Corrected data
+✓ `BROKER_DATA_QUALITY_QUICK_REF.txt` - This file
+
+## Question: Can I still use this data?
+**Yes, but carefully:**
+- Broker activity analysis: ✓ Yes, completely valid
+- Fundamental metrics: ✓ Yes, completely valid
+- Dividend analysis: ✓ Yes, completely valid
+- Price returns: ✗ No, exclude 6 flagged stocks
+- Return summary stats: ⚠️ Use flagged CSV only
+
+## Next Fix
+The OCR parsing script (`scripts/broker_profitability_feb2.py`) needs improvement:
+- Add outlier detection
+- Implement sanity checks on price ranges
+- Cross-validate against market data
+- Manual review for high-impact values
+
+---
+**Report Date:** February 2, 2026  
+**Analysis:** Complete | **Revisions:** Complete | **Action Items:** Pending

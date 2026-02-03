@@ -1,0 +1,130 @@
+================================================================================
+DATA QUALITY ASSESSMENT & REVISION NOTICE
+Broker Profitability Analysis - February 2, 2026
+================================================================================
+
+ISSUE IDENTIFIED:
+Data quality issues were discovered in OCR-extracted broker B.Avg (average 
+buy price) values when compared against Feb 2, 2026 market prices.
+
+================================================================================
+FLAGGED RECORDS - SUMMARY
+================================================================================
+
+Total Records Analyzed: 350
+Records Flagged for Review: 13 (3.7%)
+
+BREAKDOWN BY FLAG TYPE:
+
+1. OCR_ERROR_BAVG (3 records):
+   - BRIS: B.Avg=98 (impossible, should be ~2250)
+   - INDY: B.Avg=133 (missing digits, should be ~2820)
+   - PSAB: B.Avg=2 (impossible, should be ~468)
+   
+   Impact: These show unrealistic returns of 2,000%+ due to parsing errors
+
+2. POTENTIAL_COLUMN_SWAP (3 records):
+   - BUMI: Shows -90% loss (B.Avg=2230 vs Feb2=220)
+   - KLBF: Shows -86% loss (B.Avg=7928 vs Feb2=1140)
+   - MDIA: Shows -97% loss (B.Avg=1732 vs Feb2=52)
+   
+   Impact: Values appear reversed; actual returns likely ~0% or small
+
+3. EXTREME_POSITIVE_RETURN (5 records):
+   - DSSA: +7,928% (needs verification)
+   - BRIS: +2,196% (OCR error flagged above)
+   - INDY: +2,020% (OCR error flagged above)
+   - UNTR x2: +638-639% (need market validation)
+   - Multiple others: >500% (need verification)
+   
+   Impact: Likely real movements but require market data confirmation
+
+4. EXTREME_NEGATIVE_RETURN (2 records):
+   - BRPT: -75% (needs verification)
+   - PWON: -83% (needs verification)
+   
+   Impact: May be legitimate or indicate parsing issues
+
+================================================================================
+RECOMMENDED ACTIONS
+================================================================================
+
+IMMEDIATE (HIGH PRIORITY):
+
+1. EXCLUDE from analysis or clearly mark as "DATA QUALITY ISSUE":
+   ✗ BRIS  (G! Webull) - OCR error
+   ✗ INDY  (HD KGI) - OCR error  
+   ✗ PSAB  (HD KGI) - OCR error
+   ✗ BUMI  (G! Webull) - Likely column swap
+   ✗ KLBF  (KZ CLSA) - Likely column swap
+   ✗ MDIA  (RB Ina) - Likely column swap
+
+2. FLAG in all reports that reference these records:
+   - 20260130_FOREIGN_BROKER_ANALYSIS.txt
+   - 20260130_FOREIGN_BROKER_DIVIDEND_COMBINED_ANALYSIS.txt
+   - Any broker performance summaries
+
+SECONDARY (MEDIUM PRIORITY):
+
+3. VERIFY with market data:
+   - DSSA: Does it really have 7,900%+ return or is B.Avg=8,670 (900%)?
+   - UNTR: Confirm if +638% is accurate or OCR error
+   - BRPT, PWON: Verify if -75%/-83% losses are real
+
+4. REVIEW parsing script (scripts/broker_profitability_feb2.py):
+   - Add validation checks for outliers
+   - Cross-reference against price history
+   - Implement sanity checks (e.g., max price change thresholds)
+
+================================================================================
+IMPACT ON CONCLUSIONS
+================================================================================
+
+AFFECTED REPORTS:
+
+1. Foreign Broker Analysis (20260130)
+   - No changes needed (uses Jan 30 data, not profitability)
+   - But mention data quality issues exist in broker activity data
+
+2. Foreign Broker + Dividend Combined (20260130) 
+   - Slight impact on return calculations
+   - BUMI analysis may need revision (uses potentially bad data)
+   - INDY may not actually show expected returns
+
+3. Summary Statistics
+   - Average broker returns may be overstated
+   - Need recalculation excluding flagged records
+
+================================================================================
+CORRECTED DATA (Where determined)
+================================================================================
+
+Stock | Reported B.Avg | Likely Correct | Reported Return | Corrected Return
+------|----------------|----------------|-----------------|------------------
+BRIS  | 98             | ~2250          | +2196%          | ~0%
+INDY  | 133            | ~2820          | +2020%          | ~0%
+PSAB  | 2              | ~468           | +23300%         | ~0%
+BUMI  | 2230           | ~220           | -90%            | ~0%
+KLBF  | 7928           | ~1140          | -86%            | ~0%
+MDIA  | 1732           | ~52            | -97%            | ~0%
+
+================================================================================
+RECOMMENDATIONS FOR FUTURE ANALYSIS
+================================================================================
+
+1. Use validated broker data only
+2. Implement automatic outlier detection
+3. Cross-validate with multiple data sources
+4. Manual spot-check for high-impact items
+5. Document data quality score for each analysis
+6. Use flagged version: broker_profitability_feb2_FLAGGED.csv
+
+================================================================================
+Files Updated:
+- broker_profitability_feb2_FLAGGED.csv (new, with quality flags)
+- OCR_ERROR_REPORT.md (detailed analysis)
+- DATA_QUALITY_REVISION_NOTICE.txt (this file)
+
+Report Date: February 2, 2026
+Analysis: Arif P. Sulistiono
+================================================================================

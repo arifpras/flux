@@ -1,0 +1,248 @@
+==================================================================================================================================
+DETAILED BROKER ANALYSIS: DP DBS
+Timeline: Decisions made on JAN 30 → Evaluated on FEB 2
+==================================================================================================================================
+
+BUY POSITIONS (What they bought on Jan 30)
+----------------------------------------------------------------------------------------------------------------------------------
+
+TLKM:
+  Shares:             178,471
+  Jan 30 Price:       IDR 3,660 per share
+  Jan 30 Total:       IDR 65,300,000,000
+  Feb 2 Price:        IDR 3,500 per share
+  Feb 2 Total Value:  IDR 624,648,500
+  Price Change:       -4.37%
+  Unrealized Loss:    IDR 64,675,351,500
+
+MDKA:
+  Shares:             12,416
+  Jan 30 Price:       IDR 3,205 per share
+  Jan 30 Total:       IDR 4,000,000,000
+  Feb 2 Price:        IDR 2,730 per share
+  Feb 2 Total Value:  IDR 33,895,680
+  Price Change:       -14.82%
+  Unrealized Loss:    IDR 3,966,104,320
+
+CYBR:
+  Shares:             15,000
+  Jan 30 Price:       IDR 1,702 per share
+  Jan 30 Total:       IDR 2,600,000,000
+  Feb 2 Price:        IDR 1,640 per share
+  Feb 2 Total Value:  IDR 24,600,000
+  Price Change:       -3.64%
+  Unrealized Loss:    IDR 2,575,400,000
+
+EMTK:
+  Shares:             28,516
+  Jan 30 Price:       IDR 877 per share
+  Jan 30 Total:       IDR 25,000,000,000
+  Feb 2 Price:        IDR 830 per share
+  Feb 2 Total Value:  IDR 23,668,280
+  Price Change:       -5.36%
+  Unrealized Loss:    IDR 24,976,331,720
+
+BBCA:
+  Shares:             3,288
+  Jan 30 Price:       IDR 7,338 per share
+  Jan 30 Total:       IDR 24,000,000,000
+  Feb 2 Price:        IDR 7,600 per share
+  Feb 2 Total Value:  IDR 24,988,800
+  Price Change:       +3.57%
+  Unrealized Loss:    IDR 23,975,011,200
+
+BUMI:
+  Shares:             50,000
+  Jan 30 Price:       IDR 256 per share
+  Jan 30 Total:       IDR 1,300,000,000
+  Feb 2 Price:        IDR 220 per share
+  Feb 2 Total Value:  IDR 11,000,000
+  Price Change:       -14.06%
+  Unrealized Loss:    IDR 1,289,000,000
+
+AWAN:
+  Shares:             25,000
+  Jan 30 Price:       IDR 191 per share
+  Jan 30 Total:       IDR 477,900,000
+  Feb 2 Price:        IDR 171 per share
+  Feb 2 Total Value:  IDR 4,275,000
+  Price Change:       -10.47%
+  Unrealized Loss:    IDR 473,625,000
+
+EMAS:
+  Shares:             200
+  Jan 30 Price:       IDR 6,850 per share
+  Jan 30 Total:       IDR 137,000,000
+  Feb 2 Price:        IDR 5,900 per share
+  Feb 2 Total Value:  IDR 1,180,000
+  Price Change:       -13.87%
+  Unrealized Loss:    IDR 135,820,000
+
+TINS:
+  Shares:             385
+  Jan 30 Price:       IDR 3,389 per share
+  Jan 30 Total:       IDR 130,500,000
+  Feb 2 Price:        IDR 2,970 per share
+  Feb 2 Total Value:  IDR 1,143,450
+  Price Change:       -12.36%
+  Unrealized Loss:    IDR 129,356,550
+
+
+BUY SUMMARY:
+----------------------------------------------------------------------------------------------------------------------------------
+Total Stocks Bought:       9
+Total Invested (Jan 30):   IDR 122,945,400,000
+Total Value (Feb 2):       IDR 749,399,710
+Total Unrealized Loss:     IDR 122,196,000,290
+Average Loss per Stock:    -8.38%
+Worst Performing Stock:    MDKA (-14.82%)
+Best Performing Stock:     BBCA (3.57%)
+
+
+SELL POSITIONS (What they sold on Jan 30)
+----------------------------------------------------------------------------------------------------------------------------------
+
+MEDC:
+  Shares:             125,849
+  Jan 30 Price:       IDR 1,584 per share
+  Jan 30 Total:       IDR 20,000,000,000
+  Feb 2 Price:        IDR 1,425 per share
+  Avoided Loss:       IDR 20,009,991 (+11.16%)
+  Decision:           ✓ Smart Exit
+
+ARKO:
+  Shares:             11,450
+  Jan 30 Price:       IDR 8,550 per share
+  Jan 30 Total:       IDR 9,800,000,000
+  Feb 2 Price:        IDR 7,700 per share
+  Avoided Loss:       IDR 9,732,500 (+11.04%)
+  Decision:           ✓ Smart Exit
+
+BUVA:
+  Shares:             37,777
+  Jan 30 Price:       IDR 1,316 per share
+  Jan 30 Total:       IDR 5,000,000,000
+  Feb 2 Price:        IDR 1,055 per share
+  Avoided Loss:       IDR 9,859,797 (+24.74%)
+  Decision:           ✓ Smart Exit
+
+NSSS:
+  Shares:             23,983
+  Jan 30 Price:       IDR 1,425 per share
+  Jan 30 Total:       IDR 3,400,000,000
+  Feb 2 Price:        IDR 1,275 per share
+  Avoided Loss:       IDR 3,597,450 (+11.76%)
+  Decision:           ✓ Smart Exit
+
+PTRO:
+  Shares:             3,000
+  Jan 30 Price:       IDR 7,099 per share
+  Jan 30 Total:       IDR 2,100,000,000
+  Feb 2 Price:        IDR 6,000 per share
+  Avoided Loss:       IDR 3,297,000 (+18.32%)
+  Decision:           ✓ Smart Exit
+
+IMPC:
+  Shares:             8,000
+  Jan 30 Price:       IDR 2,528 per share
+  Jan 30 Total:       IDR 2,000,000,000
+  Feb 2 Price:        IDR 2,030 per share
+  Avoided Loss:       IDR 3,984,000 (+24.53%)
+  Decision:           ✓ Smart Exit
+
+BNBR:
+  Shares:             180,000
+  Jan 30 Price:       IDR 110 per share
+  Jan 30 Total:       IDR 2,000,000,000
+  Feb 2 Price:        IDR 92 per share
+  Avoided Loss:       IDR 3,240,000 (+19.57%)
+  Decision:           ✓ Smart Exit
+
+MAIN:
+  Shares:             18,228
+  Jan 30 Price:       IDR 757 per share
+  Jan 30 Total:       IDR 1,400,000,000
+  Feb 2 Price:        IDR 735 per share
+  Avoided Loss:       IDR 401,016 (+2.99%)
+  Decision:           ✓ Smart Exit
+
+CDIA:
+  Shares:             9,993
+  Jan 30 Price:       IDR 1,207 per share
+  Jan 30 Total:       IDR 1,200,000,000
+  Feb 2 Price:        IDR 1,000 per share
+  Avoided Loss:       IDR 2,068,551 (+20.70%)
+  Decision:           ✓ Smart Exit
+
+BIPI:
+  Shares:             50,000
+  Jan 30 Price:       IDR 196 per share
+  Jan 30 Total:       IDR 980,000,000
+  Feb 2 Price:        IDR 167 per share
+  Avoided Loss:       IDR 1,450,000 (+17.37%)
+  Decision:           ✓ Smart Exit
+
+RLCO:
+  Shares:             1,161
+  Jan 30 Price:       IDR 7,850 per share
+  Jan 30 Total:       IDR 911,400,000
+  Feb 2 Price:        IDR 7,075 per share
+  Avoided Loss:       IDR 899,775 (+10.95%)
+  Decision:           ✓ Smart Exit
+
+PBSA:
+  Shares:             5,501
+  Jan 30 Price:       IDR 1,597 per share
+  Jan 30 Total:       IDR 878,300,000
+  Feb 2 Price:        IDR 1,500 per share
+  Avoided Loss:       IDR 533,597 (+6.47%)
+  Decision:           ✓ Smart Exit
+
+ARNA:
+  Shares:             11,502
+  Jan 30 Price:       IDR 520 per share
+  Jan 30 Total:       IDR 598,100,000
+  Feb 2 Price:        IDR 515 per share
+  Avoided Loss:       IDR 57,510 (+0.97%)
+  Decision:           ✓ Smart Exit
+
+BMRI:
+  Shares:             450
+  Jan 30 Price:       IDR 4,770 per share
+  Jan 30 Total:       IDR 214,600,000
+  Feb 2 Price:        IDR 4,800 per share
+  Avoided Loss:       IDR -13,500 (-0.62%)
+  Decision:           ✗ Should have held
+
+GOTO:
+  Shares:             0
+  Jan 30 Price:       IDR 63 per share
+  Jan 30 Total:       IDR 30,000,000
+  Feb 2 Price:        IDR 61 per share
+  Avoided Loss:       IDR 0 (+3.28%)
+  Decision:           ✓ Smart Exit
+
+
+SELL SUMMARY:
+----------------------------------------------------------------------------------------------------------------------------------
+Total Stocks Sold:         15
+Total Sold (Jan 30):       IDR 50,512,400,000
+Total Avoided Loss:        IDR 59,117,687
+Average Avoided Loss %:    12.21%
+Best Sell Decision:        BUVA (+24.74%)
+Smart Exits:               14 out of 15 (93.3%)
+
+
+OVERALL STRATEGY ASSESSMENT
+==================================================================================================================================
+
+Total Buy Loss:            IDR 122,196,000,290
+Total Sell Gain (Avoided): IDR 59,117,687
+Net Position:              IDR -122,136,882,603
+
+Buy Decision Avg Return:   -8.38%
+Sell Decision Avg Return:  12.21%
+Overall Quality Score:     1.92
+Research Quality Rating:   EXCELLENT ★★★
+
+✗ POOR STRATEGY: Losses exceeded gains from sells.

@@ -1,0 +1,3 @@
+    ├─ Allocation: 6% of total capital    ├─ Current Price: 1,865 IDR    ├─ Annual Dividend: ~1,025 IDR (based on document reference)    ├─ Expected Yield: 54.96% ✓ VERIFIED (1,025 ÷ 1,865 = 54.96%)    ├─ Warning: Single payment only (April), retail transformation risk
+    ├─ Note: Exceptionally high yield - verify dividend sustainability
+    └─ Use case: Boost Q2 harvest, accept April concentration

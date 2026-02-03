@@ -1,0 +1,627 @@
+====================================================================================================
+STOCKS THAT CONSISTENTLY PAID DIVIDENDS IN THE LAST 3 YEARS (2023-2025)
+====================================================================================================
+
+Generated: 2026-01-28 16:37:39
+Total stocks found: 264
+Data source: results/20260122_consistent_dividend_payers.csv
+
+====================================================================================================
+SUMMARY STATISTICS
+====================================================================================================
+Total consistent payers (2023-2025): 264 stocks
+Stocks with price data: 259 stocks
+Average dividend yield: 4.96%
+Median dividend yield: 3.49%
+Highest dividend yield: 37.99% (ADRO)
+Average annual dividend: IDR 126
+Average payment frequency: 3.9 times in 3 years
+Average yield per payment: 1.32%
+Average amount per payment: IDR 88
+
+====================================================================================================
+DISTRIBUTION BY DIVIDEND YIELD RANGE
+====================================================================================================
+
+Excellent (>15%): 11 stocks
+
+Good (10-15%): 14 stocks
+
+Fair (5-10%): 64 stocks
+
+Low (<5%): 170 stocks
+
+====================================================================================================
+TOP 50 STOCKS BY DIVIDEND YIELD
+====================================================================================================
+Rank   Stock    Annual Div    Price      Yield %    Pay#   Yield/Pay   Avg/Pay     
+----------------------------------------------------------------------------------------------------
+1      ADRO              893     2,350    37.99%     8      4.75%         335
+2      TMAS               48       160    30.06%     4      7.51%          36
+3      FISH              320     1,195    26.78%     3      8.93%         320
+4      MBAP              437     1,735    25.17%     4      6.29%         328
+5      PTBA              608     2,530    24.03%     3      8.01%         608
+6      ITMG            5,011    22,725    22.05%     6      3.68%       2,506
+7      PBID              105       505    20.79%     3      6.93%         105
+8      LPPF              342     1,865    18.32%     3      6.11%         342
+9      BSSR              654     3,940    16.60%     9      1.84%         218
+10     MCOL              572     3,680    15.53%     6      2.59%         286
+11     KDSI               70       454    15.49%     3      5.16%          70
+12     HEXA              639     4,430    14.42%     3      4.81%         639
+13     UNTR            3,724    27,450    13.57%     6      2.26%       1,862
+14     DLTA              259     2,030    12.78%     3      4.26%         259
+15     PANS              193     1,580    12.24%     3      4.08%         193
+16     MPMX              123     1,020    12.09%     3      4.03%         123
+17     PSSI               45       370    12.07%     4      3.02%          34
+18     TPMA               72       600    11.94%     4      2.99%          54
+19     GEMS              985     8,300    11.86%     8      1.48%         369
+20     KKGI               41       348    11.69%     5      2.34%          24
+21     ROTI               91       785    11.62%     3      3.87%          91
+22     BJBR               95       835    11.37%     3      3.79%          95
+23     RALS               53       472    11.30%     3      3.77%          53
+24     JECC              120     1,150    10.43%     3      3.48%         120
+25     AMOR               40       390    10.21%     6      1.70%          20
+26     POWR               71       715     9.93%     6      1.66%          36
+27     BMRI              483     4,980     9.70%     4      2.43%         362
+28     ADMF              826     8,675     9.52%     3      3.17%         826
+29     BBRI              363     3,810     9.52%     7      1.36%         155
+30     BJTM               54       570     9.48%     3      3.16%          54
+31     ABMM              283     2,990     9.45%     3      3.15%         283
+32     INDS               69       745     9.31%     3      3.10%          69
+33     SPTO               60       650     9.23%     6      1.54%          30
+34     AXIO               12       130     9.23%     6      1.54%           6
+35     SAMF               30       332     9.04%     3      3.01%          30
+36     GHON              158     1,790     8.81%     3      2.94%         158
+37     ARNA               47       535     8.79%     3      2.93%          47
+38     TUGU              102     1,165     8.75%     4      2.19%          76
+39     MLBI              494     5,675     8.71%     6      1.45%         247
+40     EAST                8        98     8.54%    10      0.85%           3
+41     BPII               43       510     8.53%     6      1.42%          22
+42     ISAT              203     2,420     8.37%     3      2.79%         203
+43     BFIN               61       725     8.37%     6      1.39%          30
+44     MERK              270     3,260     8.28%     3      2.76%         270
+45     AKRA              108     1,320     8.21%     7      1.17%          46
+46     TAPG              123     1,530     8.06%     6      1.34%          62
+47     KEJU               47       585     8.03%     3      2.68%          47
+48     PRDA              192     2,400     8.01%     3      2.67%         192
+49     ACES               33       416     7.89%     3      2.63%          33
+50     EPMT              183     2,330     7.87%     3      2.62%         183
+
+====================================================================================================
+EXCELLENT DIVIDEND YIELD (>15%) - DETAILED LIST
+====================================================================================================
+
+Total: 11 stocks
+
+ADRO     - 37.99% yield
+  Annual dividend: IDR 893
+  Current price: IDR 2,350
+  Payment count: 8 times in 3 years
+  Avg per payment: IDR 335 (4.75% yield per payment)
+  Payment months: JAN, JUN, DEC
+  Last payment: 2026-01-15
+
+TMAS     - 30.06% yield
+  Annual dividend: IDR 48
+  Current price: IDR 160
+  Payment count: 4 times in 3 years
+  Avg per payment: IDR 36 (7.51% yield per payment)
+  Payment months: JAN, APR, MAY
+  Last payment: 2025-04-25
+
+FISH     - 26.78% yield
+  Annual dividend: IDR 320
+  Current price: IDR 1,195
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 320 (8.93% yield per payment)
+  Payment months: JUN, JUL
+  Last payment: 2025-06-26
+
+MBAP     - 25.17% yield
+  Annual dividend: IDR 437
+  Current price: IDR 1,735
+  Payment count: 4 times in 3 years
+  Avg per payment: IDR 328 (6.29% yield per payment)
+  Payment months: MAY, JUN, NOV
+  Last payment: 2025-06-19
+
+PTBA     - 24.03% yield
+  Annual dividend: IDR 608
+  Current price: IDR 2,530
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 608 (8.01% yield per payment)
+  Payment months: JUN, JUL
+  Last payment: 2025-07-11
+
+ITMG     - 22.05% yield
+  Annual dividend: IDR 5,011
+  Current price: IDR 22,725
+  Payment count: 6 times in 3 years
+  Avg per payment: IDR 2,506 (3.68% yield per payment)
+  Payment months: APR, MAY, SEP, NOV
+  Last payment: 2025-11-26
+
+PBID     - 20.79% yield
+  Annual dividend: IDR 105
+  Current price: IDR 505
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 105 (6.93% yield per payment)
+  Payment months: JUN
+  Last payment: 2025-06-19
+
+LPPF     - 18.32% yield
+  Annual dividend: IDR 342
+  Current price: IDR 1,865
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 342 (6.11% yield per payment)
+  Payment months: APR
+  Last payment: 2025-04-29
+
+BSSR     - 16.60% yield
+  Annual dividend: IDR 654
+  Current price: IDR 3,940
+  Payment count: 9 times in 3 years
+  Avg per payment: IDR 218 (1.84% yield per payment)
+  Payment months: JAN, JUN, JUL, SEP, NOV
+  Last payment: 2026-01-15
+
+MCOL     - 15.53% yield
+  Annual dividend: IDR 572
+  Current price: IDR 3,680
+  Payment count: 6 times in 3 years
+  Avg per payment: IDR 286 (2.59% yield per payment)
+  Payment months: MAY, DEC
+  Last payment: 2025-12-15
+
+KDSI     - 15.49% yield
+  Annual dividend: IDR 70
+  Current price: IDR 454
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 70 (5.16% yield per payment)
+  Payment months: JUN, JUL
+  Last payment: 2025-06-20
+
+
+====================================================================================================
+GOOD DIVIDEND YIELD (10-15%) - DETAILED LIST
+====================================================================================================
+
+Total: 14 stocks
+
+HEXA     - 14.42% yield
+  Annual dividend: IDR 639
+  Current price: IDR 4,430
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 639 (4.81% yield per payment)
+  Payment months: OCT
+  Last payment: 2025-10-17
+
+UNTR     - 13.57% yield
+  Annual dividend: IDR 3,724
+  Current price: IDR 27,450
+  Payment count: 6 times in 3 years
+  Avg per payment: IDR 1,862 (2.26% yield per payment)
+  Payment months: MAY, OCT
+  Last payment: 2025-10-24
+
+DLTA     - 12.78% yield
+  Annual dividend: IDR 259
+  Current price: IDR 2,030
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 259 (4.26% yield per payment)
+  Payment months: JUN, JUL
+  Last payment: 2025-07-18
+
+PANS     - 12.24% yield
+  Annual dividend: IDR 193
+  Current price: IDR 1,580
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 193 (4.08% yield per payment)
+  Payment months: JUL
+  Last payment: 2025-07-23
+
+MPMX     - 12.09% yield
+  Annual dividend: IDR 123
+  Current price: IDR 1,020
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 123 (4.03% yield per payment)
+  Payment months: JUN
+  Last payment: 2025-06-26
+
+PSSI     - 12.07% yield
+  Annual dividend: IDR 45
+  Current price: IDR 370
+  Payment count: 4 times in 3 years
+  Avg per payment: IDR 34 (3.02% yield per payment)
+  Payment months: JUN, JUL, AUG
+  Last payment: 2025-06-20
+
+TPMA     - 11.94% yield
+  Annual dividend: IDR 72
+  Current price: IDR 600
+  Payment count: 4 times in 3 years
+  Avg per payment: IDR 54 (2.99% yield per payment)
+  Payment months: MAY, JUN, DEC
+  Last payment: 2025-05-28
+
+GEMS     - 11.86% yield
+  Annual dividend: IDR 985
+  Current price: IDR 8,300
+  Payment count: 8 times in 3 years
+  Avg per payment: IDR 369 (1.48% yield per payment)
+  Payment months: JUN, SEP, DEC
+  Last payment: 2025-06-24
+
+KKGI     - 11.69% yield
+  Annual dividend: IDR 41
+  Current price: IDR 348
+  Payment count: 5 times in 3 years
+  Avg per payment: IDR 24 (2.34% yield per payment)
+  Payment months: JAN, JUL
+  Last payment: 2026-01-14
+
+ROTI     - 11.62% yield
+  Annual dividend: IDR 91
+  Current price: IDR 785
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 91 (3.87% yield per payment)
+  Payment months: APR
+  Last payment: 2025-04-28
+
+BJBR     - 11.37% yield
+  Annual dividend: IDR 95
+  Current price: IDR 835
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 95 (3.79% yield per payment)
+  Payment months: MAY
+  Last payment: 2025-05-16
+
+RALS     - 11.30% yield
+  Annual dividend: IDR 53
+  Current price: IDR 472
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 53 (3.77% yield per payment)
+  Payment months: JUN
+  Last payment: 2025-06-13
+
+JECC     - 10.43% yield
+  Annual dividend: IDR 120
+  Current price: IDR 1,150
+  Payment count: 3 times in 3 years
+  Avg per payment: IDR 120 (3.48% yield per payment)
+  Payment months: JUN, JUL
+  Last payment: 2025-07-11
+
+AMOR     - 10.21% yield
+  Annual dividend: IDR 40
+  Current price: IDR 390
+  Payment count: 6 times in 3 years
+  Avg per payment: IDR 20 (1.70% yield per payment)
+  Payment months: FEB, NOV, DEC
+  Last payment: 2025-11-24
+
+
+====================================================================================================
+TOP 20 BY PAYMENT FREQUENCY (Most Payments in 3 Years)
+====================================================================================================
+
+SMSM     - 12 payments (7.18% yield)
+XCID     - 12 payments (nan% yield)
+EAST     - 10 payments (8.54% yield)
+BSSR     - 9 payments (16.60% yield)
+ADRO     - 8 payments (37.99% yield)
+GEMS     - 8 payments (11.86% yield)
+MARK     - 8 payments (7.23% yield)
+PPGL     - 8 payments (2.86% yield)
+NICL     - 8 payments (1.44% yield)
+BBRI     - 7 payments (9.52% yield)
+AKRA     - 7 payments (8.21% yield)
+IPCC     - 7 payments (6.79% yield)
+RDTX     - 7 payments (5.41% yield)
+PNGO     - 7 payments (4.85% yield)
+ITMG     - 6 payments (22.05% yield)
+MCOL     - 6 payments (15.53% yield)
+UNTR     - 6 payments (13.57% yield)
+AMOR     - 6 payments (10.21% yield)
+POWR     - 6 payments (9.93% yield)
+SPTO     - 6 payments (9.23% yield)
+
+====================================================================================================
+TOP 20 BY ANNUAL DIVIDEND AMOUNT
+====================================================================================================
+
+ITMG     - IDR          5,011 (22.05% yield)
+UNTR     - IDR          3,724 (13.57% yield)
+GEMS     - IDR            985 (11.86% yield)
+RDTX     - IDR            913 (5.41% yield)
+ADRO     - IDR            893 (37.99% yield)
+ADMF     - IDR            826 (9.52% yield)
+BSSR     - IDR            654 (16.60% yield)
+HEXA     - IDR            639 (14.42% yield)
+PTBA     - IDR            608 (24.03% yield)
+JASS     - IDR            600 (nan% yield)
+MCOL     - IDR            572 (15.53% yield)
+MKPI     - IDR            569 (2.37% yield)
+ASII     - IDR            525 (7.75% yield)
+BYAN     - IDR            514 (3.00% yield)
+MLBI     - IDR            494 (8.71% yield)
+BMRI     - IDR            483 (9.70% yield)
+MBAP     - IDR            437 (25.17% yield)
+UNIC     - IDR            436 (4.50% yield)
+PTRO     - IDR            404 (3.75% yield)
+BBRI     - IDR            363 (9.52% yield)
+
+====================================================================================================
+COMPLETE LIST OF ALL CONSISTENT DIVIDEND PAYERS
+====================================================================================================
+
+Stock    Annual Div      Price        Yield %    Payments  
+----------------------------------------------------------------------------------------------------
+ADRO                893       2,350    37.99%         8
+TMAS                 48         160    30.06%         4
+FISH                320       1,195    26.78%         3
+MBAP                437       1,735    25.17%         4
+PTBA                608       2,530    24.03%         3
+ITMG              5,011      22,725    22.05%         6
+PBID                105         505    20.79%         3
+LPPF                342       1,865    18.32%         3
+BSSR                654       3,940    16.60%         9
+MCOL                572       3,680    15.53%         6
+KDSI                 70         454    15.49%         3
+HEXA                639       4,430    14.42%         3
+UNTR              3,724      27,450    13.57%         6
+DLTA                259       2,030    12.78%         3
+PANS                193       1,580    12.24%         3
+MPMX                123       1,020    12.09%         3
+PSSI                 45         370    12.07%         4
+TPMA                 72         600    11.94%         4
+GEMS                985       8,300    11.86%         8
+KKGI                 41         348    11.69%         5
+ROTI                 91         785    11.62%         3
+BJBR                 95         835    11.37%         3
+RALS                 53         472    11.30%         3
+JECC                120       1,150    10.43%         3
+AMOR                 40         390    10.21%         6
+POWR                 71         715     9.93%         6
+BMRI                483       4,980     9.70%         4
+ADMF                826       8,675     9.52%         3
+BBRI                363       3,810     9.52%         7
+BJTM                 54         570     9.48%         3
+ABMM                283       2,990     9.45%         3
+INDS                 69         745     9.31%         3
+SPTO                 60         650     9.23%         6
+AXIO                 12         130     9.23%         6
+SAMF                 30         332     9.04%         3
+GHON                158       1,790     8.81%         3
+ARNA                 47         535     8.79%         3
+TUGU                102       1,165     8.75%         4
+MLBI                494       5,675     8.71%         6
+EAST                  8          98     8.54%        10
+BPII                 43         510     8.53%         6
+ISAT                203       2,420     8.37%         3
+BFIN                 61         725     8.37%         6
+MERK                270       3,260     8.28%         3
+AKRA                108       1,320     8.21%         7
+TAPG                123       1,530     8.06%         6
+KEJU                 47         585     8.03%         3
+PRDA                192       2,400     8.01%         3
+ACES                 33         416     7.89%         3
+EPMT                183       2,330     7.87%         3
+ASII                525       6,775     7.75%         6
+BBNI                349       4,590     7.61%         3
+TOTO                 21         274     7.54%         6
+ASDM                 52         690     7.54%         3
+HMSP                 60         815     7.37%         3
+AMAG                 30         408     7.35%         3
+PGAS                157       2,160     7.28%         3
+MARK                 60         830     7.23%         8
+PLIN                180       2,510     7.18%         6
+SMSM                127       1,765     7.18%        12
+SKRN                 36         498     7.16%         5
+SIDO                 38         540     7.07%         6
+BNGA                131       1,865     7.03%         3
+CLPI                110       1,560     7.03%         3
+IPCC                 89       1,305     6.79%         7
+TOTL                 72       1,060     6.76%         3
+DVLA                112       1,670     6.73%         6
+SDRA                 19         288     6.71%         4
+HAIS                 16         242     6.69%         3
+IPCM                 23         344     6.62%         6
+TGKA                332       5,025     6.61%         5
+BISI                 59         900     6.52%         3
+BTPS                 79       1,250     6.31%         4
+AUTO                170       2,690     6.31%         6
+LPIN                 28         454     6.24%         3
+WOMF                 20         330     6.06%         3
+KMDS                 37         635     5.88%         6
+UNVR                129       2,280     5.64%         6
+NELY                 25         448     5.58%         5
+SGER                 34         620     5.49%         4
+BAYU                 75       1,375     5.45%         3
+BIRD                 94       1,730     5.45%         3
+RDTX                913      16,875     5.41%         7
+NISP                 79       1,460     5.39%         3
+MEGA                180       3,350     5.38%         3
+TSPC                150       2,790     5.38%         6
+SMGR                142       2,650     5.36%         3
+TBLA                 36         670     5.32%         4
+ELSA                 31         590     5.23%         3
+TLKM                186       3,740     4.98%         3
+LTLS                 43         875     4.95%         3
+SMDR                 20         404     4.91%         6
+PNGO                161       3,310     4.85%         7
+MDKI                 10         208     4.81%         3
+BUDI                 11         222     4.80%         6
+CEKA                117       2,440     4.78%         3
+SCMA                 14         304     4.77%         5
+PJAA                 28         595     4.76%         3
+EKAD                  9         189     4.76%         3
+IKBI                 26         550     4.71%         3
+MLIA                 16         340     4.71%         3
+JAYA                  6         128     4.69%         5
+BDMN                119       2,580     4.62%         3
+SKLT                 14         296     4.62%         3
+FWCT                  7         145     4.60%         4
+WIIM                 82       1,800     4.53%         3
+UNIC                436       9,700     4.50%         4
+ERAA                 18         408     4.49%         3
+AVIA                 22         494     4.45%         6
+SCCO                108       2,450     4.42%         3
+LSIP                 52       1,210     4.33%         3
+SMCB                 33         775     4.26%         3
+AALI                319       7,600     4.20%         6
+LPGI                 29         700     4.14%         3
+UCID                 18         438     4.03%         3
+BBTN                 49       1,230     3.98%         3
+INDF                268       6,750     3.97%         3
+JKON                  4          91     3.85%         3
+PTRO                404      10,775     3.75%         3
+SICO                  5         134     3.73%         6
+BUAH                 24         630     3.73%         4
+GLVA                 15         412     3.72%         3
+MTEL                 22         600     3.61%         3
+TBMS                 53       1,465     3.60%         3
+TLDN                 24         680     3.54%         4
+SMAR                200       5,675     3.52%         4
+BNII                  8         226     3.52%         3
+ASGR                 56       1,590     3.50%         6
+TOWR                 22         620     3.49%         6
+KBLM                 12         344     3.49%         3
+BBCA                265       7,650     3.46%         6
+MTDL                 20         590     3.36%         3
+TRIS                  7         224     3.34%         6
+DPNS                 10         310     3.23%         3
+BOBA                  6         188     3.19%         6
+STAA                 43       1,365     3.13%         3
+SMKL                  6         183     3.10%         3
+DRMA                 33       1,100     3.04%         3
+CITA                152       5,000     3.03%         3
+PGEO                 37       1,230     3.03%         3
+MEDC                 46       1,520     3.01%         6
+BYAN                514      17,125     3.00%         6
+ESSA                 20         670     2.99%         3
+JTPE                 18         590     2.97%         5
+KBLI                 10         332     2.91%         3
+MYOH                 43       1,480     2.90%         3
+KLBF                 35       1,225     2.86%         3
+PPGL                  9         298     2.86%         8
+INDY                105       3,700     2.85%         3
+ANTM                120       4,220     2.84%         3
+ZYRX                  5         169     2.81%         3
+SGRO                216       7,775     2.78%         3
+KUAS                  2          86     2.75%         4
+GPRA                  4         134     2.74%         3
+BTPN                 58       2,150     2.70%         3
+ISSP                 12         462     2.67%         3
+CMRY                137       5,200     2.63%         4
+SOHO                 69       2,620     2.63%         5
+IFII                  8         292     2.63%         5
+NRCA                 31       1,195     2.59%         3
+EXCL                112       4,310     2.59%         4
+ULTJ                 38       1,485     2.58%         3
+ICBP                213       8,325     2.55%         3
+PWON                 10         374     2.54%         3
+JSMR                 90       3,550     2.53%         3
+MAPA                 16         645     2.53%         3
+BOLT                 27       1,055     2.53%         3
+MFMI                 33       1,300     2.51%         3
+BPFI                  8         312     2.51%         3
+CSAP                  8         326     2.51%         3
+SIMP                 15         605     2.48%         3
+INTP                170       7,000     2.42%         3
+CINT                  5         222     2.40%         3
+MKPI                569      24,000     2.37%         3
+PTPS                  5         197     2.32%         5
+GOOD                  8         356     2.29%         3
+CTRA                 20         890     2.25%         3
+JRPT                 24       1,070     2.24%         3
+BALI                 34       1,535     2.22%         3
+MYOR                 48       2,190     2.21%         3
+JPFA                 63       2,880     2.20%         3
+AMFG                 80       3,640     2.20%         3
+TBIG                 46       2,170     2.14%         5
+SMRA                  8         402     2.07%         3
+WEGE                  1          69     1.99%         3
+SRTG                 37       1,915     1.95%         3
+PBSA                 49       2,690     1.83%         4
+NCKL                 26       1,445     1.83%         3
+BIKE                 11         610     1.81%         3
+CPIN                 79       4,500     1.76%         3
+BBLD                 16         910     1.76%         3
+MTLA                 11         630     1.72%         3
+WTON                  2         103     1.71%         3
+BBMD                 34       2,050     1.67%         3
+DSNG                 25       1,525     1.66%         3
+MIKA                 38       2,400     1.58%         3
+ARTA                 44       2,800     1.56%         3
+MIDI                  5         352     1.53%         3
+SRSN                  1          66     1.52%         3
+PTSN                  6         388     1.50%         3
+EMTK                 16       1,045     1.50%         4
+LIFE                125       8,350     1.50%         3
+SBMA                  2         148     1.49%         3
+AMRT                 29       1,950     1.48%         3
+MICE                  8         570     1.46%         3
+VICI                 10         680     1.45%         6
+NICL                 22       1,535     1.44%         8
+OMED                  3         236     1.36%         3
+MREI                 15       1,170     1.28%         3
+DEPO                  4         274     1.28%         3
+IDPR                  4         290     1.26%         3
+ELIT                  4         356     1.26%         3
+HOKI                  1          80     1.25%         3
+SUNI                  9         810     1.16%         3
+WINE                  3         230     1.13%         3
+IFSH                 24       2,100     1.13%         3
+SDPC                  2         197     1.10%         3
+LION                  5         436     1.07%         3
+SHIP                 47       4,480     1.05%         3
+TALF                  5         565     0.94%         3
+ELPI                  8         860     0.93%         3
+ASBI                  4         438     0.91%         3
+CLEO                  4         452     0.86%         3
+RELF                  0          52     0.84%         4
+SMBR                  2         294     0.79%         3
+IDEA                  1         158     0.77%         5
+RAJA                 46       6,075     0.76%         4
+BRIS                 17       2,220     0.76%         3
+SWID                  1         139     0.75%         3
+MKTR                  1         160     0.73%         3
+PDPP                  2         342     0.70%         3
+HRTA                 16       2,320     0.69%         3
+MAPI                  9       1,265     0.69%         3
+IMAS                  8       1,175     0.68%         3
+WGSH                  2         314     0.64%         3
+LAJU                  1         101     0.62%         3
+HEAL                  9       1,405     0.62%         3
+KEEN                  7       1,205     0.62%         3
+CHEM                  1         118     0.60%         3
+CRAB                  2         286     0.58%         3
+MPXL                  1         189     0.57%         4
+BLUE                 27       4,840     0.56%         3
+AGII                  8       1,590     0.51%         3
+INKP                 50      10,600     0.47%         3
+BNLI                 23       5,050     0.46%         3
+BMHS                  1         204     0.44%         3
+CBPE                  1         328     0.30%         3
+TKIM                 25       8,275     0.30%         3
+MLPT                179      61,675     0.29%         5
+BELL                  1         199     0.26%         3
+IMJS                  1         252     0.21%         3
+CHIP                  2       1,270     0.19%         3
+ALDO                  1         595     0.14%         3
+GMTD                  3       2,710     0.11%         3
+TPIA                  7       6,825     0.10%         4
+NTBK                  0         115     0.10%         3
+KDTN                  1       1,365     0.08%         3
+RMKE                  6       8,725     0.07%         3
+TCPI                  7      11,050     0.07%         3
+JASS                600         N/A       N/A         3
+MASA                 35         N/A       N/A         3
+XSPI                 13         N/A       N/A         6
+XCID                  2         N/A       N/A        12
+XCIS                  0         N/A       N/A         3
+
+====================================================================================================
+END OF REPORT
+====================================================================================================

@@ -1,0 +1,29 @@
+FOREIGN BROKER BUY ACTIVITY - JAN 30, 2026
+================================================================================
+
+Filtered to stocks bought by >= 5 foreign brokers.
+Prices use B.Avg (IDR/share) from OCR; min/max/avg across brokers.
+
+Stock    # Brokers  Price Min  Price Max  Price Avg
+----------------------------------------------------
+BUMI            11        256        264        260
+ADRO             8      2,215      2,238      2,230
+BBCA             8      7,239      7,477      7,372
+BBRI             8      3,808      3,835      3,822
+CUAN             8      1,759      1,827      1,797
+ANTM             7      4,180      4,225      4,212
+ARCI             7      1,790      1,832      1,816
+BRMS             7      1,042      1,768      1,166
+MEDC             7      1,545      1,587      1,556
+RMKE             7      5,076      5,206      5,112
+BBNI             6      4,503      4,548      4,515
+BMRI             6      4,763      4,804      4,780
+MDKA             6      3,205      3,272      3,235
+PTRO             6      7,363      7,431      7,406
+ADMR             5      2,016      2,038      2,027
+ASII             5      6,393      6,448      6,413
+BULL             5        498        513        502
+EXCL             5      2,230      3,377      3,117
+ICBP             5      7,894      7,993      7,923
+INDY             5      3,275      3,351      3,317
+UNTR             5     25,387     25,808     25,595

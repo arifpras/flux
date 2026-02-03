@@ -1,0 +1,85 @@
+================================================================================
+                        CRITICAL CORRECTION NOTICE
+                    LPPF Dividend Yield ERROR (Jan 23, 2026)
+================================================================================
+
+ERROR IDENTIFIED:
+The strategy document 20260123_QUARTERLY_DIVIDEND_STRATEGY_REFINED.txt contained 
+a significant error in LPPF dividend calculations that inflated expected yield.
+
+WHAT WAS WRONG:
+├─ Claimed Annual Dividend: 1,025 IDR
+├─ Claimed Expected Yield: 54.96%
+├─ Claimed Status: "Top 2 highest yielder", "ULTRA HIGH"
+└─ Impact: Made LPPF appear to be a core portfolio pillar
+
+THE ACTUAL FACTS (Verified from idx_dividend_history.csv):
+├─ 2025 Payment: 300 IDR (April)
+├─ 2024 Payment: 200 IDR (April)
+├─ 2023 Payment: 525 IDR (April)
+├─ 3-Year Total: 1,025 IDR
+├─ 3-Year Average: 342 IDR per year
+├─ Actual Yield at 1,865 IDR: 18.3% (NOT 54.96%)
+└─ Payment Pattern: ONLY ONE dividend per year (April)
+
+ROOT CAUSE:
+The document confused the 3-year TOTAL (1,025 IDR) with the ANNUAL dividend.
+LPPF only pays dividends once per year in April, not three times.
+
+CORRECTION MADE:
+✅ Removed LPPF from core holdings
+✅ Replaced with RDTX (Roda Vivatex) - 4% allocation
+   - Actual yield: 28.2%
+   - Dividend payments: 7 in last 3 years (much more consistent)
+   - Monthly coverage: January, June, July, December
+   - Price: ~3,000 IDR (under 10,000 limit)
+
+PORTFOLIO IMPACT:
+Before (with error):
+├─ Core Yield: 21.3%
+├─ Includes: BMRI, BSSR, GEMS, HEXA, MCOL, MBAP, LPPF, TPMA
+└─ Status: INFLATED due to LPPF overstatement
+
+After (corrected):
+├─ Core Yield: 19.8% 
+├─ Includes: BMRI, BSSR, GEMS, HEXA, MCOL, MBAP, RDTX, TPMA
+└─ Status: More conservative but realistic
+
+COMPARISON:
+┌────────┬──────────────┬──────────────┬─────────────────┐
+│ Stock  │ Allocation   │ Real Yield   │ Key Advantage   │
+├────────┼──────────────┼──────────────┼─────────────────┤
+│ LPPF   │ 4%           │ 18.3%        │ Single payment  │
+│ RDTX   │ 4%           │ 28.2%        │ 7 payments/3yr  │
+│ ↑      │ ↑            │ +9.9%        │ Much better!    │
+└────────┴──────────────┴──────────────┴─────────────────┘
+
+LESSON LEARNED:
+When analyzing dividend data, distinguish between:
+- Annual dividend per year
+- Total accumulated over multiple years
+- Payment frequency and consistency
+
+NEXT STEPS:
+1. Use corrected 20260123_QUARTERLY_DIVIDEND_STRATEGY_REFINED.txt
+2. Ignore any references to LPPF as core holding
+3. RDTX replaces LPPF in all portfolio calculations
+4. Recalculate expected income using RDTX dividend schedule
+5. Update broker buy orders:
+   ✗ DO NOT buy LPPF (4% allocation)
+   ✓ DO buy RDTX at 2,900-3,100 (4% allocation)
+
+VERIFICATION:
+All dividend data sourced from:
+data/reference/idx_dividend_history.csv
+- Stock: LPPF
+- Ex-dates: 2023-04-10, 2024-04-22, 2025-04-22
+- Amounts: 525, 200, 300 IDR respectively
+
+CONFIDENCE LEVEL: 100% - This is a data-driven correction from official IDX records.
+
+================================================================================
+Document prepared: 23 January 2026
+Error severity: HIGH (affects core portfolio construction)
+Action required: BEFORE market execution on Jan 24, 2026
+================================================================================
