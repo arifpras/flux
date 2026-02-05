@@ -1,0 +1,27 @@
+/* styles.css — research-note look (compact, clean) */
+
+/* tighten title block */
+#title-block-header { margin-bottom: 0.6rem; }
+h1.title { margin: 0 0 0.2rem 0; line-height: 1.15; }
+
+/* tighten section spacing */
+section.level1 > h1,
+section.level2 > h2,
+section.level3 > h3 {
+  margin-top: 0.8rem;
+  margin-bottom: 0.35rem;
+  line-height: 1.2;
+}
+
+/* make headings smaller & less "slide-like" */
+section.level1 > h1 { font-size: 1.35rem; }
+section.level2 > h2 { font-size: 1.15rem; }
+section.level3 > h3 { font-size: 1.05rem; }
+
+/* compact paragraphs and lists */
+p { margin: 0.45rem 0; }
+ul, ol { margin: 0.35rem 0 0.55rem 1.2rem; }
+li { margin: 0.15rem 0; }
+
+/* optional: slightly tighter code blocks */
+pre { margin: 0.55rem 0; }

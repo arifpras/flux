@@ -1,0 +1,174 @@
+---
+title: "BMRI Ex-Dividend Event Study"
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-location: left
+    number-sections: true
+    code-fold: true
+    code-tools: true
+    self-contained: true
+    mainfont: "Inter, sans-serif"
+    fontsize: 1.1em
+    css: styles.css
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    geometry:
+      - top=30mm
+      - left=25mm
+      - right=25mm
+      - bottom=30mm
+    include-in-header:
+      text: |
+        \RedeclareSectionCommand[beforeskip=0pt,afterskip=.5\baselineskip]{section}
+        \RedeclareSectionCommand[beforeskip=0pt,afterskip=.3\baselineskip]{subsection}
+---
+
+## Introduction
+
+This report examines BMRI's price behavior around ex‑dividend dates using daily data from 2022 through early 2026. The analysis focuses on pre ex‑date run‑ups in the prior 30 trading days and compares dividend yield versus post ex‑date drawdowns over 60 trading days.
+
+**Bank Mandiri (Persero) Tbk. (BMRI)** operates in the Financials sector (Banks subsector). As of 4 February 2026, recent performance indicators show:
+
+- **4‑week change:** +3.95%
+- **13‑week change:** +4.82%
+- **26‑week change:** +6.38%
+- **52‑week change:** −9.50%
+- **Month‑to‑date:** +4.17%
+- **Year‑to‑date:** −1.48%
+
+These metrics indicate short‑term momentum in the past three months, though the stock remains below year‑ago levels.
+
+**Fundamental indicators (as of 29 Jan 2026):**
+
+- **PER:** 9.24 — price paid per unit of earnings; lower usually means cheaper valuation.
+- **PBV:** 1.50 — price relative to book value; near 1–2 suggests fair pricing for banks.
+- **ROE:** 16.41% — profit generated on shareholders’ equity; higher indicates stronger returns.
+- **ROA:** 2.01% — profit generated on total assets; higher means better asset efficiency.
+- **DER:** 6.30 — leverage level; higher is normal in banks but signals balance‑sheet risk.
+- **Net profit margin (NPM):** 35.23% — share of revenue kept as profit; higher is better.
+- **Market cap:** Rp 471.24T — size of the company in the market.
+- **Total revenue:** Rp 146.17T — scale of the bank’s income base.
+
+**Fundamental value view:** The peer comparison indicates BMRI is **fairly valued**, not clearly undervalued:
+
+- **Valuation is moderate, not cheap:** PER 9.24 and PBV 1.50 are well below BBCA (17.42, 3.56) but close to BBRI (9.93, 1.64) and above BBNI (8.04, 0.95). This positions BMRI in the middle of the pack rather than at a bargain level.
+- **Profitability is solid but not best‑in‑class:** ROE 16.41% and ROA 2.01% align with BBRI’s profile, lag BBCA’s stronger returns, and exceed BBNI. That supports a quality franchise, but not a premium‑priced one.
+- **Balance‑sheet leverage is typical for banks:** DER 6.30 is in line with BBNI and higher than BBRI and BBCA, reflecting standard banking leverage rather than excess risk.
+- **Margins are healthy but not exceptional:** NPM 35.23% is better than BBRI and BBNI, yet far below BBCA’s very high margin.
+
+**Conclusion:** BMRI appears **fairly valued** versus peers. A case for “undervalued” would require intrinsic value work or catalysts beyond these metrics.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(tidyverse)
+
+file_path <- "../../data/histories/BMRI_JK_daily_2022_to_20260205.csv"
+
+df <- read_csv(file_path, show_col_types = FALSE) %>%
+    mutate(date = as.Date(date))
+
+ex_df <- df %>%
+    filter(!is.na(dividend), dividend > 0) %>%
+    arrange(date)
+
+compute_decline <- function(n_days) {
+    ex_df %>%
+        mutate(
+            ex_close = close,
+            next_window = map(date, ~ df %>% filter(date > .x) %>% slice_head(n = n_days)),
+            min_close = map_dbl(next_window, ~ min(.x$close, na.rm = TRUE)),
+            min_date = map_chr(next_window, ~ as.character(.x$date[which.min(.x$close)])),
+            decline_pct = (min_close - ex_close) / ex_close * 100
+        ) %>%
+        select(ex_date = date, dividend, ex_close, min_close, min_date, decline_pct)
+}
+
+compute_runup <- function(n_days) {
+    ex_df %>%
+        mutate(
+            ex_close = close,
+            prior_window = map(date, ~ df %>% filter(date < .x) %>% slice_tail(n = n_days)),
+            min_close = map_dbl(prior_window, ~ min(.x$close, na.rm = TRUE)),
+            min_date = map_chr(prior_window, ~ as.character(.x$date[which.min(.x$close)])),
+            runup_pct = (ex_close - min_close) / min_close * 100
+        ) %>%
+        select(ex_date = date, dividend, ex_close, min_close, min_date, runup_pct)
+}
+
+next_60 <- compute_decline(60)
+prior_30 <- compute_runup(30)
+```
+
+## Maximum run‑up in prior 30 trading days
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+prior_30 %>%
+    arrange(ex_date) %>%
+    mutate(
+        ex_date = format(ex_date, "%d %b. %Y"),
+        dividend = scales::comma(dividend, accuracy = 0.01),
+        ex_close = scales::comma(ex_close, accuracy = 1),
+        runup_pct = paste0(round(runup_pct, 2), "%")
+    ) %>%
+    select(
+        `Ex‑dividend date` = ex_date,
+        `Dividend (Rp)` = dividend,
+        `Ex‑close price (Rp)` = ex_close,
+        `Maximum run‑up` = runup_pct
+    ) %>%
+    knitr::kable(caption = "Pre ex‑date run‑up (prior 30 trading days)", align = "rrrr")
+```
+
+## Dividend yield versus drawdown (60 trading days)
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+comparison <- next_60 %>%
+    select(ex_date, dividend, ex_close, decline_60d = decline_pct) %>%
+    mutate(
+        dividend_yield = (dividend / ex_close) * 100
+    ) %>%
+    arrange(ex_date) %>%
+    mutate(
+        ex_date = format(ex_date, "%d %b. %Y"),
+        dividend_yield = paste0(round(dividend_yield, 2), "%"),
+        decline_60d = paste0(round(decline_60d, 2), "%")
+    ) %>%
+    select(
+        `Ex‑dividend date` = ex_date,
+        `Dividend yield` = dividend_yield,
+        `Worst 60D decline` = decline_60d
+    )
+
+knitr::kable(
+    comparison,
+    caption = "Dividend yield versus worst 60‑day drawdown",
+    align = "rrr"
+)
+```
+
+## Interpretation
+
+- **Pre ex‑date run‑up:** The run‑up table shows price strength in the 30 trading days before ex‑date, with gains ranging from approximately 1.2% to 7.7%. These run‑ups are generally modest and suggest limited pre‑dividend speculation. The most recent run‑up (7.71%) is the strongest observed, but this still represents a relatively small advance compared to typical holding‑period targets.
+
+- **Dividend yield vs. drawdown:** The comparison table reveals that dividend yields range from roughly 1.7% to 4.3% across the observed ex‑dates, while the worst 60‑day post ex‑date declines span from –1.0% to –18.4%. Critically, there is no consistent relationship between higher dividend yield and smaller drawdown. In several cases, higher yields coincide with larger subsequent declines, indicating that yield alone does not protect against post ex‑date weakness. This pattern reinforces that dividend capture strategies must account for broader market conditions and price momentum, not just yield magnitude.
+
+- **A specific case:** For a position showing a 15% unrealized gain, the data suggests that taking profits is often preferable to waiting for the dividend. The dividend yield typically represents only 2–4% of the position value, while the 60‑day post ex‑date drawdown risk can exceed 10% in weak market environments. Although the pre‑dividend run‑up may add a few percentage points, it rarely compensates for the tail‑risk drawdown scenario. Investors holding a substantial gain should weigh the modest incremental yield against the possibility of relinquishing a meaningful portion of the existing profit.
+
+## Disclaimer
+
+- **Sources:** Yahoo Finance daily data for BMRI.JK (with dividend amounts merged); IDX Stock Summary (4 Feb 2026) for price momentum; IDX Stock Screener (29 Jan 2026) for fundamental indicators.
+- Report generated on 5 Feb. 2026.
+- This report is for informational purposes only and does not constitute investment advice.

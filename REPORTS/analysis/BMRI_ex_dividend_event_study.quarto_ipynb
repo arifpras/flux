@@ -1,0 +1,241 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"BMRI Ex‑Dividend Event Study (2022–2026)\"\n",
+        "format:\n",
+        "  pdf:\n",
+        "    toc: true\n",
+        "    number-sections: true\n",
+        "date: \"2026-02-05\"\n",
+        "---\n",
+        "\n",
+        "\n",
+        "## Summary\n",
+        "\n",
+        "This report examines BMRI’s price behavior around ex‑dividend dates using daily data from 2022 through early 2026. It focuses on:\n",
+        "\n",
+        "- **Post ex‑date declines**: worst drawdown over the next 30, 60, and 90 trading days.\n",
+        "- **Pre ex‑date run‑up**: maximum increase in the prior 30 trading days.\n",
+        "\n",
+        "The results are descriptive and do not constitute investment advice.\n",
+        "\n",
+        "## Data\n",
+        "\n",
+        "Source: Yahoo Finance daily data for **BMRI.JK**, with dividend amounts merged into the daily price series.\n"
+      ],
+      "id": "0a9ecbc2"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| echo: false\n",
+        "#| warning: false\n",
+        "import pandas as pd\n",
+        "import seaborn as sns\n",
+        "import matplotlib.pyplot as plt\n",
+        "\n",
+        "file_path = \"../../data/histories/BMRI_JK_daily_2022_to_20260205.csv\"\n",
+        "\n",
+        "df = pd.read_csv(file_path)\n",
+        "df[\"date\"] = pd.to_datetime(df[\"date\"])\n",
+        "\n",
+        "ex_df = df[df[\"dividend\"].fillna(0) > 0].copy().sort_values(\"date\")\n",
+        "\n",
+        "\n",
+        "def compute_decline(n_days: int) -> pd.DataFrame:\n",
+        "    rows = []\n",
+        "    for _, row in ex_df.iterrows():\n",
+        "        ex_date = row[\"date\"]\n",
+        "        ex_close = row[\"close\"]\n",
+        "        after = df[df[\"date\"] > ex_date].head(n_days)\n",
+        "        if after.empty:\n",
+        "            continue\n",
+        "        min_close = after[\"close\"].min()\n",
+        "        min_date = after.loc[after[\"close\"].idxmin(), \"date\"]\n",
+        "        decline_pct = (min_close - ex_close) / ex_close * 100.0\n",
+        "        rows.append(\n",
+        "            {\n",
+        "                \"ex_date\": ex_date.date().isoformat(),\n",
+        "                \"dividend\": row[\"dividend\"],\n",
+        "                \"ex_close\": ex_close,\n",
+        "                \"min_close\": min_close,\n",
+        "                \"min_date\": min_date.date().isoformat(),\n",
+        "                \"decline_pct\": decline_pct,\n",
+        "            }\n",
+        "        )\n",
+        "    return pd.DataFrame(rows)\n",
+        "\n",
+        "\n",
+        "def compute_runup(n_days: int) -> pd.DataFrame:\n",
+        "    rows = []\n",
+        "    for _, row in ex_df.iterrows():\n",
+        "        ex_date = row[\"date\"]\n",
+        "        ex_close = row[\"close\"]\n",
+        "        before = df[df[\"date\"] < ex_date].tail(n_days)\n",
+        "        if before.empty:\n",
+        "            continue\n",
+        "        min_close = before[\"close\"].min()\n",
+        "        min_date = before.loc[before[\"close\"].idxmin(), \"date\"]\n",
+        "        runup_pct = (ex_close - min_close) / min_close * 100.0\n",
+        "        rows.append(\n",
+        "            {\n",
+        "                \"ex_date\": ex_date.date().isoformat(),\n",
+        "                \"dividend\": row[\"dividend\"],\n",
+        "                \"min_close\": min_close,\n",
+        "                \"min_date\": min_date.date().isoformat(),\n",
+        "                \"ex_close\": ex_close,\n",
+        "                \"runup_pct\": runup_pct,\n",
+        "            }\n",
+        "        )\n",
+        "    return pd.DataFrame(rows)\n",
+        "\n",
+        "\n",
+        "next_30 = compute_decline(30)\n",
+        "next_60 = compute_decline(60)\n",
+        "next_90 = compute_decline(90)\n",
+        "prior_30 = compute_runup(30)"
+      ],
+      "id": "91c3e323",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Findings\n",
+        "\n",
+        "### Worst declines after ex‑date\n"
+      ],
+      "id": "608e48fa"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| echo: false\n",
+        "#| warning: false\n",
+        "summary_declines = pd.concat(\n",
+        "    [\n",
+        "        next_30.assign(window=\"Next 30 trading days\"),\n",
+        "        next_60.assign(window=\"Next 60 trading days\"),\n",
+        "        next_90.assign(window=\"Next 90 trading days\"),\n",
+        "    ],\n",
+        "    ignore_index=True,\n",
+        ")\n",
+        "\n",
+        "summary_declines[\"decline_pct\"] = summary_declines[\"decline_pct\"].round(2)\n",
+        "summary_declines = summary_declines[\n",
+        "    [\"window\", \"ex_date\", \"dividend\", \"ex_close\", \"min_date\", \"min_close\", \"decline_pct\"]\n",
+        "].sort_values([\"window\", \"ex_date\"])\n",
+        "\n",
+        "summary_declines"
+      ],
+      "id": "8a36d19f",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "### Maximum run‑up in prior 30 trading days\n"
+      ],
+      "id": "489001d2"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| echo: false\n",
+        "#| warning: false\n",
+        "prior_30_table = prior_30.copy()\n",
+        "prior_30_table[\"runup_pct\"] = prior_30_table[\"runup_pct\"].round(2)\n",
+        "prior_30_table = prior_30_table[\n",
+        "    [\"ex_date\", \"dividend\", \"min_date\", \"min_close\", \"ex_close\", \"runup_pct\"]\n",
+        "]\n",
+        "\n",
+        "prior_30_table"
+      ],
+      "id": "bd0eb9ca",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Chart (ggplot style)\n",
+        "\n",
+        "The chart below compares the **post ex‑date worst declines** across 30/60/90 trading‑day windows.\n"
+      ],
+      "id": "fd938ed4"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "message": false
+      },
+      "source": [
+        "#| echo: false\n",
+        "#| warning: false\n",
+        "plot_df = pd.concat(\n",
+        "    [\n",
+        "        next_30.assign(window=\"30D\"),\n",
+        "        next_60.assign(window=\"60D\"),\n",
+        "        next_90.assign(window=\"90D\"),\n",
+        "    ],\n",
+        "    ignore_index=True,\n",
+        ")\n",
+        "plot_df[\"ex_date\"] = pd.to_datetime(plot_df[\"ex_date\"])\n",
+        "\n",
+        "sns.set_theme(style=\"whitegrid\")\n",
+        "plt.figure(figsize=(7, 4))\n",
+        "sns.lineplot(data=plot_df, x=\"ex_date\", y=\"decline_pct\", hue=\"window\", marker=\"o\")\n",
+        "plt.axhline(0, linestyle=\"--\", color=\"gray\", linewidth=1)\n",
+        "plt.title(\"BMRI: Worst Decline After Ex‑Date\")\n",
+        "plt.xlabel(\"Ex‑Dividend Date\")\n",
+        "plt.ylabel(\"Worst decline from ex‑close (%)\")\n",
+        "plt.tight_layout()"
+      ],
+      "id": "af736ea1",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Plain‑English interpretation\n",
+        "\n",
+        "- Post ex‑date declines are **not uniform**; some years show mild dips, while others show larger drops (notably 2024).\n",
+        "- The **30‑day run‑up before ex‑date** exists but is modest on average, and does not necessarily offset post ex‑date drawdowns.\n",
+        "- The **worst declines** are sensitive to broader market conditions around the dividend period.\n",
+        "\n",
+        "If you want a sensitivity table (e.g., dividend yield vs. drawdown), I can extend this report."
+      ],
+      "id": "93662b0a"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/arifpras/.pyenv/versions/3.12.0/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
